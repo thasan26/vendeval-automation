@@ -1,0 +1,855 @@
+Record ID,Contract Number,Evaluation Type,Vendor Name,Vendor ID,Evaluator Email,Workflow Status,Period End Date,Last Modified,Quality Score,Timeliness Score,Safety Score,Compliance Score,Management Score
+ARC-700000,C 2024 10000,Interim,Riverside Consulting Corp.,V20258,owalker@mta-example.org,Approved,2025-02-09T00:00:00,2025-08-18T03:00:00,4.0,3.0,4.0,5.0,4.0
+ARC-700001,C 2023 10001,Final,Northeast Data Systems & Sons Inc.,V20207,lthompson@mta-example.org,Approved,2024-05-12T00:00:00,2024-08-07T23:00:00,4.0,4.0,4.0,4.0,5.0
+ARC-700002,C-2022-10002,Final,Cornerstone Data Systems Inc.  ,V20053,gali@mta-example.org,Approved,2024-07-31T00:00:00,2024-12-02T20:00:00,2.0,3.0,5.0,4.0,4.0
+ARC-700003,C 2023 10005,Interim,Statewide Rail Services Inc.  ,,awalker@mta-example.org,In Review,2024-06-18T00:00:00,2024-07-07T17:00:00,,,,,
+ARC-700004,C 2022 10006,Interim,Granite Construction Inc.,V20091,ymartinez@mta-example.org,Approved,2023-03-28T00:00:00,2023-09-25T02:00:00,3.0,3.0,5.0,3.0,4.0
+ARC-700005,C 2022 10006,Interim,GRANITE CONSTRUCTION INC.,V20091,ymartinez@mta-example.org,Approved,2024-03-28T00:00:00,2024-08-14T17:00:00,3.0,4.0,4.0,4.0,2.0
+ARC-700006,C 2023 10009,Final,Tri-State Contracting Associates,V20308,owalker@mta-example.org,Approved,2023-12-23T00:00:00,2024-03-13T03:00:00,4.0,5.0,4.0,4.0,4.0
+ARC-700007,C-2022-10010,Final,Allied Engineering Corp,,lrodriguez@mta-example.org,Pending Approval,2023-01-20T00:00:00,2023-04-23T19:00:00,3.0,4.0,3.0,3.0,2.0
+ARC-700008,C-2024-10011,Interim,Sterling Consulting Incorporated,V20286,MMURPHY@MTA-EXAMPLE.ORG,Approved,2025-08-13T00:00:00,2026-01-06T18:00:00,3.0,3.0,5.0,4.0,3.0
+ARC-700009,C-2023-10016,Final,Eastern Electric Associates,V20069,tbrown@mta-example.org,Approved,2025-07-06T00:00:00,2025-08-24T17:00:00,4.0,4.0,4.0,3.0,4.0
+ARC-700010,C 2022 10019,Interim,Ironline Rail Services LLC,V20149,ojohnson@mta-example.org,Approved,2023-07-19T00:00:00,2023-10-23T15:00:00,3.0,4.0,4.0,3.0,4.0
+ARC-700011,C-2024-10022,Final,Interboro Engineering LLC,V20135,gali@mta-example.org,Approved,2025-07-05T00:00:00,2025-10-23T20:00:00,5.0,4.0,5.0,4.0,4.0
+ARC-700012,C 2023 10026,Final,Queensboro Electric Incorporated,V20251,swilliams@mta-example.org,Approved,2024-06-11T00:00:00,2024-11-12T20:00:00,3.0,3.0,3.0,3.0,2.0
+ARC-700013,C 2024 10027,Interim,Queensboro Signal Systems,,kgreene@mta-example.org,Approved,2025-10-05T00:00:00,2026-02-20T23:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700014,C 2022 10028,Final,Union Environmental Ltd,V20320,epark@mta-example.org,Approved,2023-09-01T00:00:00,2023-11-26T18:00:00,3.0,4.0,3.0,4.0,3.0
+ARC-700015,C-2022-10029,Final,SUMMIT CONSULTING ASSOCIATES,V20298,lrodriguez@mta-example.org,Approved,2022-12-18T00:00:00,2023-05-04T22:00:00,5.0,5.0,5.0,5.0,4.0
+ARC-700016,C-2023-10033,Final,Northeast Mechanical Co,V20212,ENGUYEN@MTA-EXAMPLE.ORG,Approved,2023-12-13T00:00:00,2024-02-02T21:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700017,C-2022-10038,Final,The Lexington Data Systems Incorporated,,phussain@mta-example.org,Approved,2023-08-17T00:00:00,2024-01-13T21:00:00,2.0,3.0,4.0,3.0,4.0
+ARC-700018,C-2022-10039,Interim,NORTHEAST INFRASTRUCTURE CORP.,,rhaddad@mta-example.org,Approved,2024-01-16T00:00:00,2024-07-10T00:00:00,4.0,2.0,3.0,4.0,4.0
+ARC-700019,C-2022-10040,Interim,Pinnacle Consulting Co.,V20240,rsantos@mta-example.org,Approved,2023-07-23T00:00:00,2024-01-01T00:00:00,4.0,3.0,3.0,4.0,2.0
+ARC-700020,C 2022 10040,Interim,Pinnacle Consulting Co.  ,,rsantos@mta-example.org,Approved,2024-07-23T00:00:00,2024-11-16T01:00:00,1.0,2.0,2.0,1.0,2.0
+ARC-700021,C 2022 10040,Final,Pinnacle Consulting Co,V20240,RSANTOS@MTA-EXAMPLE.ORG,Approved,2025-07-21T00:00:00,2026-01-13T00:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700022,C-2023-10042,Interim,GRANITE RAIL SERVICES & SONS INC.,,awalker@mta-example.org,Approved,2025-09-14T00:00:00,2026-02-16T07:00:00,4.0,3.0,4.0,5.0,5.0
+ARC-700023,C-2023-10042,Interim,Granite Rail Services & Sons,V20097,awalker@mta-example.org,In Review,2026-09-14T00:00:00,2026-10-07T00:00:00,,,,,
+ARC-700024,C-2023-10043,Interim,Beacon Buliders & Sons Inc.,V20022,mchen@mta-example.org,Approved,2025-04-08T00:00:00,2025-07-28T15:00:00,5.0,5.0,4.0,4.0,4.0
+ARC-700025,C 2023 10044,Final,Horizon Rail Services Ltd,V20119,gali@mta-example.org,Approved,2024-05-20T00:00:00,2024-11-08T21:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700026,C-2024-10045,Interim,Lexington Tarck Works Ltd.  ,V20175,TRAHMAN@MTA-EXAMPLE.ORG,Pending Approval,2025-02-28T00:00:00,2025-06-27T20:00:00,3.0,3.0,3.0,4.0,3.0
+ARC-700027,C-2022-10049,Final,Cornerstone Mechanical Inc.,V20057,CDIAZ@MTA-EXAMPLE.ORG,Approved,2023-01-14T00:00:00,2023-05-17T02:00:00,3.0,3.0,4.0,4.0,4.0
+ARC-700028,C-2022-10050,Final,PATRIOT CONTRACTING & SONS INC.,V20230,schen@mta-example.org,Pending Approval,2023-08-27T00:00:00,2023-12-14T17:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700029,C 2023 10051,Final,BRIDGEWAY MECHANICAL ASSOCIATES,,LTHOMPSON@MTA-EXAMPLE.ORG,Approved,2024-09-20T00:00:00,2025-03-05T20:00:00,3.0,4.0,3.0,3.0,4.0
+ARC-700030,C 2023 10052,Final,Allied Infrastructure Inc.  ,,fali@mta-example.org,Approved,2024-07-07T00:00:00,2024-11-26T02:00:00,4.0,4.0,4.0,5.0,4.0
+ARC-700031,C-2024-10057,Final,Summit Mechanical Co,,rcohen@mta-example.org,Approved,2025-01-26T00:00:00,2025-07-08T21:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700032,C 2023 10058,Interim,Sterling Electric & Sons Incorporated,V20289,swilliams@mta-example.org,Approved,2024-06-06T00:00:00,2024-11-21T20:00:00,4.0,5.0,4.0,5.0,4.0
+ARC-700033,C 2022 10059,Interim,Horizon Supply Associates,V20120,fali@mta-example.org,Approved,2023-06-09T00:00:00,2023-11-16T21:00:00,4.0,4.0,3.0,5.0,4.0
+ARC-700034,C-2023-10062,Final,STATEWIDE SIGNAL SYSTEMS LLC,V20279,frahman@mta-example.org,Approved,2024-12-11T00:00:00,2025-03-18T19:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700035,C-2024-10063,Interim,Liberty Buidlers Ltd.,,KGREENE@MTA-EXAMPLE.ORG,Pending Approval,2025-11-27T00:00:00,2026-01-18T16:00:00,2.0,2.0,2.0,2.0,3.0
+ARC-700036,C 2024 10065,Final,KEYSTONE CONSULTING LTD.,V20157,rhaddad@mta-example.org,Approved,2025-12-31T00:00:00,2026-05-11T06:00:00,5.0,5.0,5.0,4.0,5.0
+ARC-700037,C-2024-10066,Interim,Granite Contracting & Sons  ,,jsantos@mta-example.org,Approved,2025-05-18T00:00:00,2025-10-04T00:00:00,3.0,3.0,4.0,3.0,2.0
+ARC-700038,C 2023 10067,Interim,Beacon Consulting Group LLC  ,V20024,owalker@mta-example.org,In Review,2026-02-12T00:00:00,2026-05-21T11:00:00,,,,,
+ARC-700039,C-2024-10068,Final,Cornerstone Infrastructure Group LLC,V20056,adiaz@mta-example.org,In Review,2025-10-13T00:00:00,2025-12-03T11:00:00,,,,,
+ARC-700040,C 2022 10075,Final,Meridian Engineering Ltd.,V20198,cdiaz@mta-example.org,Approved,2023-04-15T00:00:00,2023-09-13T17:00:00,3.0,4.0,4.0,4.0,3.0
+ARC-700041,C 2023 10076,Final,Queensboro Infrastructure Group,V20253,epark@mta-example.org,Approved,2025-06-18T00:00:00,2025-09-28T13:00:00,5.0,4.0,4.0,4.0,5.0
+ARC-700042,C-2023-10077,Final,Meridian Contracting Co.  ,V20195,ppark@mta-example.org,Approved,2024-07-23T00:00:00,2024-10-28T23:00:00,3.0,3.0,4.0,4.0,4.0
+ARC-700043,C 2024 10079,Interim,Granite Rail Services & Sons Inc  ,V20097,lthompson@mta-example.org,Approved,2025-04-07T00:00:00,2025-06-23T17:00:00,4.0,4.0,4.0,4.0,5.0
+ARC-700044,C-2024-10079,Interim,The Granite Rail Services & Sons Inc.,V20097,LTHOMPSON@MTA-EXAMPLE.ORG,In Review,2026-04-07T00:00:00,2026-06-06T14:00:00,,,,,
+ARC-700045,C-2024-10083,Final,Statewide Track Works Group LLC,,lrodriguez@mta-example.org,Approved,2025-06-19T00:00:00,2025-11-26T03:00:00,3.0,2.0,2.0,3.0,3.0
+ARC-700046,C 2024 10084,Final,Bridgeway Infrastructure Corp.,V20037,fali@mta-example.org,Pending Approval,2025-08-03T00:00:00,2025-10-14T18:00:00,4.0,4.0,3.0,4.0,4.0
+ARC-700047,C 2024 10086,Interim,Lexington Technologies,V20173,kgreene@mta-example.org,Approved,2025-01-10T00:00:00,2025-07-05T23:00:00,3.0,2.0,2.0,3.0,3.0
+ARC-700048,C 2024 10086,Final,Lexington Technologies Incorporated  ,V20173,KGREENE@MTA-EXAMPLE.ORG,Approved,2026-01-08T00:00:00,2026-06-28T20:00:00,5.0,4.0,5.0,4.0,4.0
+ARC-700049,C-2022-10087,Final,Allied Consulting,V20002,gali@mta-example.org,Approved,2024-04-13T00:00:00,2024-06-21T19:00:00,4.0,3.0,5.0,5.0,3.0
+ARC-700050,C 2022 10089,Final,Queensboro Rail Services Ltd.,V20254,psantos@mta-example.org,Pending Approval,2023-01-01T00:00:00,2023-03-12T13:00:00,3.0,2.0,3.0,3.0,3.0
+ARC-700051,C 2022 10090,Interim,Cornerstone Contracting Group LLC,,epark@mta-example.org,Approved,2023-11-03T00:00:00,2024-03-30T01:00:00,2.0,3.0,2.0,3.0,3.0
+ARC-700052,C-2022-10090,Final,CORNERSTONE CONTRACTING GROUP LLC,V20051,EPARK@MTA-EXAMPLE.ORG,Approved,2024-05-03T00:00:00,2024-08-19T20:00:00,4.0,4.0,5.0,4.0,5.0
+ARC-700053,C 2024 10092,Interim,Keystone Infrastructure Inc,V20162,rpark@mta-example.org,Pending Approval,2025-01-18T00:00:00,2025-05-02T00:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700054,C-2023-10093,Final,Union Engineering Associates,V20318,FOKAFOR@MTA-EXAMPLE.ORG,Approved,2025-03-21T00:00:00,2025-09-04T13:00:00,4.0,4.0,3.0,4.0,3.0
+ARC-700055,C-2023-10096,Final,Liberty Construction,V20178,TBROWN@MTA-EXAMPLE.ORG,Approved,2024-08-23T00:00:00,2025-01-06T08:00:00,3.0,4.0,2.0,3.0,4.0
+ARC-700056,C-2022-10101,Interim,Keystone Construction & Sons Incorporated,V20154,lthompson@mta-example.org,Approved,2023-03-26T00:00:00,2023-06-15T22:00:00,4.0,3.0,4.0,4.0,4.0
+ARC-700057,C-2022-10101,Interim,Keystone Construction & Sons Inc.,V20154,lthompson@mta-example.org,Approved,2024-03-26T00:00:00,2024-07-17T16:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700058,C 2023 10104,Final,Union Rail Services Ltd.,V20324,RSANTOS@MTA-EXAMPLE.ORG,In Review,2023-12-03T00:00:00,2024-02-10T11:00:00,,,,,
+ARC-700059,C 2022 10105,Interim,Ironline Mechanical Corp.,,lrodriguez@mta-example.org,Approved,2023-07-02T00:00:00,2023-11-20T19:00:00,1.0,1.0,1.0,1.0,2.0
+ARC-700060,C-2022-10105,Final,Ironline Mechanical Corporation,V20148,LRODRIGUEZ@MTA-EXAMPLE.ORG,Approved,2023-12-31T00:00:00,2024-05-05T19:00:00,4.0,4.0,4.0,4.0,5.0
+ARC-700061,C-2024-10107,Final,Hudson Construction Associates,V20124,tbrown@mta-example.org,Approved,2024-09-21T00:00:00,2024-11-30T03:00:00,2.0,2.0,1.0,2.0,1.0
+ARC-700062,C 2023 10108,Interim,Paragon Construction Co.  ,V20217,lthompson@mta-example.org,Approved,2024-07-27T00:00:00,2025-01-13T16:00:00,4.0,5.0,4.0,5.0,5.0
+ARC-700063,C 2024 10110,Interim,Statewide Rail Services Co.,V20276,gali@mta-example.org,In Review,2025-02-21T00:00:00,2025-05-18T09:00:00,,,,,
+ARC-700064,C 2024 10110,Final,Statewide Rail Services,,GALI@MTA-EXAMPLE.ORG,Approved,2026-02-19T00:00:00,2026-08-14T04:00:00,4.0,5.0,4.0,4.0,3.0
+ARC-700065,C-2024-10112,Interim,RIVERSIDE CONSULTING CORP.,V20258,schen@mta-example.org,In Review,2025-12-22T00:00:00,2026-03-19T10:00:00,,,,,
+ARC-700066,C-2024-10114,Final,The Vanguard Rail Services,V20336,hmurphy@mta-example.org,Approved,2026-02-09T00:00:00,2026-06-28T22:00:00,2.0,4.0,3.0,2.0,3.0
+ARC-700067,C 2022 10116,Final,The BEACON BUILDERS CORP.,V20023,swilliams@mta-example.org,Approved,2022-12-18T00:00:00,2023-04-11T04:00:00,3.0,4.0,3.0,4.0,5.0
+ARC-700068,C 2024 10118,Final,RIVERSIDE ENVIRONMENTAL CO.,,adiaz@mta-example.org,In Review,2026-10-14T00:00:00,2026-09-26T00:00:00,,,,,
+ARC-700069,C-2022-10120,Interim,Cornerstone Infrastructure Corporation,V20055,HPATEL@MTA-EXAMPLE.ORG,Approved,2023-12-04T00:00:00,2024-03-12T16:00:00,2.0,3.0,4.0,4.0,4.0
+ARC-700070,C 2022 10120,Interim,CORNERSTONE INFRASTRUCTURE CORP.,V20055,hpatel@mta-example.org,Approved,2025-12-04T00:00:00,2026-05-10T17:00:00,1.0,1.0,3.0,2.0,1.0
+ARC-700071,C 2022 10121,Final,Queensboro Electric,,lrodriguez@mta-example.org,Approved,2023-09-28T00:00:00,2024-04-11T22:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700072,C-2023-10124,Interim,Allied Mechanical Group LLC  ,V20008,SCHEN@MTA-EXAMPLE.ORG,In Review,2024-12-25T00:00:00,2025-02-15T16:00:00,,,,,
+ARC-700073,C 2022 10125,Final,Harbor Infrastructure & Sons Incorporated,V20108,lthompson@mta-example.org,Pending Approval,2023-04-16T00:00:00,2023-07-07T19:00:00,3.0,4.0,3.0,2.0,2.0
+ARC-700074,C 2022 10126,Interim,Allied Supply Inc.,V20010,schen@mta-example.org,Approved,2023-06-26T00:00:00,2023-11-19T22:00:00,5.0,5.0,5.0,4.0,4.0
+ARC-700075,C-2022-10126,Interim,Allied Supply Inc.,,schen@mta-example.org,Approved,2024-06-26T00:00:00,2024-10-14T17:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700076,C 2022 10128,Interim,Paragon Builders Co.,V20215,swilliams@mta-example.org,Approved,2023-07-27T00:00:00,2023-10-26T16:00:00,3.0,3.0,3.0,4.0,2.0
+ARC-700077,C 2022 10128,Final,The Paragon Builders Co.  ,V20215,swilliams@mta-example.org,Approved,2024-07-25T00:00:00,2024-12-20T17:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700078,C-2023-10131,Final,MERIDIAN TECHNOLOGIES CO.,,cdiaz@mta-example.org,Approved,2024-11-06T00:00:00,2025-03-23T19:00:00,3.0,3.0,3.0,3.0,2.0
+ARC-700079,C 2024 10132,Final,Empire Supply  ,,rsantos@mta-example.org,Pending Approval,2025-07-30T00:00:00,2025-11-03T21:00:00,4.0,4.0,4.0,3.0,3.0
+ARC-700080,C-2024-10133,Final,Pinnacle Contracting Group LLC,V20242,ADIAZ@MTA-EXAMPLE.ORG,Pending Approval,2026-02-14T00:00:00,2026-06-09T12:00:00,4.0,3.0,4.0,4.0,4.0
+ARC-700081,C 2023 10134,Final,UNION ENGINEERING CORP.  ,V20319,phussain@mta-example.org,Pending Approval,2024-05-13T00:00:00,2024-10-24T20:00:00,4.0,3.0,4.0,4.0,5.0
+ARC-700082,C 2023 10140,Interim,Summit Engineering Associates,V20302,rhaddad@mta-example.org,Approved,2026-06-24T00:00:00,2026-10-21T00:00:00,4.0,3.0,3.0,4.0,4.0
+ARC-700083,C 2023 10141,Interim,The Interboro Signal Systems Inc.,V20139,fthompson@mta-example.org,Approved,2024-11-17T00:00:00,2025-04-15T01:00:00,3.0,4.0,3.0,5.0,4.0
+ARC-700084,C-2023-10143,Final,Riverside Consluting Corp.  ,,hmurphy@mta-example.org,Pending Approval,2023-09-03T00:00:00,2023-12-07T16:00:00,5.0,4.0,3.0,4.0,5.0
+ARC-700085,C 2024 10146,Final,Allied Supply Inc.,V20010,adiaz@mta-example.org,In Review,2025-12-16T00:00:00,2026-01-19T21:00:00,,,,,
+ARC-700086,C-2022-10149,Final,Paragon Contracting,V20218,gali@mta-example.org,Approved,2025-12-04T00:00:00,2026-03-07T23:00:00,4.0,3.0,4.0,3.0,3.0
+ARC-700087,C-2023-10152,Interim,Ironline Mechanical Corp.,V20148,ppark@mta-example.org,Approved,2024-10-06T00:00:00,2025-01-13T23:00:00,4.0,3.0,3.0,2.0,4.0
+ARC-700088,C-2023-10152,Interim,Ironline Mechanical Corp.,,ppark@mta-example.org,In Review,2025-10-06T00:00:00,2026-01-13T18:00:00,,,,,
+ARC-700089,C 2023 10153,Final,HORIZON TECHNOLOGIES INC.  ,V20122,mpark@mta-example.org,In Review,2025-11-30T00:00:00,2026-01-28T22:00:00,,,,,
+ARC-700090,C 2023 10157,Final,INTERBORO BUILDERS GROUP LLC,V20133,fthompson@mta-example.org,Approved,2024-01-13T00:00:00,2024-05-07T03:00:00,3.0,4.0,4.0,4.0,4.0
+ARC-700091,C-2022-10158,Final,Atlas Contracting Ltd.,,ppark@mta-example.org,Approved,2024-04-06T00:00:00,2024-07-17T21:00:00,3.0,4.0,3.0,2.0,3.0
+ARC-700092,C 2023 10160,Final,Allied Engineering LLC,,lthompson@mta-example.org,Approved,2024-08-29T00:00:00,2025-03-10T09:00:00,3.0,3.0,3.0,2.0,4.0
+ARC-700093,C-2022-10162,Interim,PARAGON CONSTRUCTION CO.  ,,lrodriguez@mta-example.org,In Review,2024-10-08T00:00:00,2025-01-29T16:00:00,,,,,
+ARC-700094,C-2024-10163,Interim,Liberty Supply & Sons,,adiaz@mta-example.org,Approved,2025-04-12T00:00:00,2025-08-17T20:00:00,3.0,2.0,4.0,3.0,3.0
+ARC-700095,C-2023-10165,Interim,Patriot Tarck Works Group LLC,V20238,owalker@mta-example.org,Approved,2024-06-13T00:00:00,2024-11-14T19:00:00,4.0,5.0,4.0,4.0,5.0
+ARC-700096,C 2023 10172,Final,Cornerstone Infrastructure Group LLC,V20056,fali@mta-example.org,Approved,2023-10-13T00:00:00,2024-04-24T05:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700097,C-2024-10173,Final,LEXINGTON TECHNOLOGIES INC.,V20173,swilliams@mta-example.org,Approved,2025-07-18T00:00:00,2025-10-14T05:00:00,4.0,4.0,3.0,3.0,4.0
+ARC-700098,C 2024 10174,Final,Keystone Construction,V20155,apatel@mta-example.org,Approved,2026-06-18T00:00:00,2026-10-07T00:00:00,5.0,5.0,3.0,4.0,4.0
+ARC-700099,C 2024 10176,Final,Crescent Data Systems Associates,V20062,ymartinez@mta-example.org,In Review,2024-10-25T00:00:00,2024-10-31T16:00:00,,,,,
+ARC-700100,C-2023-10178,Interim,Granite Contracting & Sons Inc,V20093,adiaz@mta-example.org,Approved,2024-09-24T00:00:00,2025-01-02T14:00:00,3.0,2.0,4.0,4.0,3.0
+ARC-700101,C 2023 10182,Final,Patriot Track Works Group,V20238,schen@mta-example.org,Approved,2023-10-31T00:00:00,2024-05-22T21:00:00,5.0,4.0,5.0,4.0,4.0
+ARC-700102,C-2022-10183,Final,Harbor Technolgoies Ltd.,,mpark@mta-example.org,Approved,2022-11-23T00:00:00,2023-03-03T00:00:00,1.0,2.0,2.0,2.0,2.0
+ARC-700103,C 2024 10184,Final,KEYSTONE ENGINEERING GROUP LLC,,FOKAFOR@MTA-EXAMPLE.ORG,Approved,2025-06-06T00:00:00,2025-08-23T20:00:00,3.0,3.0,2.0,4.0,3.0
+ARC-700104,C 2024 10187,Final,Union Infrastructure Co.,V20321,hpatel@mta-example.org,In Review,2025-09-29T00:00:00,2026-01-16T20:00:00,,,,,
+ARC-700105,C-2023-10188,Interim,The Atlas Singal Systems Associates,V20019,tbrown@mta-example.org,Approved,2025-11-04T00:00:00,2026-02-02T06:00:00,3.0,2.0,3.0,4.0,3.0
+ARC-700106,C 2024 10190,Interim,Riverside Environmental & Sons Incorporated,V20263,ojohnson@mta-example.org,Approved,2025-08-10T00:00:00,2025-11-14T03:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700107,C 2024 10191,Final,Union Electric Group LLC,V20317,PHUSSAIN@MTA-EXAMPLE.ORG,Approved,2024-09-28T00:00:00,2025-03-04T19:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700108,C 2024 10193,Final,Atlas Signal Systems Associates,,rsantos@mta-example.org,In Review,2026-10-16T00:00:00,2026-10-13T00:00:00,,,,,
+ARC-700109,C 2024 10197,Interim,PINNACLE INFRASTRUCTURE LLC,,rpark@mta-example.org,Approved,2025-01-15T00:00:00,2025-05-09T11:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700110,C 2024 10197,Interim,Pinnacle Infrastructure LLC,V20244,rpark@mta-example.org,In Review,2026-01-15T00:00:00,2026-03-07T16:00:00,,,,,
+ARC-700111,C 2022 10198,Final,PARAGON SIGNAL SYSTEMS & SONS INC.,V20227,ojohnson@mta-example.org,In Review,2023-08-20T00:00:00,2023-10-09T13:00:00,,,,,
+ARC-700112,C 2023 10199,Final,Horizon Builders & Sons Inc,,OJOHNSON@MTA-EXAMPLE.ORG,Approved,2023-08-12T00:00:00,2023-12-06T06:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700113,C-2022-10200,Interim,Vanguard Mechanical Associates,,awalker@mta-example.org,Pending Approval,2023-05-16T00:00:00,2023-10-03T17:00:00,3.0,2.0,2.0,2.0,4.0
+ARC-700114,C 2022 10200,Final,Vanguard Mechanical Associates,V20335,awalker@mta-example.org,Approved,2023-11-14T00:00:00,2024-03-22T01:00:00,4.0,4.0,3.0,4.0,3.0
+ARC-700115,C 2023 10202,Final,HUDSON RAIL SERVICES & SONS INC.,,mpark@mta-example.org,Approved,2024-03-28T00:00:00,2024-08-28T02:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700116,C-2023-10205,Interim,Harbor Contracting,,epark@mta-example.org,Approved,2024-11-21T00:00:00,2025-04-10T20:00:00,2.0,1.0,2.0,2.0,3.0
+ARC-700117,C-2023-10206,Final,The Granite Construction,V20092,lthompson@mta-example.org,Approved,2024-11-01T00:00:00,2025-01-16T16:00:00,5.0,4.0,4.0,4.0,5.0
+ARC-700118,C 2024 10207,Interim,Ironline Rail Services LLC,V20149,hpatel@mta-example.org,In Review,2026-09-06T00:00:00,2026-10-08T00:00:00,,,,,
+ARC-700119,C 2023 10209,Final,Statewide Engineering Group LLC,,fali@mta-example.org,Approved,2025-02-08T00:00:00,2025-08-27T20:00:00,3.0,3.0,4.0,2.0,3.0
+ARC-700120,C-2023-10210,Interim,Tri-State Track Works Corporation,V20312,mchen@mta-example.org,Approved,2024-03-05T00:00:00,2024-08-20T03:00:00,4.0,3.0,4.0,2.0,3.0
+ARC-700121,C-2023-10210,Final,Tri-State Track Works,V20312,mchen@mta-example.org,Approved,2024-09-02T00:00:00,2025-01-29T05:00:00,3.0,4.0,4.0,4.0,4.0
+ARC-700122,C 2024 10211,Final,The Ironline Contracting Corp.,,lthompson@mta-example.org,Approved,2025-01-25T00:00:00,2025-07-04T23:00:00,4.0,4.0,5.0,4.0,3.0
+ARC-700123,C 2023 10212,Interim,Ironline Track Works and Sons Inc.  ,V20152,mpark@mta-example.org,In Review,2025-02-12T00:00:00,2025-05-07T13:00:00,,,,,
+ARC-700124,C 2024 10213,Final,Empire Rail Services Group LLC,V20081,gali@mta-example.org,Approved,2025-12-12T00:00:00,2026-04-14T17:00:00,3.0,4.0,4.0,3.0,3.0
+ARC-700125,C 2024 10214,Interim,Paragon Technologies Incorporated,V20228,mmurphy@mta-example.org,Approved,2025-02-18T00:00:00,2025-07-20T02:00:00,5.0,4.0,4.0,5.0,5.0
+ARC-700126,C-2024-10214,Final,The Paragon Technologies Incorporated,V20228,mmurphy@mta-example.org,In Review,2026-02-16T00:00:00,2026-05-14T18:00:00,,,,,
+ARC-700127,C 2023 10215,Interim,STERLING BUILDERS & SONS INC.,V20282,tbrown@mta-example.org,Approved,2024-08-06T00:00:00,2024-11-13T17:00:00,1.0,2.0,1.0,2.0,2.0
+ARC-700128,C-2023-10215,Final,Sterling Builders and Sons Inc.  ,,tbrown@mta-example.org,Approved,2025-08-04T00:00:00,2026-01-21T19:00:00,2.0,3.0,3.0,3.0,3.0
+ARC-700129,C 2024 10216,Final,Allied Mechanical Group,V20008,enguyen@mta-example.org,Approved,2025-08-15T00:00:00,2025-11-09T00:00:00,3.0,5.0,3.0,5.0,4.0
+ARC-700130,C 2023 10219,Interim,Empire Rail Services Group LLC,V20081,OWALKER@MTA-EXAMPLE.ORG,Approved,2024-06-21T00:00:00,2024-12-25T23:00:00,4.0,3.0,3.0,2.0,3.0
+ARC-700131,C-2023-10219,Interim,Empire Rail Services Group LLC,V20081,owalker@mta-example.org,Approved,2026-06-21T00:00:00,2026-09-30T00:00:00,3.0,4.0,4.0,3.0,4.0
+ARC-700132,C-2022-10220,Final,Liberty Rail Services Corp.,,awalker@mta-example.org,In Review,2023-03-12T00:00:00,2023-05-11T21:00:00,,,,,
+ARC-700133,C 2023 10222,Final,Ironline Builders Ltd.,V20140,LRODRIGUEZ@MTA-EXAMPLE.ORG,Approved,2023-10-27T00:00:00,2024-03-23T03:00:00,5.0,3.0,3.0,4.0,4.0
+ARC-700134,C 2023 10223,Interim,Ironline Mechanical Corp,,rhaddad@mta-example.org,Approved,2025-10-27T00:00:00,2026-04-13T19:00:00,5.0,4.0,3.0,4.0,4.0
+ARC-700135,C-2023-10224,Interim,Patriot Mechanical Co.,,cdiaz@mta-example.org,Approved,2024-10-08T00:00:00,2024-12-21T21:00:00,4.0,4.0,3.0,3.0,4.0
+ARC-700136,C-2022-10227,Final,Vanguard Construction Group LLC,,RSANTOS@MTA-EXAMPLE.ORG,In Review,2026-06-30T00:00:00,2026-09-27T10:00:00,,,,,
+ARC-700137,C-2023-10233,Interim,Keystone Rail Services Associates,,rpark@mta-example.org,Approved,2024-03-17T00:00:00,2024-09-12T18:00:00,5.0,5.0,4.0,4.0,5.0
+ARC-700138,C-2024-10235,Final,Lexington Data Systems Inc.,V20168,lthompson@mta-example.org,Approved,2025-08-07T00:00:00,2025-12-18T18:00:00,3.0,4.0,5.0,4.0,4.0
+ARC-700139,C 2024 10236,Interim,Ironline Track Works Corp.,V20153,mmurphy@mta-example.org,Approved,2025-12-21T00:00:00,2026-03-26T18:00:00,3.0,4.0,2.0,5.0,4.0
+ARC-700140,C 2022 10237,Final,Hudson Environmental LLC,,adiaz@mta-example.org,Approved,2023-06-06T00:00:00,2023-09-25T01:00:00,3.0,3.0,4.0,4.0,4.0
+ARC-700141,C-2022-10241,Final,Harbor Mechanical Associates,V20109,lrodriguez@mta-example.org,Pending Approval,2023-10-23T00:00:00,2024-01-24T17:00:00,4.0,4.0,4.0,5.0,3.0
+ARC-700142,C 2023 10244,Final,Northeast Data Systems Corp.,V20208,LRODRIGUEZ@MTA-EXAMPLE.ORG,Approved,2025-06-03T00:00:00,2025-09-17T02:00:00,3.0,2.0,2.0,3.0,3.0
+ARC-700143,C 2023 10245,Interim,Crescent Data Systems Associates,V20062,RHADDAD@MTA-EXAMPLE.ORG,Approved,2024-02-06T00:00:00,2024-06-20T02:00:00,4.0,2.0,4.0,5.0,4.0
+ARC-700144,C-2023-10245,Interim,Crescent Data Systems Associates,V20062,rhaddad@mta-example.org,Approved,2025-02-06T00:00:00,2025-06-14T20:00:00,3.0,2.0,3.0,4.0,4.0
+ARC-700145,C-2022-10246,Interim,Bridgeway Infrastructure Corp.,,ppark@mta-example.org,Approved,2023-09-01T00:00:00,2023-12-23T00:00:00,4.0,3.0,5.0,3.0,3.0
+ARC-700146,C-2022-10247,Final,Riverside Environmental & Sons Incorporated,V20263,AWALKER@MTA-EXAMPLE.ORG,Approved,2024-08-08T00:00:00,2025-03-16T05:00:00,4.0,4.0,5.0,5.0,4.0
+ARC-700147,C 2023 10251,Interim,Riverside Consulting Group LLC,V20259,fokafor@mta-example.org,Approved,2025-05-03T00:00:00,2025-07-29T17:00:00,4.0,5.0,5.0,4.0,5.0
+ARC-700148,C-2023-10251,Final,Riverside Consulting Group LLC  ,V20259,fokafor@mta-example.org,Approved,2026-05-01T00:00:00,2026-09-07T19:00:00,4.0,3.0,4.0,4.0,3.0
+ARC-700149,C-2022-10252,Interim,Liberty Builders Ltd.  ,V20177,ojohnson@mta-example.org,In Review,2023-07-19T00:00:00,2023-08-28T19:00:00,,,,,
+ARC-700150,C-2022-10252,Final,Liberty Builders Ltd.,,OJOHNSON@MTA-EXAMPLE.ORG,Approved,2024-01-17T00:00:00,2024-05-04T20:00:00,3.0,2.0,3.0,4.0,3.0
+ARC-700151,C-2023-10254,Interim,Keystone Electric Corp.  ,V20159,ymartinez@mta-example.org,In Review,2024-07-16T00:00:00,2024-08-25T14:00:00,,,,,
+ARC-700152,C-2024-10255,Interim,PARAGON RAIL SERVICES CORP.,V20226,rcohen@mta-example.org,Approved,2025-09-22T00:00:00,2026-01-31T21:00:00,1.0,1.0,2.0,2.0,1.0
+ARC-700153,C 2024 10255,Final,The Paragon Rail Services Corp.,V20226,rcohen@mta-example.org,Approved,2026-03-23T00:00:00,2026-08-16T20:00:00,3.0,5.0,5.0,5.0,4.0
+ARC-700154,C 2022 10257,Interim,Paragon Electric Co.,V20220,jsantos@mta-example.org,In Review,2023-12-25T00:00:00,2024-02-14T18:00:00,,,,,
+ARC-700155,C-2022-10257,Final,Paragon Electric Co.,V20220,JSANTOS@MTA-EXAMPLE.ORG,Approved,2024-12-23T00:00:00,2025-04-24T16:00:00,5.0,5.0,4.0,4.0,4.0
+ARC-700156,C-2023-10258,Final,The IRONLINE TRACK WORKS CORP.,,rsantos@mta-example.org,Approved,2024-03-14T00:00:00,2024-07-18T23:00:00,4.0,3.0,3.0,3.0,2.0
+ARC-700157,C 2024 10260,Final,Liberty Rail Services LLC,,mpark@mta-example.org,Approved,2024-09-25T00:00:00,2024-12-19T23:00:00,3.0,2.0,2.0,2.0,2.0
+ARC-700158,C 2024 10261,Final,Queensboro Infrastructure Group LLC,V20253,mpark@mta-example.org,In Review,2025-10-27T00:00:00,2025-12-22T15:00:00,,,,,
+ARC-700159,C-2022-10262,Interim,HORIZON CONSTRUCTION CORP.,V20114,trahman@mta-example.org,Approved,2023-02-12T00:00:00,2023-06-30T00:00:00,3.0,4.0,4.0,5.0,4.0
+ARC-700160,C 2023 10263,Final,Continental Supply Group LLC,V20048,swilliams@mta-example.org,Approved,2023-08-19T00:00:00,2024-01-22T01:00:00,5.0,4.0,5.0,4.0,4.0
+ARC-700161,C-2024-10264,Final,BRIDGEWAY INFRASTRUCTURE CORP.,V20037,fthompson@mta-example.org,Approved,2025-09-05T00:00:00,2025-12-23T04:00:00,2.0,4.0,3.0,4.0,4.0
+ARC-700162,C-2022-10265,Interim,Riverside Track Works Associates,V20267,phussain@mta-example.org,Approved,2023-09-08T00:00:00,2024-01-14T03:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700163,C 2023 10268,Interim,ALLIED SUPPLY LLC,,adiaz@mta-example.org,Approved,2024-03-13T00:00:00,2024-06-23T00:00:00,4.0,4.0,3.0,4.0,2.0
+ARC-700164,C-2024-10272,Final,Empire Rail Services Group LLC,,mmurphy@mta-example.org,Approved,2024-12-23T00:00:00,2025-06-19T04:00:00,4.0,4.0,5.0,3.0,4.0
+ARC-700165,C 2022 10277,Final,Union Rail Services Ltd.,V20324,rhaddad@mta-example.org,Approved,2023-02-11T00:00:00,2023-07-31T16:00:00,5.0,5.0,4.0,5.0,5.0
+ARC-700166,C 2023 10278,Interim,Interboro Engineernig LLC,V20135,mmurphy@mta-example.org,Approved,2024-10-04T00:00:00,2024-12-06T19:00:00,3.0,5.0,3.0,4.0,4.0
+ARC-700167,C 2022 10279,Final,Vanguard Environmental Co,V20332,mchen@mta-example.org,Pending Approval,2023-12-31T00:00:00,2024-03-18T20:00:00,2.0,4.0,3.0,4.0,4.0
+ARC-700168,C 2023 10281,Final,Horizon Technologies & Sons Inc,V20121,apatel@mta-example.org,Approved,2024-05-30T00:00:00,2024-09-23T18:00:00,5.0,4.0,4.0,5.0,5.0
+ARC-700169,C-2022-10282,Final,Meridian Data Systems Group LLC,,adiaz@mta-example.org,In Review,2024-03-12T00:00:00,2024-04-18T19:00:00,,,,,
+ARC-700170,C-2023-10285,Interim,Meridian Engineering Associates,V20197,GALI@MTA-EXAMPLE.ORG,Pending Approval,2024-03-01T00:00:00,2024-05-14T00:00:00,4.0,3.0,4.0,5.0,3.0
+ARC-700171,C 2022 10286,Interim,Gotham Environmental Corp.,,enguyen@mta-example.org,Approved,2024-02-07T00:00:00,2024-07-23T01:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700172,C-2022-10286,Final,Gotham Environmental Corporation,V20087,enguyen@mta-example.org,Approved,2026-02-05T00:00:00,2026-07-25T22:00:00,4.0,4.0,3.0,5.0,4.0
+ARC-700173,C-2022-10287,Final,Statewide Environmental Ltd,V20274,swilliams@mta-example.org,In Review,2023-07-05T00:00:00,2023-10-18T22:00:00,,,,,
+ARC-700174,C 2024 10288,Final,Hudson Technologies Corp.,V20130,PHUSSAIN@MTA-EXAMPLE.ORG,Approved,2025-09-04T00:00:00,2026-03-01T05:00:00,2.0,3.0,3.0,2.0,2.0
+ARC-700175,C 2022 10289,Final,Sterling Data Systems Corp,,hpatel@mta-example.org,Approved,2023-07-04T00:00:00,2023-11-25T18:00:00,3.0,3.0,2.0,3.0,3.0
+ARC-700176,C 2023 10290,Final,Horizon Technologies Incorporated,V20122,mcohen@mta-example.org,Approved,2023-09-29T00:00:00,2024-02-10T03:00:00,5.0,4.0,3.0,4.0,4.0
+ARC-700177,C-2022-10291,Final,Summit Technologies Inc.,V20306,rcohen@mta-example.org,Approved,2024-05-31T00:00:00,2024-11-03T23:00:00,4.0,5.0,3.0,3.0,3.0
+ARC-700178,C 2023 10294,Interim,Keystone Data Systems & Sons Incorporated  ,V20158,tbrown@mta-example.org,Approved,2025-04-06T00:00:00,2025-10-19T19:00:00,2.0,3.0,4.0,3.0,4.0
+ARC-700179,C 2023 10295,Interim,Ironline Track Works & Sons Incorporated  ,V20152,ADIAZ@MTA-EXAMPLE.ORG,Approved,2024-12-19T00:00:00,2025-05-08T00:00:00,4.0,4.0,5.0,5.0,5.0
+ARC-700180,C 2023 10301,Interim,Empire Infrastructure Group LLC,V20078,TRAHMAN@MTA-EXAMPLE.ORG,Approved,2024-10-28T00:00:00,2024-12-12T15:00:00,4.0,4.0,4.0,5.0,5.0
+ARC-700181,C 2023 10303,Interim,Sterling Rail Services Co.,V20292,hmurphy@mta-example.org,Approved,2024-08-24T00:00:00,2025-01-28T01:00:00,5.0,4.0,4.0,4.0,5.0
+ARC-700182,C 2023 10305,Final,Union Construction Group LLC,V20313,lthompson@mta-example.org,Approved,2024-03-17T00:00:00,2024-06-29T21:00:00,4.0,4.0,3.0,4.0,4.0
+ARC-700183,C-2022-10306,Interim,Liberty Signal Systems Ltd,V20191,mchen@mta-example.org,Pending Approval,2023-12-28T00:00:00,2024-03-06T01:00:00,4.0,3.0,4.0,3.0,5.0
+ARC-700184,C-2022-10306,Interim,Liberty Signal Systems Ltd.,,mchen@mta-example.org,Pending Approval,2024-12-28T00:00:00,2025-04-05T16:00:00,3.0,4.0,3.0,4.0,2.0
+ARC-700185,C-2023-10309,Final,Paragon Contracting Co.,V20218,FTHOMPSON@MTA-EXAMPLE.ORG,Approved,2024-09-06T00:00:00,2024-11-22T11:00:00,3.0,3.0,4.0,3.0,3.0
+ARC-700186,C 2022 10311,Final,QUEENSBORO ELECTRIC INC.,,gali@mta-example.org,Approved,2024-04-05T00:00:00,2024-09-16T21:00:00,3.0,4.0,3.0,4.0,3.0
+ARC-700187,C 2023 10313,Final,Keystone Rail Services Associates,V20164,swilliams@mta-example.org,Approved,2024-11-11T00:00:00,2025-03-29T23:00:00,4.0,4.0,5.0,5.0,4.0
+ARC-700188,C-2024-10316,Interim,Keystone Engineering Co.,V20160,mpark@mta-example.org,In Review,2025-03-17T00:00:00,2025-05-19T20:00:00,,,,,
+ARC-700189,C 2022 10318,Final,LIBERTY TRACK WORKS ASSOCIATES,V20193,lrodriguez@mta-example.org,Approved,2022-12-11T00:00:00,2023-05-02T05:00:00,3.0,4.0,3.0,2.0,3.0
+ARC-700190,C 2022 10321,Interim,Beacon Environmental LLC,V20029,kgreene@mta-example.org,In Review,2023-09-07T00:00:00,2023-12-29T15:00:00,,,,,
+ARC-700191,C-2022-10322,Final,Atlas Environmental LLC,,phussain@mta-example.org,Approved,2024-02-16T00:00:00,2024-07-04T01:00:00,3.0,2.0,2.0,2.0,2.0
+ARC-700192,C 2023 10323,Interim,Riverside Data Systems Associates,V20261,enguyen@mta-example.org,Approved,2024-11-17T00:00:00,2025-04-23T20:00:00,5.0,4.0,3.0,5.0,4.0
+ARC-700193,C-2024-10324,Final,Union Mechanical Co.,V20323,lrodriguez@mta-example.org,Approved,2025-02-07T00:00:00,2025-07-24T08:00:00,4.0,5.0,5.0,3.0,4.0
+ARC-700194,C 2023 10326,Interim,Cornerstone Builders Associates,,mcohen@mta-example.org,Pending Approval,2025-04-28T00:00:00,2025-08-05T13:00:00,3.0,3.0,4.0,3.0,3.0
+ARC-700195,C-2024-10327,Interim,Tri-State Signal Systems Inc.,V20311,LTHOMPSON@MTA-EXAMPLE.ORG,Approved,2025-07-16T00:00:00,2025-11-16T19:00:00,4.0,5.0,4.0,5.0,4.0
+ARC-700196,C-2024-10329,Interim,GRANITE CONSTRUCTION & SONS INC.,,tbrown@mta-example.org,Approved,2025-02-07T00:00:00,2025-06-14T17:00:00,3.0,4.0,3.0,5.0,3.0
+ARC-700197,C-2022-10332,Interim,Queensboro Electric Inc.  ,V20251,gali@mta-example.org,In Review,2023-06-12T00:00:00,2023-10-13T17:00:00,,,,,
+ARC-700198,C-2024-10333,Interim,Bridgeway Infrastructure Corporation  ,V20037,jsantos@mta-example.org,Approved,2025-01-17T00:00:00,2025-05-28T01:00:00,4.0,5.0,4.0,5.0,5.0
+ARC-700199,C-2024-10334,Final,Atlas Electric & Sons Inc.,V20015,apatel@mta-example.org,Approved,2025-03-04T00:00:00,2025-07-24T18:00:00,4.0,5.0,4.0,4.0,5.0
+ARC-700200,C-2023-10335,Interim,The Riverside Environmental & Sons,V20263,MCHEN@MTA-EXAMPLE.ORG,Approved,2024-07-28T00:00:00,2024-12-27T17:00:00,3.0,3.0,3.0,2.0,2.0
+ARC-700201,C 2024 10337,Interim,Hudson Builders LLC,V20123,rpark@mta-example.org,Approved,2025-01-21T00:00:00,2025-03-04T18:00:00,2.0,4.0,2.0,3.0,3.0
+ARC-700202,C-2024-10337,Final,Hudson Builders LLC,,RPARK@MTA-EXAMPLE.ORG,Approved,2026-01-19T00:00:00,2026-07-14T16:00:00,4.0,3.0,5.0,4.0,3.0
+ARC-700203,C-2024-10339,Final,The Lexington Technologies LLC  ,,schen@mta-example.org,In Review,2025-04-07T00:00:00,2025-07-19T19:00:00,,,,,
+ARC-700204,C 2022 10340,Final,Vanguard Infrastructure Ltd.,V20334,fthompson@mta-example.org,Approved,2024-11-18T00:00:00,2025-02-28T20:00:00,1.0,1.0,3.0,3.0,3.0
+ARC-700205,C 2023 10345,Final,Horizon Construction Corp.,,frahman@mta-example.org,Approved,2025-05-06T00:00:00,2025-08-25T06:00:00,4.0,4.0,4.0,3.0,3.0
+ARC-700206,C 2022 10346,Final,Meridian Engineering Associates,V20197,PPARK@MTA-EXAMPLE.ORG,Approved,2023-08-03T00:00:00,2023-10-28T17:00:00,3.0,3.0,4.0,4.0,3.0
+ARC-700207,C-2023-10347,Interim,HUDSON CONSTRUCTION INC.  ,,hmurphy@mta-example.org,Approved,2024-05-20T00:00:00,2024-10-02T07:00:00,3.0,3.0,2.0,2.0,3.0
+ARC-700208,C-2022-10348,Interim,Empire Rail Services & Sons Incorporated,V20080,frahman@mta-example.org,Approved,2024-08-28T00:00:00,2025-01-01T09:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700209,C 2022 10350,Final,Liberty Engineering Group LLC,V20186,schen@mta-example.org,Approved,2024-12-12T00:00:00,2025-04-20T23:00:00,3.0,3.0,4.0,4.0,3.0
+ARC-700210,C 2022 10351,Interim,Union Construction Group LLC  ,V20313,ppark@mta-example.org,Approved,2024-08-02T00:00:00,2025-02-05T00:00:00,3.0,3.0,2.0,2.0,3.0
+ARC-700211,C-2023-10352,Final,Paragon Contracting Co.,,FTHOMPSON@MTA-EXAMPLE.ORG,Pending Approval,2024-05-13T00:00:00,2024-10-11T22:00:00,4.0,3.0,4.0,4.0,4.0
+ARC-700212,C 2024 10356,Final,Liberty Supply & Sons Incorporated,V20192,ppark@mta-example.org,In Review,2026-05-03T00:00:00,2026-06-12T11:00:00,,,,,
+ARC-700213,C 2022 10357,Final,Atlas Signal Systems Associates  ,V20019,hmurphy@mta-example.org,Approved,2023-10-14T00:00:00,2024-02-05T21:00:00,4.0,2.0,4.0,2.0,2.0
+ARC-700214,C-2024-10359,Final,Queensboro Contracting Group LLC,,mpark@mta-example.org,In Review,2024-11-12T00:00:00,2025-01-17T22:00:00,,,,,
+ARC-700215,C 2023 10362,Final,Northeast Contracting Associates,,owalker@mta-example.org,Approved,2024-12-12T00:00:00,2025-02-22T02:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700216,C 2023 10365,Final,Statewide Rail Services Company,V20276,mmurphy@mta-example.org,Approved,2024-12-07T00:00:00,2025-04-17T17:00:00,4.0,3.0,3.0,4.0,2.0
+ARC-700217,C-2023-10367,Interim,Empire Infrastructure Group LLC,,psantos@mta-example.org,In Review,2024-05-28T00:00:00,2024-07-12T14:00:00,,,,,
+ARC-700218,C 2023 10367,Final,Empire Infrastructure Group LLC,,psantos@mta-example.org,Approved,2024-05-29T00:00:00,2024-09-24T06:00:00,3.0,3.0,4.0,4.0,1.0
+ARC-700219,C 2022 10370,Final,Liberty Contracting Associates,V20180,schen@mta-example.org,Approved,2026-07-08T00:00:00,2026-09-12T05:00:00,4.0,4.0,4.0,4.0,5.0
+ARC-700220,C-2022-10373,Interim,Allied Track Works Group LLC,V20012,awalker@mta-example.org,Approved,2023-09-01T00:00:00,2023-12-26T02:00:00,4.0,3.0,3.0,3.0,4.0
+ARC-700221,C 2022 10373,Final,ALLIED TRACK WORKS GROUP LLC,V20012,AWALKER@MTA-EXAMPLE.ORG,Approved,2024-08-30T00:00:00,2025-01-17T05:00:00,5.0,4.0,4.0,4.0,4.0
+ARC-700222,C-2022-10374,Interim,LIBERTY BUILDERS LTD.,V20177,jsantos@mta-example.org,Approved,2024-12-20T00:00:00,2025-04-18T06:00:00,3.0,4.0,3.0,2.0,3.0
+ARC-700223,C-2023-10376,Interim,Liberty Contractnig LLC  ,V20181,swilliams@mta-example.org,Pending Approval,2024-02-10T00:00:00,2024-03-27T19:00:00,4.0,3.0,3.0,4.0,4.0
+ARC-700224,C 2023 10376,Final,Liberty Contracting LLC,V20181,swilliams@mta-example.org,Approved,2025-02-08T00:00:00,2025-04-25T20:00:00,4.0,4.0,5.0,3.0,3.0
+ARC-700225,C 2022 10377,Final,Cornerstone Infrastructure Group LLC,,hpatel@mta-example.org,Approved,2023-01-11T00:00:00,2023-04-14T06:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700226,C 2022 10378,Interim,Tri-State Infrastructure & Sons Incorporated,,FOKAFOR@MTA-EXAMPLE.ORG,Approved,2023-03-26T00:00:00,2023-07-08T18:00:00,4.0,4.0,4.0,3.0,4.0
+ARC-700227,C-2022-10380,Final,Statewide Engineering Group LLC,,rsantos@mta-example.org,Approved,2023-03-07T00:00:00,2023-06-21T22:00:00,5.0,5.0,5.0,5.0,4.0
+ARC-700228,C-2022-10381,Interim,Union Data Systems Co,V20315,rpark@mta-example.org,Approved,2023-03-12T00:00:00,2023-08-15T05:00:00,2.0,4.0,3.0,3.0,4.0
+ARC-700229,C 2024 10382,Final,LEXINGTON ELECTRIC LLC,,PHUSSAIN@MTA-EXAMPLE.ORG,Approved,2025-04-27T00:00:00,2025-09-29T19:00:00,4.0,5.0,4.0,5.0,5.0
+ARC-700230,C 2023 10384,Final,Gotham Contracting,V20086,owalker@mta-example.org,In Review,2026-10-20T00:00:00,2026-10-06T00:00:00,,,,,
+ARC-700231,C 2022 10385,Interim,Granite Construction & Sons Inc.,,trahman@mta-example.org,Approved,2023-07-28T00:00:00,2023-12-24T00:00:00,5.0,4.0,5.0,5.0,5.0
+ARC-700232,C-2024-10386,Interim,Eastern Electric Associates,V20069,awalker@mta-example.org,Approved,2025-05-21T00:00:00,2025-08-28T01:00:00,5.0,4.0,5.0,4.0,4.0
+ARC-700233,C 2024 10386,Final,Eastern Electric Associates,V20069,awalker@mta-example.org,Approved,2026-05-20T00:00:00,2026-09-25T00:00:00,4.0,3.0,4.0,4.0,4.0
+ARC-700234,C-2024-10387,Final,Summit Signal Systems Inc.,V20305,PPARK@MTA-EXAMPLE.ORG,Approved,2025-02-22T00:00:00,2025-05-14T02:00:00,3.0,3.0,4.0,3.0,3.0
+ARC-700235,C-2023-10389,Interim,The Horizon Engineering Group LLC,,EPARK@MTA-EXAMPLE.ORG,Approved,2024-05-15T00:00:00,2024-10-26T06:00:00,5.0,5.0,4.0,5.0,4.0
+ARC-700236,C-2022-10390,Final,BEACON ENVIRONMENTAL LLC,V20029,apatel@mta-example.org,Approved,2023-08-11T00:00:00,2024-02-08T02:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700237,C-2023-10393,Final,Union Electric Associates,V20316,mcohen@mta-example.org,Pending Approval,2023-09-16T00:00:00,2023-12-10T13:00:00,4.0,3.0,3.0,2.0,3.0
+ARC-700238,C-2023-10394,Final,Ironline Environmental LLC,V20145,ymartinez@mta-example.org,Approved,2024-06-15T00:00:00,2024-10-15T23:00:00,4.0,4.0,2.0,2.0,3.0
+ARC-700239,C-2024-10397,Interim,Ironline Environmental LLC,V20145,psantos@mta-example.org,In Review,2026-10-25T00:00:00,2026-09-30T00:00:00,,,,,
+ARC-700240,C 2024 10398,Final,Horizon Engineering LLC  ,,frahman@mta-example.org,Pending Approval,2025-12-29T00:00:00,2026-04-15T20:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700241,C-2023-10400,Interim,Beacon Conuslting Group LLC,V20024,rhaddad@mta-example.org,Approved,2024-10-20T00:00:00,2025-02-12T01:00:00,2.0,4.0,3.0,4.0,3.0
+ARC-700242,C 2023 10400,Final,BEACON CONSULTING GROUP LLC,,rhaddad@mta-example.org,Approved,2025-10-18T00:00:00,2026-01-30T03:00:00,4.0,3.0,3.0,4.0,4.0
+ARC-700243,C 2022 10403,Final,UNION RAIL SERVICES LTD.,V20324,owalker@mta-example.org,Approved,2024-01-02T00:00:00,2024-05-24T21:00:00,4.0,5.0,3.0,4.0,4.0
+ARC-700244,C-2022-10406,Final,Summit Consulting LLC,V20299,phussain@mta-example.org,Approved,2024-10-29T00:00:00,2025-03-31T19:00:00,5.0,5.0,4.0,4.0,4.0
+ARC-700245,C-2022-10407,Interim,Northeast Contracting Associates,V20206,frahman@mta-example.org,Approved,2023-11-23T00:00:00,2024-05-06T19:00:00,3.0,4.0,3.0,3.0,2.0
+ARC-700246,C-2024-10409,Interim,Sterling Data Systems Corp.  ,,FRAHMAN@MTA-EXAMPLE.ORG,In Review,2025-06-28T00:00:00,2025-09-16T20:00:00,,,,,
+ARC-700247,C-2024-10409,Interim,Sterling Data Systems Corp.,V20287,frahman@mta-example.org,In Review,2026-06-28T00:00:00,2026-09-08T17:00:00,,,,,
+ARC-700248,C-2024-10410,Final,Lexington Technologies,V20173,fthompson@mta-example.org,Approved,2025-11-24T00:00:00,2026-02-23T19:00:00,4.0,4.0,5.0,3.0,3.0
+ARC-700249,C-2024-10411,Interim,Meridian Technologies Co.  ,V20200,trahman@mta-example.org,In Review,2025-06-28T00:00:00,2025-08-23T12:00:00,,,,,
+ARC-700250,C 2023 10412,Interim,Union Data Systems Co.,V20315,lrodriguez@mta-example.org,Approved,2024-04-28T00:00:00,2024-09-24T23:00:00,2.0,4.0,3.0,2.0,4.0
+ARC-700251,C 2023 10412,Interim,Union Data Systems Co.,V20315,lrodriguez@mta-example.org,In Review,2026-04-28T00:00:00,2026-07-16T14:00:00,,,,,
+ARC-700252,C-2023-10414,Interim,Liberty Builders Corp.,V20176,ppark@mta-example.org,Approved,2024-11-10T00:00:00,2025-05-11T05:00:00,4.0,3.0,3.0,3.0,4.0
+ARC-700253,C 2022 10415,Final,Beacon Consulting Ltd.  ,V20025,TRAHMAN@MTA-EXAMPLE.ORG,Pending Approval,2025-12-25T00:00:00,2026-05-26T18:00:00,3.0,4.0,5.0,4.0,3.0
+ARC-700254,C-2022-10416,Final,Paragon Infrastructure Associates,V20223,rhaddad@mta-example.org,Approved,2023-06-24T00:00:00,2023-10-05T04:00:00,1.0,2.0,1.0,2.0,1.0
+ARC-700255,C-2024-10417,Interim,Summit Data Systems Corp,V20301,YMARTINEZ@MTA-EXAMPLE.ORG,Approved,2025-09-18T00:00:00,2026-01-24T02:00:00,3.0,3.0,3.0,2.0,3.0
+ARC-700256,C 2024 10417,Final,SUMMIT DATA SYSTEMS CORP.  ,V20301,ymartinez@mta-example.org,Approved,2026-03-19T00:00:00,2026-06-17T07:00:00,4.0,5.0,4.0,3.0,5.0
+ARC-700257,C 2024 10419,Interim,Northeast Environmental & Sons Inc.,V20210,adiaz@mta-example.org,Approved,2025-05-27T00:00:00,2025-09-20T04:00:00,5.0,5.0,3.0,4.0,4.0
+ARC-700258,C-2022-10421,Final,Statewide Rail Services Company,V20276,gali@mta-example.org,In Review,2023-07-23T00:00:00,2023-10-21T16:00:00,,,,,
+ARC-700259,C-2023-10422,Interim,Horizon Technologies Incorporated,,hmurphy@mta-example.org,Approved,2024-12-08T00:00:00,2025-03-31T19:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700260,C 2023 10423,Interim,Riverside Enigneering Inc.,V20262,swilliams@mta-example.org,Approved,2024-05-03T00:00:00,2024-09-13T20:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700261,C 2022 10424,Interim,CONTINENTAL ELECTRIC CO.,V20043,mcohen@mta-example.org,Approved,2024-08-02T00:00:00,2025-01-01T22:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700262,C-2022-10424,Interim,Continental Electric Co.,V20043,mcohen@mta-example.org,Approved,2025-08-02T00:00:00,2025-12-05T21:00:00,4.0,5.0,4.0,4.0,4.0
+ARC-700263,C 2024 10425,Interim,KEYSTONE CONSTRUCTION & SONS INC.,V20154,fali@mta-example.org,Pending Approval,2026-08-26T00:00:00,2026-10-01T00:00:00,5.0,4.0,4.0,3.0,5.0
+ARC-700264,C 2022 10427,Interim,Statewide Engineering Group LLC  ,,lthompson@mta-example.org,Approved,2023-06-25T00:00:00,2023-11-19T13:00:00,4.0,5.0,4.0,5.0,5.0
+ARC-700265,C 2023 10429,Interim,GRANITE RAIL SERVICES & SONS INC.,V20097,mpark@mta-example.org,Approved,2024-06-10T00:00:00,2024-08-24T23:00:00,4.0,3.0,3.0,4.0,2.0
+ARC-700266,C-2024-10431,Final,Horizon Builders Associates  ,,gali@mta-example.org,Pending Approval,2025-04-29T00:00:00,2025-10-02T19:00:00,3.0,1.0,3.0,3.0,2.0
+ARC-700267,C-2023-10432,Interim,TRI-STATE CONTRACTING ASSOCIATES,V20308,fali@mta-example.org,Approved,2024-05-18T00:00:00,2024-08-14T23:00:00,4.0,4.0,3.0,4.0,3.0
+ARC-700268,C 2022 10434,Final,Union Mechanical Co.,V20323,frahman@mta-example.org,Approved,2023-06-17T00:00:00,2023-09-12T19:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700269,C 2022 10437,Final,Liberty Electric Group LLC,V20184,ojohnson@mta-example.org,Approved,2024-03-16T00:00:00,2024-04-27T22:00:00,4.0,4.0,5.0,5.0,4.0
+ARC-700270,C 2023 10438,Final,Empire Rail Services and Sons Inc.,,mchen@mta-example.org,Approved,2025-05-01T00:00:00,2025-08-29T19:00:00,2.0,3.0,4.0,2.0,2.0
+ARC-700271,C-2022-10439,Interim,Summit Consulting Associates,V20298,rhaddad@mta-example.org,In Review,2023-01-28T00:00:00,2023-04-11T17:00:00,,,,,
+ARC-700272,C 2022 10439,Interim,Summit Consulting Associates,V20298,rhaddad@mta-example.org,Approved,2025-01-28T00:00:00,2025-07-03T00:00:00,4.0,3.0,4.0,3.0,3.0
+ARC-700273,C-2022-10439,Final,Summit Consulting Associates,V20298,rhaddad@mta-example.org,In Review,2026-01-27T00:00:00,2026-04-15T19:00:00,,,,,
+ARC-700274,C 2022 10440,Final,Eastern Electric Associates  ,V20069,schen@mta-example.org,Approved,2022-08-11T00:00:00,2023-01-23T04:00:00,4.0,3.0,2.0,4.0,4.0
+ARC-700275,C-2024-10442,Interim,Statewide Data Systems Associates,V20270,HMURPHY@MTA-EXAMPLE.ORG,Approved,2025-07-27T00:00:00,2025-11-26T19:00:00,3.0,3.0,3.0,4.0,4.0
+ARC-700276,C-2022-10445,Final,Horizon Technologies Inc.,V20122,lrodriguez@mta-example.org,Approved,2023-09-27T00:00:00,2024-04-02T00:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700277,C 2022 10446,Interim,The Queensboro Engineering Group LLC,V20252,cdiaz@mta-example.org,Approved,2024-12-03T00:00:00,2025-05-04T23:00:00,5.0,4.0,4.0,4.0,4.0
+ARC-700278,C 2024 10450,Interim,Northeast Data Systems Corp.,V20208,rcohen@mta-example.org,Approved,2026-04-13T00:00:00,2026-07-07T04:00:00,2.0,3.0,2.0,2.0,3.0
+ARC-700279,C 2023 10451,Final,Paragon Technologies Inc.,,tbrown@mta-example.org,Approved,2023-07-16T00:00:00,2023-12-28T18:00:00,4.0,4.0,5.0,5.0,3.0
+ARC-700280,C 2022 10456,Final,Keystone Mcehanical Inc.  ,V20163,adiaz@mta-example.org,Approved,2023-12-20T00:00:00,2024-04-02T20:00:00,4.0,3.0,4.0,3.0,3.0
+ARC-700281,C 2023 10457,Interim,Ironline Supply LLC  ,V20150,GALI@MTA-EXAMPLE.ORG,Approved,2024-12-22T00:00:00,2025-05-18T03:00:00,5.0,5.0,5.0,5.0,4.0
+ARC-700282,C-2022-10458,Final,Continental Track Works Ltd.,V20049,fali@mta-example.org,In Review,2025-02-17T00:00:00,2025-05-24T18:00:00,,,,,
+ARC-700283,C-2022-10460,Final,Ironline Track Works & Sons Inc.,V20152,lrodriguez@mta-example.org,Approved,2022-10-09T00:00:00,2023-03-19T02:00:00,4.0,3.0,4.0,3.0,4.0
+ARC-700284,C 2024 10461,Interim,Cornerstone Infrastructure Corp.,V20055,hmurphy@mta-example.org,Approved,2026-02-13T00:00:00,2026-06-11T05:00:00,3.0,3.0,4.0,3.0,4.0
+ARC-700285,C 2023 10462,Final,Allied Engineeirng LLC  ,V20005,owalker@mta-example.org,Pending Approval,2024-12-28T00:00:00,2025-02-25T15:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700286,C-2022-10463,Interim,Allied Mechanical Co.  ,V20007,RHADDAD@MTA-EXAMPLE.ORG,Approved,2023-02-24T00:00:00,2023-06-29T03:00:00,3.0,4.0,4.0,3.0,3.0
+ARC-700287,C-2022-10465,Final,Tri-State Elcetric & Sons Inc.,V20309,adiaz@mta-example.org,Pending Approval,2023-11-15T00:00:00,2024-03-21T15:00:00,3.0,3.0,4.0,4.0,4.0
+ARC-700288,C 2023 10466,Final,STERLING SUPPLY ASSOCIATES,V20294,fthompson@mta-example.org,Approved,2024-07-30T00:00:00,2024-12-18T05:00:00,2.0,2.0,4.0,3.0,3.0
+ARC-700289,C 2022 10469,Final,Cornerstone Contracting Group LLC,V20051,MPARK@MTA-EXAMPLE.ORG,Approved,2022-08-07T00:00:00,2022-12-29T17:00:00,4.0,3.0,3.0,4.0,3.0
+ARC-700290,C 2023 10471,Final,Liberty Contracting LLC  ,,psantos@mta-example.org,Pending Approval,2026-02-19T00:00:00,2026-07-10T17:00:00,5.0,5.0,4.0,3.0,5.0
+ARC-700291,C 2024 10472,Final,Horizon Engineering Associates,,schen@mta-example.org,Approved,2026-02-25T00:00:00,2026-06-08T09:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700292,C 2022 10474,Final,STATEWIDE RAIL SERVICES INC.,V20277,awalker@mta-example.org,Approved,2022-11-16T00:00:00,2023-04-14T06:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700293,C 2024 10475,Final,Union Mechanical Co.,V20323,phussain@mta-example.org,Approved,2025-04-02T00:00:00,2025-11-04T02:00:00,3.0,4.0,4.0,4.0,4.0
+ARC-700294,C-2023-10477,Interim,Keystone Consulting Ltd.,,CDIAZ@MTA-EXAMPLE.ORG,In Review,2024-10-04T00:00:00,2024-12-27T17:00:00,,,,,
+ARC-700295,C 2022 10478,Interim,Allied Signal Systems Group LLC,V20009,mchen@mta-example.org,Approved,2023-02-09T00:00:00,2023-07-08T06:00:00,5.0,5.0,4.0,3.0,4.0
+ARC-700296,C 2022 10478,Final,Allied Signal Systems Group LLC,V20009,mchen@mta-example.org,Approved,2024-02-08T00:00:00,2024-05-24T17:00:00,4.0,3.0,4.0,4.0,3.0
+ARC-700297,C-2023-10479,Interim,Continental Contracting Incorporated,V20041,awalker@mta-example.org,Approved,2024-09-23T00:00:00,2024-12-16T22:00:00,3.0,2.0,2.0,2.0,2.0
+ARC-700298,C-2024-10483,Final,VANGUARD TECHNOLOGIES GROUP LLC,V20338,schen@mta-example.org,Approved,2025-01-25T00:00:00,2025-05-25T22:00:00,4.0,3.0,4.0,4.0,4.0
+ARC-700299,C 2024 10486,Interim,Keystone Rail Services Associates,V20164,RSANTOS@MTA-EXAMPLE.ORG,Approved,2025-07-28T00:00:00,2025-11-19T07:00:00,4.0,3.0,4.0,5.0,5.0
+ARC-700300,C 2024 10487,Interim,Pinnacle Infrastructure LLC,V20244,mmurphy@mta-example.org,In Review,2025-11-03T00:00:00,2025-11-28T22:00:00,,,,,
+ARC-700301,C-2024-10488,Interim,Harbor Infrastructure & Sons,V20108,rpark@mta-example.org,Approved,2025-08-09T00:00:00,2025-10-27T23:00:00,4.0,4.0,4.0,5.0,3.0
+ARC-700302,C-2023-10489,Interim,Allied Construction LLC,V20001,APATEL@MTA-EXAMPLE.ORG,In Review,2025-04-16T00:00:00,2025-06-22T21:00:00,,,,,
+ARC-700303,C-2023-10489,Final,Allied Construction LLC,V20001,apatel@mta-example.org,Approved,2026-04-14T00:00:00,2026-08-03T22:00:00,4.0,4.0,4.0,2.0,4.0
+ARC-700304,C 2024 10491,Interim,Hudson Rail Services & Sons Inc.,V20128,ymartinez@mta-example.org,In Review,2026-08-01T00:00:00,2026-09-22T15:00:00,,,,,
+ARC-700305,C-2023-10492,Interim,Interboro Rail Services LLC,V20138,HPATEL@MTA-EXAMPLE.ORG,Approved,2025-04-18T00:00:00,2025-09-29T06:00:00,3.0,3.0,4.0,4.0,4.0
+ARC-700306,C 2024 10493,Final,Ironline Supply LLC  ,V20150,mmurphy@mta-example.org,Approved,2026-04-19T00:00:00,2026-08-20T00:00:00,3.0,3.0,4.0,3.0,2.0
+ARC-700307,C 2023 10499,Final,Paragon Contracting Co  ,,hpatel@mta-example.org,Approved,2024-08-05T00:00:00,2025-01-12T09:00:00,5.0,5.0,5.0,4.0,5.0
+ARC-700308,C-2023-10500,Final,Patriot Mechanical Group LLC,V20236,owalker@mta-example.org,In Review,2026-01-30T00:00:00,2026-04-03T19:00:00,,,,,
+ARC-700309,C-2023-10501,Interim,Union Electric Group LLC,V20317,phussain@mta-example.org,Approved,2024-09-04T00:00:00,2025-03-22T21:00:00,2.0,2.0,3.0,3.0,3.0
+ARC-700310,C 2023 10501,Interim,UNION ELECTRIC GROUP LLC,V20317,phussain@mta-example.org,Approved,2025-09-04T00:00:00,2025-12-14T22:00:00,4.0,3.0,4.0,3.0,4.0
+ARC-700311,C 2023 10504,Final,UNION MECHANICAL CO.,,phussain@mta-example.org,Approved,2024-01-25T00:00:00,2024-04-26T04:00:00,4.0,4.0,3.0,4.0,3.0
+ARC-700312,C 2023 10506,Final,VANGUARD MECHANICAL ASSOCIATES,V20335,fthompson@mta-example.org,Approved,2024-05-20T00:00:00,2024-08-14T03:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700313,C-2023-10510,Interim,Empire Builders Group LLC,V20072,PPARK@MTA-EXAMPLE.ORG,Approved,2024-06-10T00:00:00,2024-09-29T22:00:00,4.0,4.0,4.0,3.0,3.0
+ARC-700314,C 2022 10511,Final,The Liberty Electric,V20185,MPARK@MTA-EXAMPLE.ORG,Approved,2024-11-17T00:00:00,2025-04-17T21:00:00,4.0,5.0,5.0,5.0,5.0
+ARC-700315,C-2022-10512,Final,Harbor Data Systems Group LLC,V20104,mpark@mta-example.org,Approved,2024-01-23T00:00:00,2024-07-04T00:00:00,3.0,2.0,2.0,2.0,3.0
+ARC-700316,C-2022-10513,Interim,Cornerstone Builders Associates,,hpatel@mta-example.org,Approved,2023-06-28T00:00:00,2023-10-23T21:00:00,3.0,4.0,2.0,4.0,3.0
+ARC-700317,C-2022-10513,Final,CORNERSTONE BUILDERS ASSOCIATES,V20050,hpatel@mta-example.org,Approved,2025-06-26T00:00:00,2025-10-08T00:00:00,3.0,4.0,3.0,4.0,5.0
+ARC-700318,C 2022 10514,Final,Bridgeway Infrastructure,,GALI@MTA-EXAMPLE.ORG,Approved,2024-04-15T00:00:00,2024-08-18T05:00:00,4.0,3.0,5.0,5.0,5.0
+ARC-700319,C-2023-10515,Interim,Allied Track Works Group LLC,,HPATEL@MTA-EXAMPLE.ORG,In Review,2024-12-24T00:00:00,2025-03-30T19:00:00,,,,,
+ARC-700320,C 2024 10517,Final,Patriot Mechaincal Group LLC  ,,kgreene@mta-example.org,Approved,2024-12-01T00:00:00,2025-03-10T18:00:00,2.0,3.0,1.0,2.0,3.0
+ARC-700321,C 2022 10518,Final,IRONLINE TECHNOLOGIES LLC,V20151,mchen@mta-example.org,Approved,2023-03-07T00:00:00,2023-07-27T00:00:00,3.0,2.0,2.0,2.0,3.0
+ARC-700322,C 2023 10519,Final,Atlas Electric & Sons Inc.,,cdiaz@mta-example.org,Approved,2024-06-07T00:00:00,2024-08-01T05:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700323,C-2022-10520,Interim,NORTHEAST ENVIRONMENTAL & SONS INC.,,HMURPHY@MTA-EXAMPLE.ORG,Approved,2023-12-01T00:00:00,2024-05-28T20:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700324,C-2022-10520,Final,Northeast Environmental & Sons Inc  ,V20210,hmurphy@mta-example.org,Approved,2024-05-31T00:00:00,2024-12-26T14:00:00,3.0,3.0,5.0,3.0,3.0
+ARC-700325,C-2022-10521,Final,CONTINENTAL SUPPLY GROUP LLC,V20048,hpatel@mta-example.org,Approved,2023-07-05T00:00:00,2023-12-02T21:00:00,4.0,4.0,4.0,5.0,3.0
+ARC-700326,C-2023-10522,Final,Empire Infrastructure Group LLC  ,V20078,ymartinez@mta-example.org,In Review,2023-09-16T00:00:00,2023-12-04T15:00:00,,,,,
+ARC-700327,C 2022 10523,Final,Interboro Engineering,V20135,RHADDAD@MTA-EXAMPLE.ORG,Approved,2024-05-05T00:00:00,2024-09-30T15:00:00,5.0,4.0,4.0,5.0,3.0
+ARC-700328,C 2022 10524,Interim,Paragon Rail Services Corp.,V20226,rcohen@mta-example.org,Approved,2023-06-28T00:00:00,2023-09-20T00:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700329,C-2023-10525,Interim,Harbor Electric Co.  ,,awalker@mta-example.org,Approved,2025-05-19T00:00:00,2025-10-24T13:00:00,3.0,3.0,4.0,3.0,2.0
+ARC-700330,C 2022 10531,Interim,QUEENSBORO CONTRACTING GROUP LLC  ,,gali@mta-example.org,In Review,2023-04-18T00:00:00,2023-07-10T13:00:00,,,,,
+ARC-700331,C 2024 10532,Final,Harbor Signal Systems Co.,V20110,LTHOMPSON@MTA-EXAMPLE.ORG,Approved,2025-06-09T00:00:00,2025-10-23T02:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700332,C-2022-10533,Final,Summit Consulting Associates,,epark@mta-example.org,Approved,2024-02-15T00:00:00,2024-05-20T23:00:00,2.0,3.0,3.0,3.0,3.0
+ARC-700333,C-2022-10534,Final,HARBOR CONTRACTING CORP.,,adiaz@mta-example.org,Approved,2024-10-14T00:00:00,2025-03-24T18:00:00,1.0,2.0,2.0,2.0,2.0
+ARC-700334,C 2023 10535,Final,QUEENSBORO ENGINEERING GROUP LLC,,rpark@mta-example.org,Approved,2024-08-09T00:00:00,2024-11-22T00:00:00,4.0,2.0,3.0,3.0,4.0
+ARC-700335,C 2024 10536,Interim,Beacon Builders & Sons Incorporated,,owalker@mta-example.org,Approved,2025-01-19T00:00:00,2025-07-02T20:00:00,4.0,4.0,3.0,2.0,4.0
+ARC-700336,C-2024-10536,Final,Beacon Builders & Sons Inc.,V20022,owalker@mta-example.org,Approved,2026-01-17T00:00:00,2026-05-21T01:00:00,4.0,4.0,4.0,5.0,5.0
+ARC-700337,C-2022-10539,Interim,Paragon Rail Services Corp,,adiaz@mta-example.org,In Review,2023-09-23T00:00:00,2023-11-21T14:00:00,,,,,
+ARC-700338,C-2022-10539,Interim,PARAGON RAIL SERVICES CORP.,,adiaz@mta-example.org,Approved,2024-09-23T00:00:00,2025-01-01T19:00:00,4.0,4.0,3.0,3.0,3.0
+ARC-700339,C-2023-10540,Interim,Pinnacle Infrastructure Ltd.,,rcohen@mta-example.org,In Review,2024-05-10T00:00:00,2024-08-01T15:00:00,,,,,
+ARC-700340,C-2024-10541,Final,KEYSTONE ENGINEERING GROUP LLC,V20161,trahman@mta-example.org,In Review,2025-11-12T00:00:00,2025-12-18T16:00:00,,,,,
+ARC-700341,C 2024 10542,Interim,Vanguard Construction Ltd,V20330,PSANTOS@MTA-EXAMPLE.ORG,Approved,2025-11-19T00:00:00,2026-04-03T20:00:00,4.0,3.0,4.0,3.0,4.0
+ARC-700342,C-2023-10543,Final,Harbor Signal Systems  ,V20110,hpatel@mta-example.org,In Review,2026-04-14T00:00:00,2026-06-23T17:00:00,,,,,
+ARC-700343,C 2024 10545,Final,Paragon Electric Company,V20220,tbrown@mta-example.org,Approved,2025-06-06T00:00:00,2025-11-10T02:00:00,5.0,5.0,4.0,5.0,5.0
+ARC-700344,C 2024 10546,Final,Meridian Data Systems Group LLC,V20196,mpark@mta-example.org,Approved,2025-01-05T00:00:00,2025-03-22T20:00:00,5.0,5.0,5.0,3.0,5.0
+ARC-700345,C 2024 10547,Interim,Interboro Rail Services LLC,,psantos@mta-example.org,In Review,2025-06-25T00:00:00,2025-09-21T23:00:00,,,,,
+ARC-700346,C 2022 10549,Final,Vanguard Infrastructure,V20333,epark@mta-example.org,Approved,2023-05-30T00:00:00,2023-10-03T22:00:00,4.0,3.0,3.0,3.0,3.0
+ARC-700347,C 2022 10551,Final,Granite Contracting and Sons Inc.,V20093,fali@mta-example.org,Approved,2024-03-09T00:00:00,2024-08-21T23:00:00,3.0,3.0,2.0,3.0,2.0
+ARC-700348,C 2022 10552,Final,Lexington Track Works Ltd.  ,V20175,swilliams@mta-example.org,Approved,2023-06-23T00:00:00,2023-09-29T05:00:00,5.0,4.0,4.0,5.0,3.0
+ARC-700349,C 2022 10553,Interim,Granite Builders LLC,V20088,cdiaz@mta-example.org,Pending Approval,2023-05-05T00:00:00,2023-07-28T23:00:00,4.0,3.0,2.0,2.0,4.0
+ARC-700350,C 2022 10553,Interim,Granite Builders LLC,V20088,CDIAZ@MTA-EXAMPLE.ORG,Approved,2024-05-05T00:00:00,2024-07-23T19:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700351,C 2022 10557,Final,Union Supply Corp,V20327,ojohnson@mta-example.org,Approved,2024-08-26T00:00:00,2025-01-11T02:00:00,4.0,5.0,4.0,4.0,4.0
+ARC-700352,C-2023-10558,Interim,PINNACLE RAIL SERVICES & SONS INC.,V20246,KGREENE@MTA-EXAMPLE.ORG,Approved,2024-02-08T00:00:00,2024-05-30T23:00:00,4.0,4.0,4.0,5.0,4.0
+ARC-700353,C-2022-10559,Final,Pinnacle Engineering Inc.,V20243,jsantos@mta-example.org,Approved,2023-08-19T00:00:00,2024-01-05T20:00:00,3.0,4.0,3.0,3.0,4.0
+ARC-700354,C 2022 10562,Interim,Paragon Rail Services Corporation,V20226,apatel@mta-example.org,In Review,2023-01-23T00:00:00,2023-05-24T20:00:00,,,,,
+ARC-700355,C-2022-10562,Final,Paragon Rail Services Corp.  ,V20226,apatel@mta-example.org,In Review,2023-07-24T00:00:00,2023-10-05T18:00:00,,,,,
+ARC-700356,C-2023-10564,Final,Meridian Contracting & Sons Inc.,V20194,mcohen@mta-example.org,Approved,2023-12-09T00:00:00,2024-04-02T21:00:00,3.0,4.0,2.0,3.0,4.0
+ARC-700357,C 2024 10565,Interim,The Atlas Rail Services Inc  ,V20018,cdiaz@mta-example.org,Approved,2025-11-18T00:00:00,2026-03-28T23:00:00,5.0,5.0,4.0,5.0,5.0
+ARC-700358,C 2022 10566,Interim,LEXINGTON INFRASTRUCTURE GROUP LLC,V20172,schen@mta-example.org,Approved,2024-05-27T00:00:00,2024-12-03T00:00:00,3.0,4.0,3.0,4.0,3.0
+ARC-700359,C-2022-10568,Final,ATLAS INFRASTRUCTURE GROUP LLC,V20017,jsantos@mta-example.org,Approved,2025-04-02T00:00:00,2025-08-07T06:00:00,2.0,2.0,2.0,2.0,1.0
+ARC-700360,C-2024-10569,Final,Summit Contracting Corp.,V20300,hmurphy@mta-example.org,Approved,2025-12-04T00:00:00,2026-05-14T02:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700361,C 2022 10572,Final,Atlas Infrastructure Group LLC,V20017,mpark@mta-example.org,Approved,2023-06-15T00:00:00,2023-12-02T19:00:00,4.0,5.0,5.0,4.0,4.0
+ARC-700362,C 2023 10574,Final,TRI-STATE TRACK WORKS CORP.,V20312,mmurphy@mta-example.org,Approved,2024-09-05T00:00:00,2025-02-08T22:00:00,4.0,4.0,3.0,5.0,4.0
+ARC-700363,C 2024 10580,Interim,Patriot Mechnaical Co.,V20235,ppark@mta-example.org,Approved,2025-02-11T00:00:00,2025-05-30T03:00:00,5.0,5.0,3.0,5.0,3.0
+ARC-700364,C 2024 10581,Interim,BEACON ENVIRONMENTAL CO.  ,V20028,mmurphy@mta-example.org,Pending Approval,2025-11-08T00:00:00,2026-03-01T02:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700365,C 2024 10581,Final,Beacon Environmental Co,V20028,mmurphy@mta-example.org,Approved,2026-05-09T00:00:00,2026-08-13T01:00:00,4.0,5.0,4.0,4.0,3.0
+ARC-700366,C-2022-10584,Final,STATEWIDE SIGNAL SYSTEMS CORP.,V20278,phussain@mta-example.org,In Review,2022-07-28T00:00:00,2022-09-03T13:00:00,,,,,
+ARC-700367,C-2022-10589,Final,Meridian Engineering Ltd.,V20198,rsantos@mta-example.org,Approved,2023-10-27T00:00:00,2024-04-16T06:00:00,4.0,3.0,3.0,3.0,4.0
+ARC-700368,C 2023 10591,Interim,Hudson Builders LLC,,OJOHNSON@MTA-EXAMPLE.ORG,Approved,2025-10-26T00:00:00,2026-03-29T01:00:00,4.0,5.0,3.0,3.0,4.0
+ARC-700369,C 2022 10592,Final,Atlas Contracting Ltd.  ,V20013,EPARK@MTA-EXAMPLE.ORG,Approved,2025-07-24T00:00:00,2025-10-29T18:00:00,4.0,5.0,4.0,5.0,4.0
+ARC-700370,C-2023-10596,Final,Patriot Mechanical Group LLC  ,V20236,fthompson@mta-example.org,Approved,2025-03-18T00:00:00,2025-07-23T20:00:00,4.0,5.0,4.0,4.0,4.0
+ARC-700371,C 2023 10597,Final,PINNACLE INFRASTRUCTURE LLC,V20244,fali@mta-example.org,Approved,2024-03-30T00:00:00,2024-08-09T21:00:00,3.0,4.0,4.0,4.0,3.0
+ARC-700372,C 2022 10599,Interim,The Hudson Environmental LLC,V20127,enguyen@mta-example.org,Approved,2023-02-21T00:00:00,2023-06-12T04:00:00,5.0,5.0,5.0,5.0,4.0
+ARC-700373,C 2022 10599,Final,Hudson Environmental LLC,V20127,enguyen@mta-example.org,Approved,2024-02-20T00:00:00,2024-07-10T21:00:00,4.0,5.0,5.0,5.0,5.0
+ARC-700374,C-2024-10601,Interim,IRONLINE RAIL SERVICES LLC,,owalker@mta-example.org,Approved,2026-05-05T00:00:00,2026-09-23T04:00:00,4.0,4.0,4.0,3.0,3.0
+ARC-700375,C 2022 10602,Final,Statewide Environmental Ltd.,,RPARK@MTA-EXAMPLE.ORG,Approved,2023-10-25T00:00:00,2024-01-28T19:00:00,4.0,4.0,4.0,5.0,3.0
+ARC-700376,C 2022 10604,Final,KEYSTONE MECHANICAL INC.,,schen@mta-example.org,Approved,2023-01-12T00:00:00,2023-05-04T16:00:00,4.0,3.0,3.0,4.0,3.0
+ARC-700377,C 2022 10605,Final,Sterling Supply Incorporated,V20295,tbrown@mta-example.org,Approved,2024-04-30T00:00:00,2024-09-24T02:00:00,3.0,4.0,4.0,4.0,4.0
+ARC-700378,C 2024 10606,Final,Northeast Buliders Group LLC,V20203,mpark@mta-example.org,Approved,2025-11-04T00:00:00,2026-03-04T05:00:00,4.0,4.0,3.0,3.0,5.0
+ARC-700379,C-2022-10608,Final,The Summit Consulitng Associates,V20298,adiaz@mta-example.org,In Review,2022-09-22T00:00:00,2022-12-12T16:00:00,,,,,
+ARC-700380,C-2023-10609,Interim,Horizon Contracting Corp.,V20115,TRAHMAN@MTA-EXAMPLE.ORG,Approved,2024-12-13T00:00:00,2025-04-10T03:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700381,C-2022-10610,Final,INTERBORO RAIL SERVICES LLC,,kgreene@mta-example.org,Approved,2022-11-27T00:00:00,2023-06-21T22:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700382,C-2023-10611,Final,Sterling Data Systems Corp.,V20287,enguyen@mta-example.org,Approved,2024-06-16T00:00:00,2024-10-28T19:00:00,4.0,4.0,2.0,4.0,3.0
+ARC-700383,C 2022 10613,Final,Cornerstone Infrastructure Group LLC,,fali@mta-example.org,Approved,2024-05-27T00:00:00,2024-11-08T02:00:00,3.0,3.0,3.0,4.0,3.0
+ARC-700384,C 2023 10614,Final,VANGUARD CONSTRUCTION LTD.,V20330,tbrown@mta-example.org,Approved,2025-03-02T00:00:00,2025-08-03T03:00:00,4.0,5.0,3.0,5.0,3.0
+ARC-700385,C 2022 10615,Interim,Queensboro Track Works & Sons Inc.,V20256,PHUSSAIN@MTA-EXAMPLE.ORG,Approved,2023-04-21T00:00:00,2023-09-21T16:00:00,4.0,3.0,3.0,3.0,2.0
+ARC-700386,C 2022 10615,Interim,QUEENSBORO TRACK WORKS & SONS INC.,,phussain@mta-example.org,Approved,2024-04-21T00:00:00,2024-07-11T02:00:00,3.0,3.0,5.0,3.0,4.0
+ARC-700387,C 2022 10615,Final,Queensboro Track Works & Sons Incorporated,V20256,phussain@mta-example.org,Approved,2025-04-19T00:00:00,2025-08-19T01:00:00,3.0,4.0,5.0,5.0,4.0
+ARC-700388,C-2023-10616,Interim,Horizon Builders Associates,V20113,rpark@mta-example.org,Approved,2024-04-15T00:00:00,2024-08-24T22:00:00,2.0,3.0,2.0,3.0,3.0
+ARC-700389,C-2023-10617,Interim,Atlas Electric & Sons Inc.,V20015,phussain@mta-example.org,Approved,2024-03-12T00:00:00,2024-07-10T19:00:00,3.0,5.0,3.0,4.0,3.0
+ARC-700390,C 2024 10620,Final,Keystone Mechanical Inc,,rhaddad@mta-example.org,Pending Approval,2026-06-15T00:00:00,2026-09-09T19:00:00,4.0,4.0,4.0,3.0,2.0
+ARC-700391,C-2022-10621,Interim,LIBERTY SIGNAL SYSTEMS LTD.,V20191,PPARK@MTA-EXAMPLE.ORG,Approved,2024-03-27T00:00:00,2024-08-15T14:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700392,C 2022 10621,Final,LIBERTY SIGNAL SYSTEMS LTD.,V20191,ppark@mta-example.org,Approved,2025-03-25T00:00:00,2025-06-27T20:00:00,4.0,2.0,4.0,4.0,3.0
+ARC-700393,C 2022 10622,Interim,Patriot Data Systems Group LLC,,fali@mta-example.org,Approved,2023-04-22T00:00:00,2023-08-13T22:00:00,5.0,4.0,4.0,4.0,5.0
+ARC-700394,C-2022-10623,Final,VANGUARD INFRASTRUCTURE LTD.,,rsantos@mta-example.org,Approved,2023-01-11T00:00:00,2023-04-26T22:00:00,5.0,3.0,4.0,3.0,5.0
+ARC-700395,C-2022-10625,Interim,Vanguard Mechanical Associates,V20335,MPARK@MTA-EXAMPLE.ORG,Approved,2023-12-06T00:00:00,2024-03-27T23:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700396,C-2022-10625,Final,The Vanguard Mehcanical Associates,V20335,MPARK@MTA-EXAMPLE.ORG,Approved,2024-12-04T00:00:00,2025-05-05T19:00:00,4.0,3.0,3.0,3.0,4.0
+ARC-700397,C-2023-10627,Final,Beacon Technologies Group  ,,rcohen@mta-example.org,Approved,2024-11-03T00:00:00,2025-01-05T18:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700398,C-2022-10628,Final,Sterling Electric & Sons Inc.,V20289,GALI@MTA-EXAMPLE.ORG,In Review,2022-12-21T00:00:00,2023-03-20T17:00:00,,,,,
+ARC-700399,C 2024 10630,Final,Harbor Consulting Associates,,EPARK@MTA-EXAMPLE.ORG,Pending Approval,2024-09-26T00:00:00,2025-01-18T22:00:00,4.0,4.0,4.0,3.0,4.0
+ARC-700400,C-2022-10631,Final,BRIDGEWAY CONTRACTING INC.,V20035,rcohen@mta-example.org,In Review,2023-04-08T00:00:00,2023-06-26T22:00:00,,,,,
+ARC-700401,C-2022-10633,Interim,RIVERSIDE CONSULTING ASSOCIATES,V20257,ojohnson@mta-example.org,Approved,2023-02-17T00:00:00,2023-07-01T20:00:00,3.0,4.0,4.0,3.0,4.0
+ARC-700402,C-2022-10633,Interim,The RIVERSIDE CONSULTING ASSOCIATES,,ojohnson@mta-example.org,Approved,2024-02-17T00:00:00,2024-07-24T11:00:00,4.0,4.0,3.0,4.0,3.0
+ARC-700403,C 2022 10633,Final,Riverside Consulting Associates  ,V20257,OJOHNSON@MTA-EXAMPLE.ORG,Approved,2025-02-15T00:00:00,2025-04-15T22:00:00,4.0,4.0,4.0,5.0,4.0
+ARC-700404,C 2023 10638,Interim,Statewide Mechanical LLC,,psantos@mta-example.org,Approved,2024-12-03T00:00:00,2025-05-01T17:00:00,5.0,4.0,4.0,4.0,5.0
+ARC-700405,C 2023 10638,Final,Statewide Mechanical LLC  ,,psantos@mta-example.org,Approved,2025-12-01T00:00:00,2026-05-11T17:00:00,5.0,4.0,3.0,5.0,4.0
+ARC-700406,C 2023 10639,Interim,QUEENSBORO INFRASTRUCTURE GROUP LLC,V20253,gali@mta-example.org,Approved,2024-01-09T00:00:00,2024-05-30T07:00:00,2.0,3.0,3.0,2.0,3.0
+ARC-700407,C-2023-10639,Final,Queensboro Infrastructure Group LLC  ,V20253,GALI@MTA-EXAMPLE.ORG,Approved,2025-01-07T00:00:00,2025-05-04T12:00:00,3.0,4.0,4.0,4.0,4.0
+ARC-700408,C 2022 10647,Final,MERIDIAN ENGINEERING ASSOCIATES,V20197,awalker@mta-example.org,Approved,2023-11-08T00:00:00,2024-04-09T21:00:00,4.0,2.0,3.0,3.0,3.0
+ARC-700409,C 2022 10648,Interim,Pinnacle Rail Services & Sons Inc.,,awalker@mta-example.org,Approved,2023-03-23T00:00:00,2023-07-14T19:00:00,2.0,3.0,3.0,3.0,2.0
+ARC-700410,C-2022-10648,Interim,Pinnacle Rail Services & Sons Inc.,V20246,awalker@mta-example.org,Approved,2024-03-23T00:00:00,2024-09-12T07:00:00,4.0,4.0,4.0,5.0,4.0
+ARC-700411,C-2022-10648,Final,Pinnacle Rail Services & Sons Inc.,V20246,awalker@mta-example.org,In Review,2026-03-21T00:00:00,2026-07-15T21:00:00,,,,,
+ARC-700412,C-2022-10649,Final,Beacon Technologies Ltd.,,epark@mta-example.org,In Review,2024-02-13T00:00:00,2024-05-09T18:00:00,,,,,
+ARC-700413,C-2023-10650,Interim,Keystone Data Systems & Sons Incorporated,V20158,kgreene@mta-example.org,Approved,2024-11-21T00:00:00,2025-02-27T17:00:00,5.0,5.0,4.0,4.0,5.0
+ARC-700414,C-2023-10651,Final,Granite Mechaincal LLC,V20096,rsantos@mta-example.org,Approved,2024-10-26T00:00:00,2025-04-16T19:00:00,5.0,4.0,5.0,4.0,4.0
+ARC-700415,C-2024-10652,Final,Summit Data Systems Corp.,V20301,phussain@mta-example.org,Approved,2025-03-03T00:00:00,2025-06-08T22:00:00,3.0,2.0,3.0,3.0,3.0
+ARC-700416,C-2022-10655,Interim,Keystone Consulting Ltd.  ,V20157,RSANTOS@MTA-EXAMPLE.ORG,Approved,2023-02-23T00:00:00,2023-08-16T16:00:00,4.0,4.0,4.0,3.0,3.0
+ARC-700417,C-2024-10656,Interim,Granite Rail Services and Sons Inc.,V20097,SCHEN@MTA-EXAMPLE.ORG,Approved,2025-04-19T00:00:00,2025-07-30T21:00:00,3.0,1.0,2.0,2.0,2.0
+ARC-700418,C-2024-10657,Final,Granite Infrastructure Ltd.,V20095,phussain@mta-example.org,Approved,2025-03-02T00:00:00,2025-07-24T05:00:00,4.0,5.0,3.0,5.0,4.0
+ARC-700419,C-2023-10665,Final,Paragon Data Systems & Sons Incorporated,V20219,psantos@mta-example.org,Approved,2024-07-05T00:00:00,2024-10-26T11:00:00,3.0,3.0,3.0,2.0,4.0
+ARC-700420,C 2022 10666,Interim,Granite Infrastructure Ltd.,V20095,fokafor@mta-example.org,Approved,2023-05-01T00:00:00,2023-09-10T03:00:00,4.0,3.0,3.0,5.0,4.0
+ARC-700421,C 2023 10668,Interim,Lexington Data Systems Inc,V20168,lthompson@mta-example.org,Approved,2025-06-28T00:00:00,2025-12-13T05:00:00,4.0,4.0,4.0,5.0,4.0
+ARC-700422,C 2023 10672,Interim,Keystone Construction Ltd.,V20155,trahman@mta-example.org,Approved,2024-08-28T00:00:00,2025-01-13T14:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700423,C 2022 10673,Final,Northeast Electric LLC,,apatel@mta-example.org,Approved,2023-04-21T00:00:00,2023-10-17T06:00:00,4.0,5.0,5.0,5.0,5.0
+ARC-700424,C-2023-10675,Interim,Cornerstone Contracting Group,,adiaz@mta-example.org,Approved,2024-11-15T00:00:00,2025-03-17T19:00:00,4.0,4.0,3.0,4.0,4.0
+ARC-700425,C-2024-10678,Interim,The Sterling Rail Services Co.,V20292,cdiaz@mta-example.org,Pending Approval,2025-07-11T00:00:00,2025-11-02T23:00:00,5.0,5.0,5.0,5.0,4.0
+ARC-700426,C-2024-10678,Final,Sterling Rail Services Co,V20292,cdiaz@mta-example.org,Approved,2026-07-10T00:00:00,2026-10-05T23:00:00,2.0,2.0,1.0,3.0,2.0
+ARC-700427,C 2024 10680,Interim,Crescent Mechanical Associates,,owalker@mta-example.org,Approved,2025-10-08T00:00:00,2025-12-16T00:00:00,3.0,3.0,2.0,3.0,3.0
+ARC-700428,C-2022-10682,Final,IRONLINE CONTRACTING CORP.,V20141,epark@mta-example.org,Approved,2023-02-18T00:00:00,2023-04-23T16:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700429,C 2023 10684,Interim,Harbor Contracting Corporation,V20103,adiaz@mta-example.org,Approved,2024-05-11T00:00:00,2024-08-21T19:00:00,4.0,4.0,3.0,4.0,4.0
+ARC-700430,C 2024 10686,Interim,Vanguard Mecahnical Associates,,fthompson@mta-example.org,Approved,2025-08-28T00:00:00,2026-01-01T20:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700431,C 2024 10687,Interim,Allied Track Works Group,V20012,swilliams@mta-example.org,Approved,2025-11-03T00:00:00,2026-03-11T23:00:00,5.0,3.0,4.0,4.0,4.0
+ARC-700432,C 2024 10688,Final,Empire Builders Group LLC  ,,ppark@mta-example.org,Approved,2025-11-04T00:00:00,2026-03-02T06:00:00,2.0,3.0,4.0,3.0,3.0
+ARC-700433,C-2024-10690,Interim,Beacon Environmental & Sons,,mchen@mta-example.org,Approved,2025-01-21T00:00:00,2025-07-04T07:00:00,5.0,4.0,4.0,4.0,4.0
+ARC-700434,C-2022-10693,Final,Northeast Data Systems Corp.,,PSANTOS@MTA-EXAMPLE.ORG,Approved,2025-06-14T00:00:00,2025-08-19T02:00:00,5.0,3.0,2.0,4.0,4.0
+ARC-700435,C-2022-10694,Interim,Lexington Contracting Co.,,PSANTOS@MTA-EXAMPLE.ORG,Approved,2023-10-11T00:00:00,2024-03-21T19:00:00,4.0,3.0,3.0,3.0,3.0
+ARC-700436,C-2023-10696,Final,Continental Contracting Inc.,,MCOHEN@MTA-EXAMPLE.ORG,Approved,2024-05-02T00:00:00,2024-08-06T02:00:00,3.0,2.0,2.0,1.0,2.0
+ARC-700437,C-2024-10697,Interim,Liberty Signal Systems Ltd,V20191,ppark@mta-example.org,Approved,2025-10-02T00:00:00,2026-02-09T00:00:00,3.0,3.0,5.0,3.0,3.0
+ARC-700438,C-2023-10698,Interim,PARAGON RAIL SERVICES CO.,V20225,HMURPHY@MTA-EXAMPLE.ORG,Pending Approval,2024-11-12T00:00:00,2025-02-09T13:00:00,3.0,3.0,3.0,4.0,3.0
+ARC-700439,C-2023-10698,Final,Paragon Rail Services Co,V20225,hmurphy@mta-example.org,In Review,2025-11-10T00:00:00,2026-01-30T13:00:00,,,,,
+ARC-700440,C-2023-10700,Final,Northeast Supply Group LLC,V20213,gali@mta-example.org,Approved,2024-12-21T00:00:00,2025-06-09T15:00:00,5.0,5.0,4.0,4.0,4.0
+ARC-700441,C 2022 10701,Interim,Union Engineering Corp,V20319,tbrown@mta-example.org,Approved,2023-01-01T00:00:00,2023-05-09T07:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700442,C-2023-10706,Final,The Horizon Builders Associates,,tbrown@mta-example.org,Approved,2024-10-04T00:00:00,2025-03-08T06:00:00,3.0,3.0,2.0,3.0,2.0
+ARC-700443,C 2023 10707,Final,UNION ENGINEERING CORP.,V20319,psantos@mta-example.org,Approved,2024-08-10T00:00:00,2024-12-18T13:00:00,3.0,4.0,2.0,4.0,2.0
+ARC-700444,C 2023 10708,Interim,Gotham Contracting,V20086,rcohen@mta-example.org,Approved,2024-01-28T00:00:00,2024-07-22T19:00:00,3.0,4.0,4.0,3.0,3.0
+ARC-700445,C-2023-10708,Final,GOTHAM CONTRACTING LTD.,,RCOHEN@MTA-EXAMPLE.ORG,Pending Approval,2024-07-29T00:00:00,2024-10-03T16:00:00,3.0,3.0,3.0,2.0,4.0
+ARC-700446,C 2023 10709,Interim,VANGUARD TECHNOLOGIES CORP.,,ojohnson@mta-example.org,Approved,2025-12-28T00:00:00,2026-05-02T19:00:00,5.0,5.0,4.0,3.0,4.0
+ARC-700447,C 2024 10710,Final,Statewide Builders Corp.  ,V20268,OWALKER@MTA-EXAMPLE.ORG,Approved,2025-03-30T00:00:00,2025-09-02T18:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700448,C-2022-10712,Interim,Riverside Mechanical,V20265,lthompson@mta-example.org,Approved,2023-12-01T00:00:00,2024-05-24T03:00:00,5.0,5.0,5.0,5.0,4.0
+ARC-700449,C-2022-10712,Interim,Riverside Mechaniacl Corp.,,lthompson@mta-example.org,In Review,2024-12-01T00:00:00,2025-01-24T17:00:00,,,,,
+ARC-700450,C 2022 10719,Final,Crescent Builders LLC  ,,SCHEN@MTA-EXAMPLE.ORG,Approved,2024-08-13T00:00:00,2025-01-17T00:00:00,2.0,2.0,3.0,3.0,3.0
+ARC-700451,C-2023-10720,Interim,Liberty Data Systems Group,V20182,mchen@mta-example.org,Approved,2024-09-02T00:00:00,2025-01-16T01:00:00,3.0,2.0,3.0,2.0,3.0
+ARC-700452,C-2023-10720,Final,LIBERTY DATA SYSTEMS GROUP LLC,V20182,mchen@mta-example.org,In Review,2026-08-31T00:00:00,2026-09-24T00:00:00,,,,,
+ARC-700453,C-2022-10721,Interim,Meridian Contracting Co.,,mpark@mta-example.org,Approved,2023-03-01T00:00:00,2023-07-24T01:00:00,3.0,3.0,5.0,4.0,3.0
+ARC-700454,C 2022 10721,Interim,Meridian Contracting Co.,V20195,mpark@mta-example.org,Approved,2024-03-01T00:00:00,2024-07-25T03:00:00,2.0,2.0,3.0,3.0,4.0
+ARC-700455,C 2022 10721,Final,Meridian Contracting Co.,V20195,mpark@mta-example.org,Approved,2026-02-27T00:00:00,2026-07-04T00:00:00,3.0,3.0,3.0,4.0,4.0
+ARC-700456,C 2022 10725,Interim,Atlas Data Systems Corp.,V20014,apatel@mta-example.org,Approved,2023-10-27T00:00:00,2024-04-01T23:00:00,3.0,3.0,4.0,2.0,3.0
+ARC-700457,C-2022-10725,Final,ATLAS DATA SYSTEMS CORP.,V20014,apatel@mta-example.org,Approved,2024-10-25T00:00:00,2025-01-06T21:00:00,2.0,3.0,2.0,3.0,3.0
+ARC-700458,C-2024-10726,Interim,Lexington Data Systems Inc,V20168,owalker@mta-example.org,Approved,2025-05-28T00:00:00,2025-10-20T23:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700459,C 2024 10728,Final,Sterling Data Systems LLC,V20288,adiaz@mta-example.org,Approved,2025-05-10T00:00:00,2025-09-26T01:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700460,C-2023-10729,Final,Liberty Construction Group LLC,V20179,cdiaz@mta-example.org,Approved,2024-03-06T00:00:00,2024-08-06T21:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700461,C-2024-10732,Final,Tri-State Singal Systems Inc.,,apatel@mta-example.org,In Review,2025-06-05T00:00:00,2025-08-21T16:00:00,,,,,
+ARC-700462,C 2022 10734,Final,The Northeast Electric LLC,V20209,mcohen@mta-example.org,Approved,2023-07-28T00:00:00,2023-12-08T00:00:00,3.0,4.0,4.0,4.0,3.0
+ARC-700463,C 2024 10737,Interim,Sterling Supply Incorporated,V20295,hmurphy@mta-example.org,Approved,2025-09-12T00:00:00,2025-11-16T23:00:00,4.0,4.0,5.0,5.0,4.0
+ARC-700464,C 2022 10739,Final,Ironline Infrastructure Associates,,MCOHEN@MTA-EXAMPLE.ORG,Pending Approval,2023-08-20T00:00:00,2023-12-08T19:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700465,C 2022 10742,Final,Vanguard Rail Services Co,,jsantos@mta-example.org,Pending Approval,2023-05-22T00:00:00,2023-09-22T20:00:00,1.0,2.0,2.0,1.0,3.0
+ARC-700466,C-2024-10745,Final,KEYSTONE INFRASTRUCTURE INC.  ,V20162,phussain@mta-example.org,Approved,2024-09-09T00:00:00,2025-02-20T00:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700467,C-2024-10746,Final,Cornerstone Builders Associates,,ADIAZ@MTA-EXAMPLE.ORG,Approved,2025-05-14T00:00:00,2025-08-10T20:00:00,3.0,3.0,4.0,2.0,2.0
+ARC-700468,C 2022 10747,Final,Horizon Builders & Sons Inc.,V20112,enguyen@mta-example.org,Approved,2024-09-05T00:00:00,2024-12-16T22:00:00,5.0,5.0,4.0,5.0,4.0
+ARC-700469,C-2022-10749,Interim,Gotham Builders  ,,PPARK@MTA-EXAMPLE.ORG,Approved,2023-11-04T00:00:00,2024-04-25T00:00:00,4.0,5.0,5.0,4.0,4.0
+ARC-700470,C 2022 10752,Final,Statewide Data Systems Associates,V20270,FRAHMAN@MTA-EXAMPLE.ORG,Approved,2023-10-20T00:00:00,2024-03-08T02:00:00,4.0,2.0,3.0,3.0,3.0
+ARC-700471,C 2022 10755,Final,STERLING TRACK WORKS INC.,,mchen@mta-example.org,Approved,2022-07-09T00:00:00,2022-10-18T03:00:00,5.0,4.0,3.0,5.0,3.0
+ARC-700472,C 2023 10757,Interim,STERLING ELECTRIC INC.,V20290,fokafor@mta-example.org,Approved,2024-05-01T00:00:00,2024-07-25T19:00:00,3.0,2.0,1.0,3.0,4.0
+ARC-700473,C-2022-10758,Final,Summit Consulting Associates,V20298,AWALKER@MTA-EXAMPLE.ORG,Approved,2024-03-24T00:00:00,2024-06-30T19:00:00,3.0,4.0,4.0,4.0,3.0
+ARC-700474,C-2023-10759,Final,Horizon Construction Corporation,V20114,MMURPHY@MTA-EXAMPLE.ORG,Approved,2023-09-12T00:00:00,2024-01-07T03:00:00,4.0,5.0,4.0,4.0,5.0
+ARC-700475,C-2023-10760,Final,Horizon Constrcution Corp.  ,,mcohen@mta-example.org,Approved,2025-09-29T00:00:00,2026-01-21T18:00:00,4.0,5.0,5.0,4.0,4.0
+ARC-700476,C 2023 10762,Interim,Granite Mechanical LLC,V20096,fali@mta-example.org,Approved,2024-12-11T00:00:00,2025-05-12T21:00:00,3.0,3.0,3.0,2.0,3.0
+ARC-700477,C-2022-10764,Interim,Continental Mechanical Group LLC,V20047,psantos@mta-example.org,Approved,2023-01-02T00:00:00,2023-07-09T06:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700478,C 2022 10764,Final,Continental Mechanical Group LLC  ,V20047,psantos@mta-example.org,Approved,2024-01-01T00:00:00,2024-04-08T04:00:00,3.0,3.0,2.0,3.0,3.0
+ARC-700479,C-2024-10765,Interim,Ironline Environmental Co.,,mchen@mta-example.org,Approved,2025-04-22T00:00:00,2025-10-18T21:00:00,4.0,3.0,4.0,3.0,4.0
+ARC-700480,C 2023 10766,Final,Lexington Infrastructure Group LLC,V20172,HPATEL@MTA-EXAMPLE.ORG,In Review,2025-03-24T00:00:00,2025-06-03T15:00:00,,,,,
+ARC-700481,C 2023 10769,Final,Atlas Signal Systems Ltd.  ,V20020,ppark@mta-example.org,Approved,2024-04-23T00:00:00,2024-10-14T02:00:00,4.0,5.0,3.0,4.0,4.0
+ARC-700482,C-2022-10770,Final,RIVERSIDE MECHANICAL CORP.,V20265,awalker@mta-example.org,Approved,2024-08-14T00:00:00,2025-01-02T21:00:00,5.0,4.0,5.0,5.0,4.0
+ARC-700483,C 2023 10771,Final,Northeast Infrastructure Corp.,V20211,apatel@mta-example.org,Approved,2024-04-25T00:00:00,2024-07-25T00:00:00,3.0,3.0,4.0,2.0,3.0
+ARC-700484,C 2023 10774,Interim,BEACON DATA SYSTEMS LLC,V20026,enguyen@mta-example.org,Pending Approval,2026-09-19T00:00:00,2026-10-09T00:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700485,C 2023 10776,Interim,Cornerstone Data Systems Associates,,fthompson@mta-example.org,Approved,2024-11-21T00:00:00,2025-03-14T01:00:00,3.0,3.0,3.0,3.0,5.0
+ARC-700486,C 2022 10778,Interim,Hudson Technologies LLC,V20131,AWALKER@MTA-EXAMPLE.ORG,In Review,2023-05-13T00:00:00,2023-08-08T17:00:00,,,,,
+ARC-700487,C-2022-10778,Final,Hudson Technologies LLC,V20131,AWALKER@MTA-EXAMPLE.ORG,Approved,2024-05-11T00:00:00,2024-09-01T21:00:00,5.0,5.0,3.0,4.0,5.0
+ARC-700488,C-2022-10780,Interim,CONTINENTAL ELECTRIC CO.,V20043,lrodriguez@mta-example.org,Approved,2023-05-08T00:00:00,2023-10-18T05:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700489,C 2023 10781,Interim,Union Engineering Corp  ,,fali@mta-example.org,Approved,2025-12-02T00:00:00,2026-06-06T21:00:00,3.0,4.0,3.0,2.0,4.0
+ARC-700490,C-2023-10784,Interim,Granite Construction Ltd,V20092,trahman@mta-example.org,In Review,2024-10-28T00:00:00,2025-01-17T21:00:00,,,,,
+ARC-700491,C 2023 10784,Final,Granite Construction Ltd.,V20092,trahman@mta-example.org,Approved,2025-04-27T00:00:00,2025-07-31T15:00:00,2.0,3.0,3.0,2.0,4.0
+ARC-700492,C-2022-10787,Interim,Riverside Supply Corp.,,rcohen@mta-example.org,In Review,2023-05-09T00:00:00,2023-08-12T21:00:00,,,,,
+ARC-700493,C-2023-10788,Interim,Horizon Engineering Associates  ,V20116,psantos@mta-example.org,Approved,2024-05-26T00:00:00,2024-09-29T20:00:00,3.0,2.0,3.0,2.0,3.0
+ARC-700494,C-2023-10789,Interim,LEXINGTON ELECTRIC LLC  ,V20170,AWALKER@MTA-EXAMPLE.ORG,Approved,2024-10-24T00:00:00,2025-04-30T21:00:00,3.0,2.0,3.0,3.0,3.0
+ARC-700495,C 2022 10792,Interim,Harbor Envrionmental Ltd.,V20107,gali@mta-example.org,Approved,2023-06-18T00:00:00,2023-12-20T19:00:00,5.0,5.0,4.0,4.0,5.0
+ARC-700496,C 2022 10794,Final,ALLIED ENGINEERING CORP.,V20004,enguyen@mta-example.org,Approved,2025-08-04T00:00:00,2026-02-05T22:00:00,2.0,3.0,3.0,3.0,3.0
+ARC-700497,C-2022-10795,Final,Empire Builders Group LLC,V20072,psantos@mta-example.org,In Review,2022-07-16T00:00:00,2022-11-01T17:00:00,,,,,
+ARC-700498,C-2024-10796,Interim,BRIDGEWAY TECHNOLOGIES ASSOCIATES,V20040,PHUSSAIN@MTA-EXAMPLE.ORG,Pending Approval,2025-05-15T00:00:00,2025-09-18T18:00:00,5.0,4.0,4.0,5.0,4.0
+ARC-700499,C 2022 10800,Final,Meridian Supply Corp  ,,TRAHMAN@MTA-EXAMPLE.ORG,Approved,2023-09-25T00:00:00,2024-01-13T01:00:00,3.0,4.0,4.0,4.0,5.0
+ARC-700500,C-2024-10801,Final,ALLIED BUILDERS & SONS INC.,V20000,fthompson@mta-example.org,Approved,2024-12-02T00:00:00,2025-03-11T04:00:00,4.0,4.0,3.0,3.0,4.0
+ARC-700501,C-2023-10804,Final,Ironline Technologies LLC,V20151,fali@mta-example.org,In Review,2023-08-20T00:00:00,2023-09-25T14:00:00,,,,,
+ARC-700502,C-2022-10805,Interim,ALLIED ELECTRIC ASSOCIATES  ,,LTHOMPSON@MTA-EXAMPLE.ORG,In Review,2023-02-20T00:00:00,2023-03-30T16:00:00,,,,,
+ARC-700503,C 2022 10805,Final,ALLIED ELECTRIC ASSOCIATES,V20003,lthompson@mta-example.org,In Review,2023-08-21T00:00:00,2023-10-11T16:00:00,,,,,
+ARC-700504,C 2024 10806,Final,UNION SUPPLY CORP.,V20327,tbrown@mta-example.org,Approved,2025-06-18T00:00:00,2025-12-30T01:00:00,5.0,4.0,3.0,3.0,4.0
+ARC-700505,C 2024 10811,Interim,LEXINGTON ELECTRIC ASSOCIATES  ,,YMARTINEZ@MTA-EXAMPLE.ORG,In Review,2026-06-28T00:00:00,2026-09-29T00:00:00,,,,,
+ARC-700506,C-2023-10813,Interim,Empire Consulting Group LLC,V20073,ppark@mta-example.org,Approved,2025-06-08T00:00:00,2026-01-10T17:00:00,3.0,3.0,4.0,4.0,4.0
+ARC-700507,C-2023-10814,Interim,Riverside Mechanical Corp.,V20265,enguyen@mta-example.org,Approved,2024-11-25T00:00:00,2025-05-10T17:00:00,5.0,5.0,5.0,4.0,5.0
+ARC-700508,C 2022 10815,Final,Pinnacle Infrastructure Ltd,V20245,owalker@mta-example.org,Approved,2023-12-11T00:00:00,2024-03-07T22:00:00,5.0,4.0,5.0,3.0,4.0
+ARC-700509,C 2024 10817,Final,Atlas Environmental LLC  ,V20016,mmurphy@mta-example.org,Approved,2025-05-06T00:00:00,2025-08-20T23:00:00,3.0,3.0,4.0,4.0,4.0
+ARC-700510,C 2024 10818,Interim,Interboro Rail Services LLC,V20138,FOKAFOR@MTA-EXAMPLE.ORG,Pending Approval,2025-06-06T00:00:00,2025-09-11T15:00:00,4.0,3.0,4.0,4.0,4.0
+ARC-700511,C-2024-10818,Final,Interboro Rail Services LLC,V20138,FOKAFOR@MTA-EXAMPLE.ORG,In Review,2026-06-05T00:00:00,2026-08-24T20:00:00,,,,,
+ARC-700512,C-2022-10820,Final,Northeast Environmental & Sons Inc,V20210,psantos@mta-example.org,Pending Approval,2022-11-14T00:00:00,2023-01-14T18:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700513,C-2022-10821,Final,Atlas Signal Systems Associates,V20019,rhaddad@mta-example.org,Approved,2023-08-31T00:00:00,2024-01-19T14:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700514,C-2023-10824,Interim,Crescent Data Systems Associates,,adiaz@mta-example.org,Approved,2024-05-01T00:00:00,2024-07-31T02:00:00,3.0,4.0,4.0,4.0,3.0
+ARC-700515,C 2023 10824,Final,Crescent Data Systems Associates,V20062,ADIAZ@MTA-EXAMPLE.ORG,Approved,2025-04-29T00:00:00,2025-07-25T19:00:00,4.0,3.0,4.0,4.0,2.0
+ARC-700516,C 2023 10825,Interim,Pinnacle Infrastructure LLC,V20244,kgreene@mta-example.org,Approved,2024-01-04T00:00:00,2024-05-11T20:00:00,3.0,5.0,4.0,4.0,4.0
+ARC-700517,C-2023-10825,Interim,Pinnacle Infrastructure LLC,V20244,kgreene@mta-example.org,Approved,2025-01-04T00:00:00,2025-05-17T23:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700518,C-2024-10826,Final,EASTERN CONSULTING & SONS INC.,V20067,schen@mta-example.org,Approved,2025-06-19T00:00:00,2025-09-09T15:00:00,4.0,5.0,3.0,3.0,5.0
+ARC-700519,C-2022-10828,Interim,LIBERTY BUILDERS CORP.,V20176,mchen@mta-example.org,In Review,2023-10-25T00:00:00,2024-02-01T10:00:00,,,,,
+ARC-700520,C-2022-10828,Final,Liberty Builders Corp.,V20176,mchen@mta-example.org,In Review,2024-10-23T00:00:00,2025-01-09T16:00:00,,,,,
+ARC-700521,C-2023-10831,Final,Atlas Infrastructure Group LLC,V20017,psantos@mta-example.org,Approved,2024-01-29T00:00:00,2024-06-02T19:00:00,3.0,4.0,4.0,3.0,4.0
+ARC-700522,C 2024 10832,Final,Granite Builders LLC,V20088,kgreene@mta-example.org,Approved,2025-05-17T00:00:00,2025-07-28T23:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700523,C 2023 10833,Interim,LIBERTY ELECTRIC LLC,,awalker@mta-example.org,Approved,2025-09-08T00:00:00,2026-03-05T21:00:00,5.0,4.0,4.0,4.0,3.0
+ARC-700524,C-2023-10833,Final,Liberty Electric LLC,V20185,AWALKER@MTA-EXAMPLE.ORG,In Review,2026-09-06T00:00:00,2026-10-16T19:00:00,,,,,
+ARC-700525,C-2022-10834,Interim,Patriot Contracting Corp.,V20231,JSANTOS@MTA-EXAMPLE.ORG,Approved,2023-10-27T00:00:00,2024-03-12T08:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700526,C-2023-10835,Final,Paragon Rail Services Corp  ,V20226,awalker@mta-example.org,Approved,2024-07-16T00:00:00,2024-12-03T21:00:00,4.0,5.0,4.0,5.0,3.0
+ARC-700527,C 2023 10837,Interim,Riverside Engineering Inc,V20262,epark@mta-example.org,Approved,2025-06-28T00:00:00,2025-10-04T10:00:00,4.0,3.0,3.0,4.0,4.0
+ARC-700528,C-2024-10838,Interim,Union Engineering Corp.  ,V20319,RPARK@MTA-EXAMPLE.ORG,Approved,2025-08-13T00:00:00,2026-01-15T02:00:00,5.0,4.0,4.0,4.0,5.0
+ARC-700529,C 2023 10840,Interim,Meridian Engineering,V20197,APATEL@MTA-EXAMPLE.ORG,Pending Approval,2026-04-03T00:00:00,2026-06-09T18:00:00,2.0,3.0,3.0,1.0,2.0
+ARC-700530,C-2024-10841,Interim,Beacon Data Systems LLC,V20026,kgreene@mta-example.org,In Review,2025-10-22T00:00:00,2026-02-09T12:00:00,,,,,
+ARC-700531,C 2024 10841,Final,Beacon Data Systems  ,,kgreene@mta-example.org,In Review,2026-04-22T00:00:00,2026-06-01T16:00:00,,,,,
+ARC-700532,C-2022-10843,Interim,Keystone Consulting & Sons Inc.,V20156,hpatel@mta-example.org,In Review,2023-02-13T00:00:00,2023-06-04T19:00:00,,,,,
+ARC-700533,C-2024-10844,Final,Hudson Track Works Ltd.,,schen@mta-example.org,Pending Approval,2025-01-03T00:00:00,2025-03-11T00:00:00,4.0,3.0,2.0,1.0,3.0
+ARC-700534,C 2023 10846,Final,Allied Track Works Group LLC,,RCOHEN@MTA-EXAMPLE.ORG,Approved,2023-07-03T00:00:00,2023-10-30T04:00:00,5.0,5.0,5.0,5.0,4.0
+ARC-700535,C 2024 10847,Final,Tri-State Electric and Sons Inc.,V20309,EPARK@MTA-EXAMPLE.ORG,Approved,2026-04-14T00:00:00,2026-09-07T04:00:00,4.0,5.0,4.0,4.0,4.0
+ARC-700536,C-2022-10849,Interim,Liberty Tarck Works Associates,V20193,gali@mta-example.org,Pending Approval,2023-12-14T00:00:00,2024-03-19T01:00:00,3.0,4.0,4.0,3.0,4.0
+ARC-700537,C-2022-10849,Interim,Liberty Track Works Associates,V20193,GALI@MTA-EXAMPLE.ORG,Approved,2025-12-14T00:00:00,2026-06-04T20:00:00,4.0,4.0,5.0,4.0,5.0
+ARC-700538,C-2022-10851,Interim,KEYSTONE ENGINEERING GROUP LLC,V20161,awalker@mta-example.org,Approved,2023-12-04T00:00:00,2024-06-03T18:00:00,2.0,4.0,3.0,2.0,4.0
+ARC-700539,C-2022-10852,Final,UNION INFRASTRUCTURE CO.,,ojohnson@mta-example.org,Pending Approval,2023-03-13T00:00:00,2023-06-13T11:00:00,3.0,4.0,4.0,4.0,4.0
+ARC-700540,C-2023-10853,Final,Statewide Environmental Ltd.  ,,lrodriguez@mta-example.org,Approved,2025-06-02T00:00:00,2025-10-11T22:00:00,3.0,2.0,1.0,3.0,3.0
+ARC-700541,C-2022-10858,Final,SUMMIT DATA SYSTEMS CORP.,V20301,mcohen@mta-example.org,Pending Approval,2025-10-05T00:00:00,2025-12-04T22:00:00,2.0,2.0,3.0,2.0,3.0
+ARC-700542,C-2023-10859,Interim,Sterling Data Systems Corporation,,phussain@mta-example.org,Approved,2024-11-20T00:00:00,2025-03-18T04:00:00,1.0,2.0,3.0,3.0,3.0
+ARC-700543,C-2023-10859,Final,STERLING DATA SYSTEMS CORP.,V20287,PHUSSAIN@MTA-EXAMPLE.ORG,Pending Approval,2025-11-18T00:00:00,2026-03-22T00:00:00,5.0,4.0,5.0,4.0,5.0
+ARC-700544,C 2022 10861,Final,Queensboro Electric Inc,V20251,trahman@mta-example.org,Approved,2024-02-21T00:00:00,2024-07-24T02:00:00,5.0,5.0,4.0,5.0,4.0
+ARC-700545,C-2023-10862,Final,Cornerstone Data Systems Inc.,V20053,OWALKER@MTA-EXAMPLE.ORG,Approved,2024-11-27T00:00:00,2025-04-13T05:00:00,4.0,4.0,5.0,5.0,5.0
+ARC-700546,C-2022-10864,Interim,Vanguard Infrastructure Ltd,V20334,psantos@mta-example.org,Approved,2023-06-01T00:00:00,2023-11-22T03:00:00,5.0,4.0,4.0,5.0,5.0
+ARC-700547,C 2022 10864,Interim,Vanguard Infrastructure Ltd.,V20334,PSANTOS@MTA-EXAMPLE.ORG,Approved,2024-06-01T00:00:00,2024-09-20T20:00:00,5.0,4.0,5.0,5.0,5.0
+ARC-700548,C-2024-10866,Interim,Northeast Electric LLC,V20209,lrodriguez@mta-example.org,Approved,2025-03-16T00:00:00,2025-08-18T01:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700549,C-2024-10867,Final,Liberty Data Systems Inc.,,frahman@mta-example.org,Pending Approval,2025-08-07T00:00:00,2025-10-22T17:00:00,4.0,4.0,4.0,3.0,4.0
+ARC-700550,C-2023-10869,Final,Northeast Builders Group LLC,V20203,kgreene@mta-example.org,In Review,2025-12-15T00:00:00,2026-03-04T12:00:00,,,,,
+ARC-700551,C 2023 10871,Interim,Riverside Data Systems Associates,V20261,fthompson@mta-example.org,Pending Approval,2024-12-21T00:00:00,2025-03-13T20:00:00,3.0,2.0,3.0,3.0,3.0
+ARC-700552,C 2023 10871,Interim,RIVERSIDE DATA SYSTEMS ASSOCIATES  ,V20261,fthompson@mta-example.org,Approved,2025-12-21T00:00:00,2026-03-31T03:00:00,4.0,4.0,3.0,3.0,4.0
+ARC-700553,C-2024-10873,Final,Eastern Consulting & Sons Inc.  ,,ADIAZ@MTA-EXAMPLE.ORG,Approved,2025-09-14T00:00:00,2026-02-24T01:00:00,5.0,4.0,5.0,3.0,4.0
+ARC-700554,C-2024-10874,Final,Pinnacle Infrastructure LLC,V20244,ppark@mta-example.org,Approved,2025-05-13T00:00:00,2025-10-19T02:00:00,3.0,2.0,3.0,3.0,4.0
+ARC-700555,C 2024 10875,Interim,Meridian Supply Corp.,V20199,rhaddad@mta-example.org,Approved,2025-04-28T00:00:00,2025-10-05T08:00:00,3.0,2.0,2.0,1.0,2.0
+ARC-700556,C-2024-10876,Final,NORTHEAST SUPPLY GROUP LLC,,ojohnson@mta-example.org,Approved,2024-10-15T00:00:00,2025-02-24T02:00:00,5.0,4.0,5.0,4.0,4.0
+ARC-700557,C-2023-10877,Final,Horizon Technloogies Inc.  ,V20122,phussain@mta-example.org,Pending Approval,2024-10-19T00:00:00,2024-12-07T14:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700558,C-2023-10878,Final,Allied Signal Systems Group LLC,,mchen@mta-example.org,Approved,2023-10-23T00:00:00,2024-04-07T19:00:00,3.0,3.0,5.0,3.0,3.0
+ARC-700559,C 2024 10880,Interim,Queensboro Track Works & Sons Inc.,,ymartinez@mta-example.org,Approved,2025-07-15T00:00:00,2025-11-22T02:00:00,3.0,3.0,2.0,2.0,3.0
+ARC-700560,C 2024 10880,Final,QUEENSBORO TRACK WORKS & SONS INC.  ,V20256,YMARTINEZ@MTA-EXAMPLE.ORG,Approved,2026-07-14T00:00:00,2026-10-15T00:00:00,5.0,5.0,4.0,4.0,4.0
+ARC-700561,C 2022 10883,Interim,Beacon Technologies Ltd.,V20032,mpark@mta-example.org,Pending Approval,2023-09-28T00:00:00,2023-12-05T15:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700562,C-2024-10884,Interim,Keystone Engineering Group LLC,,mmurphy@mta-example.org,Approved,2025-03-26T00:00:00,2025-08-07T23:00:00,2.0,2.0,1.0,3.0,2.0
+ARC-700563,C-2023-10885,Final,Union Electric,V20316,PSANTOS@MTA-EXAMPLE.ORG,Approved,2024-05-11T00:00:00,2024-09-19T03:00:00,4.0,3.0,4.0,3.0,2.0
+ARC-700564,C-2023-10887,Interim,Riverside Contracting Co.,,rhaddad@mta-example.org,Approved,2024-06-23T00:00:00,2024-11-14T23:00:00,5.0,4.0,4.0,4.0,4.0
+ARC-700565,C-2023-10887,Interim,Riverside Contracting Co.,,rhaddad@mta-example.org,Approved,2025-06-23T00:00:00,2025-12-15T18:00:00,4.0,2.0,3.0,2.0,3.0
+ARC-700566,C 2023 10887,Final,Riverside Contracting  ,V20260,rhaddad@mta-example.org,Approved,2026-06-21T00:00:00,2026-09-22T21:00:00,4.0,5.0,4.0,3.0,3.0
+ARC-700567,C-2023-10888,Final,Statewide Builders Corp.,V20268,ojohnson@mta-example.org,Approved,2023-12-15T00:00:00,2024-04-20T22:00:00,5.0,4.0,3.0,4.0,4.0
+ARC-700568,C-2024-10890,Final,Keystone Technologies Associates,V20166,hmurphy@mta-example.org,Approved,2026-05-19T00:00:00,2026-08-20T04:00:00,4.0,4.0,5.0,5.0,3.0
+ARC-700569,C 2022 10891,Interim,Union Construction Group LLC,V20313,AWALKER@MTA-EXAMPLE.ORG,Approved,2023-02-25T00:00:00,2023-08-07T03:00:00,5.0,5.0,5.0,4.0,4.0
+ARC-700570,C 2022 10891,Interim,Union Construction Group,V20313,AWALKER@MTA-EXAMPLE.ORG,Approved,2025-02-25T00:00:00,2025-07-31T23:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700571,C 2022 10891,Final,UNION CONSTRUCTION GROUP LLC  ,,AWALKER@MTA-EXAMPLE.ORG,In Review,2026-02-23T00:00:00,2026-04-14T10:00:00,,,,,
+ARC-700572,C 2022 10892,Interim,Ironline Contracting Corp.,V20141,MMURPHY@MTA-EXAMPLE.ORG,Approved,2023-01-19T00:00:00,2023-04-13T21:00:00,5.0,4.0,5.0,5.0,5.0
+ARC-700573,C-2022-10892,Interim,Ironline Contracting Corp.,V20141,mmurphy@mta-example.org,Approved,2024-01-19T00:00:00,2024-04-01T23:00:00,4.0,3.0,3.0,4.0,4.0
+ARC-700574,C-2023-10893,Final,Vanguard Infrasrtucture LLC,,adiaz@mta-example.org,Approved,2024-05-09T00:00:00,2024-08-25T00:00:00,4.0,4.0,3.0,4.0,4.0
+ARC-700575,C-2024-10896,Interim,ATLAS INFRASTRUCTURE GROUP LLC,,fokafor@mta-example.org,In Review,2026-07-28T00:00:00,2026-09-21T14:00:00,,,,,
+ARC-700576,C-2022-10899,Interim,Bridgeway Consulting Associates,V20034,lthompson@mta-example.org,Approved,2023-09-06T00:00:00,2024-01-18T04:00:00,4.0,4.0,3.0,4.0,3.0
+ARC-700577,C 2022 10899,Final,Bridgeway Consulting Associates,V20034,LTHOMPSON@MTA-EXAMPLE.ORG,Approved,2024-03-06T00:00:00,2024-06-08T21:00:00,4.0,4.0,4.0,3.0,4.0
+ARC-700578,C-2023-10900,Interim,Granite Buidlers LLC,V20088,mchen@mta-example.org,Approved,2024-02-17T00:00:00,2024-07-16T19:00:00,4.0,4.0,4.0,3.0,5.0
+ARC-700579,C-2023-10902,Final,EASTERN DATA SYSTEMS ASSOCIATES,V20068,mpark@mta-example.org,Approved,2024-05-14T00:00:00,2024-11-28T01:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700580,C 2023 10903,Interim,Ironline Track Works & Sons Incorporated,V20152,rsantos@mta-example.org,Approved,2024-09-28T00:00:00,2025-03-28T15:00:00,4.0,4.0,5.0,5.0,4.0
+ARC-700581,C-2023-10904,Final,Northeast Data Systems & Sons Inc.,V20207,cdiaz@mta-example.org,Pending Approval,2024-12-28T00:00:00,2025-03-22T22:00:00,5.0,4.0,5.0,4.0,5.0
+ARC-700582,C 2022 10905,Final,Riverside Supply Corp.,,EPARK@MTA-EXAMPLE.ORG,Approved,2023-06-12T00:00:00,2023-10-01T01:00:00,3.0,4.0,4.0,2.0,4.0
+ARC-700583,C 2023 10906,Interim,Horizon Supply Associates,V20120,MCHEN@MTA-EXAMPLE.ORG,Approved,2024-04-09T00:00:00,2024-09-07T00:00:00,4.0,5.0,5.0,4.0,4.0
+ARC-700584,C-2023-10910,Interim,Bridgeway Contracting Inc,,mpark@mta-example.org,Approved,2024-10-28T00:00:00,2025-03-03T06:00:00,3.0,2.0,2.0,2.0,4.0
+ARC-700585,C-2022-10911,Interim,LEXINGTON ELECTRIC ASSOCIATES,V20169,HPATEL@MTA-EXAMPLE.ORG,Approved,2023-01-15T00:00:00,2023-08-09T19:00:00,4.0,5.0,5.0,5.0,4.0
+ARC-700586,C 2022 10912,Final,Granite Supply Ltd.,V20099,mpark@mta-example.org,Approved,2023-10-15T00:00:00,2024-03-27T17:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700587,C 2023 10913,Final,PATRIOT ENGINEERING CO.,V20234,mpark@mta-example.org,Approved,2025-12-02T00:00:00,2026-02-11T05:00:00,5.0,4.0,4.0,5.0,4.0
+ARC-700588,C 2022 10914,Final,Vanguard Infrastructure LLC,V20333,fthompson@mta-example.org,Approved,2023-07-26T00:00:00,2023-12-10T19:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700589,C-2023-10915,Final,CORNERSTONE MECHANICAL INC.,,TRAHMAN@MTA-EXAMPLE.ORG,Approved,2024-01-13T00:00:00,2024-06-23T15:00:00,3.0,2.0,2.0,3.0,2.0
+ARC-700590,C 2023 10916,Final,Empire Contracting LLC,V20075,schen@mta-example.org,Approved,2024-01-13T00:00:00,2024-04-19T04:00:00,3.0,4.0,2.0,3.0,2.0
+ARC-700591,C 2023 10918,Interim,Pinnacle Consulting & Sons Inc.,V20239,ymartinez@mta-example.org,Approved,2024-12-09T00:00:00,2025-04-26T01:00:00,2.0,2.0,4.0,3.0,4.0
+ARC-700592,C 2023 10918,Interim,Pinnacle Consulting & Sons Inc,V20239,ymartinez@mta-example.org,Approved,2025-12-09T00:00:00,2026-04-29T20:00:00,4.0,4.0,5.0,3.0,3.0
+ARC-700593,C-2022-10920,Interim,Riverside Mechanical Corp.,,mmurphy@mta-example.org,Approved,2023-03-24T00:00:00,2023-07-22T19:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700594,C-2024-10921,Interim,Union Signal Systems Associates,V20325,mchen@mta-example.org,In Review,2025-07-16T00:00:00,2025-09-15T12:00:00,,,,,
+ARC-700595,C-2022-10923,Interim,TRI-STATE TRACK WORKS CORP.,V20312,kgreene@mta-example.org,Approved,2023-11-09T00:00:00,2024-04-21T01:00:00,2.0,2.0,2.0,3.0,3.0
+ARC-700596,C-2022-10923,Final,TRI-STATE TRACK WORKS CORP.,V20312,kgreene@mta-example.org,Approved,2024-05-09T00:00:00,2024-07-29T21:00:00,5.0,4.0,3.0,3.0,4.0
+ARC-700597,C 2022 10924,Interim,CONTINENTAL MECHANICAL CORP.,V20046,ppark@mta-example.org,In Review,2023-01-25T00:00:00,2023-03-12T16:00:00,,,,,
+ARC-700598,C-2024-10925,Interim,The Crescent Data Systems Associates,V20062,mcohen@mta-example.org,Approved,2025-01-06T00:00:00,2025-06-14T19:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700599,C 2024 10925,Interim,CRESCENT DATA SYSTEMS ASSOCIATES,V20062,MCOHEN@MTA-EXAMPLE.ORG,Approved,2026-01-06T00:00:00,2026-03-16T23:00:00,4.0,5.0,5.0,4.0,4.0
+ARC-700600,C 2023 10927,Final,The Allied Infrastructure Incorporated,,owalker@mta-example.org,Approved,2023-07-09T00:00:00,2023-12-06T16:00:00,3.0,3.0,3.0,2.0,3.0
+ARC-700601,C 2022 10930,Interim,Ironline Rail Services LLC,V20149,schen@mta-example.org,Approved,2023-10-06T00:00:00,2024-03-08T14:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700602,C-2024-10931,Final,Sterling Builders Group LLC,V20284,lthompson@mta-example.org,Approved,2025-03-20T00:00:00,2025-06-23T23:00:00,3.0,3.0,5.0,3.0,3.0
+ARC-700603,C-2023-10933,Interim,Ironline Electric Group LLC,V20143,MPARK@MTA-EXAMPLE.ORG,Approved,2024-04-03T00:00:00,2024-08-24T23:00:00,2.0,3.0,4.0,1.0,3.0
+ARC-700604,C 2023 10933,Interim,Ironline Electric Group,V20143,mpark@mta-example.org,Approved,2025-04-03T00:00:00,2025-06-30T00:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700605,C-2023-10933,Interim,IRONLINE ELECTRIC GROUP LLC,V20143,mpark@mta-example.org,Approved,2026-04-03T00:00:00,2026-07-13T02:00:00,3.0,3.0,2.0,4.0,4.0
+ARC-700606,C 2022 10938,Final,Ironline Supply LLC  ,,ojohnson@mta-example.org,Approved,2022-08-13T00:00:00,2022-12-20T19:00:00,2.0,2.0,3.0,3.0,4.0
+ARC-700607,C 2023 10939,Interim,Keystone Construction & Sons Incorporated,,rsantos@mta-example.org,Approved,2024-05-17T00:00:00,2024-09-25T21:00:00,3.0,2.0,3.0,2.0,3.0
+ARC-700608,C-2023-10940,Interim,Statewide Engineering LLC,V20273,ymartinez@mta-example.org,In Review,2024-10-27T00:00:00,2025-01-22T16:00:00,,,,,
+ARC-700609,C-2022-10941,Final,Granite Construction Inc.,,mpark@mta-example.org,Approved,2023-01-24T00:00:00,2023-06-03T23:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700610,C-2023-10944,Final,Queensboro Electric Co,V20250,fali@mta-example.org,Pending Approval,2024-01-02T00:00:00,2024-04-28T19:00:00,3.0,2.0,3.0,5.0,3.0
+ARC-700611,C-2022-10946,Final,The Liberty Rail Services LLC  ,V20190,lthompson@mta-example.org,Approved,2024-06-27T00:00:00,2024-08-11T22:00:00,5.0,4.0,5.0,5.0,5.0
+ARC-700612,C 2022 10949,Interim,Summit Consulting LLC,V20299,SCHEN@MTA-EXAMPLE.ORG,Pending Approval,2023-12-28T00:00:00,2024-05-21T18:00:00,3.0,4.0,4.0,3.0,2.0
+ARC-700613,C 2022 10949,Interim,Summit Consulting LLC,V20299,schen@mta-example.org,Approved,2024-12-28T00:00:00,2025-06-22T23:00:00,2.0,1.0,2.0,1.0,2.0
+ARC-700614,C-2022-10949,Final,Summit Consulting LLC,V20299,schen@mta-example.org,Pending Approval,2025-12-28T00:00:00,2026-05-03T22:00:00,5.0,5.0,4.0,4.0,5.0
+ARC-700615,C 2022 10953,Final,Hudson Rail Services & Sons Incorporated,,swilliams@mta-example.org,In Review,2023-12-21T00:00:00,2024-02-06T16:00:00,,,,,
+ARC-700616,C-2022-10954,Final,Union Construction Group LLC,V20313,tbrown@mta-example.org,Approved,2023-07-04T00:00:00,2023-11-23T23:00:00,4.0,3.0,3.0,4.0,3.0
+ARC-700617,C 2023 10957,Final,Patriot Mechanical Co.,,MCOHEN@MTA-EXAMPLE.ORG,Approved,2024-06-04T00:00:00,2024-09-01T23:00:00,4.0,3.0,3.0,3.0,3.0
+ARC-700618,C-2024-10958,Final,Vanguard Technologies Group LLC,V20338,TRAHMAN@MTA-EXAMPLE.ORG,Approved,2025-01-15T00:00:00,2025-06-25T04:00:00,4.0,4.0,4.0,5.0,5.0
+ARC-700619,C-2023-10959,Interim,Statewide Signal Systems  ,,ymartinez@mta-example.org,Approved,2024-04-28T00:00:00,2024-09-06T13:00:00,4.0,4.0,4.0,3.0,4.0
+ARC-700620,C-2023-10959,Final,Statewide Signal Systems LLC,V20279,ymartinez@mta-example.org,In Review,2024-10-26T00:00:00,2025-02-15T16:00:00,,,,,
+ARC-700621,C 2022 10964,Final,Paragon Environmental Co.  ,V20222,lthompson@mta-example.org,In Review,2024-01-21T00:00:00,2024-03-18T19:00:00,,,,,
+ARC-700622,C-2022-10966,Final,Liberty Rail Services LLC,V20190,FTHOMPSON@MTA-EXAMPLE.ORG,Approved,2024-08-30T00:00:00,2025-02-08T00:00:00,3.0,3.0,5.0,4.0,3.0
+ARC-700623,C 2023 10969,Final,Paragon Construction Co.,V20217,cdiaz@mta-example.org,Approved,2023-07-04T00:00:00,2023-10-02T01:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700624,C-2022-10971,Interim,Horizon Supply Associates,,awalker@mta-example.org,Approved,2023-11-16T00:00:00,2024-02-23T00:00:00,4.0,4.0,3.0,3.0,3.0
+ARC-700625,C-2024-10972,Interim,HUDSON CONSTRUCTION ASSOCIATES,V20124,ojohnson@mta-example.org,In Review,2025-01-17T00:00:00,2025-04-22T11:00:00,,,,,
+ARC-700626,C 2024 10972,Final,Hudson Construction Associates,V20124,ojohnson@mta-example.org,Approved,2025-07-17T00:00:00,2025-11-20T00:00:00,4.0,5.0,4.0,5.0,5.0
+ARC-700627,C-2024-10974,Interim,IRONLINE ENVIRONMENTAL LLC,,MPARK@MTA-EXAMPLE.ORG,Approved,2025-04-28T00:00:00,2025-09-19T05:00:00,3.0,3.0,4.0,3.0,3.0
+ARC-700628,C-2022-10976,Final,Crescent Mechnaical Associates,V20063,jsantos@mta-example.org,Approved,2023-05-07T00:00:00,2023-08-25T04:00:00,3.0,3.0,3.0,5.0,3.0
+ARC-700629,C-2024-10977,Final,Ironline Technologies LLC  ,V20151,mpark@mta-example.org,In Review,2026-04-06T00:00:00,2026-06-16T14:00:00,,,,,
+ARC-700630,C 2024 10978,Interim,Meridian Data Systems Group LLC  ,,fthompson@mta-example.org,Approved,2025-03-02T00:00:00,2025-06-27T00:00:00,4.0,4.0,4.0,4.0,5.0
+ARC-700631,C-2024-10978,Final,MERIDIAN DATA SYSTEMS GROUP LLC,V20196,fthompson@mta-example.org,Approved,2025-08-31T00:00:00,2025-11-15T03:00:00,3.0,2.0,3.0,3.0,3.0
+ARC-700632,C-2024-10985,Final,Lexington Contracting,V20167,OWALKER@MTA-EXAMPLE.ORG,Approved,2025-12-19T00:00:00,2026-05-04T19:00:00,2.0,1.0,1.0,1.0,2.0
+ARC-700633,C 2022 10986,Interim,PATRIOT MECHANICAL GROUP LLC,V20236,owalker@mta-example.org,Pending Approval,2023-03-17T00:00:00,2023-08-09T18:00:00,3.0,2.0,3.0,2.0,2.0
+ARC-700634,C 2022 10986,Final,Patriot Mechanical Group,V20236,owalker@mta-example.org,Approved,2023-09-15T00:00:00,2023-12-17T00:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700635,C-2024-10987,Final,Summit Data Systems Corporation,,rcohen@mta-example.org,Pending Approval,2026-02-20T00:00:00,2026-05-06T18:00:00,4.0,3.0,2.0,3.0,3.0
+ARC-700636,C 2022 10988,Interim,Union Supply,V20327,fthompson@mta-example.org,Approved,2024-05-02T00:00:00,2024-09-16T00:00:00,4.0,4.0,3.0,3.0,3.0
+ARC-700637,C-2024-10989,Final,HUDSON TRACK WORKS LTD.,V20132,fthompson@mta-example.org,Approved,2025-06-18T00:00:00,2025-10-30T23:00:00,4.0,3.0,3.0,4.0,4.0
+ARC-700638,C-2024-10990,Final,Riverside Environmental Co.,V20264,rhaddad@mta-example.org,Approved,2025-05-16T00:00:00,2025-10-10T05:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700639,C-2023-10992,Interim,Northeast Mechanical Co.,V20212,fthompson@mta-example.org,Approved,2024-11-28T00:00:00,2025-05-07T02:00:00,4.0,5.0,5.0,5.0,4.0
+ARC-700640,C-2022-10994,Interim,HORIZON CONSTRUCTION CORP.,,rpark@mta-example.org,Approved,2023-09-27T00:00:00,2024-01-10T21:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700641,C 2022 10994,Interim,Horizon Construction Corp,V20114,rpark@mta-example.org,In Review,2024-09-27T00:00:00,2024-11-19T13:00:00,,,,,
+ARC-700642,C 2023 10995,Final,Paragon Contracting Co.  ,,ymartinez@mta-example.org,Approved,2024-08-09T00:00:00,2024-12-25T18:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700643,C-2022-10997,Final,Lexington Data Systems Inc.,V20168,ppark@mta-example.org,In Review,2023-06-02T00:00:00,2023-07-10T19:00:00,,,,,
+ARC-700644,C-2022-11000,Interim,Vanguard Track Works Inc.,V20339,hmurphy@mta-example.org,Approved,2023-06-26T00:00:00,2023-11-21T23:00:00,4.0,3.0,4.0,4.0,4.0
+ARC-700645,C-2023-11003,Interim,LIBERTY DATA SYSTEMS GROUP LLC,V20182,apatel@mta-example.org,Approved,2024-04-01T00:00:00,2024-08-09T19:00:00,4.0,4.0,3.0,4.0,3.0
+ARC-700646,C-2023-11003,Final,Liberty Data Systems Group LLC  ,,apatel@mta-example.org,Approved,2025-03-30T00:00:00,2025-10-02T13:00:00,4.0,3.0,4.0,3.0,4.0
+ARC-700647,C-2024-11005,Interim,Pinnacle Infrastructure LLC,V20244,rpark@mta-example.org,In Review,2025-04-19T00:00:00,2025-06-02T14:00:00,,,,,
+ARC-700648,C-2023-11006,Final,Liberty Electric LLC  ,,mcohen@mta-example.org,Approved,2024-09-25T00:00:00,2025-02-18T17:00:00,4.0,3.0,2.0,3.0,3.0
+ARC-700649,C-2022-11008,Final,Hudson Construction Associates,V20124,mmurphy@mta-example.org,Approved,2023-03-28T00:00:00,2023-07-10T04:00:00,3.0,4.0,2.0,3.0,3.0
+ARC-700650,C 2022 11011,Interim,Beacon Environmental & Sons Incorporated,,fokafor@mta-example.org,Approved,2023-08-10T00:00:00,2023-12-31T21:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700651,C-2022-11011,Final,Beacon Environmental & Sons Inc.,V20027,fokafor@mta-example.org,Approved,2024-08-08T00:00:00,2024-11-16T03:00:00,5.0,2.0,4.0,3.0,3.0
+ARC-700652,C 2023 11013,Final,Interboro Builders Group LLC  ,,rsantos@mta-example.org,In Review,2024-09-15T00:00:00,2024-09-27T12:00:00,,,,,
+ARC-700653,C 2022 11014,Interim,Sterling Infrastructure Corp,V20291,awalker@mta-example.org,Approved,2023-01-18T00:00:00,2023-07-14T02:00:00,2.0,4.0,3.0,3.0,3.0
+ARC-700654,C-2022-11014,Final,Sterling Infrastructure Corporation  ,V20291,awalker@mta-example.org,Approved,2024-01-17T00:00:00,2024-05-10T08:00:00,3.0,3.0,4.0,2.0,3.0
+ARC-700655,C 2022 11017,Final,Lexington Engineering Corp.,V20171,fokafor@mta-example.org,Approved,2025-10-20T00:00:00,2026-03-02T02:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700656,C-2023-11020,Interim,Union Infrastrutcure Co.,V20321,swilliams@mta-example.org,Pending Approval,2024-03-19T00:00:00,2024-06-04T23:00:00,4.0,4.0,3.0,3.0,4.0
+ARC-700657,C 2024 11023,Interim,Beacon Builders & Sons Inc.,V20022,adiaz@mta-example.org,In Review,2025-09-12T00:00:00,2025-10-22T15:00:00,,,,,
+ARC-700658,C-2024-11025,Final,The Northeast Infrastructure Corp.,V20211,phussain@mta-example.org,Pending Approval,2025-02-03T00:00:00,2025-07-06T16:00:00,3.0,3.0,3.0,3.0,2.0
+ARC-700659,C 2023 11028,Final,Empire Rail Services Group LLC,,hmurphy@mta-example.org,Approved,2024-07-31T00:00:00,2025-01-04T23:00:00,3.0,4.0,4.0,5.0,4.0
+ARC-700660,C 2022 11029,Interim,Statewide Signal Systems Corporation,V20278,rsantos@mta-example.org,Pending Approval,2024-09-15T00:00:00,2024-12-30T02:00:00,4.0,4.0,3.0,2.0,4.0
+ARC-700661,C-2024-11031,Final,Statewide Track Works Group LLC,V20281,rcohen@mta-example.org,In Review,2025-01-05T00:00:00,2025-04-03T15:00:00,,,,,
+ARC-700662,C-2022-11032,Final,PARAGON INFRASTRUCTURE ASSOCIATES,V20223,RHADDAD@MTA-EXAMPLE.ORG,Approved,2023-11-30T00:00:00,2024-02-15T08:00:00,4.0,5.0,5.0,5.0,4.0
+ARC-700663,C-2024-11033,Interim,SUMMIT SIGNAL SYSTEMS INC.,,hmurphy@mta-example.org,Approved,2026-04-27T00:00:00,2026-08-16T00:00:00,3.0,4.0,3.0,3.0,3.0
+ARC-700664,C-2022-11036,Interim,Harbor Contracting Corp.,V20103,trahman@mta-example.org,In Review,2023-11-04T00:00:00,2024-01-29T10:00:00,,,,,
+ARC-700665,C 2022 11036,Final,Harbor Contracting Corp.,,trahman@mta-example.org,Pending Approval,2024-11-02T00:00:00,2025-03-20T16:00:00,3.0,3.0,2.0,3.0,3.0
+ARC-700666,C 2024 11038,Interim,Summit Engineering Associates,V20302,hmurphy@mta-example.org,Approved,2025-05-21T00:00:00,2025-09-21T01:00:00,2.0,2.0,2.0,2.0,1.0
+ARC-700667,C 2024 11038,Final,SUMMIT ENGINEERING ASSOCIATES,V20302,hmurphy@mta-example.org,In Review,2026-05-20T00:00:00,2026-07-01T16:00:00,,,,,
+ARC-700668,C 2024 11039,Interim,Pinnacle Contracting Group LLC,V20242,lthompson@mta-example.org,Approved,2025-05-03T00:00:00,2025-09-22T06:00:00,3.0,3.0,5.0,4.0,4.0
+ARC-700669,C 2022 11040,Final,Ironline Electric Group LLC,,adiaz@mta-example.org,In Review,2023-03-10T00:00:00,2023-05-25T15:00:00,,,,,
+ARC-700670,C 2023 11043,Final,Sterling Technologies,V20296,ojohnson@mta-example.org,Approved,2024-01-08T00:00:00,2024-06-12T00:00:00,5.0,4.0,4.0,5.0,5.0
+ARC-700671,C-2024-11047,Final,KEYSTONE ENGINEERING GROUP LLC,V20161,fthompson@mta-example.org,Pending Approval,2026-07-15T00:00:00,2026-10-09T00:00:00,4.0,4.0,4.0,4.0,3.0
+ARC-700672,C-2023-11048,Final,Meridian Engineering Ltd,V20198,FALI@MTA-EXAMPLE.ORG,Pending Approval,2024-10-24T00:00:00,2025-01-27T15:00:00,1.0,1.0,2.0,2.0,1.0
+ARC-700673,C-2023-11049,Interim,IRONLINE TECHNOLOGIES LLC,V20151,mpark@mta-example.org,Approved,2025-02-08T00:00:00,2025-06-10T03:00:00,4.0,3.0,4.0,3.0,4.0
+ARC-700674,C 2023 11050,Final,Vanguard Technologies Corp,V20337,JSANTOS@MTA-EXAMPLE.ORG,Pending Approval,2026-06-29T00:00:00,2026-10-11T00:00:00,4.0,5.0,5.0,4.0,4.0
+ARC-700675,C-2023-11051,Final,PARAGON RAIL SERVICES CO.,V20225,kgreene@mta-example.org,In Review,2024-04-09T00:00:00,2024-05-28T22:00:00,,,,,
+ARC-700676,C 2023 11053,Final,Beacon Technologies Co.,,fokafor@mta-example.org,Approved,2024-07-25T00:00:00,2024-10-11T18:00:00,3.0,4.0,2.0,3.0,3.0
+ARC-700677,C 2023 11055,Interim,Granite Spuply Ltd.,,mpark@mta-example.org,Pending Approval,2025-02-22T00:00:00,2025-07-11T16:00:00,5.0,4.0,5.0,3.0,3.0
+ARC-700678,C-2022-11058,Interim,Meridian Contracting Co.,V20195,rhaddad@mta-example.org,Approved,2023-11-06T00:00:00,2024-04-04T10:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700679,C 2022 11058,Interim,Meridian Contrcating Co.,,rhaddad@mta-example.org,Approved,2024-11-06T00:00:00,2025-01-11T21:00:00,3.0,5.0,4.0,4.0,4.0
+ARC-700680,C 2024 11060,Final,Cornerstone Builders Associates  ,V20050,OJOHNSON@MTA-EXAMPLE.ORG,Approved,2025-07-19T00:00:00,2025-09-24T00:00:00,3.0,3.0,2.0,4.0,2.0
+ARC-700681,C-2023-11061,Final,Harbor Data Systems Group LLC,V20104,gali@mta-example.org,Approved,2023-12-24T00:00:00,2024-04-24T00:00:00,2.0,3.0,4.0,4.0,3.0
+ARC-700682,C-2024-11064,Final,KEYSTONE CONSTRUCTION LTD.,V20155,SCHEN@MTA-EXAMPLE.ORG,Approved,2025-03-24T00:00:00,2025-06-25T17:00:00,3.0,4.0,4.0,3.0,4.0
+ARC-700683,C 2022 11065,Interim,STATEWIDE RAIL SERVICES CO.,,jsantos@mta-example.org,Approved,2023-06-02T00:00:00,2023-08-22T19:00:00,4.0,5.0,5.0,4.0,4.0
+ARC-700684,C 2024 11066,Interim,EASTERN TECHNOLOGIES GROUP LLC,,RPARK@MTA-EXAMPLE.ORG,Approved,2025-09-02T00:00:00,2025-11-26T23:00:00,4.0,4.0,3.0,3.0,4.0
+ARC-700685,C 2023 11068,Interim,Union Infrastructure Co.,V20321,lrodriguez@mta-example.org,Approved,2024-11-28T00:00:00,2025-04-01T00:00:00,3.0,3.0,3.0,4.0,2.0
+ARC-700686,C 2023 11068,Final,Union Infrastructure Company,,lrodriguez@mta-example.org,Pending Approval,2025-05-30T00:00:00,2025-08-13T02:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700687,C 2023 11069,Interim,STATEWIDE ELECTRIC GROUP LLC  ,V20271,swilliams@mta-example.org,In Review,2024-03-28T00:00:00,2024-07-19T20:00:00,,,,,
+ARC-700688,C-2023-11070,Interim,IRONLINE MECHANICAL CORP.,,swilliams@mta-example.org,Approved,2024-10-27T00:00:00,2025-02-12T01:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700689,C 2023 11070,Interim,Ironline Mechanical  ,V20148,swilliams@mta-example.org,Pending Approval,2025-10-27T00:00:00,2026-02-06T14:00:00,5.0,5.0,5.0,4.0,5.0
+ARC-700690,C-2024-11075,Interim,INTERBORO MECHANICAL GROUP LLC,V20137,mchen@mta-example.org,In Review,2025-07-06T00:00:00,2025-09-04T14:00:00,,,,,
+ARC-700691,C 2024 11077,Final,Paragon Infrastructure Group LLC,V20224,kgreene@mta-example.org,Approved,2025-04-12T00:00:00,2025-09-27T01:00:00,4.0,3.0,3.0,3.0,3.0
+ARC-700692,C 2022 11078,Final,Ironline Track Works & Sons Inc.,V20152,frahman@mta-example.org,Approved,2023-07-03T00:00:00,2023-12-02T17:00:00,3.0,3.0,4.0,4.0,3.0
+ARC-700693,C-2022-11082,Interim,HORIZON ENGINEERING GROUP LLC,,fokafor@mta-example.org,Approved,2024-10-27T00:00:00,2025-02-19T06:00:00,3.0,4.0,3.0,4.0,3.0
+ARC-700694,C 2022 11082,Final,Horizon Engineering Group LLC,V20117,fokafor@mta-example.org,In Review,2025-10-25T00:00:00,2026-02-23T16:00:00,,,,,
+ARC-700695,C-2022-11083,Interim,Keystone Engineering Co.,V20160,gali@mta-example.org,Approved,2023-06-01T00:00:00,2023-09-02T21:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700696,C-2022-11083,Final,Keystone Engineering Co.,,gali@mta-example.org,Approved,2023-11-30T00:00:00,2024-03-14T04:00:00,4.0,3.0,3.0,3.0,3.0
+ARC-700697,C-2023-11084,Final,Hudson Builders LLC,,psantos@mta-example.org,Approved,2024-09-23T00:00:00,2025-02-17T00:00:00,3.0,3.0,2.0,2.0,3.0
+ARC-700698,C-2022-11085,Final,The Gotham Contracting Ltd.,V20086,rhaddad@mta-example.org,Approved,2023-08-31T00:00:00,2024-02-11T22:00:00,4.0,4.0,2.0,3.0,4.0
+ARC-700699,C-2024-11086,Interim,The Liberty Contracting Associates  ,V20180,gali@mta-example.org,Approved,2025-11-06T00:00:00,2026-01-26T23:00:00,3.0,3.0,3.0,4.0,3.0
+ARC-700700,C-2024-11086,Final,Liberty Contracting Associates,V20180,GALI@MTA-EXAMPLE.ORG,Approved,2026-05-07T00:00:00,2026-09-21T19:00:00,3.0,4.0,3.0,4.0,3.0
+ARC-700701,C 2024 11087,Interim,Lexington Engineering  ,,CDIAZ@MTA-EXAMPLE.ORG,Approved,2025-07-28T00:00:00,2026-01-19T21:00:00,2.0,3.0,2.0,2.0,2.0
+ARC-700702,C-2024-11087,Interim,Lexington Engineering Corp.,V20171,cdiaz@mta-example.org,Approved,2026-07-28T00:00:00,2026-10-07T00:00:00,2.0,3.0,3.0,5.0,2.0
+ARC-700703,C-2023-11088,Final,Meridian Contracting and Sons Inc.,V20194,mmurphy@mta-example.org,Approved,2024-03-05T00:00:00,2024-07-31T00:00:00,3.0,3.0,3.0,4.0,3.0
+ARC-700704,C 2022 11089,Interim,Bridgeway Rail Services Corporation  ,V20039,OWALKER@MTA-EXAMPLE.ORG,Approved,2024-02-19T00:00:00,2024-07-01T18:00:00,4.0,5.0,4.0,4.0,4.0
+ARC-700705,C 2024 11090,Final,Granite Infrastructure Ltd  ,,phussain@mta-example.org,Pending Approval,2025-08-31T00:00:00,2026-01-23T00:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700706,C 2022 11091,Interim,Allied Infrastructure Inc.,V20006,LRODRIGUEZ@MTA-EXAMPLE.ORG,Approved,2023-11-24T00:00:00,2024-05-23T02:00:00,5.0,4.0,5.0,3.0,5.0
+ARC-700707,C 2022 11091,Final,Allied Infrastructure Inc.,V20006,lrodriguez@mta-example.org,In Review,2024-05-24T00:00:00,2024-08-08T18:00:00,,,,,
+ARC-700708,C 2023 11095,Interim,Beacon Consulting Group LLC,V20024,schen@mta-example.org,Approved,2024-09-20T00:00:00,2025-01-28T02:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700709,C 2023 11096,Interim,Granite Rail Services Associates  ,V20098,phussain@mta-example.org,Approved,2026-03-18T00:00:00,2026-06-12T01:00:00,4.0,5.0,5.0,3.0,4.0
+ARC-700710,C 2024 11097,Interim,EASTERN CONSULTING & SONS INC.,V20067,mchen@mta-example.org,Approved,2025-08-14T00:00:00,2025-11-22T03:00:00,4.0,5.0,4.0,4.0,4.0
+ARC-700711,C 2024 11097,Interim,Eastern Consulting & Sons Inc.,V20067,mchen@mta-example.org,Approved,2026-08-14T00:00:00,2026-10-14T00:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700712,C 2023 11098,Interim,GRANITE CONSTRUCTION INC.,V20091,YMARTINEZ@MTA-EXAMPLE.ORG,Approved,2024-09-04T00:00:00,2024-12-20T20:00:00,4.0,4.0,5.0,5.0,3.0
+ARC-700713,C 2023 11098,Interim,Granite Construction Inc.  ,V20091,ymartinez@mta-example.org,Approved,2025-09-04T00:00:00,2026-02-25T23:00:00,3.0,3.0,4.0,4.0,3.0
+ARC-700714,C 2024 11100,Interim,ATLAS SIGNAL SYSTEMS ASSOCIATES,V20019,ppark@mta-example.org,Approved,2025-05-21T00:00:00,2025-08-01T22:00:00,3.0,3.0,3.0,4.0,3.0
+ARC-700715,C 2024 11100,Interim,Atlas Signal Systems Associates  ,V20019,ppark@mta-example.org,Approved,2026-05-21T00:00:00,2026-09-03T19:00:00,2.0,3.0,3.0,2.0,3.0
+ARC-700716,C 2022 11102,Interim,Ironline Track Works and Sons Inc.,V20152,rcohen@mta-example.org,Approved,2023-08-27T00:00:00,2023-12-12T04:00:00,3.0,3.0,2.0,3.0,2.0
+ARC-700717,C 2022 11103,Interim,Hudson Technologies Associates,,cdiaz@mta-example.org,Approved,2023-04-28T00:00:00,2023-08-04T22:00:00,4.0,4.0,3.0,3.0,3.0
+ARC-700718,C 2023 11104,Interim,Statewide Technologies and Sons Inc.,V20280,KGREENE@MTA-EXAMPLE.ORG,Approved,2024-02-04T00:00:00,2024-06-26T21:00:00,3.0,2.0,3.0,3.0,3.0
+ARC-700719,C 2023 11110,Interim,Keystone Engineering Co.,V20160,awalker@mta-example.org,Approved,2026-01-10T00:00:00,2026-06-24T06:00:00,3.0,4.0,4.0,2.0,2.0
+ARC-700720,C 2022 11111,Final,Granite Construction Ltd.,,SWILLIAMS@MTA-EXAMPLE.ORG,Approved,2023-01-29T00:00:00,2023-07-16T20:00:00,4.0,4.0,3.0,4.0,4.0
+ARC-700721,C 2022 11112,Interim,Liberty Contracting Associates  ,,ppark@mta-example.org,Pending Approval,2024-03-08T00:00:00,2024-06-26T23:00:00,3.0,3.0,3.0,4.0,4.0
+ARC-700722,C 2022 11112,Final,Liberty Contracting Associates,V20180,PPARK@MTA-EXAMPLE.ORG,In Review,2025-03-06T00:00:00,2025-06-09T17:00:00,,,,,
+ARC-700723,C-2024-11113,Final,Keystone Engineering Group LLC,V20161,tbrown@mta-example.org,Pending Approval,2025-09-02T00:00:00,2025-11-26T14:00:00,4.0,4.0,4.0,3.0,4.0
+ARC-700724,C 2022 11115,Final,Paragon Builders Incorporated,V20216,FOKAFOR@MTA-EXAMPLE.ORG,Approved,2025-07-26T00:00:00,2025-11-10T01:00:00,3.0,4.0,3.0,2.0,2.0
+ARC-700725,C-2024-11116,Interim,Paragon Signal Systems & Sons  ,V20227,gali@mta-example.org,In Review,2025-07-27T00:00:00,2025-09-26T12:00:00,,,,,
+ARC-700726,C 2022 11117,Interim,Crescent Track Works,,adiaz@mta-example.org,Pending Approval,2023-02-16T00:00:00,2023-06-22T15:00:00,4.0,4.0,4.0,5.0,5.0
+ARC-700727,C 2022 11120,Interim,Horizon Engineering Associates  ,V20116,enguyen@mta-example.org,Approved,2023-08-17T00:00:00,2023-11-21T04:00:00,5.0,5.0,4.0,3.0,4.0
+ARC-700728,C 2022 11120,Final,Horizon Engineering Associates,V20116,enguyen@mta-example.org,Approved,2024-08-15T00:00:00,2025-02-13T19:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700729,C-2023-11122,Interim,STERLING INFRASTRUCTURE CORP.,,phussain@mta-example.org,Approved,2025-01-09T00:00:00,2025-05-01T20:00:00,3.0,4.0,4.0,3.0,4.0
+ARC-700730,C-2023-11122,Final,Sterling Infrastructure Corp,V20291,phussain@mta-example.org,In Review,2026-01-07T00:00:00,2026-03-07T20:00:00,,,,,
+ARC-700731,C-2023-11123,Final,Northeast Supply Group LLC  ,V20213,epark@mta-example.org,Approved,2024-07-25T00:00:00,2024-11-26T21:00:00,4.0,4.0,3.0,4.0,3.0
+ARC-700732,C-2024-11125,Interim,Northeast Environmental & Sons Incorporated  ,,hmurphy@mta-example.org,Approved,2025-08-17T00:00:00,2026-01-08T06:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700733,C-2022-11127,Interim,Lexington Electric LLC,V20170,ppark@mta-example.org,Approved,2023-08-22T00:00:00,2023-12-31T00:00:00,3.0,3.0,3.0,4.0,4.0
+ARC-700734,C-2022-11128,Final,Horizon Technologies & Sons,,cdiaz@mta-example.org,Approved,2024-06-03T00:00:00,2024-10-12T00:00:00,2.0,3.0,2.0,3.0,3.0
+ARC-700735,C 2024 11130,Interim,Patriot Contracting Corp.  ,,enguyen@mta-example.org,Approved,2026-04-04T00:00:00,2026-09-12T19:00:00,4.0,4.0,4.0,3.0,2.0
+ARC-700736,C-2024-11131,Interim,Liberty Contracting LLC,V20181,gali@mta-example.org,Pending Approval,2025-01-16T00:00:00,2025-05-01T20:00:00,4.0,3.0,3.0,3.0,3.0
+ARC-700737,C 2024 11131,Final,Liberty Contracting LLC,V20181,gali@mta-example.org,In Review,2026-01-14T00:00:00,2026-03-09T11:00:00,,,,,
+ARC-700738,C 2022 11132,Interim,Granite Rail Services Associates  ,V20098,owalker@mta-example.org,Approved,2023-12-04T00:00:00,2024-04-06T20:00:00,5.0,4.0,5.0,4.0,4.0
+ARC-700739,C 2023 11137,Final,The Cornerstone Mechanical Ltd.  ,V20058,ppark@mta-example.org,Approved,2023-08-25T00:00:00,2023-11-20T21:00:00,4.0,3.0,2.0,3.0,3.0
+ARC-700740,C 2023 11140,Final,Paragon Infrastructure Group LLC,V20224,owalker@mta-example.org,In Review,2025-05-21T00:00:00,2025-09-07T19:00:00,,,,,
+ARC-700741,C-2022-11142,Final,Interboro Rail Services LLC,V20138,LTHOMPSON@MTA-EXAMPLE.ORG,Approved,2023-05-21T00:00:00,2023-08-21T22:00:00,4.0,3.0,4.0,4.0,3.0
+ARC-700742,C-2024-11145,Interim,Hudson Engineering Associates,V20126,frahman@mta-example.org,Approved,2025-07-20T00:00:00,2026-01-07T01:00:00,4.0,4.0,3.0,4.0,5.0
+ARC-700743,C 2024 11146,Final,Tri-State Electric & Sons,V20309,lrodriguez@mta-example.org,Approved,2025-05-22T00:00:00,2025-11-09T00:00:00,3.0,3.0,3.0,4.0,3.0
+ARC-700744,C-2022-11147,Interim,Sterling Rail Services Co,V20292,jsantos@mta-example.org,In Review,2023-02-16T00:00:00,2023-05-05T19:00:00,,,,,
+ARC-700745,C 2022 11147,Final,Sterling Rail Services Co.,V20292,jsantos@mta-example.org,Approved,2026-02-14T00:00:00,2026-06-11T16:00:00,5.0,3.0,4.0,4.0,4.0
+ARC-700746,C 2023 11148,Final,Granite Construction Ltd.,V20092,rcohen@mta-example.org,Approved,2024-09-19T00:00:00,2025-01-26T23:00:00,3.0,2.0,4.0,4.0,2.0
+ARC-700747,C-2023-11149,Interim,Eastern Data Systems Associates,,ppark@mta-example.org,Approved,2024-03-07T00:00:00,2024-08-23T00:00:00,4.0,5.0,4.0,4.0,4.0
+ARC-700748,C 2022 11151,Interim,UNION SIGNAL SYSTEMS ASSOCIATES,,mcohen@mta-example.org,Approved,2023-08-17T00:00:00,2024-01-07T05:00:00,3.0,3.0,4.0,5.0,4.0
+ARC-700749,C-2023-11153,Final,Beacon Environmental Co.,V20028,apatel@mta-example.org,Pending Approval,2024-02-08T00:00:00,2024-04-03T18:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700750,C-2023-11155,Interim,Atlas Signal Systems,V20019,schen@mta-example.org,Approved,2025-07-28T00:00:00,2025-11-04T00:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700751,C 2022 11156,Interim,Beacon Technolgoies Co.,V20030,TBROWN@MTA-EXAMPLE.ORG,Approved,2025-06-10T00:00:00,2025-08-26T23:00:00,4.0,4.0,3.0,2.0,3.0
+ARC-700752,C-2022-11156,Final,Beacon Tcehnologies Co.,,tbrown@mta-example.org,Approved,2026-06-08T00:00:00,2026-10-06T00:00:00,4.0,4.0,5.0,3.0,4.0
+ARC-700753,C-2024-11157,Interim,Sterling Tehcnologies Corp.,V20296,tbrown@mta-example.org,In Review,2025-10-17T00:00:00,2026-01-03T16:00:00,,,,,
+ARC-700754,C-2023-11159,Final,The Interboro Engineering LLC,V20135,rpark@mta-example.org,Approved,2023-12-06T00:00:00,2024-06-25T03:00:00,5.0,5.0,4.0,5.0,4.0
+ARC-700755,C-2023-11160,Interim,IRONLINE INFRASTRUCTURE LLC,,rsantos@mta-example.org,Approved,2024-12-14T00:00:00,2025-05-11T05:00:00,3.0,3.0,4.0,3.0,3.0
+ARC-700756,C-2023-11160,Final,Ironline Infrastructure LLC,V20147,rsantos@mta-example.org,Approved,2025-12-12T00:00:00,2026-04-06T20:00:00,5.0,3.0,4.0,4.0,4.0
+ARC-700757,C 2022 11161,Interim,The Summit Contracting Corp.,,rpark@mta-example.org,Approved,2023-12-09T00:00:00,2024-02-18T14:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700758,C 2022 11162,Final,Lexington Infrastructure Group LLC,V20172,MPARK@MTA-EXAMPLE.ORG,Approved,2024-02-27T00:00:00,2024-07-15T01:00:00,4.0,4.0,2.0,3.0,3.0
+ARC-700759,C-2022-11165,Final,Atlas Infrastructure Group,V20017,adiaz@mta-example.org,In Review,2023-11-29T00:00:00,2024-01-17T17:00:00,,,,,
+ARC-700760,C 2022 11169,Final,Allied Infrastructure Inc,V20006,FRAHMAN@MTA-EXAMPLE.ORG,Approved,2024-08-04T00:00:00,2024-11-02T22:00:00,4.0,5.0,5.0,5.0,5.0
+ARC-700761,C 2022 11171,Final,The Interboro Builders Group LLC  ,V20133,mpark@mta-example.org,Approved,2025-03-13T00:00:00,2025-08-31T04:00:00,3.0,4.0,3.0,1.0,3.0
+ARC-700762,C-2022-11175,Interim,The Meridian Technologies Co.,V20200,hmurphy@mta-example.org,In Review,2023-10-20T00:00:00,2024-01-15T13:00:00,,,,,
+ARC-700763,C-2022-11175,Interim,Meridian Technologies Company,V20200,HMURPHY@MTA-EXAMPLE.ORG,Pending Approval,2024-10-20T00:00:00,2025-02-02T15:00:00,2.0,2.0,3.0,3.0,3.0
+ARC-700764,C-2022-11175,Final,Meridian Technologies,V20200,hmurphy@mta-example.org,In Review,2025-10-18T00:00:00,2025-11-16T15:00:00,,,,,
+ARC-700765,C-2023-11177,Final,Vanguard Mechanical Associates,V20335,LRODRIGUEZ@MTA-EXAMPLE.ORG,Approved,2024-10-28T00:00:00,2025-01-14T19:00:00,2.0,3.0,4.0,4.0,3.0
+ARC-700766,C-2022-11179,Interim,MERIDIAN TRACK WORKS CO.,,kgreene@mta-example.org,Pending Approval,2023-09-28T00:00:00,2024-01-09T21:00:00,4.0,3.0,3.0,4.0,5.0
+ARC-700767,C 2022 11179,Interim,Meridian Track Works Co.  ,V20201,kgreene@mta-example.org,Approved,2024-09-28T00:00:00,2025-03-31T20:00:00,3.0,3.0,3.0,2.0,4.0
+ARC-700768,C 2022 11180,Final,Granite Infrastructure Ltd.,V20095,rcohen@mta-example.org,Approved,2024-03-23T00:00:00,2024-07-07T19:00:00,2.0,1.0,3.0,2.0,2.0
+ARC-700769,C-2024-11181,Final,Queensboro Rail Services Ltd,,ymartinez@mta-example.org,Approved,2025-02-16T00:00:00,2025-08-06T04:00:00,3.0,3.0,3.0,3.0,4.0
+ARC-700770,C 2023 11183,Interim,STERLING TECHNOLOGIES CORP.,V20296,MMURPHY@MTA-EXAMPLE.ORG,Approved,2024-06-02T00:00:00,2024-08-23T00:00:00,5.0,5.0,4.0,4.0,4.0
+ARC-700771,C-2023-11183,Final,The Sterling Technologies Corp.,V20296,mmurphy@mta-example.org,Approved,2024-11-30T00:00:00,2025-05-06T05:00:00,4.0,3.0,4.0,4.0,4.0
+ARC-700772,C 2023 11186,Interim,Statewide Environmental Ltd.,,PSANTOS@MTA-EXAMPLE.ORG,Approved,2024-03-06T00:00:00,2024-06-18T01:00:00,3.0,4.0,3.0,3.0,4.0
+ARC-700773,C-2023-11186,Final,Statewide Environmental Ltd.,,psantos@mta-example.org,Approved,2025-03-04T00:00:00,2025-06-13T18:00:00,4.0,5.0,5.0,5.0,5.0
+ARC-700774,C-2023-11188,Interim,Empire Data Systems & Sons Inc.  ,,schen@mta-example.org,Approved,2026-02-04T00:00:00,2026-04-24T00:00:00,5.0,5.0,5.0,4.0,4.0
+ARC-700775,C-2022-11189,Final,Ironline Contracting Ltd,V20142,mmurphy@mta-example.org,Approved,2023-09-19T00:00:00,2023-12-17T01:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700776,C 2023 11190,Interim,Pinnacle Infrastructure Ltd.,V20245,mpark@mta-example.org,Approved,2024-08-21T00:00:00,2025-02-22T18:00:00,4.0,4.0,5.0,4.0,4.0
+ARC-700777,C 2023 11192,Interim,Statewide Technologies & Sons Inc,V20280,RSANTOS@MTA-EXAMPLE.ORG,Pending Approval,2025-01-11T00:00:00,2025-04-10T20:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700778,C-2023-11192,Final,Statewide Technologies & Sons Inc.,V20280,rsantos@mta-example.org,In Review,2026-01-09T00:00:00,2026-03-15T18:00:00,,,,,
+ARC-700779,C 2023 11194,Interim,HARBOR ENVIRONMENTAL & SONS INC.  ,V20106,lrodriguez@mta-example.org,Approved,2024-04-28T00:00:00,2024-09-19T17:00:00,3.0,3.0,4.0,3.0,4.0
+ARC-700780,C 2024 11196,Interim,NORTHEAST BUILDERS ASSOCIATES,V20202,mchen@mta-example.org,Approved,2025-08-12T00:00:00,2025-12-23T23:00:00,4.0,5.0,4.0,4.0,5.0
+ARC-700781,C 2024 11196,Final,NORTHEAST BUILDERS ASSOCIATES  ,V20202,mchen@mta-example.org,Approved,2026-02-10T00:00:00,2026-06-23T22:00:00,4.0,3.0,4.0,3.0,4.0
+ARC-700782,C-2022-11197,Final,Horizon Engnieering LLC,V20118,mchen@mta-example.org,Approved,2023-05-13T00:00:00,2023-08-27T04:00:00,3.0,4.0,3.0,2.0,3.0
+ARC-700783,C 2024 11198,Final,Liberty Rail Services Associates,V20187,PHUSSAIN@MTA-EXAMPLE.ORG,Pending Approval,2026-02-12T00:00:00,2026-07-18T19:00:00,3.0,3.0,4.0,4.0,3.0
+ARC-700784,C-2022-11199,Final,Patriot Contracting Corp.,V20231,rsantos@mta-example.org,Approved,2024-02-06T00:00:00,2024-05-16T19:00:00,2.0,4.0,3.0,2.0,3.0
+ARC-700785,C-2022-11200,Interim,Tri-State Infrastructure & Sons Inc.,V20310,apatel@mta-example.org,Approved,2023-04-03T00:00:00,2023-08-25T15:00:00,2.0,1.0,1.0,1.0,2.0
+ARC-700786,C-2024-11201,Final,The Patriot Technologies Ltd,V20237,rpark@mta-example.org,Approved,2024-09-23T00:00:00,2025-03-29T00:00:00,3.0,5.0,5.0,4.0,4.0
+ARC-700787,C 2024 11202,Interim,Interboro Signal Systems Inc.,V20139,GALI@MTA-EXAMPLE.ORG,In Review,2025-04-24T00:00:00,2025-06-06T19:00:00,,,,,
+ARC-700788,C 2024 11203,Interim,Northeast Contracting Associates,V20206,psantos@mta-example.org,In Review,2025-09-25T00:00:00,2025-11-29T19:00:00,,,,,
+ARC-700789,C-2023-11205,Interim,Granite Electric Incorporated,V20094,lrodriguez@mta-example.org,Approved,2024-04-27T00:00:00,2024-09-27T05:00:00,4.0,3.0,5.0,3.0,4.0
+ARC-700790,C-2023-11205,Final,Granite Electric Inc.,,lrodriguez@mta-example.org,Approved,2025-04-25T00:00:00,2025-06-05T04:00:00,3.0,4.0,5.0,4.0,4.0
+ARC-700791,C-2024-11207,Final,The KEYSTONE CONSULTING & SONS INC.  ,V20156,tbrown@mta-example.org,Approved,2024-08-09T00:00:00,2025-01-08T22:00:00,4.0,4.0,3.0,4.0,5.0
+ARC-700792,C-2022-11208,Final,Sterling Data Systems LLC,,trahman@mta-example.org,Approved,2024-08-26T00:00:00,2024-12-05T19:00:00,3.0,3.0,3.0,3.0,2.0
+ARC-700793,C-2023-11209,Interim,Empire Infrastructure Incorporated,V20079,ADIAZ@MTA-EXAMPLE.ORG,Approved,2025-09-06T00:00:00,2026-01-09T08:00:00,4.0,4.0,4.0,2.0,4.0
+ARC-700794,C-2024-11214,Final,Crescent Track Works Co.,V20066,swilliams@mta-example.org,Pending Approval,2025-01-10T00:00:00,2025-05-26T00:00:00,4.0,3.0,4.0,4.0,3.0
+ARC-700795,C-2022-11216,Final,Vanguard Technologies Corporation,V20337,TBROWN@MTA-EXAMPLE.ORG,Approved,2024-02-11T00:00:00,2024-03-14T03:00:00,4.0,3.0,5.0,5.0,4.0
+ARC-700796,C 2023 11217,Interim,Vanguard Data Systems Group LLC  ,V20331,MCHEN@MTA-EXAMPLE.ORG,In Review,2024-05-06T00:00:00,2024-08-19T14:00:00,,,,,
+ARC-700797,C-2023-11217,Interim,Vanguard Data Systems Group LLC,V20331,mchen@mta-example.org,Approved,2025-05-06T00:00:00,2025-08-07T21:00:00,2.0,2.0,2.0,2.0,3.0
+ARC-700798,C-2024-11218,Final,Cornerstone Mechanical Ltd.  ,,kgreene@mta-example.org,In Review,2026-05-16T00:00:00,2026-08-25T17:00:00,,,,,
+ARC-700799,C 2022 11219,Interim,Granite Construction & Sons Incorporated,V20089,epark@mta-example.org,Approved,2023-03-17T00:00:00,2023-09-01T21:00:00,1.0,2.0,1.0,1.0,2.0
+ARC-700800,C-2024-11220,Final,STERLING SIGNAL SYSTEMS CORP.,,lthompson@mta-example.org,Approved,2025-04-10T00:00:00,2025-08-22T07:00:00,3.0,2.0,5.0,3.0,3.0
+ARC-700801,C-2022-11221,Interim,STATEWIDE ENGINEERING GROUP LLC,V20272,rpark@mta-example.org,Approved,2023-10-28T00:00:00,2024-04-29T20:00:00,5.0,4.0,3.0,3.0,4.0
+ARC-700802,C-2022-11221,Interim,STATEWIDE ENGINEERING GROUP LLC  ,V20272,rpark@mta-example.org,Approved,2024-10-28T00:00:00,2025-04-01T17:00:00,1.0,2.0,2.0,1.0,2.0
+ARC-700803,C 2024 11222,Final,The Crescent Track Works,,trahman@mta-example.org,Approved,2024-12-21T00:00:00,2025-05-10T11:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700804,C-2022-11223,Final,Interboro Rail Services LLC,V20138,mchen@mta-example.org,In Review,2024-04-12T00:00:00,2024-06-21T12:00:00,,,,,
+ARC-700805,C-2023-11225,Interim,The Paragon Infrastructure Associates,V20223,LTHOMPSON@MTA-EXAMPLE.ORG,Approved,2025-08-05T00:00:00,2025-12-12T00:00:00,3.0,4.0,4.0,4.0,4.0
+ARC-700806,C-2023-11226,Interim,PARAGON TECHNOLOGIES INC.,V20228,epark@mta-example.org,Approved,2024-03-17T00:00:00,2024-09-04T05:00:00,4.0,3.0,3.0,5.0,5.0
+ARC-700807,C 2023 11226,Final,Paragon Technologies Inc.,V20228,EPARK@MTA-EXAMPLE.ORG,In Review,2026-03-15T00:00:00,2026-05-11T17:00:00,,,,,
+ARC-700808,C 2024 11228,Final,Allied Builders & Sons,V20000,rcohen@mta-example.org,Approved,2024-07-12T00:00:00,2024-11-14T08:00:00,5.0,3.0,4.0,3.0,5.0
+ARC-700809,C 2022 11233,Final,Keystone Data Systems & Sons Inc  ,V20158,gali@mta-example.org,Approved,2022-12-31T00:00:00,2023-07-22T01:00:00,4.0,5.0,4.0,5.0,5.0
+ARC-700810,C 2024 11235,Final,CRESCENT CONSTRUCTION INC.,V20061,rcohen@mta-example.org,Approved,2025-02-20T00:00:00,2025-06-22T16:00:00,4.0,4.0,4.0,3.0,4.0
+ARC-700811,C-2023-11236,Final,Riverside Consulting Corp,,ENGUYEN@MTA-EXAMPLE.ORG,Approved,2025-04-01T00:00:00,2025-09-09T23:00:00,4.0,3.0,3.0,4.0,3.0
+ARC-700812,C 2023 11238,Final,Vanguard Rail Services Co.,V20336,gali@mta-example.org,Approved,2025-02-03T00:00:00,2025-07-11T03:00:00,3.0,3.0,3.0,2.0,3.0
+ARC-700813,C 2022 11240,Interim,Allied Mechanical Group LLC  ,,ymartinez@mta-example.org,In Review,2023-06-28T00:00:00,2023-08-13T15:00:00,,,,,
+ARC-700814,C-2022-11240,Interim,Allied Mechanical Group LLC,,ymartinez@mta-example.org,Approved,2025-06-28T00:00:00,2025-12-03T19:00:00,3.0,3.0,4.0,5.0,5.0
+ARC-700815,C 2023 11241,Final,Atlas Environmental LLC,V20016,PSANTOS@MTA-EXAMPLE.ORG,Approved,2025-02-11T00:00:00,2025-06-11T04:00:00,4.0,4.0,5.0,5.0,4.0
+ARC-700816,C 2022 11242,Final,Vanguard Technologies Group LLC,V20338,PSANTOS@MTA-EXAMPLE.ORG,Approved,2024-05-31T00:00:00,2024-09-27T03:00:00,1.0,2.0,3.0,4.0,3.0
+ARC-700817,C 2023 11243,Interim,Summit Consulting LLC,,ojohnson@mta-example.org,Approved,2024-12-13T00:00:00,2025-05-08T04:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700818,C 2024 11244,Interim,GRANITE CONSTRUCTION GROUP LLC,V20090,rhaddad@mta-example.org,Approved,2025-10-28T00:00:00,2026-02-16T00:00:00,3.0,4.0,3.0,3.0,2.0
+ARC-700819,C-2023-11247,Interim,Vanguard Technologies Corp.  ,V20337,kgreene@mta-example.org,Pending Approval,2024-05-15T00:00:00,2024-09-22T22:00:00,4.0,4.0,4.0,5.0,4.0
+ARC-700820,C 2024 11248,Interim,STERLING SIGNAL SYSTEMS CORP.,,swilliams@mta-example.org,Approved,2026-07-05T00:00:00,2026-10-22T00:00:00,3.0,2.0,1.0,2.0,2.0
+ARC-700821,C 2022 11249,Final,Atlas Signal Systems Ltd.,V20020,mpark@mta-example.org,Approved,2023-01-04T00:00:00,2023-07-14T20:00:00,4.0,3.0,3.0,3.0,3.0
+ARC-700822,C-2022-11254,Interim,TRI-STATE TRACK WORKS CORP.,V20312,rpark@mta-example.org,Approved,2023-08-02T00:00:00,2023-11-24T01:00:00,4.0,4.0,4.0,4.0,4.0
+ARC-700823,C-2022-11254,Final,TRI-STATE TRACK WORKS CORP.,V20312,rpark@mta-example.org,Approved,2024-01-31T00:00:00,2024-07-20T18:00:00,2.0,3.0,3.0,4.0,3.0
+ARC-700824,C 2023 11255,Final,Horizon Contracting Corp.  ,V20115,owalker@mta-example.org,Approved,2024-04-01T00:00:00,2024-08-10T07:00:00,4.0,3.0,3.0,3.0,3.0
+ARC-700825,C-2022-11259,Final,Continental Engineering Associates,V20045,rpark@mta-example.org,Approved,2024-07-02T00:00:00,2024-12-27T21:00:00,4.0,2.0,3.0,2.0,1.0
+ARC-700826,C 2023 11260,Interim,INTERBORO MECHANICAL GROUP LLC,,fokafor@mta-example.org,Pending Approval,2024-05-07T00:00:00,2024-08-26T20:00:00,3.0,2.0,2.0,3.0,2.0
+ARC-700827,C 2024 11261,Final,Queensboro Electric Co  ,V20250,schen@mta-example.org,Approved,2026-02-12T00:00:00,2026-05-14T23:00:00,4.0,4.0,5.0,3.0,4.0
+ARC-700828,C-2023-11264,Final,Statewide Signal Systems Corp  ,V20278,phussain@mta-example.org,Approved,2023-11-17T00:00:00,2024-02-18T00:00:00,3.0,4.0,3.0,3.0,4.0
+ARC-700829,C-2024-11265,Final,Lexington Track Works Ltd.,V20175,schen@mta-example.org,Approved,2026-06-26T00:00:00,2026-10-19T00:00:00,3.0,3.0,4.0,4.0,4.0
+ARC-700830,C 2022 11266,Final,Meridian Contracting & Sons Inc.,V20194,HPATEL@MTA-EXAMPLE.ORG,Pending Approval,2023-04-06T00:00:00,2023-08-04T13:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700831,C 2024 11269,Final,Horizon Rail Services Ltd.,,rpark@mta-example.org,In Review,2026-05-21T00:00:00,2026-09-16T16:00:00,,,,,
+ARC-700832,C-2023-11274,Interim,Statewide Environmental Ltd,V20274,cdiaz@mta-example.org,Approved,2024-04-01T00:00:00,2024-08-14T18:00:00,3.0,3.0,4.0,3.0,2.0
+ARC-700833,C-2022-11275,Interim,Empire Builders Group LLC  ,V20072,awalker@mta-example.org,In Review,2024-03-11T00:00:00,2024-06-08T21:00:00,,,,,
+ARC-700834,C 2022 11275,Final,Empire Buidlers Group LLC,,awalker@mta-example.org,Approved,2025-03-09T00:00:00,2025-08-01T00:00:00,5.0,5.0,5.0,5.0,5.0
+ARC-700835,C 2023 11276,Interim,Allied Mechanical Co.,V20007,phussain@mta-example.org,Approved,2024-11-03T00:00:00,2025-03-05T14:00:00,4.0,3.0,3.0,4.0,4.0
+ARC-700836,C 2023 11278,Interim,Beacon Consulting Ltd,V20025,ymartinez@mta-example.org,In Review,2025-09-19T00:00:00,2025-12-28T18:00:00,,,,,
+ARC-700837,C-2023-11280,Final,Horizon Rail Services Ltd.  ,V20119,kgreene@mta-example.org,Approved,2024-01-23T00:00:00,2024-05-16T19:00:00,3.0,2.0,4.0,5.0,4.0
+ARC-700838,C 2024 11281,Interim,Cornerstone Buildres Associates,V20050,enguyen@mta-example.org,Approved,2025-09-07T00:00:00,2026-02-05T15:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700839,C-2024-11282,Final,IRONLINE SUPPLY LLC,V20150,fthompson@mta-example.org,Pending Approval,2024-09-25T00:00:00,2024-11-01T11:00:00,2.0,1.0,2.0,2.0,3.0
+ARC-700840,C-2023-11283,Interim,Lexington Electric LLC,V20170,phussain@mta-example.org,Pending Approval,2024-02-21T00:00:00,2024-06-27T21:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700841,C-2023-11283,Interim,LEXINGTON ELECTRIC LLC,V20170,phussain@mta-example.org,Approved,2025-02-21T00:00:00,2025-07-11T18:00:00,3.0,2.0,3.0,3.0,3.0
+ARC-700842,C 2023 11283,Final,Lexington Electric LLC,,phussain@mta-example.org,Approved,2026-02-19T00:00:00,2026-07-24T02:00:00,3.0,2.0,3.0,4.0,3.0
+ARC-700843,C 2022 11286,Final,Horizon Contracting Corp.,,FRAHMAN@MTA-EXAMPLE.ORG,Approved,2023-04-19T00:00:00,2023-08-08T23:00:00,3.0,3.0,3.0,3.0,3.0
+ARC-700844,C-2022-11289,Interim,Horizon Contracting Corporation,,frahman@mta-example.org,Approved,2023-08-28T00:00:00,2023-12-20T23:00:00,3.0,4.0,2.0,4.0,4.0
+ARC-700845,C 2023 11290,Final,Granite Mechanical LLC,V20096,RCOHEN@MTA-EXAMPLE.ORG,Approved,2025-05-11T00:00:00,2025-10-13T01:00:00,3.0,4.0,4.0,3.0,3.0
+ARC-700846,C 2023 11291,Interim,Vanguard Construction,,SCHEN@MTA-EXAMPLE.ORG,Approved,2024-07-12T00:00:00,2024-12-05T20:00:00,3.0,4.0,2.0,2.0,3.0
+ARC-700847,C-2023-11292,Interim,Ironline Mechanical Corporation,V20148,kgreene@mta-example.org,Approved,2024-05-09T00:00:00,2024-09-29T06:00:00,3.0,4.0,3.0,4.0,4.0
+ARC-700848,C 2023 11292,Interim,Ironline Mechanical Corp.,V20148,kgreene@mta-example.org,Approved,2025-05-09T00:00:00,2025-11-19T01:00:00,2.0,3.0,2.0,3.0,2.0
+ARC-700849,C 2023 11292,Final,The Ironline Mechanical Corp,V20148,kgreene@mta-example.org,Approved,2026-05-07T00:00:00,2026-08-24T22:00:00,4.0,2.0,2.0,3.0,4.0
+ARC-700850,C-2022-11293,Interim,Cornerstone Data Systems Inc.,V20053,mchen@mta-example.org,Approved,2023-08-09T00:00:00,2023-12-13T09:00:00,5.0,5.0,5.0,4.0,5.0
+ARC-700851,C-2022-11295,Final,Riverside Data Systems Associates  ,V20261,schen@mta-example.org,In Review,2023-08-23T00:00:00,2023-11-29T20:00:00,,,,,
+ARC-700852,C 2023 11296,Interim,STERLING SUPPLY ASSOCIATES,V20294,lthompson@mta-example.org,Approved,2024-10-11T00:00:00,2025-03-03T22:00:00,2.0,2.0,2.0,1.0,1.0
+ARC-700853,C 2023 11299,Final,Empire Data Systems & Sons Incorporated  ,V20076,hmurphy@mta-example.org,Approved,2024-06-27T00:00:00,2024-09-30T20:00:00,2.0,3.0,2.0,2.0,2.0

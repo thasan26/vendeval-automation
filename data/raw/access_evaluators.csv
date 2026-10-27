@@ -1,0 +1,60 @@
+evaluator_id,first_name,last_name,email,department,role,active,supervisor_id
+E101,Elena,Brown,ebrown@mta-example.org,Construction & Development,Director,True,
+E102,Andre,Goldberg,agoldberg@mta-example.org,Construction & Development,Supervisor,True,E101
+E103,Luis,Goldberg,lgoldberg@mta-example.org,Construction & Development,Supervisor,True,E101
+E104,Kevin,Greene,kgreene@mta-example.org,Construction & Development,Project Manager,True,E102
+E105,Omar,Walker,owalker@mta-example.org,Construction & Development,Project Manager,True,E103
+E106,Maria,Murphy,mmurphy@mta-example.org,Construction & Development,Project Manager,True,E103
+E107,Thomas,Brown,tbrown@mta-example.org,Construction & Development,Project Manager,True,E102
+E108,Elena,Park,epark@mta-example.org,Construction & Development,Project Manager,True,E103
+E109,Marcus,Martinez,mmartinez@mta-example.org,NYCT Infrastructure,Director,True,
+E110,Grace,Okafor,gokafor@mta-example.org,NYCT Infrastructure,Supervisor,True,E109
+E111,Omar,Chen,ochen@mta-example.org,NYCT Infrastructure,Supervisor,True,E109
+E112,Priya,Park,ppark@mta-example.org,NYCT Infrastructure,Project Manager,True,E110
+E113,Priya,Hussain,phussain@mta-example.org,NYCT Infrastructure,Project Manager,True,E110
+E114,Andre,Walker,awalker@mta-example.org,NYCT Infrastructure,Project Manager,True,E110
+E115,Omar,Johnson,ojohnson@mta-example.org,NYCT Infrastructure,Project Manager,True,E110
+E116,Hannah,Patel,hpatel@mta-example.org,NYCT Infrastructure,Project Manager,True,E110
+E117,Aisha,Cohen,acohen@mta-example.org,LIRR Engineering,Director,True,
+E118,Samuel,Lopez,slopez@mta-example.org,LIRR Engineering,Supervisor,True,E117
+E119,Victor,Okafor,vokafor@mta-example.org,LIRR Engineering,Supervisor,True,E117
+E120,Marcus,Park,mpark@mta-example.org,LIRR Engineering,Project Manager,True,E119
+E121,Elena,Nguyen,enguyen@mta-example.org,LIRR Engineering,Project Manager,False,E118
+E122,Luis,Thompson,lthompson@mta-example.org,LIRR Engineering,Project Manager,False,E119
+E123,Yuki,Martinez,ymartinez@mta-example.org,LIRR Engineering,Project Manager,True,E118
+E124,Samuel,Williams,swilliams@mta-example.org,LIRR Engineering,Project Manager,True,E119
+E125,Maria,Haddad,mhaddad@mta-example.org,Metro-North Engineering,Director,True,
+E126,Michael,Johnson,mjohnson@mta-example.org,Metro-North Engineering,Supervisor,True,E125
+E127,Omar,Rahman,orahman@mta-example.org,Metro-North Engineering,Supervisor,True,E125
+E128,Michael,Cohen,mcohen@mta-example.org,Metro-North Engineering,Project Manager,True,E126
+E129,James,Santos,jsantos@mta-example.org,Metro-North Engineering,Project Manager,False,E127
+E130,Fatima,Rahman,frahman@mta-example.org,Metro-North Engineering,Project Manager,True,E127
+E131,Carmen,Diaz,cdiaz@mta-example.org,Metro-North Engineering,Project Manager,True,E127
+E132,Priya,Santos,psantos@mta-example.org,Metro-North Engineering,Project Manager,True,E127
+E133,Luis,Nguyen,lnguyen@mta-example.org,Bridges & Tunnels,Director,True,
+E134,Kevin,Nguyen,knguyen@mta-example.org,Bridges & Tunnels,Supervisor,True,E133
+E135,Daniel,Thompson,dthompson@mta-example.org,Bridges & Tunnels,Supervisor,True,E133
+E136,Rachel,Park,rpark@mta-example.org,Bridges & Tunnels,Project Manager,True,E135
+E137,Maria,Chen,mchen@mta-example.org,Bridges & Tunnels,Project Manager,True,E134
+E138,Luis,Rodriguez,lrodriguez@mta-example.org,Bridges & Tunnels,Project Manager,True,E135
+E139,Fatima,Ali,fali@mta-example.org,Bridges & Tunnels,Project Manager,True,E135
+E140,Thomas,Rahman,trahman@mta-example.org,Bridges & Tunnels,Project Manager,True,E135
+E141,Aisha,Martinez,amartinez@mta-example.org,MTA IT,Director,True,
+E142,Leila,Ali,lali@mta-example.org,MTA IT,Supervisor,True,E141
+E143,Maria,Singh,msingh@mta-example.org,MTA IT,Supervisor,True,E141
+E144,Rachel,Cohen,rcohen@mta-example.org,MTA IT,Project Manager,True,E142
+E145,Grace,Ali,gali@mta-example.org,MTA IT,Project Manager,True,E142
+E146,Rachel,Haddad,rhaddad@mta-example.org,MTA IT,Project Manager,True,E143
+E147,Fatima,Okafor,fokafor@mta-example.org,MTA IT,Project Manager,True,E143
+E148,Sofia,Chen,schen@mta-example.org,MTA IT,Project Manager,True,E142
+E149,Omar,Goldberg,ogoldberg@mta-example.org,Facilities & Real Estate,Director,True,
+E150,Andre,Nguyen,anguyen@mta-example.org,Facilities & Real Estate,Supervisor,True,E149
+E151,James,Kim,jkim@mta-example.org,Facilities & Real Estate,Supervisor,True,E149
+E152,Anthony,Patel,apatel@mta-example.org,Facilities & Real Estate,Project Manager,True,E150
+E153,Robert,Santos,rsantos@mta-example.org,Facilities & Real Estate,Project Manager,True,E150
+E154,Aisha,Diaz,adiaz@mta-example.org,Facilities & Real Estate,Project Manager,False,E151
+E155,Hannah,Murphy,hmurphy@mta-example.org,Facilities & Real Estate,Project Manager,True,E151
+E156,Fatima,Thompson,fthompson@mta-example.org,Facilities & Real Estate,Project Manager,True,E150
+E900,Denise,Carter,dcarter@mta-example.org,Supplier Relations,Director,True,
+E901,Rafael,Ortiz,rortiz@mta-example.org,Supplier Relations,Analyst,True,E900
+E902,Mei,Lin,mlin@mta-example.org,Supplier Relations,Analyst,True,E900

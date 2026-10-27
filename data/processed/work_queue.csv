@@ -1,0 +1,1094 @@
+eval_id,status,contract_no,contract_year,department,vendor_id,pm_id,due_date,days_overdue,sla_state,stalled,days_since_update,vendor_bidding,priority_score,priority_rank,assigned_to,assignment_reason,escalation_tier,escalate_to,as_of
+EV-2022-10997-01,In Progress,C-2022-10997,2022,NYCT Infrastructure,V20168,E112,2023-07-02,1209,Overdue,True,1201,True,96.5,1,E112,contract PM,4,E900,2026-10-23
+EV-2022-10089-01,Submitted,C-2022-10089,2022,Metro-North Engineering,V20254,E132,2023-01-31,1361,Overdue,True,1321,True,95.8,2,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10241-01,Submitted,C-2022-10241,2022,Bridges & Tunnels,V20109,E138,2023-11-22,1066,Overdue,True,1003,True,95.4,3,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10882-02,Submitted,C-2023-10882,2023,Facilities & Real Estate,V20219,E156,2025-08-30,419,Overdue,True,331,True,94.9,4,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10807-01,Requested,C-2022-10807,2022,MTA IT,V20016,E146,2023-08-17,1163,Overdue,True,1166,True,93.9,5,E146,contract PM,4,E900,2026-10-23
+EV-2022-10284-01,Requested,C-2022-10284,2022,NYCT Infrastructure,V20094,E114,2023-09-27,1122,Overdue,True,1051,True,93.9,6,E114,contract PM,4,E900,2026-10-23
+EV-2022-10102-01,Requested,C-2022-10102,2022,LIRR Engineering,V20133,E120,2023-03-10,1323,Overdue,True,1309,True,92.8,7,E120,contract PM,4,E900,2026-10-23
+EV-2022-10053-01,Submitted,C-2022-10053,2022,Construction & Development,V20086,,2023-08-30,1150,Overdue,True,1080,True,91.9,8,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10061-01,Requested,C-2023-10061,2023,Bridges & Tunnels,V20064,,2024-05-21,885,Overdue,True,884,True,91.3,9,E138,no PM on contract -> reassigned to least-loaded active PM in Bridges & Tunnels,4,E900,2026-10-23
+EV-2023-10179-01,Requested,C-2023-10179,2023,Construction & Development,V20339,E107,2024-11-14,708,Overdue,True,682,True,91.3,10,E107,contract PM,4,E900,2026-10-23
+EV-2022-11195-01,In Progress,C-2022-11195,2022,Metro-North Engineering,V20016,E130,2023-01-17,1375,Overdue,True,1351,True,91.0,11,E130,contract PM,4,E900,2026-10-23
+EV-2023-10708-02,Submitted,C-2023-10708,2023,MTA IT,V20086,E144,2024-08-28,786,Overdue,True,750,True,90.9,12,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10561-01,Requested,C-2022-10561,2022,LIRR Engineering,V20109,E124,2023-05-18,1254,Overdue,True,1257,True,90.8,13,E124,contract PM,4,E900,2026-10-23
+EV-2023-10768-02,Not Started,C-2023-10768,2023,Bridges & Tunnels,V20223,E137,2025-03-30,572,Overdue,False,602,True,90.4,14,E137,contract PM,4,E900,2026-10-23
+EV-2023-10790-01,Requested,C-2023-10790,2023,Bridges & Tunnels,V20109,E137,2023-12-25,1033,Overdue,True,1028,True,90.3,15,E137,contract PM,4,E900,2026-10-23
+EV-2023-11260-02,Not Started,C-2023-11260,2023,MTA IT,V20137,E147,2025-06-04,506,Overdue,False,536,True,89.4,16,E147,contract PM,4,E900,2026-10-23
+EV-2022-11042-01,Not Started,C-2022-11042,2022,NYCT Infrastructure,V20137,E112,2024-01-22,1005,Overdue,False,1035,True,88.9,17,E112,contract PM,4,E900,2026-10-23
+EV-2023-10540-02,Requested,C-2023-10540,2023,MTA IT,V20245,E144,2024-12-07,685,Overdue,True,668,True,88.5,18,E144,contract PM,4,E900,2026-10-23
+EV-2023-11013-01,In Progress,C-2023-11013,2023,Facilities & Real Estate,V20133,E153,2024-10-15,738,Overdue,True,756,True,87.9,19,E153,contract PM,4,E900,2026-10-23
+EV-2022-10322-01,Not Started,C-2022-10322,2022,NYCT Infrastructure,V20016,E113,2023-09-17,1132,Overdue,False,1162,True,87.7,20,E113,contract PM,4,E900,2026-10-23
+EV-2023-10007-01,In Progress,C-2023-10007,2023,Metro-North Engineering,V20223,E130,2024-06-04,871,Overdue,True,828,True,87.5,21,E130,contract PM,4,E900,2026-10-23
+EV-2024-10750-01,Submitted,C-2024-10750,2024,Facilities & Real Estate,V20213,E152,2025-03-23,579,Overdue,True,489,True,87.3,22,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11138-01,Not Started,C-2023-11138,2023,Construction & Development,V20213,E105,2024-02-27,969,Overdue,False,999,True,85.6,23,E105,contract PM,4,E900,2026-10-23
+EV-2024-10726-02,Not Started,C-2024-10726,2024,Construction & Development,V20168,E105,2025-06-28,482,Overdue,False,512,True,85.6,24,E105,contract PM,4,E900,2026-10-23
+EV-2022-10158-01,In Progress,C-2022-10158,2022,NYCT Infrastructure,V20013,,2023-11-06,1082,Overdue,True,1053,True,85.3,25,E116,no PM on contract -> reassigned to least-loaded active PM in NYCT Infrastructure,4,E900,2026-10-23
+EV-2024-11139-01,Not Started,C-2024-11139,2024,Construction & Development,V20254,E105,2025-04-27,544,Overdue,False,574,True,85.0,26,E105,contract PM,4,E900,2026-10-23
+EV-2023-10251-01,Requested,C-2023-10251,2023,MTA IT,V20259,E147,2024-06-02,873,Overdue,True,878,True,84.9,27,E147,contract PM,4,E900,2026-10-23
+EV-2023-10344-01,Requested,C-2023-10344,2023,Construction & Development,V20213,E108,2024-03-27,940,Overdue,True,904,True,84.4,28,E108,contract PM,4,E900,2026-10-23
+EV-2023-11260-01,Submitted,C-2023-11260,2023,MTA IT,V20137,E147,2024-06-06,869,Overdue,True,788,True,84.4,29,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10379-01,In Progress,C-2023-10379,2023,Bridges & Tunnels,V20221,E140,2024-10-21,732,Overdue,True,680,True,84.0,30,E140,contract PM,4,E900,2026-10-23
+EV-2024-10867-01,Submitted,C-2024-10867,2024,Metro-North Engineering,V20183,E130,2025-09-06,412,Overdue,True,366,True,83.8,31,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11019-01,Requested,C-2024-11019,2024,Metro-North Engineering,V20245,E131,2025-04-23,548,Overdue,True,555,True,83.6,32,E131,contract PM,4,E900,2026-10-23
+EV-2023-10540-01,In Progress,C-2023-10540,2023,MTA IT,V20245,E144,2024-06-09,866,Overdue,True,813,True,83.5,33,E144,contract PM,4,E900,2026-10-23
+EV-2023-11225-01,In Progress,C-2023-11225,2023,LIRR Engineering,V20223,E122,2024-09-04,779,Overdue,True,740,True,83.1,34,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2023-10943-01,Requested,C-2023-10943,2023,MTA IT,V20094,E145,2025-01-06,655,Overdue,True,667,True,81.9,35,E145,contract PM,4,E900,2026-10-23
+EV-2023-10384-02,Requested,C-2023-10384,2023,Construction & Development,V20086,E105,2025-11-21,336,Overdue,True,337,True,81.1,36,E105,contract PM,4,E900,2026-10-23
+EV-2024-10671-01,Not Started,C-2024-10671,2024,MTA IT,V20013,E147,2025-10-20,368,Overdue,False,398,True,79.1,37,E147,contract PM,4,E900,2026-10-23
+EV-2024-10118-01,Requested,C-2024-10118,2024,Facilities & Real Estate,V20264,E154,2025-11-14,343,Overdue,True,304,True,78.8,38,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2024-11121-01,Requested,C-2024-11121,2024,LIRR Engineering,V20137,E122,2025-08-31,418,Overdue,True,428,True,77.4,39,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2024-11075-01,In Progress,C-2024-11075,2024,Bridges & Tunnels,V20137,E137,2025-08-05,444,Overdue,True,414,True,77.2,40,E137,contract PM,4,E900,2026-10-23
+EV-2024-10748-01,In Progress,C-2024-10748,2024,Facilities & Real Estate,V20264,E156,2025-11-27,330,Overdue,True,304,True,76.9,41,E156,contract PM,4,E900,2026-10-23
+EV-2024-10685-01,Submitted,C-2024-10685,2024,Construction & Development,V20254,E104,2025-12-27,300,Overdue,True,183,True,75.6,42,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10298-01,Not Started,C-2022-10298,2022,Construction & Development,V20110,E104,2022-12-16,1407,Overdue,False,1437,False,75.0,43,E104,contract PM,4,E900,2026-10-23
+EV-2022-10955-01,Requested,C-2022-10955,2022,Bridges & Tunnels,V20003,E140,2023-07-08,1203,Overdue,True,1221,False,75.0,44,E140,contract PM,4,E900,2026-10-23
+EV-2022-11103-02,Requested,C-2022-11103,2022,Metro-North Engineering,V20129,E131,2024-05-28,878,Overdue,True,872,False,75.0,45,E131,contract PM,4,E900,2026-10-23
+EV-2022-10626-01,Not Started,C-2022-10626,2022,Metro-North Engineering,V20310,E132,2023-09-19,1130,Overdue,False,1160,False,74.1,46,E132,contract PM,4,E900,2026-10-23
+EV-2022-10628-01,In Progress,C-2022-10628,2022,MTA IT,V20289,E145,2023-01-20,1372,Overdue,True,1313,False,73.7,47,E145,contract PM,4,E900,2026-10-23
+EV-2023-10943-02,Requested,C-2023-10943,2023,MTA IT,V20094,E145,2026-01-06,290,Overdue,True,296,True,73.6,48,E145,contract PM,4,E900,2026-10-23
+EV-2022-10649-02,In Progress,C-2022-10649,2022,Construction & Development,V20032,E108,2024-03-14,953,Overdue,True,897,False,73.3,49,E108,contract PM,4,E900,2026-10-23
+EV-2022-10834-02,Not Started,C-2022-10834,2022,Metro-North Engineering,V20231,E129,2024-05-26,880,Overdue,False,910,False,73.2,50,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-10142-01,In Progress,C-2022-10142,2022,MTA IT,V20149,E148,2023-08-15,1165,Overdue,True,1179,False,72.9,51,E148,contract PM,4,E900,2026-10-23
+EV-2022-10805-02,In Progress,C-2022-10805,2022,LIRR Engineering,V20003,E122,2023-09-20,1129,Overdue,True,1108,False,72.8,52,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10742-01,Submitted,C-2022-10742,2022,Metro-North Engineering,V20336,E129,2023-06-21,1220,Overdue,True,1127,False,72.6,53,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10691-02,Not Started,C-2022-10691,2022,Metro-North Engineering,V20144,E131,2024-04-12,924,Overdue,False,954,False,72.3,54,E131,contract PM,4,E900,2026-10-23
+EV-2022-10664-01,Requested,C-2022-10664,2022,Facilities & Real Estate,V20129,E156,2023-09-16,1133,Overdue,True,1111,False,72.2,55,E156,contract PM,4,E900,2026-10-23
+EV-2022-10820-01,Submitted,C-2022-10820,2022,Metro-North Engineering,V20210,E132,2022-12-14,1409,Overdue,True,1378,False,72.0,56,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10170-01,Requested,C-2022-10170,2022,Facilities & Real Estate,V20308,E152,2022-08-08,1537,Overdue,True,1544,False,71.9,57,E152,contract PM,4,E900,2026-10-23
+EV-2022-11277-03,Submitted,C-2022-11277,2022,Construction & Development,V20179,E108,2025-06-18,492,Overdue,True,430,False,71.8,58,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10004-01,Requested,C-2022-10004,2022,Metro-North Engineering,V20196,E129,2023-10-11,1108,Overdue,True,1087,False,71.7,59,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-10642-01,Not Started,C-2022-10642,2022,Facilities & Real Estate,V20093,E152,2023-02-20,1341,Overdue,False,1371,False,71.5,60,E152,contract PM,4,E900,2026-10-23
+EV-2022-11007-01,Submitted,C-2022-11007,2022,Construction & Development,V20059,E106,2023-03-20,1313,Overdue,True,1246,False,71.5,61,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10391-01,Submitted,C-2022-10391,2022,Construction & Development,V20310,E108,2023-02-26,1335,Overdue,True,1255,False,71.4,62,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10964-02,In Progress,C-2022-10964,2022,LIRR Engineering,V20222,E122,2024-02-20,976,Overdue,True,949,False,71.4,63,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10378-02,Not Started,C-2022-10378,2022,MTA IT,V20310,E147,2024-04-23,913,Overdue,False,943,False,71.2,64,E147,contract PM,4,E900,2026-10-23
+EV-2022-11213-03,Submitted,C-2022-11213,2022,LIRR Engineering,V20338,E122,2025-07-30,450,Overdue,True,418,False,71.2,65,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10494-01,Requested,C-2022-10494,2022,MTA IT,V20244,E148,2023-12-24,1034,Overdue,True,1001,False,71.1,66,E148,contract PM,4,E900,2026-10-23
+EV-2022-10920-02,Not Started,C-2022-10920,2022,Construction & Development,V20265,E106,2024-04-21,915,Overdue,False,945,False,71.1,67,E106,contract PM,4,E900,2026-10-23
+EV-2022-10571-01,In Progress,C-2022-10571,2022,Facilities & Real Estate,V20313,E155,2022-12-05,1418,Overdue,True,1391,False,71.0,68,E155,contract PM,4,E900,2026-10-23
+EV-2022-10670-02,In Progress,C-2022-10670,2022,LIRR Engineering,V20214,E121,2023-12-01,1057,Overdue,True,1022,False,71.0,69,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10273-02,In Progress,C-2022-10273,2022,Metro-North Engineering,V20130,E128,2024-04-06,930,Overdue,True,873,False,71.0,70,E128,contract PM,4,E900,2026-10-23
+EV-2024-10177-01,Not Started,C-2024-10177,2024,Metro-North Engineering,V20109,E130,2025-12-01,326,Overdue,False,356,True,71.0,71,E130,contract PM,4,E900,2026-10-23
+EV-2022-10402-01,Requested,C-2022-10402,2022,NYCT Infrastructure,V20138,E115,2022-11-10,1443,Overdue,True,1412,False,70.9,72,E115,contract PM,4,E900,2026-10-23
+EV-2022-10962-01,Requested,C-2022-10962,2022,Facilities & Real Estate,V20130,E155,2022-11-19,1434,Overdue,True,1436,False,70.9,73,E155,contract PM,4,E900,2026-10-23
+EV-2024-11075-02,In Progress,C-2024-11075,2024,Bridges & Tunnels,V20137,E137,2026-02-03,262,Overdue,True,202,True,70.9,74,E137,contract PM,4,E900,2026-10-23
+EV-2022-10953-01,In Progress,C-2022-10953,2022,LIRR Engineering,V20128,E124,2024-01-20,1007,Overdue,True,990,False,70.8,75,E124,contract PM,4,E900,2026-10-23
+EV-2022-10481-02,Submitted,C-2022-10481,2022,LIRR Engineering,V20156,E123,2024-04-19,917,Overdue,True,781,False,70.8,76,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10733-02,Requested,C-2022-10733,2022,NYCT Infrastructure,V20323,E115,2024-08-13,801,Overdue,True,782,False,70.6,77,E115,contract PM,4,E900,2026-10-23
+EV-2022-10331-03,Submitted,C-2022-10331,2022,MTA IT,V20255,E145,2025-08-26,423,Overdue,True,271,False,70.6,78,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10929-01,Requested,C-2022-10929,2022,Construction & Development,V20266,E108,2023-09-07,1142,Overdue,True,1135,False,70.5,79,E108,contract PM,4,E900,2026-10-23
+EV-2022-10797-01,In Progress,C-2022-10797,2022,Bridges & Tunnels,V20326,E140,2023-10-20,1099,Overdue,True,1044,False,70.4,80,E140,contract PM,4,E900,2026-10-23
+EV-2022-10631-01,In Progress,C-2022-10631,2022,MTA IT,V20035,E144,2023-05-08,1264,Overdue,True,1215,False,70.3,81,E144,contract PM,4,E900,2026-10-23
+EV-2022-10385-02,Not Started,C-2022-10385,2022,Bridges & Tunnels,V20089,E140,2024-08-26,788,Overdue,False,818,False,70.3,82,E140,contract PM,4,E900,2026-10-23
+EV-2022-10010-01,Submitted,C-2022-10010,2022,Bridges & Tunnels,V20004,E138,2023-02-19,1342,Overdue,True,1279,False,70.2,83,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11016-01,Submitted,C-2022-11016,2022,Metro-North Engineering,V20305,E129,2023-10-19,1100,Overdue,True,1015,False,70.2,84,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10892-03,Submitted,C-2022-10892,2022,Construction & Development,V20141,E106,2025-02-16,614,Overdue,True,583,False,70.2,85,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10201-02,Submitted,C-2022-10201,2022,NYCT Infrastructure,V20251,E112,2024-09-27,756,Overdue,True,666,False,70.1,86,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10113-01,Submitted,C-2022-10113,2022,Metro-North Engineering,V20260,E130,2023-06-27,1214,Overdue,True,1121,False,70.0,87,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10693-01,Not Started,C-2022-10693,2022,Metro-North Engineering,V20208,E132,2023-07-16,1195,Overdue,False,1225,False,70.0,88,E132,contract PM,4,E900,2026-10-23
+EV-2022-10198-01,In Progress,C-2022-10198,2022,NYCT Infrastructure,V20227,E115,2023-09-19,1130,Overdue,True,1110,False,70.0,89,E115,contract PM,4,E900,2026-10-23
+EV-2022-10257-01,In Progress,C-2022-10257,2022,Metro-North Engineering,V20220,E129,2024-01-24,1003,Overdue,True,982,False,70.0,90,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-10306-01,Submitted,C-2022-10306,2022,Bridges & Tunnels,V20191,E137,2024-01-27,1000,Overdue,True,961,False,70.0,91,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10693-02,In Progress,C-2022-10693,2022,Metro-North Engineering,V20208,E132,2024-07-16,829,Overdue,True,768,False,70.0,92,E132,contract PM,4,E900,2026-10-23
+EV-2022-10306-02,Submitted,C-2022-10306,2022,Bridges & Tunnels,V20191,E137,2025-01-27,634,Overdue,True,566,False,70.0,93,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10858-03,Submitted,C-2022-10858,2022,Metro-North Engineering,V20301,E128,2025-11-04,353,Overdue,True,323,False,70.0,94,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10948-01,Requested,C-2022-10948,2022,Facilities & Real Estate,V20312,E154,2023-03-03,1330,Overdue,True,1292,False,69.9,95,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-10031-01,Requested,C-2023-10031,2023,Facilities & Real Estate,V20217,E152,2024-06-10,865,Overdue,True,869,False,69.9,96,E152,contract PM,4,E900,2026-10-23
+EV-2022-10872-01,In Progress,C-2022-10872,2022,Bridges & Tunnels,V20311,,2022-09-17,1497,Overdue,True,1470,False,69.8,97,E138,no PM on contract -> reassigned to least-loaded active PM in Bridges & Tunnels,4,E900,2026-10-23
+EV-2022-11257-01,In Progress,C-2022-11257,2022,NYCT Infrastructure,V20071,E116,2023-02-27,1334,Overdue,True,1310,False,69.8,98,E116,contract PM,4,E900,2026-10-23
+EV-2022-10739-01,Submitted,C-2022-10739,2022,Metro-North Engineering,V20146,E128,2023-09-19,1130,Overdue,True,1050,False,69.8,99,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11022-01,Not Started,C-2022-11022,2022,Bridges & Tunnels,V20144,E137,2023-09-27,1122,Overdue,False,1152,False,69.8,100,E137,contract PM,4,E900,2026-10-23
+EV-2022-10145-02,Submitted,C-2022-10145,2022,MTA IT,V20195,E148,2024-07-27,818,Overdue,True,702,False,69.8,101,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10473-01,Submitted,C-2022-10473,2022,Bridges & Tunnels,V20164,E140,2023-08-20,1160,Overdue,True,1095,False,69.7,102,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11200-02,In Progress,C-2022-11200,2022,Facilities & Real Estate,V20310,E152,2023-11-01,1087,Overdue,True,1034,False,69.7,103,E152,contract PM,4,E900,2026-10-23
+EV-2022-10823-02,Requested,C-2022-10823,2022,Metro-North Engineering,V20302,E128,2023-12-28,1030,Overdue,True,991,False,69.7,104,E128,contract PM,4,E900,2026-10-23
+EV-2023-10108-02,Not Started,C-2023-10108,2023,LIRR Engineering,V20217,E122,2025-08-24,425,Overdue,False,455,False,69.7,105,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10392-01,Not Started,C-2022-10392,2022,MTA IT,V20188,E148,2023-06-25,1216,Overdue,False,1246,False,69.6,106,E148,contract PM,4,E900,2026-10-23
+EV-2022-10924-02,Requested,C-2022-10924,2022,NYCT Infrastructure,V20046,E112,2023-08-25,1155,Overdue,True,1171,False,69.6,107,E112,contract PM,4,E900,2026-10-23
+EV-2022-10723-02,Requested,C-2022-10723,2022,Construction & Development,V20009,E106,2024-07-18,827,Overdue,True,829,False,69.6,108,E106,contract PM,4,E900,2026-10-23
+EV-2022-10793-01,Requested,C-2022-10793,2022,Construction & Development,V20216,E104,2023-11-20,1068,Overdue,True,1078,False,69.5,109,E104,contract PM,4,E900,2026-10-23
+EV-2022-10148-02,Requested,C-2022-10148,2022,Bridges & Tunnels,V20149,E137,2024-11-10,712,Overdue,True,705,False,69.4,110,E137,contract PM,4,E900,2026-10-23
+EV-2022-10718-01,Not Started,C-2022-10718,2022,LIRR Engineering,V20019,E123,2023-05-23,1249,Overdue,False,1279,False,69.3,111,E123,contract PM,4,E900,2026-10-23
+EV-2022-11288-01,Requested,C-2022-11288,2022,MTA IT,V20072,E145,2023-08-01,1179,Overdue,True,1162,False,69.3,112,E145,contract PM,4,E900,2026-10-23
+EV-2022-10767-01,Requested,C-2022-10767,2022,Bridges & Tunnels,V20291,E136,2023-09-11,1138,Overdue,True,1144,False,69.3,113,E136,contract PM,4,E900,2026-10-23
+EV-2022-10458-03,In Progress,C-2022-10458,2022,Bridges & Tunnels,V20049,E139,2025-03-19,583,Overdue,True,517,False,69.3,114,E139,contract PM,4,E900,2026-10-23
+EV-2022-11295-01,In Progress,C-2022-11295,2022,MTA IT,V20261,E148,2023-09-22,1127,Overdue,True,1059,False,69.2,115,E148,contract PM,4,E900,2026-10-23
+EV-2022-11297-02,Requested,C-2022-11297,2022,Bridges & Tunnels,V20189,E139,2024-04-19,917,Overdue,True,911,False,69.2,116,E139,contract PM,4,E900,2026-10-23
+EV-2022-10407-02,Submitted,C-2022-10407,2022,Metro-North Engineering,V20206,E130,2024-12-21,671,Overdue,True,605,False,69.2,117,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10904-01,Submitted,C-2023-10904,2023,Metro-North Engineering,V20207,E131,2025-01-27,634,Overdue,True,580,False,69.2,118,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11118-01,Submitted,C-2022-11118,2022,Bridges & Tunnels,V20202,E139,2023-05-30,1242,Overdue,True,1154,False,69.1,119,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10843-02,In Progress,C-2022-10843,2022,NYCT Infrastructure,V20156,E116,2023-09-13,1136,Overdue,True,1087,False,69.1,120,E116,contract PM,4,E900,2026-10-23
+EV-2022-11082-03,In Progress,C-2022-11082,2022,MTA IT,V20117,E147,2025-11-24,333,Overdue,True,242,False,69.1,121,E147,contract PM,4,E900,2026-10-23
+EV-2022-10803-01,Requested,C-2022-10803,2022,LIRR Engineering,V20306,,2023-07-26,1185,Overdue,True,1189,False,69.0,122,E123,no PM on contract -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-11165-02,In Progress,C-2022-11165,2022,Facilities & Real Estate,V20017,E154,2023-12-29,1029,Overdue,True,1010,False,69.0,123,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10421-02,In Progress,C-2022-10421,2022,MTA IT,V20276,E145,2023-08-22,1158,Overdue,True,1098,False,68.9,124,E145,contract PM,4,E900,2026-10-23
+EV-2022-11059-02,Requested,C-2022-11059,2022,Construction & Development,V20163,E106,2024-04-09,927,Overdue,True,900,False,68.9,125,E106,contract PM,4,E900,2026-10-23
+EV-2022-10248-02,Requested,C-2022-10248,2022,Metro-North Engineering,V20250,E131,2024-10-18,735,Overdue,True,719,False,68.9,126,E131,contract PM,4,E900,2026-10-23
+EV-2022-10019-03,Requested,C-2022-10019,2022,NYCT Infrastructure,V20149,E115,2025-08-16,433,Overdue,True,420,False,68.9,127,E115,contract PM,4,E900,2026-10-23
+EV-2022-11106-01,Requested,C-2022-11106,2022,MTA IT,V20060,E144,2023-11-11,1077,Overdue,True,1033,False,68.8,128,E144,contract PM,4,E900,2026-10-23
+EV-2022-11092-02,Not Started,C-2022-11092,2022,Facilities & Real Estate,V20227,E153,2024-07-13,832,Overdue,False,862,False,68.8,129,E153,contract PM,4,E900,2026-10-23
+EV-2022-10159-02,Requested,C-2022-10159,2022,MTA IT,V20132,E144,2024-11-23,699,Overdue,True,668,False,68.8,130,E144,contract PM,4,E900,2026-10-23
+EV-2023-10081-02,Requested,C-2023-10081,2023,MTA IT,V20251,E144,2025-04-20,551,Overdue,True,564,False,68.8,131,E144,contract PM,4,E900,2026-10-23
+EV-2022-10109-01,Requested,C-2022-10109,2022,Construction & Development,V20009,E104,2023-12-10,1048,Overdue,True,1020,False,68.7,132,E104,contract PM,4,E900,2026-10-23
+EV-2022-11093-02,Requested,C-2022-11093,2022,LIRR Engineering,V20010,E124,2024-03-11,956,Overdue,True,970,False,68.7,133,E124,contract PM,4,E900,2026-10-23
+EV-2022-10048-02,In Progress,C-2022-10048,2022,NYCT Infrastructure,V20150,E114,2024-06-26,849,Overdue,True,798,False,68.7,134,E114,contract PM,4,E900,2026-10-23
+EV-2022-10256-01,Submitted,C-2022-10256,2022,MTA IT,V20062,E144,2023-04-07,1295,Overdue,True,1224,False,68.6,135,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11067-01,Not Started,C-2022-11067,2022,Metro-North Engineering,V20030,E132,2023-10-14,1105,Overdue,False,1135,False,68.6,136,E132,contract PM,4,E900,2026-10-23
+EV-2022-10498-02,Submitted,C-2022-10498,2022,Metro-North Engineering,V20336,E132,2024-04-04,932,Overdue,True,781,False,68.6,137,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10270-02,Requested,C-2022-10270,2022,LIRR Engineering,V20287,E124,2024-04-08,928,Overdue,True,900,False,68.6,138,E124,contract PM,4,E900,2026-10-23
+EV-2022-10101-03,Not Started,C-2022-10101,2022,LIRR Engineering,V20154,E122,2025-04-23,548,Overdue,False,578,False,68.6,139,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-11147-01,In Progress,C-2022-11147,2022,Metro-North Engineering,V20292,E129,2023-03-18,1315,Overdue,True,1267,False,68.5,140,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-11289-02,Requested,C-2022-11289,2022,Metro-North Engineering,V20115,E130,2024-03-30,937,Overdue,True,924,False,68.5,141,E130,contract PM,4,E900,2026-10-23
+EV-2022-11147-03,Submitted,C-2022-11147,2022,Metro-North Engineering,V20292,E129,2025-03-18,584,Overdue,True,516,False,68.5,142,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10883-02,Not Started,C-2022-10883,2022,LIRR Engineering,V20032,E120,2024-10-28,725,Overdue,False,755,False,68.4,143,E120,contract PM,4,E900,2026-10-23
+EV-2022-10828-02,In Progress,C-2022-10828,2022,Bridges & Tunnels,V20176,E137,2024-11-22,700,Overdue,True,652,False,68.4,144,E137,contract PM,4,E900,2026-10-23
+EV-2022-10608-01,In Progress,C-2022-10608,2022,Facilities & Real Estate,V20298,E154,2022-10-22,1462,Overdue,True,1411,False,68.3,145,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10787-01,In Progress,C-2022-10787,2022,MTA IT,V20266,E144,2023-06-08,1233,Overdue,True,1168,False,68.3,146,E144,contract PM,4,E900,2026-10-23
+EV-2022-10842-01,Submitted,C-2022-10842,2022,MTA IT,V20012,E145,2023-03-23,1310,Overdue,True,1246,False,68.2,147,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10676-01,Requested,C-2022-10676,2022,MTA IT,V20124,E148,2023-12-06,1052,Overdue,True,1011,False,68.2,148,E148,contract PM,4,E900,2026-10-23
+EV-2022-10490-02,Submitted,C-2022-10490,2022,Construction & Development,V20291,E107,2024-11-27,695,Overdue,True,683,False,68.2,149,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10278-02,Requested,C-2023-10278,2023,Construction & Development,V20135,E106,2025-05-03,538,Overdue,True,515,False,68.2,150,E106,contract PM,4,E900,2026-10-23
+EV-2022-10635-01,Submitted,C-2022-10635,2022,Construction & Development,V20090,E106,2023-11-27,1061,Overdue,True,1005,False,68.1,151,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11151-02,Requested,C-2022-11151,2022,Metro-North Engineering,V20325,E128,2024-03-16,951,Overdue,True,920,False,68.1,152,E128,contract PM,4,E900,2026-10-23
+EV-2023-11163-01,Requested,C-2023-11163,2023,NYCT Infrastructure,V20023,E112,2024-04-11,925,Overdue,True,925,False,68.0,153,E112,contract PM,4,E900,2026-10-23
+EV-2022-10584-01,In Progress,C-2022-10584,2022,NYCT Infrastructure,V20278,E113,2022-08-27,1518,Overdue,True,1511,False,67.9,154,E113,contract PM,4,E900,2026-10-23
+EV-2022-10336-01,Requested,C-2022-10336,2022,MTA IT,V20222,E147,2023-06-16,1225,Overdue,True,1201,False,67.9,155,E147,contract PM,4,E900,2026-10-23
+EV-2022-11112-03,In Progress,C-2022-11112,2022,NYCT Infrastructure,V20180,E112,2025-04-05,566,Overdue,True,501,False,67.9,156,E112,contract PM,4,E900,2026-10-23
+EV-2022-10805-01,In Progress,C-2022-10805,2022,LIRR Engineering,V20003,E122,2023-03-22,1311,Overdue,True,1303,False,67.8,157,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10292-02,Not Started,C-2022-10292,2022,NYCT Infrastructure,V20195,E113,2023-09-06,1143,Overdue,False,1173,False,67.8,158,E113,contract PM,4,E900,2026-10-23
+EV-2023-11227-01,Submitted,C-2023-11227,2023,Construction & Development,V20187,E108,2023-11-06,1082,Overdue,True,977,False,67.8,159,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10465-01,Submitted,C-2022-10465,2022,Facilities & Real Estate,V20309,E154,2023-12-15,1043,Overdue,True,946,False,67.8,160,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10996-01,Submitted,C-2022-10996,2022,Bridges & Tunnels,V20312,E138,2023-12-27,1031,Overdue,True,976,False,67.8,161,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10747-01,In Progress,C-2022-10747,2022,LIRR Engineering,V20112,E121,2023-10-07,1112,Overdue,True,1033,False,67.7,162,E124,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10731-02,Requested,C-2022-10731,2022,Facilities & Real Estate,V20041,E155,2024-11-17,705,Overdue,True,714,False,67.6,163,E155,contract PM,4,E900,2026-10-23
+EV-2022-11036-02,Submitted,C-2022-11036,2022,Bridges & Tunnels,V20103,E140,2024-12-02,690,Overdue,True,582,False,67.6,164,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10712-02,In Progress,C-2022-10712,2022,LIRR Engineering,V20265,E122,2024-12-31,661,Overdue,True,637,False,67.6,165,E120,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10125-01,Submitted,C-2022-10125,2022,LIRR Engineering,V20108,E122,2023-05-16,1256,Overdue,True,1204,False,67.5,166,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11126-01,Submitted,C-2022-11126,2022,Metro-North Engineering,V20117,E129,2023-07-11,1200,Overdue,True,1091,False,67.5,167,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11166-01,Requested,C-2022-11166,2022,Facilities & Real Estate,V20046,E152,2023-12-03,1055,Overdue,True,1054,False,67.5,168,E152,contract PM,4,E900,2026-10-23
+EV-2022-10196-02,Submitted,C-2022-10196,2022,Construction & Development,V20337,E105,2024-02-26,970,Overdue,True,828,False,67.5,169,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10780-03,In Progress,C-2022-10780,2022,Bridges & Tunnels,V20043,,2025-06-05,505,Overdue,True,473,False,67.5,170,E138,no PM on contract -> reassigned to least-loaded active PM in Bridges & Tunnels,4,E900,2026-10-23
+EV-2022-10568-01,Not Started,C-2022-10568,2022,Metro-North Engineering,V20017,E129,2023-05-04,1268,Overdue,False,1298,False,67.4,171,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-10713-02,Not Started,C-2022-10713,2022,Construction & Development,V20243,E107,2024-04-03,933,Overdue,False,963,False,67.4,172,E107,contract PM,4,E900,2026-10-23
+EV-2022-10265-02,Not Started,C-2022-10265,2022,NYCT Infrastructure,V20267,E113,2024-04-07,929,Overdue,False,959,False,67.4,173,E113,contract PM,4,E900,2026-10-23
+EV-2022-10568-02,In Progress,C-2022-10568,2022,Metro-North Engineering,V20017,E129,2024-05-04,902,Overdue,True,868,False,67.4,174,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-10851-02,Requested,C-2022-10851,2022,NYCT Infrastructure,V20161,E114,2024-07-03,842,Overdue,True,835,False,67.4,175,E114,contract PM,4,E900,2026-10-23
+EV-2022-11271-01,Submitted,C-2022-11271,2022,MTA IT,V20108,E148,2023-03-12,1321,Overdue,True,1218,False,67.3,176,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10129-01,Submitted,C-2022-10129,2022,Construction & Development,V20136,,2023-07-02,1209,Overdue,True,1163,False,67.3,177,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10894-01,Requested,C-2022-10894,2022,MTA IT,V20080,E144,2023-10-18,1101,Overdue,True,1064,False,67.3,178,E144,contract PM,4,E900,2026-10-23
+EV-2022-10655-02,Requested,C-2022-10655,2022,Facilities & Real Estate,V20157,E153,2024-03-23,944,Overdue,True,925,False,67.3,179,E153,contract PM,4,E900,2026-10-23
+EV-2022-10348-03,In Progress,C-2022-10348,2022,Metro-North Engineering,V20080,E130,2025-09-27,391,Overdue,True,386,False,67.3,180,E130,contract PM,4,E900,2026-10-23
+EV-2023-10981-01,Not Started,C-2023-10981,2023,MTA IT,V20074,E148,2024-05-17,889,Overdue,False,919,False,67.2,181,E148,contract PM,4,E900,2026-10-23
+EV-2022-11091-02,In Progress,C-2022-11091,2022,Bridges & Tunnels,V20006,E138,2024-06-23,852,Overdue,True,806,False,67.2,182,E138,contract PM,4,E900,2026-10-23
+EV-2023-10754-02,Requested,C-2023-10754,2023,MTA IT,V20207,E147,2024-09-28,755,Overdue,True,778,False,67.2,183,E147,contract PM,4,E900,2026-10-23
+EV-2022-10991-01,Requested,C-2022-10991,2022,Construction & Development,V20019,E108,2023-02-25,1336,Overdue,True,1314,False,67.1,184,E108,contract PM,4,E900,2026-10-23
+EV-2022-11266-01,Submitted,C-2022-11266,2022,NYCT Infrastructure,V20194,E116,2023-05-06,1266,Overdue,True,1176,False,67.1,185,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10562-02,In Progress,C-2022-10562,2022,Facilities & Real Estate,V20226,E152,2023-08-23,1157,Overdue,True,1114,False,67.1,186,E152,contract PM,4,E900,2026-10-23
+EV-2023-10361-01,Requested,C-2023-10361,2023,Bridges & Tunnels,V20129,E138,2024-04-17,919,Overdue,True,941,False,67.1,187,E138,contract PM,4,E900,2026-10-23
+EV-2022-10988-01,Requested,C-2022-10988,2022,Facilities & Real Estate,V20327,E156,2023-06-01,1240,Overdue,True,1201,False,67.0,188,E156,contract PM,4,E900,2026-10-23
+EV-2023-11009-01,Requested,C-2023-11009,2023,LIRR Engineering,V20128,E124,2024-05-11,895,Overdue,True,881,False,66.9,189,E124,contract PM,4,E900,2026-10-23
+EV-2023-10939-02,Requested,C-2023-10939,2023,Facilities & Real Estate,V20154,E153,2025-06-14,496,Overdue,True,499,False,66.9,190,E153,contract PM,4,E900,2026-10-23
+EV-2022-11277-01,In Progress,C-2022-11277,2022,Construction & Development,V20179,E108,2023-06-20,1221,Overdue,True,1104,False,66.8,191,E108,contract PM,4,E900,2026-10-23
+EV-2022-10050-01,Submitted,C-2022-10050,2022,MTA IT,V20230,E148,2023-09-26,1123,Overdue,True,1044,False,66.8,192,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10025-01,In Progress,C-2023-10025,2023,Construction & Development,V20176,E106,2023-09-28,1121,Overdue,True,1064,False,66.8,193,E106,contract PM,4,E900,2026-10-23
+EV-2022-10530-02,Requested,C-2022-10530,2022,LIRR Engineering,V20114,E124,2024-02-10,986,Overdue,True,988,False,66.8,194,E124,contract PM,4,E900,2026-10-23
+EV-2023-10573-01,Requested,C-2023-10573,2023,Bridges & Tunnels,V20017,E136,2024-07-08,837,Overdue,True,822,False,66.8,195,E136,contract PM,4,E900,2026-10-23
+EV-2022-11251-01,In Progress,C-2022-11251,2022,Bridges & Tunnels,V20010,E140,2023-01-26,1366,Overdue,True,1326,False,66.6,196,E140,contract PM,4,E900,2026-10-23
+EV-2022-11152-01,Requested,C-2022-11152,2022,NYCT Infrastructure,V20195,E116,2023-02-03,1358,Overdue,True,1323,False,66.6,197,E116,contract PM,4,E900,2026-10-23
+EV-2022-10317-01,Not Started,C-2022-10317,2022,Construction & Development,V20238,E106,2023-11-20,1068,Overdue,False,1098,False,66.6,198,E106,contract PM,4,E900,2026-10-23
+EV-2022-10749-02,Submitted,C-2022-10749,2022,NYCT Infrastructure,V20085,E112,2024-06-03,872,Overdue,True,779,False,66.6,199,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10975-01,Requested,C-2022-10975,2022,Facilities & Real Estate,V20236,E152,2023-04-16,1286,Overdue,True,1296,False,66.5,200,E152,contract PM,4,E900,2026-10-23
+EV-2022-11242-01,Not Started,C-2022-11242,2022,Metro-North Engineering,V20338,E132,2023-12-31,1027,Overdue,False,1057,False,66.5,201,E132,contract PM,4,E900,2026-10-23
+EV-2022-10595-02,Requested,C-2022-10595,2022,MTA IT,V20157,E145,2024-05-25,881,Overdue,True,835,False,66.5,202,E145,contract PM,4,E900,2026-10-23
+EV-2022-10964-01,In Progress,C-2022-10964,2022,LIRR Engineering,V20222,E122,2023-02-21,1340,Overdue,True,1286,False,66.4,203,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10470-01,Not Started,C-2022-10470,2022,Facilities & Real Estate,V20185,E152,2023-10-09,1110,Overdue,False,1140,False,66.4,204,E152,contract PM,4,E900,2026-10-23
+EV-2022-10293-01,Not Started,C-2022-10293,2022,MTA IT,V20014,E146,2023-10-24,1095,Overdue,False,1125,False,66.4,205,E146,contract PM,4,E900,2026-10-23
+EV-2023-10845-01,Requested,C-2023-10845,2023,NYCT Infrastructure,V20071,E114,2024-10-08,745,Overdue,True,767,False,66.4,206,E114,contract PM,4,E900,2026-10-23
+EV-2022-11193-01,Requested,C-2022-11193,2022,LIRR Engineering,V20106,E121,2023-06-17,1224,Overdue,True,1216,False,66.3,207,E124,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10858-01,In Progress,C-2022-10858,2022,Metro-North Engineering,V20301,E128,2023-11-06,1082,Overdue,True,1040,False,66.3,208,E128,contract PM,4,E900,2026-10-23
+EV-2022-11213-01,Requested,C-2022-11213,2022,LIRR Engineering,V20338,E122,2023-08-01,1179,Overdue,True,1160,False,66.2,209,E120,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-11063-01,Not Started,C-2022-11063,2022,Facilities & Real Estate,V20107,E155,2023-05-24,1248,Overdue,False,1278,False,66.1,210,E155,contract PM,4,E900,2026-10-23
+EV-2022-10401-01,Not Started,C-2022-10401,2022,Facilities & Real Estate,V20181,E154,2023-09-02,1147,Overdue,False,1177,False,66.1,211,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-11102-02,Requested,C-2022-11102,2022,MTA IT,V20152,E144,2024-03-26,941,Overdue,True,933,False,66.1,212,E144,contract PM,4,E900,2026-10-23
+EV-2023-11051-01,In Progress,C-2023-11051,2023,Construction & Development,V20225,E104,2024-05-09,897,Overdue,True,878,False,66.1,213,E104,contract PM,4,E900,2026-10-23
+EV-2022-10232-02,Submitted,C-2022-10232,2022,Metro-North Engineering,V20284,E129,2024-09-02,781,Overdue,True,678,False,66.1,214,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10208-01,Submitted,C-2023-10208,2023,NYCT Infrastructure,V20098,E115,2024-12-25,667,Overdue,True,591,False,66.1,215,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10695-04,Submitted,C-2022-10695,2022,MTA IT,V20086,E147,2026-06-19,126,Overdue,True,104,True,66.1,216,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11030-01,Requested,C-2022-11030,2022,LIRR Engineering,V20037,E124,2022-11-03,1450,Overdue,True,1426,False,66.0,217,E124,contract PM,4,E900,2026-10-23
+EV-2022-10670-01,In Progress,C-2022-10670,2022,LIRR Engineering,V20214,E121,2023-06-02,1239,Overdue,True,1182,False,66.0,218,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10538-01,Requested,C-2022-10538,2022,NYCT Infrastructure,V20210,E115,2023-06-18,1223,Overdue,True,1226,False,66.0,219,E115,contract PM,4,E900,2026-10-23
+EV-2023-10393-01,Submitted,C-2023-10393,2023,Metro-North Engineering,V20316,E128,2023-10-16,1103,Overdue,True,1048,False,66.0,220,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10279-02,Submitted,C-2022-10279,2022,Bridges & Tunnels,V20332,E137,2024-01-30,997,Overdue,True,949,False,66.0,221,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10282-02,In Progress,C-2022-10282,2022,Facilities & Real Estate,V20196,E154,2024-04-11,925,Overdue,True,918,False,66.0,222,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10852-01,Submitted,C-2022-10852,2022,NYCT Infrastructure,V20321,E115,2023-04-12,1290,Overdue,True,1228,False,65.9,223,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10512-01,Requested,C-2022-10512,2022,LIRR Engineering,V20104,E120,2023-08-24,1156,Overdue,True,1131,False,65.9,224,E120,contract PM,4,E900,2026-10-23
+EV-2023-10898-02,Requested,C-2023-10898,2023,MTA IT,V20161,E146,2024-08-23,791,Overdue,True,793,False,65.9,225,E146,contract PM,4,E900,2026-10-23
+EV-2022-10481-01,Requested,C-2022-10481,2022,LIRR Engineering,V20156,E123,2023-10-20,1099,Overdue,True,1102,False,65.8,226,E123,contract PM,4,E900,2026-10-23
+EV-2022-10406-01,Requested,C-2022-10406,2022,NYCT Infrastructure,V20299,E113,2023-11-27,1061,Overdue,True,1051,False,65.8,227,E113,contract PM,4,E900,2026-10-23
+EV-2023-10810-01,In Progress,C-2023-10810,2023,Construction & Development,V20334,E104,2024-07-09,836,Overdue,True,815,False,65.8,228,E104,contract PM,4,E900,2026-10-23
+EV-2022-10321-02,Submitted,C-2022-10321,2022,Construction & Development,V20029,E104,2024-10-05,748,Overdue,True,638,False,65.8,229,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10406-02,Requested,C-2022-10406,2022,NYCT Infrastructure,V20299,E113,2024-11-27,695,Overdue,True,668,False,65.8,230,E113,contract PM,4,E900,2026-10-23
+EV-2022-10715-01,Submitted,C-2022-10715,2022,MTA IT,V20330,E146,2022-10-09,1475,Overdue,True,1398,False,65.7,231,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11040-01,In Progress,C-2022-11040,2022,Facilities & Real Estate,V20143,E154,2023-04-09,1293,Overdue,True,1247,False,65.7,232,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-11182-01,Not Started,C-2023-11182,2023,MTA IT,V20248,E146,2024-01-19,1008,Overdue,False,1038,False,65.7,233,E146,contract PM,4,E900,2026-10-23
+EV-2022-10949-01,Submitted,C-2022-10949,2022,MTA IT,V20299,E148,2024-01-27,1000,Overdue,True,885,False,65.7,234,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11291-02,Requested,C-2023-11291,2023,MTA IT,V20330,E148,2025-02-08,622,Overdue,True,603,False,65.7,235,E148,contract PM,4,E900,2026-10-23
+EV-2022-10130-03,Requested,C-2022-10130,2022,MTA IT,V20282,E146,2025-09-09,409,Overdue,True,398,False,65.7,236,E146,contract PM,4,E900,2026-10-23
+EV-2022-11076-01,Requested,C-2022-11076,2022,Metro-North Engineering,V20272,E128,2023-02-07,1354,Overdue,True,1362,False,65.6,237,E128,contract PM,4,E900,2026-10-23
+EV-2022-10733-01,Submitted,C-2022-10733,2022,NYCT Infrastructure,V20323,E115,2023-08-15,1165,Overdue,True,1098,False,65.6,238,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10331-01,Requested,C-2022-10331,2022,MTA IT,V20255,E145,2023-08-27,1153,Overdue,True,1113,False,65.6,239,E145,contract PM,4,E900,2026-10-23
+EV-2023-10480-01,Requested,C-2023-10480,2023,Bridges & Tunnels,V20267,E139,2024-02-27,969,Overdue,True,940,False,65.6,240,E139,contract PM,4,E900,2026-10-23
+EV-2023-10018-02,Requested,C-2023-10018,2023,Facilities & Real Estate,V20226,E155,2024-10-16,737,Overdue,True,722,False,65.6,241,E155,contract PM,4,E900,2026-10-23
+EV-2022-10283-01,Not Started,C-2022-10283,2022,Construction & Development,V20070,E107,2023-06-28,1213,Overdue,False,1243,False,65.5,242,E107,contract PM,4,E900,2026-10-23
+EV-2022-10794-01,Requested,C-2022-10794,2022,LIRR Engineering,V20004,E121,2023-09-05,1144,Overdue,True,1098,False,65.5,243,E124,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10539-01,In Progress,C-2022-10539,2022,Facilities & Real Estate,V20226,E154,2023-10-23,1096,Overdue,True,1067,False,65.5,244,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10794-02,Not Started,C-2022-10794,2022,LIRR Engineering,V20004,E121,2024-09-05,778,Overdue,False,808,False,65.5,245,E120,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2023-11143-02,Requested,C-2023-11143,2023,Metro-North Engineering,V20037,E129,2024-09-13,770,Overdue,True,776,False,65.5,246,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-11089-03,Submitted,C-2022-11089,2022,Construction & Development,V20039,E105,2025-03-19,583,Overdue,True,456,False,65.5,247,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10539-03,Requested,C-2022-10539,2022,Facilities & Real Estate,V20226,E154,2025-10-23,365,Overdue,True,321,False,65.5,248,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10435-01,Requested,C-2022-10435,2022,Metro-North Engineering,V20161,E132,2023-03-06,1327,Overdue,True,1301,False,65.4,249,E132,contract PM,4,E900,2026-10-23
+EV-2022-10230-01,Requested,C-2022-10230,2022,Bridges & Tunnels,V20225,E140,2023-09-19,1130,Overdue,True,1100,False,65.4,250,E140,contract PM,4,E900,2026-10-23
+EV-2022-10463-02,Requested,C-2022-10463,2022,MTA IT,V20007,E146,2023-09-24,1125,Overdue,True,1124,False,65.4,251,E146,contract PM,4,E900,2026-10-23
+EV-2023-10830-01,Submitted,C-2023-10830,2023,LIRR Engineering,V20302,E124,2024-02-26,970,Overdue,True,843,False,65.4,252,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11004-02,Not Started,C-2022-11004,2022,Construction & Development,V20324,E104,2024-02-27,969,Overdue,False,999,False,65.4,253,E104,contract PM,4,E900,2026-10-23
+EV-2022-11132-02,Requested,C-2022-11132,2022,Construction & Development,V20098,E105,2024-07-03,842,Overdue,True,830,False,65.4,254,E105,contract PM,4,E900,2026-10-23
+EV-2023-10335-02,Not Started,C-2023-10335,2023,Bridges & Tunnels,V20263,E137,2025-02-26,604,Overdue,False,634,False,65.4,255,E137,contract PM,4,E900,2026-10-23
+EV-2022-10311-01,In Progress,C-2022-10311,2022,MTA IT,V20251,E145,2023-05-07,1265,Overdue,True,1196,False,65.3,256,E145,contract PM,4,E900,2026-10-23
+EV-2022-10553-01,Submitted,C-2022-10553,2022,Metro-North Engineering,V20088,E131,2023-06-04,1237,Overdue,True,1183,False,65.3,257,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11117-02,Requested,C-2022-11117,2022,Facilities & Real Estate,V20066,E154,2024-03-16,951,Overdue,True,955,False,65.3,258,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-11034-01,In Progress,C-2023-11034,2023,MTA IT,V20288,E144,2024-05-22,884,Overdue,True,825,False,65.3,259,E144,contract PM,4,E900,2026-10-23
+EV-2023-10741-02,Requested,C-2023-10741,2023,NYCT Infrastructure,V20157,E112,2024-10-18,735,Overdue,True,743,False,65.3,260,E112,contract PM,4,E900,2026-10-23
+EV-2023-10242-01,Requested,C-2023-10242,2023,Facilities & Real Estate,V20292,E155,2024-10-21,732,Overdue,True,709,False,65.3,261,E155,contract PM,4,E900,2026-10-23
+EV-2022-10712-03,Not Started,C-2022-10712,2022,LIRR Engineering,V20265,E122,2025-12-29,298,Overdue,False,328,False,65.3,262,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10363-01,Not Started,C-2022-10363,2022,NYCT Infrastructure,V20227,E112,2023-04-27,1275,Overdue,False,1305,False,65.2,263,E112,contract PM,4,E900,2026-10-23
+EV-2022-10287-01,In Progress,C-2022-10287,2022,LIRR Engineering,V20274,E124,2023-08-04,1176,Overdue,True,1101,False,65.2,264,E124,contract PM,4,E900,2026-10-23
+EV-2022-10533-01,Not Started,C-2022-10533,2022,Construction & Development,V20298,E108,2023-09-16,1133,Overdue,False,1163,False,65.2,265,E108,contract PM,4,E900,2026-10-23
+EV-2022-10363-02,Requested,C-2022-10363,2022,NYCT Infrastructure,V20227,E112,2024-04-27,909,Overdue,True,865,False,65.2,266,E112,contract PM,4,E900,2026-10-23
+EV-2022-10603-02,Not Started,C-2022-10603,2022,Construction & Development,V20101,E105,2024-07-05,840,Overdue,False,870,False,65.2,267,E105,contract PM,4,E900,2026-10-23
+EV-2022-10524-02,Requested,C-2022-10524,2022,MTA IT,V20226,E144,2024-07-26,819,Overdue,True,807,False,65.2,268,E144,contract PM,4,E900,2026-10-23
+EV-2023-11231-02,Not Started,C-2023-11231,2023,Construction & Development,V20287,E104,2024-10-16,737,Overdue,False,767,False,65.2,269,E104,contract PM,4,E900,2026-10-23
+EV-2023-10766-02,In Progress,C-2023-10766,2023,NYCT Infrastructure,V20172,E116,2025-04-23,548,Overdue,True,507,False,65.2,270,E116,contract PM,4,E900,2026-10-23
+EV-2023-11140-02,In Progress,C-2023-11140,2023,Construction & Development,V20224,E105,2025-06-20,490,Overdue,True,411,False,65.2,271,E105,contract PM,4,E900,2026-10-23
+EV-2022-10603-03,Requested,C-2022-10603,2022,Construction & Development,V20101,E105,2025-07-05,475,Overdue,True,476,False,65.2,272,E105,contract PM,4,E900,2026-10-23
+EV-2022-10646-01,Submitted,C-2022-10646,2022,MTA IT,V20227,E146,2023-11-04,1084,Overdue,True,1033,False,65.1,273,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11212-01,Requested,C-2023-11212,2023,NYCT Infrastructure,V20252,E112,2025-01-18,643,Overdue,True,663,False,65.1,274,E112,contract PM,4,E900,2026-10-23
+EV-2022-10006-04,Not Started,C-2022-10006,2022,LIRR Engineering,V20091,E123,2025-04-28,543,Overdue,False,573,False,65.1,275,E123,contract PM,4,E900,2026-10-23
+EV-2022-10566-01,Not Started,C-2022-10566,2022,MTA IT,V20172,E148,2023-06-26,1215,Overdue,False,1245,False,65.0,276,E148,contract PM,4,E900,2026-10-23
+EV-2022-10274-01,Submitted,C-2022-10274,2022,Construction & Development,V20035,E104,2023-12-28,1030,Overdue,True,986,False,65.0,277,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10863-01,Submitted,C-2023-10863,2023,NYCT Infrastructure,V20286,E116,2024-09-17,766,Overdue,True,751,False,65.0,278,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10930-02,Submitted,C-2022-10930,2022,MTA IT,V20149,E148,2024-11-03,719,Overdue,True,648,False,65.0,279,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10147-01,Requested,C-2023-10147,2023,Metro-North Engineering,V20112,E130,2023-08-23,1157,Overdue,True,1165,False,64.9,280,E130,contract PM,4,E900,2026-10-23
+EV-2022-10374-01,Requested,C-2022-10374,2022,Metro-North Engineering,V20177,E129,2024-01-19,1008,Overdue,True,981,False,64.9,281,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2023-10783-01,Submitted,C-2023-10783,2023,Bridges & Tunnels,V20184,E136,2024-06-11,864,Overdue,True,792,False,64.9,282,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10497-01,In Progress,C-2022-10497,2022,LIRR Engineering,V20211,E122,2023-05-28,1244,Overdue,True,1221,False,64.8,283,E124,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10036-01,Requested,C-2022-10036,2022,Facilities & Real Estate,V20131,E155,2024-01-06,1021,Overdue,True,1007,False,64.8,284,E155,contract PM,4,E900,2026-10-23
+EV-2023-10528-01,Submitted,C-2023-10528,2023,MTA IT,V20279,,2024-08-11,803,Overdue,True,742,False,64.8,285,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10036-02,Requested,C-2022-10036,2022,Facilities & Real Estate,V20131,E155,2025-01-06,655,Overdue,True,636,False,64.8,286,E155,contract PM,4,E900,2026-10-23
+EV-2024-10339-01,In Progress,C-2024-10339,2024,MTA IT,V20174,E148,2025-05-07,534,Overdue,True,461,False,64.8,287,E148,contract PM,4,E900,2026-10-23
+EV-2022-10497-03,Not Started,C-2022-10497,2022,LIRR Engineering,V20211,E122,2025-05-28,513,Overdue,False,543,False,64.8,288,E120,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10795-01,In Progress,C-2022-10795,2022,Metro-North Engineering,V20072,E132,2022-08-15,1530,Overdue,True,1452,False,64.7,289,E132,contract PM,4,E900,2026-10-23
+EV-2022-10823-01,Requested,C-2022-10823,2022,Metro-North Engineering,V20302,E128,2023-06-27,1214,Overdue,True,1197,False,64.7,290,E128,contract PM,4,E900,2026-10-23
+EV-2023-11105-01,In Progress,C-2023-11105,2023,Construction & Development,V20113,E105,2023-10-23,1096,Overdue,True,1080,False,64.7,291,E105,contract PM,4,E900,2026-10-23
+EV-2023-10877-02,Submitted,C-2023-10877,2023,NYCT Infrastructure,V20122,E113,2024-11-18,704,Overdue,True,685,False,64.7,292,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10046-01,Requested,C-2022-10046,2022,LIRR Engineering,V20317,E123,2022-11-27,1426,Overdue,True,1414,False,64.6,293,E123,contract PM,4,E900,2026-10-23
+EV-2022-10924-01,In Progress,C-2022-10924,2022,NYCT Infrastructure,V20046,E112,2023-02-24,1337,Overdue,True,1321,False,64.6,294,E112,contract PM,4,E900,2026-10-23
+EV-2023-11285-01,In Progress,C-2023-11285,2023,Facilities & Real Estate,V20075,E152,2024-06-13,862,Overdue,True,835,False,64.6,295,E152,contract PM,4,E900,2026-10-23
+EV-2022-10227-02,Submitted,C-2022-10227,2022,Facilities & Real Estate,V20329,E153,2024-08-01,813,Overdue,True,744,False,64.6,296,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10418-02,Submitted,C-2023-10418,2023,MTA IT,V20099,E147,2025-07-08,472,Overdue,True,396,False,64.6,297,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10227-03,In Progress,C-2022-10227,2022,Facilities & Real Estate,V20329,E153,2025-08-01,448,Overdue,True,384,False,64.6,298,E153,contract PM,4,E900,2026-10-23
+EV-2024-11139-02,Not Started,C-2024-11139,2024,Construction & Development,V20254,E105,2026-04-27,179,Overdue,False,209,True,64.6,299,E105,contract PM,3,E101,2026-10-23
+EV-2022-10013-01,Requested,C-2022-10013,2022,Metro-North Engineering,V20099,E128,2022-10-22,1462,Overdue,True,1451,False,64.5,300,E128,contract PM,4,E900,2026-10-23
+EV-2023-10522-01,In Progress,C-2023-10522,2023,LIRR Engineering,V20078,E123,2023-10-16,1103,Overdue,True,1054,False,64.5,301,E123,contract PM,4,E900,2026-10-23
+EV-2023-10776-02,Submitted,C-2023-10776,2023,Facilities & Real Estate,V20052,E156,2025-06-20,490,Overdue,True,319,False,64.5,302,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10220-01,In Progress,C-2022-10220,2022,NYCT Infrastructure,V20188,E114,2023-04-11,1291,Overdue,True,1261,False,64.4,303,E114,contract PM,4,E900,2026-10-23
+EV-2022-11250-01,Submitted,C-2022-11250,2022,LIRR Engineering,V20298,E121,2023-04-15,1287,Overdue,True,1187,False,64.4,304,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10583-01,Submitted,C-2022-10583,2022,LIRR Engineering,V20027,E121,2023-06-09,1232,Overdue,True,1101,False,64.4,305,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10148-01,Not Started,C-2022-10148,2022,Bridges & Tunnels,V20149,E137,2023-11-12,1076,Overdue,False,1106,False,64.4,306,E137,contract PM,4,E900,2026-10-23
+EV-2023-10679-01,Not Started,C-2023-10679,2023,Bridges & Tunnels,V20172,E140,2024-04-27,909,Overdue,False,939,False,64.4,307,E140,contract PM,4,E900,2026-10-23
+EV-2023-10479-02,Not Started,C-2023-10479,2023,NYCT Infrastructure,V20041,E114,2025-04-22,549,Overdue,False,579,False,64.4,308,E114,contract PM,4,E900,2026-10-23
+EV-2023-10323-02,Submitted,C-2023-10323,2023,LIRR Engineering,V20261,E121,2025-06-16,494,Overdue,True,432,False,64.4,309,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10458-01,Not Started,C-2022-10458,2022,Bridges & Tunnels,V20049,E139,2023-03-21,1312,Overdue,False,1342,False,64.3,310,E139,contract PM,4,E900,2026-10-23
+EV-2023-10897-01,Requested,C-2023-10897,2023,LIRR Engineering,V20140,E123,2024-02-21,975,Overdue,True,994,False,64.3,311,E123,contract PM,4,E900,2026-10-23
+EV-2023-10314-01,Not Started,C-2023-10314,2023,Construction & Development,V20237,E104,2024-05-11,895,Overdue,False,925,False,64.3,312,E104,contract PM,4,E900,2026-10-23
+EV-2023-10822-01,Requested,C-2023-10822,2023,Construction & Development,V20269,E105,2024-06-16,859,Overdue,True,828,False,64.3,313,E105,contract PM,4,E900,2026-10-23
+EV-2022-10643-01,In Progress,C-2022-10643,2022,Construction & Development,V20000,E106,2022-09-17,1497,Overdue,True,1469,False,64.2,314,E106,contract PM,4,E900,2026-10-23
+EV-2022-10557-01,Requested,C-2022-10557,2022,NYCT Infrastructure,V20327,E115,2023-09-27,1122,Overdue,True,1119,False,64.2,315,E115,contract PM,4,E900,2026-10-23
+EV-2022-11279-01,Requested,C-2022-11279,2022,MTA IT,V20024,E147,2023-11-01,1087,Overdue,True,1077,False,64.2,316,E147,contract PM,4,E900,2026-10-23
+EV-2023-10860-01,In Progress,C-2023-10860,2023,Bridges & Tunnels,V20087,E138,2024-02-25,971,Overdue,True,943,False,64.2,317,E138,contract PM,4,E900,2026-10-23
+EV-2023-10799-01,Requested,C-2023-10799,2023,NYCT Infrastructure,V20269,E115,2024-09-25,758,Overdue,True,730,False,64.2,318,E115,contract PM,4,E900,2026-10-23
+EV-2023-10229-02,Requested,C-2023-10229,2023,Metro-North Engineering,V20248,E128,2024-11-18,704,Overdue,True,672,False,64.2,319,E128,contract PM,4,E900,2026-10-23
+EV-2022-10286-01,In Progress,C-2022-10286,2022,LIRR Engineering,V20087,E121,2023-03-09,1324,Overdue,True,1301,False,64.1,320,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-11216-01,Not Started,C-2022-11216,2022,Construction & Development,V20337,E107,2023-03-14,1319,Overdue,False,1349,False,64.1,321,E107,contract PM,4,E900,2026-10-23
+EV-2022-10843-01,In Progress,C-2022-10843,2022,NYCT Infrastructure,V20156,E116,2023-03-15,1318,Overdue,True,1237,False,64.1,322,E116,contract PM,4,E900,2026-10-23
+EV-2023-10560-01,In Progress,C-2023-10560,2023,NYCT Infrastructure,V20102,E116,2024-02-15,981,Overdue,True,961,False,64.1,323,E116,contract PM,4,E900,2026-10-23
+EV-2023-10094-01,Requested,C-2023-10094,2023,NYCT Infrastructure,V20079,E114,2024-02-22,974,Overdue,True,954,False,64.1,324,E114,contract PM,4,E900,2026-10-23
+EV-2023-10249-01,Requested,C-2023-10249,2023,Bridges & Tunnels,V20129,E137,2024-11-23,699,Overdue,True,656,False,64.1,325,E137,contract PM,4,E900,2026-10-23
+EV-2023-10165-02,Not Started,C-2023-10165,2023,Construction & Development,V20238,E105,2025-01-10,651,Overdue,False,681,False,64.1,326,E105,contract PM,4,E900,2026-10-23
+EV-2022-10286-03,Submitted,C-2022-10286,2022,LIRR Engineering,V20087,E121,2025-03-09,593,Overdue,True,536,False,64.1,327,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10721-03,In Progress,C-2022-10721,2022,LIRR Engineering,V20195,E120,2025-03-31,571,Overdue,True,570,False,64.1,328,E120,contract PM,4,E900,2026-10-23
+EV-2022-10354-01,Submitted,C-2022-10354,2022,Bridges & Tunnels,V20071,,2023-06-04,1237,Overdue,True,1122,False,64.0,329,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10424-01,Requested,C-2022-10424,2022,Metro-North Engineering,V20043,E128,2023-09-01,1148,Overdue,True,1156,False,64.0,330,E128,contract PM,4,E900,2026-10-23
+EV-2023-10703-01,Not Started,C-2023-10703,2023,LIRR Engineering,V20274,E124,2024-01-28,999,Overdue,False,1029,False,64.0,331,E124,contract PM,4,E900,2026-10-23
+EV-2023-10632-01,Requested,C-2023-10632,2023,Bridges & Tunnels,V20033,E136,2024-05-07,899,Overdue,True,883,False,64.0,332,E136,contract PM,4,E900,2026-10-23
+EV-2023-10482-01,Not Started,C-2023-10482,2023,NYCT Infrastructure,V20157,E114,2024-06-02,873,Overdue,False,903,False,64.0,333,E114,contract PM,4,E900,2026-10-23
+EV-2023-10303-02,In Progress,C-2023-10303,2023,Facilities & Real Estate,V20292,,2025-09-21,397,Overdue,True,335,False,64.0,334,E153,no PM on contract -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10637-03,Requested,C-2022-10637,2022,Metro-North Engineering,V20276,E132,2025-11-18,339,Overdue,True,356,False,64.0,335,E132,contract PM,4,E900,2026-10-23
+EV-2022-10446-03,In Progress,C-2022-10446,2022,Metro-North Engineering,V20252,E131,2025-12-31,296,Overdue,True,230,False,64.0,336,E131,contract PM,4,E900,2026-10-23
+EV-2023-10138-01,In Progress,C-2023-10138,2023,Bridges & Tunnels,V20055,E136,2024-03-30,937,Overdue,True,868,False,63.9,337,E136,contract PM,4,E900,2026-10-23
+EV-2022-10019-02,Submitted,C-2022-10019,2022,NYCT Infrastructure,V20149,E115,2024-08-18,796,Overdue,True,657,False,63.9,338,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11175-03,In Progress,C-2022-11175,2022,Facilities & Real Estate,V20200,E155,2025-11-17,340,Overdue,True,341,False,63.9,339,E155,contract PM,4,E900,2026-10-23
+EV-2022-11092-01,Requested,C-2022-11092,2022,Facilities & Real Estate,V20227,E153,2023-07-15,1196,Overdue,True,1158,False,63.8,340,E153,contract PM,4,E900,2026-10-23
+EV-2022-10159-01,Not Started,C-2022-10159,2022,MTA IT,V20132,E144,2023-11-25,1063,Overdue,False,1093,False,63.8,341,E144,contract PM,4,E900,2026-10-23
+EV-2023-10944-01,Submitted,C-2023-10944,2023,Bridges & Tunnels,V20250,E139,2024-02-01,995,Overdue,True,908,False,63.8,342,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10919-01,Submitted,C-2023-10919,2023,MTA IT,V20134,E145,2024-03-03,964,Overdue,True,846,False,63.8,343,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10081-01,Requested,C-2023-10081,2023,MTA IT,V20251,E144,2024-10-21,732,Overdue,True,744,False,63.8,344,E144,contract PM,4,E900,2026-10-23
+EV-2023-10489-02,In Progress,C-2023-10489,2023,Facilities & Real Estate,V20001,E152,2025-05-16,525,Overdue,True,488,False,63.8,345,E152,contract PM,4,E900,2026-10-23
+EV-2023-10736-02,Requested,C-2023-10736,2023,Facilities & Real Estate,V20010,E153,2025-07-08,472,Overdue,True,469,False,63.8,346,E153,contract PM,4,E900,2026-10-23
+EV-2022-10437-01,Not Started,C-2022-10437,2022,NYCT Infrastructure,V20184,E115,2023-10-16,1103,Overdue,False,1133,False,63.7,347,E115,contract PM,4,E900,2026-10-23
+EV-2022-10048-01,Not Started,C-2022-10048,2022,NYCT Infrastructure,V20150,E114,2023-12-27,1031,Overdue,False,1061,False,63.7,348,E114,contract PM,4,E900,2026-10-23
+EV-2023-11287-01,Not Started,C-2023-11287,2023,MTA IT,V20101,E144,2024-03-01,966,Overdue,False,996,False,63.7,349,E144,contract PM,4,E900,2026-10-23
+EV-2023-10495-01,Requested,C-2023-10495,2023,Construction & Development,V20157,E108,2024-04-09,927,Overdue,True,941,False,63.7,350,E108,contract PM,4,E900,2026-10-23
+EV-2022-11223-02,In Progress,C-2022-11223,2022,Bridges & Tunnels,V20138,E137,2024-05-12,894,Overdue,True,854,False,63.7,351,E137,contract PM,4,E900,2026-10-23
+EV-2022-11029-02,Submitted,C-2022-11029,2022,Facilities & Real Estate,V20278,E153,2024-10-15,738,Overdue,True,662,False,63.7,352,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11029-03,Requested,C-2022-11029,2022,Facilities & Real Estate,V20278,E153,2025-10-15,373,Overdue,True,392,False,63.7,353,E153,contract PM,4,E900,2026-10-23
+EV-2022-11169-01,Requested,C-2022-11169,2022,Metro-North Engineering,V20006,E130,2023-09-05,1144,Overdue,True,1147,False,63.6,354,E130,contract PM,4,E900,2026-10-23
+EV-2022-11237-02,In Progress,C-2022-11237,2022,LIRR Engineering,V20217,E122,2024-08-10,804,Overdue,True,756,False,63.6,355,E124,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2023-10072-01,Requested,C-2023-10072,2023,Facilities & Real Estate,V20117,E152,2024-10-28,725,Overdue,True,721,False,63.6,356,E152,contract PM,4,E900,2026-10-23
+EV-2023-11048-01,Submitted,C-2023-11048,2023,Bridges & Tunnels,V20198,E139,2024-11-23,699,Overdue,True,634,False,63.6,357,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10942-01,Requested,C-2023-10942,2023,NYCT Infrastructure,V20300,E113,2024-02-12,984,Overdue,True,1002,False,63.5,358,E113,contract PM,4,E900,2026-10-23
+EV-2024-10369-01,Requested,C-2024-10369,2024,Construction & Development,V20206,E106,2025-04-11,560,Overdue,True,541,False,63.5,359,E106,contract PM,4,E900,2026-10-23
+EV-2022-10932-01,Submitted,C-2022-10932,2022,Construction & Development,V20277,E108,2023-03-29,1304,Overdue,True,1243,False,63.4,360,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10080-01,Submitted,C-2023-10080,2023,LIRR Engineering,V20130,E123,2023-08-18,1162,Overdue,True,1037,False,63.4,361,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10351-01,Requested,C-2022-10351,2022,NYCT Infrastructure,V20313,E112,2023-09-01,1148,Overdue,True,1113,False,63.4,362,E112,contract PM,4,E900,2026-10-23
+EV-2022-10883-01,Submitted,C-2022-10883,2022,LIRR Engineering,V20032,E120,2023-10-28,1091,Overdue,True,1053,False,63.4,363,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10828-01,In Progress,C-2022-10828,2022,Bridges & Tunnels,V20176,E137,2023-11-24,1064,Overdue,True,995,False,63.4,364,E137,contract PM,4,E900,2026-10-23
+EV-2023-10082-01,Submitted,C-2023-10082,2023,MTA IT,V20163,E145,2024-07-04,841,Overdue,True,717,False,63.4,365,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10328-01,Requested,C-2024-10328,2024,MTA IT,V20241,E148,2025-06-07,503,Overdue,True,516,False,63.4,366,E148,contract PM,4,E900,2026-10-23
+EV-2024-11024-01,Not Started,C-2024-11024,2024,NYCT Infrastructure,V20215,E114,2025-06-15,495,Overdue,False,525,False,63.4,367,E114,contract PM,4,E900,2026-10-23
+EV-2024-10396-01,In Progress,C-2024-10396,2024,LIRR Engineering,V20116,E120,2025-07-04,476,Overdue,True,409,False,63.4,368,E120,contract PM,4,E900,2026-10-23
+EV-2023-10307-02,Not Started,C-2023-10307,2023,Construction & Development,V20252,E107,2025-02-01,629,Overdue,False,659,False,63.3,369,E107,contract PM,4,E900,2026-10-23
+EV-2023-11068-02,Submitted,C-2023-11068,2023,Bridges & Tunnels,V20321,E138,2025-06-29,481,Overdue,True,436,False,63.3,370,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11090-01,Submitted,C-2024-11090,2024,NYCT Infrastructure,V20095,E113,2025-09-30,388,Overdue,True,273,False,63.3,371,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11101-02,Submitted,C-2023-11101,2023,Facilities & Real Estate,V20252,E154,2025-10-27,361,Overdue,True,318,False,63.3,372,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10439-01,In Progress,C-2022-10439,2022,MTA IT,V20298,E146,2023-02-27,1334,Overdue,True,1291,False,63.2,373,E146,contract PM,4,E900,2026-10-23
+EV-2023-11272-01,Not Started,C-2023-11272,2023,MTA IT,V20232,E146,2023-10-23,1096,Overdue,False,1126,False,63.2,374,E146,contract PM,4,E900,2026-10-23
+EV-2023-10555-01,Requested,C-2023-10555,2023,Bridges & Tunnels,V20073,E137,2023-12-08,1050,Overdue,True,1043,False,63.2,375,E137,contract PM,4,E900,2026-10-23
+EV-2023-10175-01,Submitted,C-2023-10175,2023,MTA IT,V20087,E144,2024-04-10,926,Overdue,True,851,False,63.2,376,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10266-01,Requested,C-2023-10266,2023,Construction & Development,V20066,E107,2024-09-20,763,Overdue,True,755,False,63.2,377,E107,contract PM,4,E900,2026-10-23
+EV-2023-10952-02,Requested,C-2023-10952,2023,Construction & Development,V20288,E107,2025-05-19,522,Overdue,True,501,False,63.2,378,E107,contract PM,4,E900,2026-10-23
+EV-2023-10034-02,Requested,C-2023-10034,2023,LIRR Engineering,V20210,E124,2025-07-14,466,Overdue,True,492,False,63.2,379,E124,contract PM,4,E900,2026-10-23
+EV-2022-10445-01,In Progress,C-2022-10445,2022,Bridges & Tunnels,V20122,E138,2023-04-27,1275,Overdue,True,1196,False,63.1,380,E138,contract PM,4,E900,2026-10-23
+EV-2023-10338-01,Requested,C-2023-10338,2023,Metro-North Engineering,V20054,E129,2024-04-15,921,Overdue,True,942,False,63.1,381,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2023-10304-01,Requested,C-2023-10304,2023,LIRR Engineering,V20090,E122,2024-04-23,913,Overdue,True,876,False,63.1,382,E120,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2023-10717-01,In Progress,C-2023-10717,2023,Facilities & Real Estate,V20093,E152,2025-01-20,641,Overdue,True,538,False,63.1,383,E152,contract PM,4,E900,2026-10-23
+EV-2022-10262-02,Requested,C-2022-10262,2022,Bridges & Tunnels,V20114,E140,2024-03-13,954,Overdue,True,957,False,63.0,384,E140,contract PM,4,E900,2026-10-23
+EV-2022-10622-02,Requested,C-2022-10622,2022,Bridges & Tunnels,V20233,E139,2023-11-20,1068,Overdue,True,1072,False,62.9,385,E139,contract PM,4,E900,2026-10-23
+EV-2022-10644-01,Requested,C-2022-10644,2022,Facilities & Real Estate,V20201,E153,2023-12-28,1030,Overdue,True,1051,False,62.9,386,E153,contract PM,4,E900,2026-10-23
+EV-2023-10189-01,Requested,C-2023-10189,2023,Metro-North Engineering,V20031,E132,2024-03-12,955,Overdue,True,945,False,62.9,387,E132,contract PM,4,E900,2026-10-23
+EV-2022-11112-02,Submitted,C-2022-11112,2022,NYCT Infrastructure,V20180,E112,2024-04-07,929,Overdue,True,849,False,62.9,388,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10292-01,Requested,C-2022-10292,2022,NYCT Infrastructure,V20195,E113,2023-03-08,1325,Overdue,True,1346,False,62.8,389,E113,contract PM,4,E900,2026-10-23
+EV-2022-11240-01,In Progress,C-2022-11240,2022,LIRR Engineering,V20008,E123,2023-07-28,1183,Overdue,True,1167,False,62.8,390,E123,contract PM,4,E900,2026-10-23
+EV-2023-10064-01,Requested,C-2023-10064,2023,Metro-North Engineering,V20335,E129,2024-02-03,993,Overdue,True,976,False,62.8,391,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-11240-02,Not Started,C-2022-11240,2022,LIRR Engineering,V20008,E123,2024-07-28,817,Overdue,False,847,False,62.8,392,E123,contract PM,4,E900,2026-10-23
+EV-2022-10994-02,In Progress,C-2022-10994,2022,Bridges & Tunnels,V20114,E136,2024-10-27,726,Overdue,True,703,False,62.8,393,E136,contract PM,4,E900,2026-10-23
+EV-2023-10720-02,Requested,C-2023-10720,2023,Bridges & Tunnels,V20182,E137,2025-10-02,386,Overdue,True,401,False,62.7,394,E137,contract PM,4,E900,2026-10-23
+EV-2023-11296-02,Requested,C-2023-11296,2023,LIRR Engineering,V20294,E122,2025-11-08,349,Overdue,True,330,False,62.7,395,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2023-10859-02,Submitted,C-2023-10859,2023,NYCT Infrastructure,V20287,E113,2025-12-18,309,Overdue,True,215,False,62.7,396,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11208-01,Requested,C-2022-11208,2022,Bridges & Tunnels,V20288,E140,2023-09-27,1122,Overdue,True,1127,False,62.6,397,E140,contract PM,4,E900,2026-10-23
+EV-2022-11036-01,In Progress,C-2022-11036,2022,Bridges & Tunnels,V20103,E140,2023-12-04,1054,Overdue,True,998,False,62.6,398,E140,contract PM,4,E900,2026-10-23
+EV-2022-10891-02,Not Started,C-2022-10891,2022,NYCT Infrastructure,V20313,E114,2024-03-26,941,Overdue,False,971,False,62.6,399,E114,contract PM,4,E900,2026-10-23
+EV-2022-10780-02,Submitted,C-2022-10780,2022,Bridges & Tunnels,V20043,,2024-06-07,868,Overdue,True,775,False,62.5,400,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10791-01,Submitted,C-2023-10791,2023,Facilities & Real Estate,V20202,E155,2024-12-20,672,Overdue,True,629,False,62.5,401,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10713-01,Requested,C-2022-10713,2022,Construction & Development,V20243,E107,2023-04-05,1297,Overdue,True,1291,False,62.4,402,E107,contract PM,4,E900,2026-10-23
+EV-2023-10368-01,In Progress,C-2023-10368,2023,NYCT Infrastructure,V20117,E115,2023-10-05,1114,Overdue,True,1096,False,62.4,403,E115,contract PM,4,E900,2026-10-23
+EV-2023-10104-01,In Progress,C-2023-10104,2023,Facilities & Real Estate,V20324,E153,2024-01-02,1025,Overdue,True,986,False,62.4,404,E153,contract PM,4,E900,2026-10-23
+EV-2023-10788-02,Not Started,C-2023-10788,2023,Metro-North Engineering,V20116,,2025-06-25,485,Overdue,False,515,False,62.4,405,E128,no PM on contract -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2024-10917-01,Requested,C-2024-10917,2024,Metro-North Engineering,V20059,E129,2025-08-22,427,Overdue,True,392,False,62.4,406,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2023-10774-02,Requested,C-2023-10774,2023,LIRR Engineering,V20026,E121,2025-10-19,369,Overdue,True,338,False,62.4,407,E124,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2022-10994-03,Requested,C-2022-10994,2022,Bridges & Tunnels,V20114,E136,2025-10-27,361,Overdue,True,358,False,62.4,408,E136,contract PM,4,E900,2026-10-23
+EV-2022-10021-01,Requested,C-2022-10021,2022,Metro-North Engineering,V20318,E130,2023-12-26,1032,Overdue,True,1046,False,62.3,409,E130,contract PM,4,E900,2026-10-23
+EV-2024-10798-01,Requested,C-2024-10798,2024,LIRR Engineering,V20207,E121,2025-01-17,644,Overdue,True,641,False,62.3,410,E120,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2023-10462-01,Submitted,C-2023-10462,2023,Construction & Development,V20005,E105,2025-01-27,634,Overdue,True,605,False,62.3,411,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10660-02,Requested,C-2023-10660,2023,NYCT Infrastructure,V20121,E116,2025-02-26,604,Overdue,True,596,False,62.3,412,E116,contract PM,4,E900,2026-10-23
+EV-2023-10178-02,In Progress,C-2023-10178,2023,Facilities & Real Estate,V20093,E154,2025-10-22,366,Overdue,True,328,False,62.3,413,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10404-02,Requested,C-2022-10404,2022,Metro-North Engineering,V20049,E131,2024-01-06,1021,Overdue,True,1012,False,62.2,414,E131,contract PM,4,E900,2026-10-23
+EV-2023-11153-01,Submitted,C-2023-11153,2023,Facilities & Real Estate,V20028,E152,2024-03-09,958,Overdue,True,933,False,62.2,415,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11278-01,Submitted,C-2023-11278,2023,LIRR Engineering,V20025,E123,2024-10-19,734,Overdue,True,629,False,62.2,416,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10901-02,Not Started,C-2023-10901,2023,Metro-North Engineering,V20196,E132,2025-08-10,439,Overdue,False,469,False,62.2,417,E132,contract PM,4,E900,2026-10-23
+EV-2023-11278-02,In Progress,C-2023-11278,2023,LIRR Engineering,V20025,E123,2025-10-19,369,Overdue,True,299,False,62.2,418,E123,contract PM,4,E900,2026-10-23
+EV-2022-10562-01,In Progress,C-2022-10562,2022,Facilities & Real Estate,V20226,E152,2023-02-22,1339,Overdue,True,1248,False,62.1,419,E152,contract PM,4,E900,2026-10-23
+EV-2022-10269-01,In Progress,C-2022-10269,2022,Facilities & Real Estate,V20023,E152,2023-03-03,1330,Overdue,True,1264,False,62.1,420,E152,contract PM,4,E900,2026-10-23
+EV-2023-10865-01,Requested,C-2023-10865,2023,MTA IT,V20200,E145,2023-09-10,1139,Overdue,True,1140,False,62.1,421,E145,contract PM,4,E900,2026-10-23
+EV-2022-10751-01,Requested,C-2022-10751,2022,Facilities & Real Estate,V20169,E156,2023-11-15,1073,Overdue,True,1033,False,62.1,422,E156,contract PM,4,E900,2026-10-23
+EV-2023-10192-01,Not Started,C-2023-10192,2023,LIRR Engineering,V20203,E121,2024-02-11,985,Overdue,False,1015,False,62.1,423,E123,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2023-10993-01,Not Started,C-2023-10993,2023,Metro-North Engineering,V20014,E130,2024-09-19,764,Overdue,False,794,False,62.1,424,E130,contract PM,4,E900,2026-10-23
+EV-2023-10505-01,Submitted,C-2023-10505,2023,MTA IT,V20214,E145,2024-12-24,668,Overdue,True,579,False,62.1,425,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10268-02,Requested,C-2023-10268,2023,Facilities & Real Estate,V20011,E154,2025-04-10,561,Overdue,True,571,False,62.1,426,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10200-01,Submitted,C-2022-10200,2022,NYCT Infrastructure,V20335,E114,2023-06-15,1226,Overdue,True,1116,False,62.0,427,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10549-01,Requested,C-2022-10549,2022,Construction & Development,V20333,E108,2023-06-27,1214,Overdue,True,1176,False,62.0,428,E108,contract PM,4,E900,2026-10-23
+EV-2022-10332-01,In Progress,C-2022-10332,2022,MTA IT,V20251,E145,2023-07-12,1199,Overdue,True,1106,False,62.0,429,E145,contract PM,4,E900,2026-10-23
+EV-2022-10689-01,In Progress,C-2022-10689,2022,LIRR Engineering,V20306,E124,2023-10-23,1096,Overdue,True,1101,False,62.0,430,E124,contract PM,4,E900,2026-10-23
+EV-2023-10042-01,Not Started,C-2023-10042,2023,NYCT Infrastructure,V20097,E114,2024-10-14,739,Overdue,False,769,False,62.0,431,E114,contract PM,4,E900,2026-10-23
+EV-2022-10689-02,In Progress,C-2022-10689,2022,LIRR Engineering,V20306,E124,2024-10-23,730,Overdue,True,701,False,62.0,432,E124,contract PM,4,E900,2026-10-23
+EV-2023-10041-01,Requested,C-2023-10041,2023,NYCT Infrastructure,V20199,E115,2025-01-27,634,Overdue,True,604,False,62.0,433,E115,contract PM,4,E900,2026-10-23
+EV-2024-11031-01,In Progress,C-2024-11031,2024,MTA IT,V20281,E144,2025-02-04,626,Overdue,True,568,False,62.0,434,E144,contract PM,4,E900,2026-10-23
+EV-2022-10689-03,Requested,C-2022-10689,2022,LIRR Engineering,V20306,E124,2025-10-23,365,Overdue,True,354,False,62.0,435,E124,contract PM,4,E900,2026-10-23
+EV-2023-10804-01,In Progress,C-2023-10804,2023,Bridges & Tunnels,V20151,E139,2023-09-19,1130,Overdue,True,1124,False,61.9,436,E139,contract PM,4,E900,2026-10-23
+EV-2022-10637-02,In Progress,C-2022-10637,2022,Metro-North Engineering,V20276,E132,2024-11-20,702,Overdue,True,640,False,61.9,437,E132,contract PM,4,E900,2026-10-23
+EV-2024-10667-01,Submitted,C-2024-10667,2024,LIRR Engineering,V20085,E122,2025-04-14,557,Overdue,True,469,False,61.9,438,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10530-01,Requested,C-2022-10530,2022,LIRR Engineering,V20114,E124,2023-08-12,1168,Overdue,True,1156,False,61.8,439,E124,contract PM,4,E900,2026-10-23
+EV-2023-11253-01,In Progress,C-2023-11253,2023,Bridges & Tunnels,V20008,E137,2024-02-19,977,Overdue,True,964,False,61.8,440,E137,contract PM,4,E900,2026-10-23
+EV-2024-10342-01,Submitted,C-2024-10342,2024,LIRR Engineering,V20030,E124,2025-05-18,523,Overdue,True,464,False,61.8,441,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10036-03,In Progress,C-2022-10036,2022,Facilities & Real Estate,V20131,E155,2026-01-04,292,Overdue,True,235,False,61.8,442,E155,contract PM,4,E900,2026-10-23
+EV-2024-10748-02,In Progress,C-2024-10748,2024,Facilities & Real Estate,V20264,E156,2026-05-29,147,Overdue,True,118,True,61.8,443,E156,contract PM,3,E149,2026-10-23
+EV-2022-10247-01,Not Started,C-2022-10247,2022,NYCT Infrastructure,V20263,E114,2023-09-09,1140,Overdue,False,1170,False,61.7,444,E114,contract PM,4,E900,2026-10-23
+EV-2022-11179-01,Submitted,C-2022-11179,2022,Construction & Development,V20201,E104,2023-10-28,1091,Overdue,True,1018,False,61.7,445,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11175-01,In Progress,C-2022-11175,2022,Facilities & Real Estate,V20200,E155,2023-11-19,1069,Overdue,True,1012,False,61.7,446,E155,contract PM,4,E900,2026-10-23
+EV-2023-10973-01,Requested,C-2023-10973,2023,Facilities & Real Estate,V20285,E156,2023-12-01,1057,Overdue,True,1028,False,61.7,447,E156,contract PM,4,E900,2026-10-23
+EV-2023-10240-01,Submitted,C-2023-10240,2023,NYCT Infrastructure,V20229,E114,2024-02-07,989,Overdue,True,876,False,61.7,448,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10586-01,Not Started,C-2023-10586,2023,Facilities & Real Estate,V20181,E153,2024-06-20,855,Overdue,False,885,False,61.7,449,E153,contract PM,4,E900,2026-10-23
+EV-2023-10802-01,Not Started,C-2023-10802,2023,Bridges & Tunnels,V20250,E140,2024-09-06,777,Overdue,False,807,False,61.7,450,E140,contract PM,4,E900,2026-10-23
+EV-2022-11175-02,Submitted,C-2022-11175,2022,Facilities & Real Estate,V20200,E155,2024-11-19,703,Overdue,True,628,False,61.7,451,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10740-01,Not Started,C-2023-10740,2023,Metro-North Engineering,V20088,E131,2024-12-02,690,Overdue,False,720,False,61.7,452,E131,contract PM,4,E900,2026-10-23
+EV-2023-11094-02,Requested,C-2023-11094,2023,MTA IT,V20071,E144,2025-06-19,491,Overdue,True,445,False,61.7,453,E144,contract PM,4,E900,2026-10-23
+EV-2023-10510-02,Submitted,C-2023-10510,2023,NYCT Infrastructure,V20072,E112,2025-07-08,472,Overdue,True,407,False,61.7,454,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11156-01,Requested,C-2022-11156,2022,Construction & Development,V20030,E107,2023-07-10,1201,Overdue,True,1198,False,61.6,455,E107,contract PM,4,E900,2026-10-23
+EV-2022-11156-02,Requested,C-2022-11156,2022,Construction & Development,V20030,E107,2024-07-10,835,Overdue,True,831,False,61.6,456,E107,contract PM,4,E900,2026-10-23
+EV-2024-10171-01,Submitted,C-2024-10171,2024,Facilities & Real Estate,V20178,E152,2025-09-03,415,Overdue,True,357,False,61.6,457,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10903-02,Submitted,C-2023-10903,2023,Facilities & Real Estate,V20152,E153,2025-10-27,361,Overdue,True,325,False,61.6,458,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10523-01,In Progress,C-2022-10523,2022,MTA IT,V20135,E146,2023-06-06,1235,Overdue,True,1197,False,61.5,459,E146,contract PM,4,E900,2026-10-23
+EV-2022-10613-01,Not Started,C-2022-10613,2022,Bridges & Tunnels,V20056,E139,2023-06-27,1214,Overdue,False,1244,False,61.5,460,E139,contract PM,4,E900,2026-10-23
+EV-2023-10143-01,Submitted,C-2023-10143,2023,Facilities & Real Estate,V20258,E155,2023-10-03,1116,Overdue,True,1051,False,61.5,461,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10595-01,Not Started,C-2022-10595,2022,MTA IT,V20157,E145,2023-11-25,1063,Overdue,False,1093,False,61.5,462,E145,contract PM,4,E900,2026-10-23
+EV-2022-10849-01,Submitted,C-2022-10849,2022,MTA IT,V20193,E145,2024-01-13,1014,Overdue,True,948,False,61.5,463,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10849-02,Not Started,C-2022-10849,2022,MTA IT,V20193,E145,2025-01-13,648,Overdue,False,678,False,61.5,464,E145,contract PM,4,E900,2026-10-23
+EV-2023-10558-02,Not Started,C-2023-10558,2023,Construction & Development,V20246,E104,2025-03-10,592,Overdue,False,622,False,61.5,465,E104,contract PM,4,E900,2026-10-23
+EV-2023-10619-01,Requested,C-2023-10619,2023,Metro-North Engineering,V20023,E131,2024-05-19,887,Overdue,True,882,False,61.4,466,E131,contract PM,4,E900,2026-10-23
+EV-2023-10345-01,Requested,C-2023-10345,2023,Metro-North Engineering,V20114,E130,2024-06-07,868,Overdue,True,830,False,61.3,467,E130,contract PM,4,E900,2026-10-23
+EV-2023-10134-01,Submitted,C-2023-10134,2023,NYCT Infrastructure,V20319,E113,2024-06-12,863,Overdue,True,729,False,61.3,468,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10352-01,Submitted,C-2023-10352,2023,Facilities & Real Estate,V20218,E156,2024-06-12,863,Overdue,True,742,False,61.3,469,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10452-01,Not Started,C-2023-10452,2023,NYCT Infrastructure,V20172,E112,2023-11-21,1067,Overdue,False,1097,False,61.1,470,E112,contract PM,4,E900,2026-10-23
+EV-2022-10340-01,Not Started,C-2022-10340,2022,Facilities & Real Estate,V20334,E156,2023-12-20,1038,Overdue,False,1068,False,61.1,471,E156,contract PM,4,E900,2026-10-23
+EV-2023-10699-01,Requested,C-2023-10699,2023,MTA IT,V20068,E145,2025-01-01,660,Overdue,True,655,False,61.1,472,E145,contract PM,4,E900,2026-10-23
+EV-2023-10910-02,Requested,C-2023-10910,2023,LIRR Engineering,V20035,E120,2025-11-27,330,Overdue,True,335,False,61.1,473,E120,contract PM,4,E900,2026-10-23
+EV-2022-10282-01,Requested,C-2022-10282,2022,Facilities & Real Estate,V20196,E154,2023-04-13,1289,Overdue,True,1291,False,61.0,474,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-11273-01,Submitted,C-2022-11273,2022,NYCT Infrastructure,V20032,E115,2023-04-26,1276,Overdue,True,1191,False,61.0,475,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10279-01,Submitted,C-2022-10279,2022,Bridges & Tunnels,V20332,E137,2023-08-01,1179,Overdue,True,1072,False,61.0,476,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11180-01,Requested,C-2022-11180,2022,MTA IT,V20095,E144,2023-10-23,1096,Overdue,True,1062,False,61.0,477,E144,contract PM,4,E900,2026-10-23
+EV-2023-10438-01,Requested,C-2023-10438,2023,Bridges & Tunnels,V20080,E137,2024-06-02,873,Overdue,True,881,False,61.0,478,E137,contract PM,4,E900,2026-10-23
+EV-2023-10548-01,Requested,C-2023-10548,2023,MTA IT,V20182,E145,2024-12-09,683,Overdue,True,659,False,61.0,479,E145,contract PM,4,E900,2026-10-23
+EV-2024-10359-01,In Progress,C-2024-10359,2024,LIRR Engineering,V20249,E120,2024-12-12,680,Overdue,True,644,False,61.0,480,E120,contract PM,4,E900,2026-10-23
+EV-2024-10537-01,Submitted,C-2024-10537,2024,NYCT Infrastructure,V20017,E113,2025-11-14,343,Overdue,True,225,False,61.0,481,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10898-01,Requested,C-2023-10898,2023,MTA IT,V20161,E146,2024-02-23,973,Overdue,True,947,False,60.9,482,E146,contract PM,4,E900,2026-10-23
+EV-2023-10464-01,Not Started,C-2023-10464,2023,LIRR Engineering,V20113,E121,2024-09-13,770,Overdue,False,800,False,60.9,483,E124,PM inactive -> reassigned to least-loaded active PM in LIRR Engineering,4,E900,2026-10-23
+EV-2023-10591-01,Not Started,C-2023-10591,2023,NYCT Infrastructure,V20123,E115,2024-11-25,697,Overdue,False,727,False,60.9,484,E115,contract PM,4,E900,2026-10-23
+EV-2024-10956-01,Submitted,C-2024-10956,2024,Bridges & Tunnels,V20085,E136,2025-02-24,606,Overdue,True,516,False,60.9,485,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10724-01,Requested,C-2024-10724,2024,Facilities & Real Estate,V20265,E154,2025-10-27,361,Overdue,True,359,False,60.9,486,E155,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10403-01,Submitted,C-2022-10403,2022,Construction & Development,V20324,E105,2023-02-02,1359,Overdue,True,1293,False,60.8,487,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11275-01,In Progress,C-2022-11275,2022,NYCT Infrastructure,V20072,E114,2023-04-10,1292,Overdue,True,1262,False,60.8,488,E114,contract PM,4,E900,2026-10-23
+EV-2022-10778-01,In Progress,C-2022-10778,2022,NYCT Infrastructure,V20131,E114,2023-06-12,1229,Overdue,True,1172,False,60.8,489,E114,contract PM,4,E900,2026-10-23
+EV-2022-10321-01,In Progress,C-2022-10321,2022,Construction & Development,V20029,E104,2023-10-07,1112,Overdue,True,1029,False,60.8,490,E104,contract PM,4,E900,2026-10-23
+EV-2022-11275-02,In Progress,C-2022-11275,2022,NYCT Infrastructure,V20072,E114,2024-04-10,926,Overdue,True,867,False,60.8,491,E114,contract PM,4,E900,2026-10-23
+EV-2023-10067-02,Requested,C-2023-10067,2023,Construction & Development,V20024,E105,2025-03-14,588,Overdue,True,613,False,60.8,492,E105,contract PM,4,E900,2026-10-23
+EV-2022-10130-01,In Progress,C-2022-10130,2022,MTA IT,V20282,E146,2023-09-11,1138,Overdue,True,1055,False,60.7,493,E146,contract PM,4,E900,2026-10-23
+EV-2022-10149-01,Requested,C-2022-10149,2022,MTA IT,V20218,E145,2024-01-05,1022,Overdue,True,1027,False,60.7,494,E145,contract PM,4,E900,2026-10-23
+EV-2023-10578-01,Submitted,C-2023-10578,2023,Bridges & Tunnels,V20117,E138,2024-05-18,888,Overdue,True,813,False,60.7,495,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10853-01,Submitted,C-2023-10853,2023,Bridges & Tunnels,V20274,E138,2024-07-04,841,Overdue,True,818,False,60.7,496,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10526-01,Submitted,C-2024-10526,2024,Construction & Development,V20050,E108,2024-09-19,764,Overdue,True,674,False,60.7,497,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10760-01,Requested,C-2023-10760,2023,Metro-North Engineering,V20114,E128,2024-10-31,722,Overdue,True,703,False,60.7,498,E128,contract PM,4,E900,2026-10-23
+EV-2023-10784-01,In Progress,C-2023-10784,2023,Bridges & Tunnels,V20092,E140,2024-11-27,695,Overdue,True,644,False,60.7,499,E140,contract PM,4,E900,2026-10-23
+EV-2022-10149-02,In Progress,C-2022-10149,2022,MTA IT,V20218,E145,2025-01-05,656,Overdue,True,622,False,60.7,500,E145,contract PM,4,E900,2026-10-23
+EV-2023-10249-02,Requested,C-2023-10249,2023,Bridges & Tunnels,V20129,E137,2025-11-23,334,Overdue,True,342,False,60.7,501,E137,contract PM,4,E900,2026-10-23
+EV-2022-10511-01,Requested,C-2022-10511,2022,LIRR Engineering,V20185,E120,2023-12-19,1039,Overdue,True,1028,False,60.6,502,E120,contract PM,4,E900,2026-10-23
+EV-2022-10881-01,Requested,C-2022-10881,2022,NYCT Infrastructure,V20241,E115,2024-01-13,1014,Overdue,True,1014,False,60.6,503,E115,contract PM,4,E900,2026-10-23
+EV-2023-10018-01,Requested,C-2023-10018,2023,Facilities & Real Estate,V20226,E155,2024-04-18,918,Overdue,True,937,False,60.6,504,E155,contract PM,4,E900,2026-10-23
+EV-2023-10940-01,In Progress,C-2023-10940,2023,LIRR Engineering,V20273,E123,2024-11-26,696,Overdue,True,639,False,60.6,505,E123,contract PM,4,E900,2026-10-23
+EV-2022-11229-01,Not Started,C-2022-11229,2022,Bridges & Tunnels,V20036,E138,2023-08-23,1157,Overdue,False,1187,False,60.5,506,E138,contract PM,4,E900,2026-10-23
+EV-2024-11150-01,Submitted,C-2024-11150,2024,Facilities & Real Estate,V20061,E154,2025-03-16,586,Overdue,True,482,False,60.5,507,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10310-02,In Progress,C-2023-10310,2023,Metro-North Engineering,V20083,E128,2025-07-23,457,Overdue,True,405,False,60.5,508,E128,contract PM,4,E900,2026-10-23
+EV-2022-10758-01,Submitted,C-2022-10758,2022,NYCT Infrastructure,V20298,E114,2023-10-24,1095,Overdue,True,1008,False,60.4,509,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10453-02,Submitted,C-2023-10453,2023,LIRR Engineering,V20026,E120,2025-02-07,623,Overdue,True,572,False,60.4,510,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10084-01,Submitted,C-2024-10084,2024,Bridges & Tunnels,V20037,E139,2025-09-02,416,Overdue,True,374,False,60.4,511,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10449-03,Requested,C-2022-10449,2022,Facilities & Real Estate,V20205,E154,2025-12-21,306,Overdue,True,271,False,60.4,512,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-11117-01,Submitted,C-2022-11117,2022,Facilities & Real Estate,V20066,E154,2023-03-18,1315,Overdue,True,1219,False,60.3,513,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10471-01,Not Started,C-2023-10471,2023,Metro-North Engineering,V20181,E132,2024-03-22,945,Overdue,False,975,False,60.3,514,E132,contract PM,4,E900,2026-10-23
+EV-2023-10741-01,Not Started,C-2023-10741,2023,NYCT Infrastructure,V20157,E112,2024-04-20,916,Overdue,False,946,False,60.3,515,E112,contract PM,4,E900,2026-10-23
+EV-2023-10471-02,Submitted,C-2023-10471,2023,Metro-North Engineering,V20181,E132,2025-03-23,579,Overdue,True,556,False,60.3,516,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11170-01,Requested,C-2023-11170,2023,Facilities & Real Estate,V20189,E156,2023-08-09,1171,Overdue,True,1168,False,60.2,517,E156,contract PM,4,E900,2026-10-23
+EV-2023-11231-01,Requested,C-2023-11231,2023,Construction & Development,V20287,E104,2024-04-18,918,Overdue,True,929,False,60.2,518,E104,contract PM,4,E900,2026-10-23
+EV-2023-10766-01,In Progress,C-2023-10766,2023,NYCT Infrastructure,V20172,E116,2024-10-24,729,Overdue,True,680,False,60.2,519,E116,contract PM,4,E900,2026-10-23
+EV-2023-11155-01,Requested,C-2023-11155,2023,MTA IT,V20019,E148,2024-08-27,787,Overdue,True,774,False,60.1,520,E148,contract PM,4,E900,2026-10-23
+EV-2024-10870-01,Requested,C-2024-10870,2024,LIRR Engineering,V20238,E123,2025-09-30,388,Overdue,True,397,False,60.1,521,E123,contract PM,4,E900,2026-10-23
+EV-2023-11144-02,In Progress,C-2023-11144,2023,MTA IT,V20320,E146,2025-11-06,351,Overdue,True,303,False,60.1,522,E146,contract PM,4,E900,2026-10-23
+EV-2022-10949-03,Submitted,C-2022-10949,2022,MTA IT,V20299,E148,2026-01-27,269,Overdue,True,173,False,60.1,523,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10253-01,Submitted,C-2024-10253,2024,Facilities & Real Estate,V20040,E152,2025-05-20,521,Overdue,True,430,False,60.0,524,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11069-01,In Progress,C-2023-11069,2023,LIRR Engineering,V20271,E124,2024-04-27,909,Overdue,True,826,False,59.9,525,E124,contract PM,4,E900,2026-10-23
+EV-2023-10188-01,Not Started,C-2023-10188,2023,Construction & Development,V20019,,2024-12-04,688,Overdue,False,718,False,59.9,526,E108,no PM on contract -> reassigned to least-loaded active PM in Construction & Development,4,E900,2026-10-23
+EV-2023-10224-02,Requested,C-2023-10224,2023,Metro-North Engineering,V20235,E131,2025-11-05,352,Overdue,True,358,False,59.9,527,E131,contract PM,4,E900,2026-10-23
+EV-2023-10093-01,Requested,C-2023-10093,2023,MTA IT,V20318,,2024-10-21,732,Overdue,True,710,False,59.8,528,E147,no PM on contract -> reassigned to least-loaded active PM in MTA IT,4,E900,2026-10-23
+EV-2023-10008-01,In Progress,C-2023-10008,2023,Bridges & Tunnels,V20074,E138,2024-11-25,697,Overdue,True,657,False,59.8,529,E138,contract PM,4,E900,2026-10-23
+EV-2023-10423-02,Not Started,C-2023-10423,2023,LIRR Engineering,V20262,E124,2025-06-02,508,Overdue,False,538,False,59.8,530,E124,contract PM,4,E900,2026-10-23
+EV-2023-10217-01,Not Started,C-2023-10217,2023,LIRR Engineering,V20081,E120,2024-04-27,909,Overdue,False,939,False,59.7,531,E120,contract PM,4,E900,2026-10-23
+EV-2023-10877-01,Requested,C-2023-10877,2023,NYCT Infrastructure,V20122,E113,2024-05-21,885,Overdue,True,883,False,59.7,532,E113,contract PM,4,E900,2026-10-23
+EV-2024-11113-01,Submitted,C-2024-11113,2024,Construction & Development,V20161,E107,2025-10-02,386,Overdue,True,331,False,59.7,533,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11270-01,In Progress,C-2024-11270,2024,Bridges & Tunnels,V20196,E140,2025-10-17,371,Overdue,True,317,False,59.7,534,E140,contract PM,4,E900,2026-10-23
+EV-2023-10285-01,Submitted,C-2023-10285,2023,MTA IT,V20197,E145,2024-03-31,936,Overdue,True,892,False,59.6,535,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10418-01,Requested,C-2023-10418,2023,MTA IT,V20099,E147,2025-01-08,653,Overdue,True,637,False,59.6,536,E147,contract PM,4,E900,2026-10-23
+EV-2024-11214-01,Submitted,C-2024-11214,2024,LIRR Engineering,V20066,E124,2025-02-09,621,Overdue,True,515,False,59.6,537,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11210-01,Requested,C-2024-11210,2024,NYCT Infrastructure,V20305,E116,2025-07-21,459,Overdue,True,442,False,59.6,538,E116,contract PM,4,E900,2026-10-23
+EV-2023-11188-01,Submitted,C-2023-11188,2023,MTA IT,V20076,E148,2024-03-05,962,Overdue,True,842,False,59.5,539,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11236-01,Requested,C-2023-11236,2023,LIRR Engineering,V20258,E121,2024-05-03,903,Overdue,True,885,False,59.5,540,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2024-10630-01,Submitted,C-2024-10630,2024,Construction & Development,V20101,E108,2024-10-26,727,Overdue,True,643,False,59.5,541,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10162-02,In Progress,C-2022-10162,2022,Bridges & Tunnels,V20217,E138,2024-11-07,715,Overdue,True,632,False,59.5,542,E138,contract PM,4,E900,2026-10-23
+EV-2024-11168-01,Requested,C-2024-11168,2024,NYCT Infrastructure,V20302,E115,2025-09-03,415,Overdue,True,416,False,59.5,543,E115,contract PM,4,E900,2026-10-23
+EV-2023-10254-01,In Progress,C-2023-10254,2023,LIRR Engineering,V20159,E123,2024-08-15,799,Overdue,True,789,False,59.4,544,E123,contract PM,4,E900,2026-10-23
+EV-2023-10959-02,In Progress,C-2023-10959,2023,LIRR Engineering,V20279,E123,2024-11-25,697,Overdue,True,615,False,59.4,545,E123,contract PM,4,E900,2026-10-23
+EV-2022-11115-01,Requested,C-2022-11115,2022,MTA IT,V20216,E147,2023-08-27,1153,Overdue,True,1150,False,59.3,546,E147,contract PM,4,E900,2026-10-23
+EV-2023-11079-01,In Progress,C-2023-11079,2023,Bridges & Tunnels,V20322,E137,2024-06-12,863,Overdue,True,772,False,59.3,547,E137,contract PM,4,E900,2026-10-23
+EV-2023-11247-01,Submitted,C-2023-11247,2023,Construction & Development,V20337,E104,2024-06-14,861,Overdue,True,761,False,59.3,548,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11115-02,Requested,C-2022-11115,2022,MTA IT,V20216,E147,2024-08-27,787,Overdue,True,780,False,59.3,549,E147,contract PM,4,E900,2026-10-23
+EV-2023-11290-01,Not Started,C-2023-11290,2023,MTA IT,V20096,E144,2024-12-11,681,Overdue,False,711,False,59.3,550,E144,contract PM,4,E900,2026-10-23
+EV-2023-10684-02,Requested,C-2023-10684,2023,Facilities & Real Estate,V20103,E154,2025-06-10,500,Overdue,True,491,False,59.3,551,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-11247-02,Requested,C-2023-11247,2023,Construction & Development,V20337,E104,2025-06-14,496,Overdue,True,491,False,59.3,552,E104,contract PM,4,E900,2026-10-23
+EV-2023-10152-02,In Progress,C-2023-10152,2023,NYCT Infrastructure,V20148,E112,2025-11-05,352,Overdue,True,283,False,59.3,553,E112,contract PM,4,E900,2026-10-23
+EV-2022-11167-01,Requested,C-2022-11167,2022,Bridges & Tunnels,V20002,E139,2023-03-17,1316,Overdue,True,1336,False,59.2,554,E139,contract PM,4,E900,2026-10-23
+EV-2023-10947-01,Submitted,C-2023-10947,2023,LIRR Engineering,V20061,E124,2024-02-03,993,Overdue,True,877,False,59.2,555,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10212-01,Requested,C-2023-10212,2023,LIRR Engineering,V20152,E120,2024-03-13,954,Overdue,True,922,False,59.2,556,E120,contract PM,4,E900,2026-10-23
+EV-2023-10229-01,Submitted,C-2023-10229,2023,Metro-North Engineering,V20248,E128,2024-05-21,885,Overdue,True,809,False,59.2,557,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10212-02,In Progress,C-2023-10212,2023,LIRR Engineering,V20152,E120,2025-03-14,588,Overdue,True,534,False,59.2,558,E120,contract PM,4,E900,2026-10-23
+EV-2024-10431-02,Submitted,C-2024-10431,2024,MTA IT,V20113,E145,2025-05-29,512,Overdue,True,386,False,59.2,559,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10879-02,Not Started,C-2024-10879,2024,MTA IT,V20270,,2025-09-25,393,Overdue,False,423,False,59.2,560,E147,no PM on contract -> reassigned to least-loaded active PM in MTA IT,4,E900,2026-10-23
+EV-2022-10702-01,Submitted,C-2022-10702,2022,Bridges & Tunnels,V20167,E136,2023-03-29,1304,Overdue,True,1288,False,59.1,561,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10534-01,Not Started,C-2022-10534,2022,Facilities & Real Estate,V20103,E154,2023-11-15,1073,Overdue,False,1103,False,59.1,562,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-10267-01,Requested,C-2023-10267,2023,LIRR Engineering,V20229,E120,2024-02-17,979,Overdue,True,992,False,59.1,563,E120,contract PM,4,E900,2026-10-23
+EV-2023-10585-01,Submitted,C-2023-10585,2023,NYCT Infrastructure,V20280,E113,2024-03-25,942,Overdue,True,828,False,59.1,564,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11025-01,Submitted,C-2024-11025,2024,NYCT Infrastructure,V20211,E113,2025-03-05,597,Overdue,True,474,False,59.1,565,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10271-01,In Progress,C-2024-10271,2024,MTA IT,V20235,E145,2025-03-19,583,Overdue,True,455,False,59.1,566,E145,contract PM,4,E900,2026-10-23
+EV-2023-10500-01,Not Started,C-2023-10500,2023,Construction & Development,V20236,E105,2024-03-02,965,Overdue,False,995,False,59.0,567,E105,contract PM,4,E900,2026-10-23
+EV-2023-11217-01,In Progress,C-2023-11217,2023,Bridges & Tunnels,V20331,E137,2024-06-05,870,Overdue,True,795,False,59.0,568,E137,contract PM,4,E900,2026-10-23
+EV-2023-10525-01,In Progress,C-2023-10525,2023,NYCT Infrastructure,V20105,E114,2024-06-18,857,Overdue,True,824,False,59.0,569,E114,contract PM,4,E900,2026-10-23
+EV-2024-10176-01,In Progress,C-2024-10176,2024,LIRR Engineering,V20062,E123,2024-11-24,698,Overdue,True,722,False,59.0,570,E123,contract PM,4,E900,2026-10-23
+EV-2023-10871-01,Submitted,C-2023-10871,2023,Facilities & Real Estate,V20261,E156,2025-01-20,641,Overdue,True,589,False,59.0,571,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10681-01,Submitted,C-2024-10681,2024,Construction & Development,V20255,E106,2025-02-02,628,Overdue,True,567,False,59.0,572,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10500-02,Submitted,C-2023-10500,2023,Construction & Development,V20236,E105,2025-03-03,599,Overdue,True,563,False,59.0,573,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10244-01,Requested,C-2023-10244,2023,Bridges & Tunnels,V20208,E138,2024-07-05,840,Overdue,True,854,False,58.9,574,E138,contract PM,4,E900,2026-10-23
+EV-2023-10837-01,In Progress,C-2023-10837,2023,Construction & Development,V20262,E108,2024-07-28,817,Overdue,True,722,False,58.9,575,E108,contract PM,4,E900,2026-10-23
+EV-2023-11104-02,In Progress,C-2023-11104,2023,Construction & Development,V20280,E104,2025-03-06,596,Overdue,True,574,False,58.9,576,E104,contract PM,4,E900,2026-10-23
+EV-2024-11158-01,Requested,C-2024-11158,2024,NYCT Infrastructure,V20144,E112,2025-04-01,570,Overdue,True,580,False,58.9,577,E112,contract PM,4,E900,2026-10-23
+EV-2022-10986-01,Submitted,C-2022-10986,2022,Construction & Development,V20236,E105,2023-04-16,1286,Overdue,True,1171,False,58.8,578,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10252-01,In Progress,C-2022-10252,2022,NYCT Infrastructure,V20177,E115,2023-08-18,1162,Overdue,True,1152,False,58.8,579,E115,contract PM,4,E900,2026-10-23
+EV-2023-11101-01,Not Started,C-2023-11101,2023,Facilities & Real Estate,V20252,E154,2024-10-28,725,Overdue,False,755,False,58.8,580,E155,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-11223-01,Not Started,C-2022-11223,2022,Bridges & Tunnels,V20138,E137,2023-11-12,1076,Overdue,False,1106,False,58.7,581,E137,contract PM,4,E900,2026-10-23
+EV-2024-11010-01,Not Started,C-2024-11010,2024,MTA IT,V20046,E144,2024-08-23,791,Overdue,False,821,False,58.7,582,E144,contract PM,4,E900,2026-10-23
+EV-2023-10515-01,In Progress,C-2023-10515,2023,NYCT Infrastructure,V20012,E116,2025-01-23,638,Overdue,True,572,False,58.7,583,E116,contract PM,4,E900,2026-10-23
+EV-2023-11110-01,Requested,C-2023-11110,2023,NYCT Infrastructure,V20160,E114,2024-02-09,987,Overdue,True,992,False,58.6,584,E114,contract PM,4,E900,2026-10-23
+EV-2023-11110-02,Requested,C-2023-11110,2023,NYCT Infrastructure,V20160,E114,2025-02-09,621,Overdue,True,638,False,58.6,585,E114,contract PM,4,E900,2026-10-23
+EV-2022-10035-01,Requested,C-2022-10035,2022,LIRR Engineering,V20177,E121,2023-05-05,1267,Overdue,True,1277,False,58.5,586,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2022-10456-01,Not Started,C-2022-10456,2022,Facilities & Real Estate,V20163,E154,2023-07-21,1190,Overdue,False,1220,False,58.5,587,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10035-02,Not Started,C-2022-10035,2022,LIRR Engineering,V20177,E121,2024-05-05,901,Overdue,False,931,False,58.5,588,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2022-10035-03,Requested,C-2022-10035,2022,LIRR Engineering,V20177,E121,2025-05-05,536,Overdue,True,511,False,58.5,589,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2024-10383-01,Requested,C-2024-10383,2024,LIRR Engineering,V20145,E120,2025-06-19,491,Overdue,True,449,False,58.5,590,E120,contract PM,4,E900,2026-10-23
+EV-2024-10590-01,Requested,C-2024-10590,2024,LIRR Engineering,V20111,E124,2025-10-16,372,Overdue,True,349,False,58.5,591,E124,contract PM,4,E900,2026-10-23
+EV-2023-11020-01,Submitted,C-2023-11020,2023,LIRR Engineering,V20321,E124,2024-04-18,918,Overdue,True,871,False,58.4,592,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10727-01,Submitted,C-2024-10727,2024,LIRR Engineering,V20266,E124,2025-02-27,603,Overdue,True,565,False,58.4,593,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11020-02,Not Started,C-2023-11020,2023,LIRR Engineering,V20321,E124,2025-04-18,553,Overdue,False,583,False,58.4,594,E124,contract PM,4,E900,2026-10-23
+EV-2024-10117-01,Requested,C-2024-10117,2024,Metro-North Engineering,V20075,E132,2025-06-21,489,Overdue,True,444,False,58.4,595,E132,contract PM,4,E900,2026-10-23
+EV-2023-10833-01,Requested,C-2023-10833,2023,NYCT Infrastructure,V20185,E114,2024-10-08,745,Overdue,True,731,False,58.3,596,E114,contract PM,4,E900,2026-10-23
+EV-2023-10477-01,In Progress,C-2023-10477,2023,Metro-North Engineering,V20157,E131,2024-11-03,719,Overdue,True,665,False,58.3,597,E131,contract PM,4,E900,2026-10-23
+EV-2024-10895-01,Requested,C-2024-10895,2024,Metro-North Engineering,V20138,E129,2025-05-25,516,Overdue,True,486,False,58.3,598,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2024-10146-01,Not Started,C-2024-10146,2024,Facilities & Real Estate,V20010,E154,2025-07-17,463,Overdue,False,493,False,58.3,599,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2024-10811-01,Submitted,C-2024-10811,2024,LIRR Engineering,V20169,E123,2025-07-28,452,Overdue,True,361,False,58.3,600,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10983-01,Not Started,C-2023-10983,2023,Metro-North Engineering,V20100,E129,2024-02-05,991,Overdue,False,1021,False,58.2,601,E128,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2023-10756-01,Requested,C-2023-10756,2023,NYCT Infrastructure,V20207,E115,2024-10-16,737,Overdue,True,714,False,58.2,602,E115,contract PM,4,E900,2026-10-23
+EV-2023-10058-02,Not Started,C-2023-10058,2023,LIRR Engineering,V20289,E124,2025-07-06,474,Overdue,False,504,False,58.2,603,E124,contract PM,4,E900,2026-10-23
+EV-2022-10087-01,Requested,C-2022-10087,2022,MTA IT,V20002,E145,2023-11-13,1075,Overdue,True,1057,False,58.1,604,E145,contract PM,4,E900,2026-10-23
+EV-2023-11122-01,In Progress,C-2023-11122,2023,NYCT Infrastructure,V20291,E113,2024-02-08,988,Overdue,True,1001,False,58.1,605,E113,contract PM,4,E900,2026-10-23
+EV-2023-10375-01,Requested,C-2023-10375,2023,Metro-North Engineering,V20308,E129,2024-07-19,826,Overdue,True,845,False,58.1,606,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2023-10181-01,Requested,C-2023-10181,2023,LIRR Engineering,V20134,E120,2024-09-19,764,Overdue,True,742,False,58.1,607,E120,contract PM,4,E900,2026-10-23
+EV-2023-10698-01,Submitted,C-2023-10698,2023,Facilities & Real Estate,V20225,E155,2024-12-12,680,Overdue,True,621,False,58.1,608,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10097-01,Requested,C-2024-10097,2024,Bridges & Tunnels,V20134,E139,2025-08-04,445,Overdue,True,405,False,58.1,609,E139,contract PM,4,E900,2026-10-23
+EV-2024-10056-01,In Progress,C-2024-10056,2024,NYCT Infrastructure,V20263,E115,2025-11-07,350,Overdue,True,316,False,58.1,610,E115,contract PM,4,E900,2026-10-23
+EV-2023-10596-01,Not Started,C-2023-10596,2023,Facilities & Real Estate,V20236,E156,2024-04-19,917,Overdue,False,947,False,58.0,611,E156,contract PM,4,E900,2026-10-23
+EV-2023-10005-01,In Progress,C-2023-10005,2023,NYCT Infrastructure,V20277,E114,2024-07-18,827,Overdue,True,838,False,58.0,612,E114,contract PM,4,E900,2026-10-23
+EV-2023-10005-02,Requested,C-2023-10005,2023,NYCT Infrastructure,V20277,E114,2025-07-18,462,Overdue,True,467,False,58.0,613,E114,contract PM,4,E900,2026-10-23
+EV-2022-10002-01,Not Started,C-2022-10002,2022,MTA IT,V20053,E145,2023-09-01,1148,Overdue,False,1178,False,57.9,614,E145,contract PM,4,E900,2026-10-23
+EV-2023-11114-01,Submitted,C-2023-11114,2023,NYCT Infrastructure,V20088,E112,2025-01-17,644,Overdue,True,555,False,57.9,615,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10692-01,Submitted,C-2024-10692,2024,Bridges & Tunnels,V20150,E137,2025-03-19,583,Overdue,True,527,False,57.9,616,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10527-01,Requested,C-2024-10527,2024,Bridges & Tunnels,V20140,E139,2025-06-03,507,Overdue,True,532,False,57.9,617,E139,contract PM,4,E900,2026-10-23
+EV-2022-10162-03,Requested,C-2022-10162,2022,Bridges & Tunnels,V20217,E138,2025-11-07,350,Overdue,True,366,False,57.9,618,E138,contract PM,4,E900,2026-10-23
+EV-2023-10698-02,In Progress,C-2023-10698,2023,Facilities & Real Estate,V20225,E155,2025-12-10,317,Overdue,True,266,False,57.9,619,E155,contract PM,4,E900,2026-10-23
+EV-2023-10051-01,In Progress,C-2023-10051,2023,LIRR Engineering,V20038,E122,2024-04-22,914,Overdue,True,774,False,57.8,620,E119,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2023-10315-01,Submitted,C-2023-10315,2023,Construction & Development,V20118,E105,2024-12-25,667,Overdue,True,574,False,57.8,621,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10137-02,Requested,C-2024-10137,2024,NYCT Infrastructure,V20012,E116,2025-08-21,428,Overdue,True,426,False,57.8,622,E116,contract PM,4,E900,2026-10-23
+EV-2023-10326-01,Not Started,C-2023-10326,2023,Metro-North Engineering,V20050,E128,2024-05-28,878,Overdue,False,908,False,57.7,623,E128,contract PM,4,E900,2026-10-23
+EV-2023-10326-02,Submitted,C-2023-10326,2023,Metro-North Engineering,V20050,E128,2025-05-28,513,Overdue,True,444,False,57.7,624,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10567-01,Requested,C-2022-10567,2022,Facilities & Real Estate,V20175,E154,2023-12-22,1036,Overdue,True,1024,False,57.6,625,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2024-10100-01,In Progress,C-2024-10100,2024,LIRR Engineering,V20267,E123,2024-09-04,779,Overdue,True,766,False,57.6,626,E123,contract PM,4,E900,2026-10-23
+EV-2024-10132-02,Submitted,C-2024-10132,2024,Facilities & Real Estate,V20084,E153,2025-08-29,420,Overdue,True,354,False,57.6,627,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11023-01,In Progress,C-2024-11023,2024,Facilities & Real Estate,V20022,,2025-10-12,376,Overdue,True,366,False,57.6,628,E155,no PM on contract -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-10650-02,Submitted,C-2023-10650,2023,Construction & Development,V20158,E104,2025-12-19,308,Overdue,True,234,False,57.6,629,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11050-01,Submitted,C-2023-11050,2023,Metro-North Engineering,V20337,E129,2024-07-31,814,Overdue,True,762,False,57.5,630,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10730-01,Not Started,C-2023-10730,2023,Construction & Development,V20248,E108,2024-08-10,804,Overdue,False,834,False,57.5,631,E108,contract PM,4,E900,2026-10-23
+EV-2024-10228-01,Submitted,C-2024-10228,2024,Facilities & Real Estate,V20297,E156,2025-04-03,568,Overdue,True,475,False,57.5,632,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10950-02,In Progress,C-2023-10950,2023,Facilities & Real Estate,V20036,E154,2025-06-01,509,Overdue,True,484,False,57.5,633,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-11050-02,Requested,C-2023-11050,2023,Metro-North Engineering,V20337,E129,2025-07-31,449,Overdue,True,467,False,57.5,634,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2024-10207-01,Submitted,C-2024-10207,2024,NYCT Infrastructure,V20149,E116,2025-10-06,382,Overdue,True,324,False,57.5,635,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10360-02,Requested,C-2023-10360,2023,LIRR Engineering,V20212,E123,2025-12-29,298,Overdue,True,262,False,57.5,636,E123,contract PM,4,E900,2026-10-23
+EV-2024-10450-01,Requested,C-2024-10450,2024,MTA IT,V20208,E144,2025-05-13,528,Overdue,True,525,False,57.4,637,E144,contract PM,4,E900,2026-10-23
+EV-2024-10580-02,Not Started,C-2024-10580,2024,NYCT Infrastructure,V20235,E112,2025-09-10,408,Overdue,False,438,False,57.4,638,E112,contract PM,4,E900,2026-10-23
+EV-2023-10151-01,Requested,C-2023-10151,2023,Construction & Development,V20184,E108,2024-04-10,926,Overdue,True,918,False,57.3,639,E108,contract PM,4,E900,2026-10-23
+EV-2023-10840-01,In Progress,C-2023-10840,2023,Facilities & Real Estate,V20197,E152,2024-05-03,903,Overdue,True,872,False,57.3,640,E152,contract PM,4,E900,2026-10-23
+EV-2024-10068-01,In Progress,C-2024-10068,2024,Facilities & Real Estate,V20056,E154,2025-11-12,345,Overdue,True,324,False,57.3,641,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-10531-01,In Progress,C-2022-10531,2022,MTA IT,V20249,E145,2023-05-18,1254,Overdue,True,1201,False,57.2,642,E145,contract PM,4,E900,2026-10-23
+EV-2023-11015-01,Requested,C-2023-11015,2023,Bridges & Tunnels,V20053,E138,2024-02-13,983,Overdue,True,998,False,57.2,643,E138,contract PM,4,E900,2026-10-23
+EV-2023-10809-01,In Progress,C-2023-10809,2023,Bridges & Tunnels,V20220,E136,2024-11-27,695,Overdue,True,612,False,57.2,644,E136,contract PM,4,E900,2026-10-23
+EV-2024-10032-01,Submitted,C-2024-10032,2024,LIRR Engineering,V20006,E124,2025-10-03,385,Overdue,True,293,False,57.2,645,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-11271-04,Requested,C-2022-11271,2022,MTA IT,V20108,E148,2026-03-10,227,Overdue,True,215,False,57.2,646,E148,contract PM,4,E900,2026-10-23
+EV-2023-11055-01,Not Started,C-2023-11055,2023,LIRR Engineering,V20099,E120,2024-03-23,944,Overdue,False,974,False,57.1,647,E120,contract PM,4,E900,2026-10-23
+EV-2023-11055-02,Submitted,C-2023-11055,2023,LIRR Engineering,V20099,E120,2025-03-24,578,Overdue,True,469,False,57.1,648,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10908-01,Requested,C-2024-10908,2024,Construction & Development,V20042,E106,2025-04-01,570,Overdue,True,582,False,57.1,649,E106,contract PM,4,E900,2026-10-23
+EV-2024-10411-02,Requested,C-2024-10411,2024,Bridges & Tunnels,V20200,,2025-07-29,451,Overdue,True,455,False,57.1,650,E138,no PM on contract -> reassigned to least-loaded active PM in Bridges & Tunnels,4,E900,2026-10-23
+EV-2023-10477-02,Not Started,C-2023-10477,2023,Metro-North Engineering,V20157,E131,2025-11-03,354,Overdue,False,384,False,57.1,651,E131,contract PM,4,E900,2026-10-23
+EV-2023-10367-01,In Progress,C-2023-10367,2023,Metro-North Engineering,V20078,E132,2024-06-27,848,Overdue,True,833,False,57.0,652,E132,contract PM,4,E900,2026-10-23
+EV-2024-10575-01,Requested,C-2024-10575,2024,Construction & Development,V20276,E106,2024-11-22,700,Overdue,True,689,False,56.9,653,E106,contract PM,4,E900,2026-10-23
+EV-2024-10139-01,Submitted,C-2024-10139,2024,MTA IT,V20121,E144,2025-03-24,578,Overdue,True,499,False,56.9,654,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10187-02,In Progress,C-2024-10187,2024,NYCT Infrastructure,V20321,E116,2025-10-29,359,Overdue,True,280,False,56.9,655,E116,contract PM,4,E900,2026-10-23
+EV-2023-10940-02,In Progress,C-2023-10940,2023,LIRR Engineering,V20273,E123,2025-11-26,331,Overdue,True,282,False,56.9,656,E123,contract PM,4,E900,2026-10-23
+EV-2024-10875-02,Requested,C-2024-10875,2024,MTA IT,V20199,E146,2025-11-27,330,Overdue,True,344,False,56.9,657,E146,contract PM,4,E900,2026-10-23
+EV-2024-10366-01,Requested,C-2024-10366,2024,LIRR Engineering,V20022,E120,2025-09-18,400,Overdue,True,395,False,56.8,658,E120,contract PM,4,E900,2026-10-23
+EV-2023-11095-02,Submitted,C-2023-11095,2023,MTA IT,V20024,E148,2025-10-20,368,Overdue,True,235,False,56.8,659,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10017-01,Submitted,C-2023-10017,2023,MTA IT,V20003,E146,2024-09-14,769,Overdue,True,713,False,56.7,660,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11144-01,Submitted,C-2023-11144,2023,MTA IT,V20320,E146,2024-11-08,714,Overdue,True,653,False,56.7,661,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10088-01,Requested,C-2023-10088,2023,Metro-North Engineering,V20038,E131,2024-12-25,667,Overdue,True,659,False,56.7,662,E131,contract PM,4,E900,2026-10-23
+EV-2024-10856-01,Submitted,C-2024-10856,2024,Metro-North Engineering,V20096,E129,2025-04-05,566,Overdue,True,463,False,56.7,663,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10618-01,Requested,C-2024-10618,2024,Metro-North Engineering,V20315,E129,2025-11-06,351,Overdue,True,326,False,56.6,664,E128,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2024-10070-01,Requested,C-2024-10070,2024,Construction & Development,V20210,E106,2025-03-25,577,Overdue,True,541,False,56.5,665,E106,contract PM,4,E900,2026-10-23
+EV-2024-11204-01,Requested,C-2024-11204,2024,Facilities & Real Estate,V20006,E155,2025-03-30,572,Overdue,True,563,False,56.5,666,E155,contract PM,4,E900,2026-10-23
+EV-2024-11269-01,Requested,C-2024-11269,2024,Bridges & Tunnels,V20119,E136,2025-06-21,489,Overdue,True,484,False,56.5,667,E136,contract PM,4,E900,2026-10-23
+EV-2024-10261-01,In Progress,C-2024-10261,2024,LIRR Engineering,V20253,E120,2025-11-26,331,Overdue,True,305,False,56.5,668,E120,contract PM,4,E900,2026-10-23
+EV-2022-10415-03,Submitted,C-2022-10415,2022,Bridges & Tunnels,V20025,E140,2026-01-24,272,Overdue,True,150,False,56.5,669,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10234-01,Requested,C-2023-10234,2023,LIRR Engineering,V20301,E121,2024-08-17,797,Overdue,True,779,False,56.4,670,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2023-10223-01,Requested,C-2023-10223,2023,MTA IT,V20148,E146,2024-11-26,696,Overdue,True,707,False,56.4,671,E146,contract PM,4,E900,2026-10-23
+EV-2024-10816-01,Requested,C-2024-10816,2024,Construction & Development,V20283,E105,2025-04-21,550,Overdue,True,513,False,56.4,672,E105,contract PM,4,E900,2026-10-23
+EV-2024-10854-01,Not Started,C-2024-10854,2024,Metro-North Engineering,V20336,E128,2025-05-31,510,Overdue,False,540,False,56.3,673,E128,contract PM,4,E900,2026-10-23
+EV-2024-10455-01,Submitted,C-2024-10455,2024,Metro-North Engineering,V20252,E129,2025-06-04,506,Overdue,True,427,False,56.3,674,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10243-01,Submitted,C-2023-10243,2023,Facilities & Real Estate,V20154,E154,2024-07-16,829,Overdue,True,740,False,56.2,675,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10153-01,Submitted,C-2023-10153,2023,LIRR Engineering,V20122,E120,2025-01-01,660,Overdue,True,543,False,56.2,676,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10243-02,Not Started,C-2023-10243,2023,Facilities & Real Estate,V20154,E154,2025-07-16,464,Overdue,False,494,False,56.2,677,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-10219-02,Requested,C-2023-10219,2023,Construction & Development,V20081,E105,2025-07-21,459,Overdue,True,451,False,56.2,678,E105,contract PM,4,E900,2026-10-23
+EV-2024-11239-01,Requested,C-2024-11239,2024,Metro-North Engineering,V20220,E129,2025-09-01,417,Overdue,True,434,False,56.2,679,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2022-11189-01,Submitted,C-2022-11189,2022,Construction & Development,V20142,E106,2023-04-20,1282,Overdue,True,1214,False,56.1,680,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11176-01,Not Started,C-2023-11176,2023,Metro-North Engineering,V20067,E131,2024-06-04,871,Overdue,False,901,False,56.1,681,E131,contract PM,4,E900,2026-10-23
+EV-2023-11176-02,Not Started,C-2023-11176,2023,Metro-North Engineering,V20067,E131,2025-06-04,506,Overdue,False,536,False,56.1,682,E131,contract PM,4,E900,2026-10-23
+EV-2024-10884-02,Requested,C-2024-10884,2024,Construction & Development,V20161,E106,2025-10-24,364,Overdue,True,287,False,56.1,683,E106,contract PM,4,E900,2026-10-23
+EV-2024-10055-01,Not Started,C-2024-10055,2024,MTA IT,V20006,E145,2025-11-11,346,Overdue,False,376,False,56.1,684,E145,contract PM,4,E900,2026-10-23
+EV-2023-10900-02,Submitted,C-2023-10900,2023,Bridges & Tunnels,V20088,E137,2025-03-19,583,Overdue,True,482,False,56.0,685,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10123-01,In Progress,C-2024-10123,2024,Facilities & Real Estate,V20181,E156,2025-04-25,546,Overdue,True,506,False,56.0,686,E156,contract PM,4,E900,2026-10-23
+EV-2023-10457-02,In Progress,C-2023-10457,2023,MTA IT,V20150,E145,2026-01-19,277,Overdue,True,222,False,56.0,687,E145,contract PM,4,E900,2026-10-23
+EV-2024-10447-01,Submitted,C-2024-10447,2024,LIRR Engineering,V20038,E122,2025-12-11,316,Overdue,True,236,False,55.9,688,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11282-01,Submitted,C-2024-11282,2024,Facilities & Real Estate,V20150,E156,2024-10-25,728,Overdue,True,721,False,55.8,689,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10420-01,Submitted,C-2024-10420,2024,Metro-North Engineering,V20124,E132,2025-04-15,556,Overdue,True,501,False,55.8,690,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11157-01,In Progress,C-2024-11157,2024,Construction & Development,V20296,E107,2025-11-16,341,Overdue,True,293,False,55.8,691,E107,contract PM,4,E900,2026-10-23
+EV-2024-10987-01,Not Started,C-2024-10987,2024,MTA IT,V20301,E144,2025-03-24,578,Overdue,False,608,False,55.7,692,E144,contract PM,4,E900,2026-10-23
+EV-2024-10045-02,Requested,C-2024-10045,2024,Bridges & Tunnels,V20175,E140,2025-09-27,391,Overdue,True,380,False,55.6,693,E140,contract PM,4,E900,2026-10-23
+EV-2023-10609-02,Not Started,C-2023-10609,2023,Bridges & Tunnels,V20115,E140,2026-01-10,286,Overdue,False,316,False,55.6,694,E140,contract PM,4,E900,2026-10-23
+EV-2024-10280-01,Requested,C-2024-10280,2024,Facilities & Real Estate,V20139,E152,2025-03-05,597,Overdue,True,571,False,55.5,695,E152,contract PM,4,E900,2026-10-23
+EV-2024-11202-01,In Progress,C-2024-11202,2024,MTA IT,V20139,E145,2025-05-24,517,Overdue,True,504,False,55.5,696,E145,contract PM,4,E900,2026-10-23
+EV-2024-10103-01,Requested,C-2024-10103,2024,Construction & Development,V20070,E104,2025-06-12,498,Overdue,True,501,False,55.5,697,E104,contract PM,4,E900,2026-10-23
+EV-2024-10935-01,Requested,C-2024-10935,2024,Metro-North Engineering,V20089,E128,2025-09-24,394,Overdue,True,376,False,55.5,698,E128,contract PM,4,E900,2026-10-23
+EV-2024-10909-01,Requested,C-2024-10909,2024,Metro-North Engineering,V20177,E128,2025-04-02,569,Overdue,True,512,False,55.4,699,E128,contract PM,4,E900,2026-10-23
+EV-2024-10409-01,In Progress,C-2024-10409,2024,Metro-North Engineering,V20287,E130,2025-07-28,452,Overdue,True,402,False,55.4,700,E130,contract PM,4,E900,2026-10-23
+EV-2024-10587-01,Requested,C-2024-10587,2024,NYCT Infrastructure,V20088,E114,2025-12-08,319,Overdue,True,308,False,55.4,701,E114,contract PM,4,E900,2026-10-23
+EV-2023-11192-02,Submitted,C-2023-11192,2023,Facilities & Real Estate,V20280,E153,2025-02-10,620,Overdue,True,561,False,55.3,702,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10276-02,In Progress,C-2023-10276,2023,Facilities & Real Estate,V20120,E155,2025-11-11,346,Overdue,True,330,False,55.3,703,E155,contract PM,4,E900,2026-10-23
+EV-2023-11246-01,Requested,C-2023-11246,2023,LIRR Engineering,V20049,E124,2024-11-16,706,Overdue,True,719,False,55.1,704,E124,contract PM,4,E900,2026-10-23
+EV-2024-10716-01,Not Started,C-2024-10716,2024,Bridges & Tunnels,V20088,E139,2025-05-11,530,Overdue,False,560,False,55.1,705,E139,contract PM,4,E900,2026-10-23
+EV-2023-10829-02,In Progress,C-2023-10829,2023,Metro-North Engineering,V20104,E132,2025-07-13,467,Overdue,True,392,False,55.1,706,E132,contract PM,4,E900,2026-10-23
+EV-2023-10814-02,Requested,C-2023-10814,2023,LIRR Engineering,V20265,E121,2025-12-23,304,Overdue,True,271,False,55.1,707,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2023-10869-02,In Progress,C-2023-10869,2023,Construction & Development,V20203,E104,2026-01-14,282,Overdue,True,233,False,55.1,708,E104,contract PM,4,E900,2026-10-23
+EV-2024-10775-01,Requested,C-2024-10775,2024,NYCT Infrastructure,V20056,E113,2025-11-12,345,Overdue,True,332,False,55.0,709,E113,contract PM,4,E900,2026-10-23
+EV-2023-10614-01,Requested,C-2023-10614,2023,Construction & Development,V20330,E107,2024-04-03,933,Overdue,True,907,False,54.9,710,E107,contract PM,4,E900,2026-10-23
+EV-2024-11261-01,Requested,C-2024-11261,2024,MTA IT,V20250,E148,2025-03-16,586,Overdue,True,558,False,54.9,711,E148,contract PM,4,E900,2026-10-23
+EV-2023-10169-01,Not Started,C-2023-10169,2023,MTA IT,V20107,E147,2024-11-23,699,Overdue,False,729,False,54.8,712,E147,contract PM,4,E900,2026-10-23
+EV-2023-10073-01,Requested,C-2023-10073,2023,Facilities & Real Estate,V20251,E155,2024-10-16,737,Overdue,True,720,False,54.7,713,E155,contract PM,4,E900,2026-10-23
+EV-2024-11178-01,Not Started,C-2024-11178,2024,LIRR Engineering,V20281,E121,2025-03-20,582,Overdue,False,612,False,54.7,714,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2024-11005-01,In Progress,C-2024-11005,2024,Bridges & Tunnels,V20244,E136,2025-05-19,522,Overdue,True,508,False,54.7,715,E136,contract PM,4,E900,2026-10-23
+EV-2024-10544-01,Requested,C-2024-10544,2024,Facilities & Real Estate,V20014,E153,2025-08-11,438,Overdue,True,418,False,54.7,716,E153,contract PM,4,E900,2026-10-23
+EV-2024-11262-01,Not Started,C-2024-11262,2024,LIRR Engineering,V20300,E120,2025-05-23,518,Overdue,False,548,False,54.6,717,E120,contract PM,4,E900,2026-10-23
+EV-2024-10356-01,Not Started,C-2024-10356,2024,NYCT Infrastructure,V20192,E112,2025-06-03,507,Overdue,False,537,False,54.6,718,E112,contract PM,4,E900,2026-10-23
+EV-2024-10772-01,In Progress,C-2024-10772,2024,Metro-North Engineering,V20222,E128,2025-04-05,566,Overdue,True,514,False,54.5,719,E128,contract PM,4,E900,2026-10-23
+EV-2024-10984-01,Requested,C-2024-10984,2024,NYCT Infrastructure,V20186,E113,2025-11-13,344,Overdue,True,340,False,54.5,720,E113,contract PM,4,E900,2026-10-23
+EV-2024-10541-01,In Progress,C-2024-10541,2024,Bridges & Tunnels,V20161,E140,2025-12-12,315,Overdue,True,309,False,54.5,721,E140,contract PM,4,E900,2026-10-23
+EV-2024-10461-01,Requested,C-2024-10461,2024,Facilities & Real Estate,V20055,E155,2025-03-15,587,Overdue,True,566,False,54.4,722,E155,contract PM,4,E900,2026-10-23
+EV-2022-10439-04,In Progress,C-2022-10439,2022,MTA IT,V20298,E146,2026-02-26,239,Overdue,True,191,False,54.4,723,E146,contract PM,4,E900,2026-10-23
+EV-2023-10376-01,Submitted,C-2023-10376,2023,LIRR Engineering,V20181,E124,2024-03-11,956,Overdue,True,940,False,54.3,724,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11283-01,Submitted,C-2023-11283,2023,NYCT Infrastructure,V20170,E113,2024-03-22,945,Overdue,True,848,False,54.3,725,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10921-01,In Progress,C-2024-10921,2024,Bridges & Tunnels,V20325,E137,2025-08-15,434,Overdue,True,403,False,54.3,726,E137,contract PM,4,E900,2026-10-23
+EV-2023-10675-02,In Progress,C-2023-10675,2023,Facilities & Real Estate,V20051,E154,2025-12-13,314,Overdue,True,297,False,54.3,727,E155,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2024-10879-01,Requested,C-2024-10879,2024,MTA IT,V20270,,2025-03-28,574,Overdue,True,546,False,54.2,728,E147,no PM on contract -> reassigned to least-loaded active PM in MTA IT,4,E900,2026-10-23
+EV-2024-10146-02,In Progress,C-2024-10146,2024,Facilities & Real Estate,V20010,E154,2026-01-15,281,Overdue,True,277,False,54.1,729,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-11209-01,Requested,C-2023-11209,2023,Facilities & Real Estate,V20079,E154,2024-10-06,747,Overdue,True,758,False,54.0,730,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-10124-01,In Progress,C-2023-10124,2023,MTA IT,V20008,E148,2025-01-24,637,Overdue,True,615,False,54.0,731,E148,contract PM,4,E900,2026-10-23
+EV-2024-10168-01,In Progress,C-2024-10168,2024,Bridges & Tunnels,V20020,E140,2025-02-14,616,Overdue,True,562,False,54.0,732,E140,contract PM,4,E900,2026-10-23
+EV-2024-10640-01,Requested,C-2024-10640,2024,Metro-North Engineering,V20167,E130,2025-07-17,463,Overdue,True,440,False,54.0,733,E130,contract PM,4,E900,2026-10-23
+EV-2024-10098-01,In Progress,C-2024-10098,2024,LIRR Engineering,V20052,E124,2025-07-27,453,Overdue,True,436,False,54.0,734,E124,contract PM,4,E900,2026-10-23
+EV-2024-10133-01,In Progress,C-2024-10133,2024,Facilities & Real Estate,V20242,E154,2025-09-15,403,Overdue,True,392,False,54.0,735,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2024-11033-01,Submitted,C-2024-11033,2024,Facilities & Real Estate,V20305,E155,2025-05-27,514,Overdue,True,396,False,53.9,736,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11116-01,In Progress,C-2024-11116,2024,MTA IT,V20227,E145,2025-08-26,423,Overdue,True,392,False,53.9,737,E145,contract PM,4,E900,2026-10-23
+EV-2023-10453-03,Submitted,C-2023-10453,2023,LIRR Engineering,V20026,E120,2026-02-05,260,Overdue,True,204,False,53.9,738,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10153-02,In Progress,C-2023-10153,2023,LIRR Engineering,V20122,E120,2025-12-30,297,Overdue,True,268,False,53.8,739,E120,contract PM,4,E900,2026-10-23
+EV-2023-10668-03,Requested,C-2023-10668,2023,LIRR Engineering,V20168,E122,2026-07-28,87,Overdue,True,104,True,53.8,740,E119,PM inactive; all department PMs at cap -> routed to supervisor,2,E117,2026-10-23
+EV-2024-10847-01,Submitted,C-2024-10847,2024,Construction & Development,V20309,E108,2025-05-15,526,Overdue,True,446,False,53.7,741,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10732-01,In Progress,C-2024-10732,2024,Facilities & Real Estate,V20311,E152,2025-07-05,475,Overdue,True,428,False,53.7,742,E152,contract PM,4,E900,2026-10-23
+EV-2023-11225-03,Requested,C-2023-11225,2023,LIRR Engineering,V20223,E122,2026-09-02,51,Overdue,True,30,True,53.7,743,E119,PM inactive; all department PMs at cap -> routed to supervisor,2,E117,2026-10-23
+EV-2023-11243-02,In Progress,C-2023-11243,2023,NYCT Infrastructure,V20299,E115,2026-01-10,286,Overdue,True,241,False,53.6,744,E115,contract PM,4,E900,2026-10-23
+EV-2024-10977-01,Requested,C-2024-10977,2024,LIRR Engineering,V20151,E120,2025-11-05,352,Overdue,True,358,False,53.5,745,E120,contract PM,4,E900,2026-10-23
+EV-2023-10809-02,In Progress,C-2023-10809,2023,Bridges & Tunnels,V20220,E136,2025-11-27,330,Overdue,True,318,False,53.3,746,E136,contract PM,4,E900,2026-10-23
+EV-2024-11245-01,Requested,C-2024-11245,2024,LIRR Engineering,V20196,E120,2025-11-27,330,Overdue,True,329,False,53.3,747,E120,contract PM,4,E900,2026-10-23
+EV-2023-10831-01,Requested,C-2023-10831,2023,Metro-North Engineering,V20017,E132,2024-02-27,969,Overdue,True,953,False,53.2,748,E132,contract PM,4,E900,2026-10-23
+EV-2024-10443-02,Not Started,C-2024-10443,2024,NYCT Infrastructure,V20103,E114,2025-11-09,348,Overdue,False,378,False,53.2,749,E114,contract PM,4,E900,2026-10-23
+EV-2024-10503-01,Requested,C-2024-10503,2024,Bridges & Tunnels,V20286,E136,2025-02-22,608,Overdue,True,607,False,53.1,750,E136,contract PM,4,E900,2026-10-23
+EV-2024-11026-01,Not Started,C-2024-11026,2024,NYCT Infrastructure,V20171,E114,2025-03-05,597,Overdue,False,627,False,53.0,751,E114,contract PM,4,E900,2026-10-23
+EV-2024-10886-01,Submitted,C-2024-10886,2024,NYCT Infrastructure,V20036,E114,2025-03-21,581,Overdue,True,565,False,53.0,752,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10556-01,Requested,C-2024-10556,2024,LIRR Engineering,V20020,E122,2025-05-10,531,Overdue,True,531,False,53.0,753,E119,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2024-10069-01,Requested,C-2024-10069,2024,NYCT Infrastructure,V20110,E116,2025-06-15,495,Overdue,True,495,False,53.0,754,E116,contract PM,4,E900,2026-10-23
+EV-2024-10937-01,Requested,C-2024-10937,2024,LIRR Engineering,V20113,E122,2025-08-10,439,Overdue,True,413,False,53.0,755,E119,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2024-10221-01,Requested,C-2024-10221,2024,Metro-North Engineering,V20317,E132,2024-09-05,778,Overdue,True,745,False,52.9,756,E132,contract PM,4,E900,2026-10-23
+EV-2024-10659-02,Not Started,C-2024-10659,2024,Facilities & Real Estate,V20207,E152,2025-02-28,602,Overdue,False,632,False,52.9,757,E152,contract PM,4,E900,2026-10-23
+EV-2024-10678-01,Submitted,C-2024-10678,2024,Metro-North Engineering,V20292,E131,2025-08-10,439,Overdue,True,355,False,52.9,758,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10765-02,In Progress,C-2024-10765,2024,Bridges & Tunnels,V20144,E137,2025-11-20,337,Overdue,True,258,False,52.9,759,E137,contract PM,4,E900,2026-10-23
+EV-2023-11071-02,Requested,C-2023-11071,2023,NYCT Infrastructure,V20126,E114,2025-12-03,324,Overdue,True,317,False,52.9,760,E114,contract PM,4,E900,2026-10-23
+EV-2024-10137-01,Requested,C-2024-10137,2024,NYCT Infrastructure,V20012,E116,2025-02-21,609,Overdue,True,579,False,52.8,761,E116,contract PM,4,E900,2026-10-23
+EV-2023-11070-02,Submitted,C-2023-11070,2023,LIRR Engineering,V20148,E124,2025-11-26,331,Overdue,True,259,False,52.8,762,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10913-01,Requested,C-2023-10913,2023,LIRR Engineering,V20234,E120,2025-01-03,658,Overdue,True,661,False,52.7,763,E120,contract PM,4,E900,2026-10-23
+EV-2024-10132-01,Requested,C-2024-10132,2024,Facilities & Real Estate,V20084,E153,2025-08-27,422,Overdue,True,420,False,52.6,764,E153,contract PM,4,E900,2026-10-23
+EV-2024-10425-01,Requested,C-2024-10425,2024,Bridges & Tunnels,V20154,E139,2025-09-25,393,Overdue,True,389,False,52.6,765,E139,contract PM,4,E900,2026-10-23
+EV-2024-10115-01,Requested,C-2024-10115,2024,LIRR Engineering,V20263,E124,2025-11-16,341,Overdue,True,332,False,52.6,766,E124,contract PM,4,E900,2026-10-23
+EV-2023-10422-02,Requested,C-2023-10422,2023,Facilities & Real Estate,V20122,E155,2026-01-07,289,Overdue,True,271,False,52.6,767,E155,contract PM,4,E900,2026-10-23
+EV-2022-11056-03,In Progress,C-2022-11056,2022,Metro-North Engineering,V20096,E128,2026-01-23,273,Overdue,True,239,False,52.6,768,E128,contract PM,4,E900,2026-10-23
+EV-2024-10683-01,Not Started,C-2024-10683,2024,LIRR Engineering,V20078,E123,2025-10-22,366,Overdue,False,396,False,52.5,769,E123,contract PM,4,E900,2026-10-23
+EV-2023-11246-02,Requested,C-2023-11246,2023,LIRR Engineering,V20049,E124,2025-11-16,341,Overdue,True,306,False,52.5,770,E124,contract PM,4,E900,2026-10-23
+EV-2024-10848-02,Not Started,C-2024-10848,2024,MTA IT,V20076,E148,2025-11-24,333,Overdue,False,363,False,52.4,771,E148,contract PM,4,E900,2026-10-23
+EV-2024-10065-01,Requested,C-2024-10065,2024,MTA IT,V20157,E146,2025-02-01,629,Overdue,True,646,False,52.3,772,E146,contract PM,4,E900,2026-10-23
+EV-2024-10744-01,Requested,C-2024-10744,2024,MTA IT,V20062,E144,2025-05-23,518,Overdue,True,512,False,52.3,773,E144,contract PM,4,E900,2026-10-23
+EV-2023-10968-02,Submitted,C-2023-10968,2023,Facilities & Real Estate,V20220,E152,2026-01-10,286,Overdue,True,240,False,52.3,774,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10818-01,Submitted,C-2024-10818,2024,MTA IT,V20138,E147,2025-07-06,474,Overdue,True,407,False,52.2,775,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10301-02,Requested,C-2023-10301,2023,Bridges & Tunnels,V20078,E140,2025-11-27,330,Overdue,True,340,False,52.2,776,E140,contract PM,4,E900,2026-10-23
+EV-2023-10307-03,Requested,C-2023-10307,2023,Construction & Development,V20252,E107,2026-02-01,264,Overdue,True,267,False,52.2,777,E107,contract PM,4,E900,2026-10-23
+EV-2024-10844-01,Submitted,C-2024-10844,2024,MTA IT,V20132,,2025-02-02,628,Overdue,True,591,False,52.1,778,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11131-01,Submitted,C-2024-11131,2024,MTA IT,V20181,E145,2025-02-15,615,Overdue,True,540,False,52.1,779,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10411-01,In Progress,C-2024-10411,2024,Bridges & Tunnels,V20200,,2025-07-28,452,Overdue,True,426,False,52.1,780,E138,no PM on contract -> reassigned to least-loaded active PM in Bridges & Tunnels,4,E900,2026-10-23
+EV-2024-10663-01,Requested,C-2024-10663,2024,MTA IT,V20322,E144,2025-10-14,374,Overdue,True,390,False,51.9,781,E144,contract PM,4,E900,2026-10-23
+EV-2024-10030-01,In Progress,C-2024-10030,2024,NYCT Infrastructure,V20115,E113,2025-07-02,478,Overdue,True,426,False,51.8,782,E113,contract PM,4,E900,2026-10-23
+EV-2024-10601-01,Requested,C-2024-10601,2024,Construction & Development,V20149,E105,2025-06-04,506,Overdue,True,467,False,51.7,783,E105,contract PM,4,E900,2026-10-23
+EV-2023-10558-03,Requested,C-2023-10558,2023,Construction & Development,V20246,E104,2026-03-08,229,Overdue,True,247,False,51.6,784,E104,contract PM,4,E900,2026-10-23
+EV-2024-10491-01,In Progress,C-2024-10491,2024,LIRR Engineering,V20128,,2025-08-31,418,Overdue,True,392,False,51.5,785,E117,no PM on contract; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2023-10205-02,Not Started,C-2023-10205,2023,Construction & Development,V20103,E108,2025-12-21,306,Overdue,False,336,False,51.5,786,E108,contract PM,4,E900,2026-10-23
+EV-2023-10041-02,Not Started,C-2023-10041,2023,NYCT Infrastructure,V20199,E115,2026-01-27,269,Overdue,False,299,False,51.5,787,E115,contract PM,4,E900,2026-10-23
+EV-2023-11122-03,In Progress,C-2023-11122,2023,NYCT Infrastructure,V20291,E113,2026-02-06,259,Overdue,True,230,False,51.5,788,E113,contract PM,4,E900,2026-10-23
+EV-2024-10092-01,Submitted,C-2024-10092,2024,Bridges & Tunnels,V20162,E136,2025-02-17,613,Overdue,True,539,False,51.3,789,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10037-01,Requested,C-2024-10037,2024,Metro-North Engineering,V20229,E128,2025-12-04,323,Overdue,True,305,False,51.3,790,E128,contract PM,4,E900,2026-10-23
+EV-2024-10839-01,Not Started,C-2024-10839,2024,Metro-North Engineering,V20120,E132,2025-12-03,324,Overdue,False,354,False,51.2,791,E132,contract PM,4,E900,2026-10-23
+EV-2024-10773-01,Submitted,C-2024-10773,2024,NYCT Infrastructure,V20164,E115,2025-12-23,304,Overdue,True,296,False,51.2,792,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10448-01,In Progress,C-2024-10448,2024,Bridges & Tunnels,V20172,E138,2025-05-27,514,Overdue,True,466,False,51.1,793,E138,contract PM,4,E900,2026-10-23
+EV-2024-10896-01,Requested,C-2024-10896,2024,MTA IT,V20017,E147,2025-08-27,422,Overdue,True,428,False,51.0,794,E147,contract PM,4,E900,2026-10-23
+EV-2023-10762-02,Not Started,C-2023-10762,2023,Bridges & Tunnels,V20096,E139,2026-01-08,288,Overdue,False,318,False,51.0,795,E139,contract PM,4,E900,2026-10-23
+EV-2024-10173-01,Not Started,C-2024-10173,2024,LIRR Engineering,V20173,E124,2025-02-17,613,Overdue,False,643,False,50.9,796,E124,contract PM,4,E900,2026-10-23
+EV-2024-10848-01,Requested,C-2024-10848,2024,MTA IT,V20076,E148,2025-05-26,515,Overdue,True,517,False,50.9,797,E148,contract PM,4,E900,2026-10-23
+EV-2024-11256-01,Submitted,C-2024-11256,2024,NYCT Infrastructure,V20169,E115,2026-01-25,271,Overdue,True,182,False,50.9,798,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10891-04,In Progress,C-2022-10891,2022,NYCT Infrastructure,V20313,E114,2026-03-25,212,Overdue,True,192,False,50.9,799,E114,contract PM,4,E900,2026-10-23
+EV-2024-10110-01,In Progress,C-2024-10110,2024,MTA IT,V20276,E145,2025-03-23,579,Overdue,True,523,False,50.8,800,E145,contract PM,4,E900,2026-10-23
+EV-2024-10796-01,Submitted,C-2024-10796,2024,NYCT Infrastructure,V20040,E113,2025-06-14,496,Overdue,True,400,False,50.8,801,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10620-01,Not Started,C-2024-10620,2024,MTA IT,V20163,E146,2025-07-16,464,Overdue,False,494,False,50.7,802,E146,contract PM,4,E900,2026-10-23
+EV-2024-10934-01,Not Started,C-2024-10934,2024,NYCT Infrastructure,V20017,E114,2025-11-24,333,Overdue,False,363,False,50.7,803,E114,contract PM,4,E900,2026-10-23
+EV-2024-10045-01,Submitted,C-2024-10045,2024,Bridges & Tunnels,V20175,E140,2025-03-30,572,Overdue,True,483,False,50.6,804,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10395-01,Not Started,C-2024-10395,2024,LIRR Engineering,V20334,E121,2025-10-17,371,Overdue,False,401,False,50.6,805,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2024-10963-01,Not Started,C-2024-10963,2024,LIRR Engineering,V20332,E122,2025-12-11,316,Overdue,False,346,False,50.5,806,E119,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2024-10091-01,Requested,C-2024-10091,2024,Construction & Development,V20246,E105,2025-12-19,308,Overdue,True,298,False,50.4,807,E105,contract PM,4,E900,2026-10-23
+EV-2024-10493-01,Requested,C-2024-10493,2024,Construction & Development,V20150,E106,2025-11-18,339,Overdue,True,308,False,50.3,808,E106,contract PM,4,E900,2026-10-23
+EV-2024-10299-01,Not Started,C-2024-10299,2024,Metro-North Engineering,V20299,E132,2025-12-04,323,Overdue,False,353,False,50.3,809,E132,contract PM,4,E900,2026-10-23
+EV-2024-10496-01,Submitted,C-2024-10496,2024,MTA IT,V20035,E145,2025-04-01,570,Overdue,True,484,False,50.1,810,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10443-01,Not Started,C-2024-10443,2024,NYCT Infrastructure,V20103,E114,2025-05-11,530,Overdue,False,560,False,50.1,811,E114,contract PM,4,E900,2026-10-23
+EV-2024-10547-01,In Progress,C-2024-10547,2024,Metro-North Engineering,V20138,E132,2025-07-25,455,Overdue,True,397,False,50.1,812,E132,contract PM,4,E900,2026-10-23
+EV-2024-10355-01,Requested,C-2024-10355,2024,LIRR Engineering,V20118,E124,2025-12-27,300,Overdue,True,293,False,49.9,813,E124,contract PM,4,E900,2026-10-23
+EV-2024-10071-01,Requested,C-2024-10071,2024,Metro-North Engineering,V20028,E129,2026-01-06,290,Overdue,True,231,False,49.9,814,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2024-10433-01,Submitted,C-2024-10433,2024,LIRR Engineering,V20301,E121,2026-01-11,285,Overdue,True,209,False,49.9,815,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10316-01,In Progress,C-2024-10316,2024,LIRR Engineering,V20160,E120,2025-04-16,555,Overdue,True,522,False,49.8,816,E120,contract PM,4,E900,2026-10-23
+EV-2024-11203-01,In Progress,C-2024-11203,2024,Metro-North Engineering,V20206,E132,2025-10-25,363,Overdue,True,328,False,49.8,817,E132,contract PM,4,E900,2026-10-23
+EV-2024-10714-01,Requested,C-2024-10714,2024,Bridges & Tunnels,V20225,E137,2025-12-14,313,Overdue,True,310,False,49.8,818,E137,contract PM,4,E900,2026-10-23
+EV-2023-10088-02,Requested,C-2023-10088,2023,Metro-North Engineering,V20038,E131,2025-12-25,302,Overdue,True,291,False,49.8,819,E131,contract PM,4,E900,2026-10-23
+EV-2024-10640-02,Requested,C-2024-10640,2024,Metro-North Engineering,V20167,E130,2026-01-15,281,Overdue,True,245,False,49.8,820,E130,contract PM,4,E900,2026-10-23
+EV-2023-10500-03,In Progress,C-2023-10500,2023,Construction & Development,V20236,E105,2026-03-01,236,Overdue,True,203,False,49.8,821,E105,contract PM,4,E900,2026-10-23
+EV-2024-10972-01,In Progress,C-2024-10972,2024,NYCT Infrastructure,V20124,E115,2025-02-16,614,Overdue,True,549,False,49.5,822,E115,contract PM,4,E900,2026-10-23
+EV-2023-10384-03,In Progress,C-2023-10384,2023,Construction & Development,V20086,E105,2026-11-19,-27,On track,False,17,True,49.3,823,E105,contract PM,0,,2026-10-23
+EV-2024-10239-01,Not Started,C-2024-10239,2024,Construction & Development,V20140,E106,2025-10-26,362,Overdue,False,392,False,49.2,824,E106,contract PM,4,E900,2026-10-23
+EV-2024-10030-02,In Progress,C-2024-10030,2024,NYCT Infrastructure,V20115,E113,2025-12-31,296,Overdue,True,284,False,49.2,825,E113,contract PM,4,E900,2026-10-23
+EV-2023-10141-02,Requested,C-2023-10141,2023,Facilities & Real Estate,V20139,E156,2025-12-17,310,Overdue,True,304,False,49.1,826,E156,contract PM,4,E900,2026-10-23
+EV-2024-10060-01,Requested,C-2024-10060,2024,NYCT Infrastructure,V20068,,2025-11-25,332,Overdue,True,310,False,49.0,827,E116,no PM on contract -> reassigned to least-loaded active PM in NYCT Infrastructure,4,E900,2026-10-23
+EV-2024-10841-01,In Progress,C-2024-10841,2024,Construction & Development,V20026,E104,2025-11-21,336,Overdue,True,256,False,48.9,828,E104,contract PM,4,E900,2026-10-23
+EV-2024-10020-02,Submitted,C-2024-10020,2024,MTA IT,V20313,E148,2026-02-12,253,Overdue,True,158,False,48.9,829,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10471-03,Submitted,C-2023-10471,2023,Metro-North Engineering,V20181,E132,2026-03-21,216,Overdue,True,105,False,48.9,830,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10308-02,Not Started,C-2023-10308,2023,Facilities & Real Estate,V20228,,2026-01-17,279,Overdue,False,309,False,48.8,831,E155,no PM on contract -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2023-10212-03,Not Started,C-2023-10212,2023,LIRR Engineering,V20152,E120,2026-03-12,225,Overdue,False,255,False,48.8,832,E120,contract PM,4,E900,2026-10-23
+EV-2023-11192-03,In Progress,C-2023-11192,2023,Facilities & Real Estate,V20280,E153,2026-02-08,257,Overdue,True,222,False,48.4,833,E153,contract PM,4,E900,2026-10-23
+EV-2024-11121-02,Requested,C-2024-11121,2024,LIRR Engineering,V20137,E122,2026-08-30,54,Overdue,True,66,True,48.3,834,E119,PM inactive; all department PMs at cap -> routed to supervisor,2,E117,2026-10-23
+EV-2024-10607-01,In Progress,C-2024-10607,2024,LIRR Engineering,V20278,E121,2025-12-13,314,Overdue,True,233,False,48.1,835,E118,PM inactive; all department PMs at cap -> routed to supervisor,4,E900,2026-10-23
+EV-2024-10319-01,Requested,C-2024-10319,2024,Construction & Development,V20011,,2026-01-19,277,Overdue,True,243,False,48.0,836,E108,no PM on contract -> reassigned to least-loaded active PM in Construction & Development,4,E900,2026-10-23
+EV-2024-10659-01,Requested,C-2024-10659,2024,Facilities & Real Estate,V20207,E152,2025-02-27,603,Overdue,True,589,False,47.9,837,E152,contract PM,4,E900,2026-10-23
+EV-2023-10825-03,Requested,C-2023-10825,2023,Construction & Development,V20244,E104,2026-02-01,264,Overdue,True,252,False,47.8,838,E104,contract PM,4,E900,2026-10-23
+EV-2024-10685-02,Not Started,C-2024-10685,2024,Construction & Development,V20254,E104,2026-12-26,-64,On track,False,0,True,47.8,839,E104,contract PM,0,,2026-10-23
+EV-2024-10193-01,Requested,C-2024-10193,2024,Facilities & Real Estate,V20019,E153,2025-11-16,341,Overdue,True,350,False,47.6,840,E153,contract PM,4,E900,2026-10-23
+EV-2024-10808-01,Requested,C-2024-10808,2024,MTA IT,V20235,E146,2025-11-17,340,Overdue,True,338,False,47.5,841,E146,contract PM,4,E900,2026-10-23
+EV-2024-10967-01,Submitted,C-2024-10967,2024,NYCT Infrastructure,V20186,E112,2026-01-06,290,Overdue,True,235,False,47.4,842,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10890-01,Not Started,C-2024-10890,2024,Facilities & Real Estate,V20166,E155,2025-12-18,309,Overdue,False,339,False,47.2,843,E155,contract PM,4,E900,2026-10-23
+EV-2024-10236-02,Not Started,C-2024-10236,2024,Construction & Development,V20153,E106,2027-01-19,-88,On track,False,0,True,47.2,844,E106,contract PM,0,,2026-10-23
+EV-2024-10812-01,Requested,C-2024-10812,2024,MTA IT,V20207,E144,2026-01-04,292,Overdue,True,288,False,47.1,845,E144,contract PM,4,E900,2026-10-23
+EV-2024-11268-01,Requested,C-2024-11268,2024,Facilities & Real Estate,V20307,E156,2026-01-14,282,Overdue,True,279,False,47.0,846,E156,contract PM,4,E900,2026-10-23
+EV-2024-10398-02,Submitted,C-2024-10398,2024,Metro-North Engineering,V20118,E130,2026-01-28,268,Overdue,True,191,False,47.0,847,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10543-03,In Progress,C-2023-10543,2023,NYCT Infrastructure,V20110,E116,2026-05-14,162,Overdue,True,122,False,46.8,848,E116,contract PM,3,E109,2026-10-23
+EV-2024-10168-02,Submitted,C-2024-10168,2024,Bridges & Tunnels,V20020,E140,2026-02-12,253,Overdue,True,165,False,46.7,849,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10600-01,Not Started,C-2024-10600,2024,MTA IT,V20227,E144,2026-01-02,294,Overdue,False,324,False,46.6,850,E144,contract PM,4,E900,2026-10-23
+EV-2024-10204-01,Requested,C-2024-10204,2024,Bridges & Tunnels,V20007,E139,2026-01-21,275,Overdue,True,253,False,46.6,851,E139,contract PM,4,E900,2026-10-23
+EV-2024-10118-02,In Progress,C-2024-10118,2024,Facilities & Real Estate,V20264,E154,2026-11-13,-21,On track,True,27,True,46.2,852,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,0,,2026-10-23
+EV-2024-10112-01,In Progress,C-2024-10112,2024,MTA IT,V20258,E148,2026-01-21,275,Overdue,True,218,False,45.8,853,E148,contract PM,4,E900,2026-10-23
+EV-2024-10581-01,Submitted,C-2024-10581,2024,Construction & Development,V20028,E106,2025-12-08,319,Overdue,True,236,False,45.7,854,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10653-01,In Progress,C-2024-10653,2024,NYCT Infrastructure,V20156,E115,2025-12-23,304,Overdue,True,262,False,45.6,855,E115,contract PM,4,E900,2026-10-23
+EV-2024-10063-01,Submitted,C-2024-10063,2024,Construction & Development,V20177,E104,2025-12-27,300,Overdue,True,278,False,45.6,856,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10487-01,In Progress,C-2024-10487,2024,Construction & Development,V20244,E106,2025-12-03,324,Overdue,True,329,False,45.5,857,E106,contract PM,4,E900,2026-10-23
+EV-2024-11062-01,Requested,C-2024-11062,2024,NYCT Infrastructure,V20007,E115,2025-11-11,346,Overdue,True,331,False,45.4,858,E115,contract PM,4,E900,2026-10-23
+EV-2024-10998-01,Requested,C-2024-10998,2024,Bridges & Tunnels,V20151,E139,2025-12-17,310,Overdue,True,305,False,45.2,859,E139,contract PM,4,E900,2026-10-23
+EV-2023-10067-03,In Progress,C-2023-10067,2023,Construction & Development,V20024,E105,2026-03-14,223,Overdue,True,155,False,45.2,860,E105,contract PM,4,E900,2026-10-23
+EV-2022-10648-04,In Progress,C-2022-10648,2022,NYCT Infrastructure,V20246,E114,2026-04-20,186,Overdue,True,100,False,45.0,861,E114,contract PM,4,E900,2026-10-23
+EV-2024-10488-02,Requested,C-2024-10488,2024,Bridges & Tunnels,V20108,E136,2026-03-09,228,Overdue,True,201,False,44.8,862,E136,contract PM,4,E900,2026-10-23
+EV-2024-10228-02,Requested,C-2024-10228,2024,Facilities & Real Estate,V20297,E156,2026-04-02,204,Overdue,True,220,False,44.8,863,E156,contract PM,4,E900,2026-10-23
+EV-2024-11131-02,In Progress,C-2024-11131,2024,MTA IT,V20181,E145,2026-02-13,252,Overdue,True,228,False,44.7,864,E145,contract PM,4,E900,2026-10-23
+EV-2024-10908-02,Requested,C-2024-10908,2024,Construction & Development,V20042,E106,2026-03-31,206,Overdue,True,162,False,44.7,865,E106,contract PM,4,E900,2026-10-23
+EV-2024-10727-02,Submitted,C-2024-10727,2024,LIRR Engineering,V20266,E124,2026-02-27,238,Overdue,True,138,False,44.5,866,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11226-03,In Progress,C-2023-11226,2023,Construction & Development,V20228,E108,2026-04-14,192,Overdue,True,165,False,44.5,867,E108,contract PM,4,E900,2026-10-23
+EV-2024-10329-02,Submitted,C-2024-10329,2024,Construction & Development,V20089,E107,2026-03-07,230,Overdue,True,198,False,44.4,868,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10032-02,In Progress,C-2024-10032,2024,LIRR Engineering,V20006,E124,2026-04-03,203,Overdue,True,165,False,44.4,869,E124,contract PM,4,E900,2026-10-23
+EV-2024-10690-02,In Progress,C-2024-10690,2024,Bridges & Tunnels,V20027,E137,2026-02-18,247,Overdue,True,199,False,44.3,870,E137,contract PM,4,E900,2026-10-23
+EV-2023-11104-03,Requested,C-2023-11104,2023,Construction & Development,V20280,E104,2026-03-06,231,Overdue,True,229,False,44.3,871,E104,contract PM,4,E900,2026-10-23
+EV-2024-10987-02,Submitted,C-2024-10987,2024,MTA IT,V20301,E144,2026-03-22,215,Overdue,True,170,False,44.3,872,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10124-02,In Progress,C-2023-10124,2023,MTA IT,V20008,E148,2026-01-24,272,Overdue,True,269,False,43.9,873,E148,contract PM,4,E900,2026-10-23
+EV-2024-10214-02,In Progress,C-2024-10214,2024,Construction & Development,V20228,E106,2026-03-18,219,Overdue,True,162,False,43.6,874,E106,contract PM,4,E900,2026-10-23
+EV-2024-10133-02,Submitted,C-2024-10133,2024,Facilities & Real Estate,V20242,E154,2026-03-16,221,Overdue,True,136,False,43.3,875,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10928-02,Requested,C-2024-10928,2024,Bridges & Tunnels,V20239,E137,2026-02-16,249,Overdue,True,226,False,43.2,876,E137,contract PM,4,E900,2026-10-23
+EV-2024-10485-02,Requested,C-2024-10485,2024,Metro-North Engineering,V20166,E132,2026-04-02,204,Overdue,True,194,False,43.2,877,E132,contract PM,4,E900,2026-10-23
+EV-2023-10043-03,In Progress,C-2023-10043,2023,Bridges & Tunnels,V20022,E137,2026-05-08,168,Overdue,True,77,False,43.1,878,E137,contract PM,3,E133,2026-10-23
+EV-2023-10245-03,Submitted,C-2023-10245,2023,MTA IT,V20062,E146,2026-03-08,229,Overdue,True,189,False,42.5,879,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10603-04,In Progress,C-2022-10603,2022,Construction & Development,V20101,E105,2026-07-03,112,Overdue,True,29,False,42.5,880,E105,contract PM,3,E101,2026-10-23
+EV-2024-10868-01,Requested,C-2024-10868,2024,Facilities & Real Estate,V20034,E156,2026-01-24,272,Overdue,True,297,False,42.4,881,E156,contract PM,4,E900,2026-10-23
+EV-2024-10413-02,Requested,C-2024-10413,2024,NYCT Infrastructure,V20132,E113,2026-03-27,210,Overdue,True,210,False,42.3,882,E113,contract PM,4,E900,2026-10-23
+EV-2024-10398-01,Requested,C-2024-10398,2024,Metro-North Engineering,V20118,E130,2026-01-27,269,Overdue,True,245,False,42.2,883,E130,contract PM,4,E900,2026-10-23
+EV-2023-10585-03,Submitted,C-2023-10585,2023,NYCT Infrastructure,V20280,E113,2026-03-26,211,Overdue,True,184,False,42.2,884,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10943-03,Not Started,C-2023-10943,2023,MTA IT,V20094,E145,2027-01-06,-75,On track,False,0,True,41.9,885,E145,contract PM,0,,2026-10-23
+EV-2024-10275-01,Requested,C-2024-10275,2024,Construction & Development,V20284,E107,2026-01-27,269,Overdue,True,241,False,41.8,886,E107,contract PM,4,E900,2026-10-23
+EV-2024-11134-02,Requested,C-2024-11134,2024,Facilities & Real Estate,V20214,E153,2026-03-14,223,Overdue,True,180,False,41.8,887,E153,contract PM,4,E900,2026-10-23
+EV-2024-10816-02,Requested,C-2024-10816,2024,Construction & Development,V20283,E105,2026-04-20,186,Overdue,True,184,False,41.8,888,E105,contract PM,4,E900,2026-10-23
+EV-2024-11198-02,Submitted,C-2024-11198,2024,NYCT Infrastructure,V20187,E113,2026-03-14,223,Overdue,True,97,False,41.5,889,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10333-02,Not Started,C-2024-10333,2024,Metro-North Engineering,V20037,E129,2026-02-16,249,Overdue,False,279,False,41.2,890,E128,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,4,E900,2026-10-23
+EV-2024-10011-02,Requested,C-2024-10011,2024,Construction & Development,V20286,E106,2026-03-13,224,Overdue,True,201,False,40.9,891,E106,contract PM,4,E900,2026-10-23
+EV-2023-10788-03,Requested,C-2023-10788,2023,Metro-North Engineering,V20116,,2026-06-23,122,Overdue,True,87,False,40.8,892,E130,no PM on contract -> reassigned to least-loaded active PM in Metro-North Engineering,3,E125,2026-10-23
+EV-2024-11187-02,Submitted,C-2024-11187,2024,Metro-North Engineering,V20020,E131,2026-05-19,157,Overdue,True,82,False,40.6,893,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11055-03,Not Started,C-2023-11055,2023,LIRR Engineering,V20099,E120,2026-03-24,213,Overdue,False,243,False,40.5,894,E120,contract PM,4,E900,2026-10-23
+EV-2023-10900-03,Requested,C-2023-10900,2023,Bridges & Tunnels,V20088,E137,2026-03-19,218,Overdue,True,182,False,39.9,895,E137,contract PM,4,E900,2026-10-23
+EV-2024-10503-02,In Progress,C-2024-10503,2024,Bridges & Tunnels,V20286,E136,2026-02-22,243,Overdue,True,217,False,39.7,896,E136,contract PM,4,E900,2026-10-23
+EV-2023-11217-03,Requested,C-2023-11217,2023,Bridges & Tunnels,V20331,E137,2026-06-03,142,Overdue,True,105,False,39.6,897,E137,contract PM,3,E133,2026-10-23
+EV-2023-10492-03,Requested,C-2023-10492,2023,NYCT Infrastructure,V20138,E116,2026-05-18,158,Overdue,True,170,False,39.0,898,E116,contract PM,3,E109,2026-10-23
+EV-2023-11247-03,Submitted,C-2023-11247,2023,Construction & Development,V20337,E104,2026-06-12,133,Overdue,True,68,False,38.9,899,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10227-04,In Progress,C-2022-10227,2022,Facilities & Real Estate,V20329,E153,2026-07-30,85,Overdue,True,26,False,38.9,900,E153,contract PM,2,E150,2026-10-23
+EV-2024-10197-02,In Progress,C-2024-10197,2024,Bridges & Tunnels,V20244,E136,2026-02-14,251,Overdue,True,230,False,38.8,901,E136,contract PM,4,E900,2026-10-23
+EV-2024-11074-02,Submitted,C-2024-11074,2024,Metro-North Engineering,V20263,E131,2026-03-19,218,Overdue,True,123,False,38.7,902,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10092-02,Requested,C-2024-10092,2024,Bridges & Tunnels,V20162,E136,2026-02-17,248,Overdue,True,217,False,38.5,903,E136,contract PM,4,E900,2026-10-23
+EV-2024-10977-02,In Progress,C-2024-10977,2024,LIRR Engineering,V20151,E120,2026-05-06,170,Overdue,True,129,False,38.5,904,E120,contract PM,3,E117,2026-10-23
+EV-2023-10525-03,In Progress,C-2023-10525,2023,NYCT Infrastructure,V20105,E114,2026-06-16,129,Overdue,True,101,False,38.1,905,E114,contract PM,3,E109,2026-10-23
+EV-2023-10813-03,In Progress,C-2023-10813,2023,NYCT Infrastructure,V20073,E112,2026-07-06,109,Overdue,True,111,False,38.1,906,E112,contract PM,3,E109,2026-10-23
+EV-2024-11038-02,In Progress,C-2024-11038,2024,Facilities & Real Estate,V20302,E155,2026-06-19,126,Overdue,True,114,False,37.6,907,E155,contract PM,3,E149,2026-10-23
+EV-2024-11108-02,Requested,C-2024-11108,2024,NYCT Infrastructure,V20093,E112,2026-03-06,231,Overdue,True,234,False,37.4,908,E112,contract PM,4,E900,2026-10-23
+EV-2024-10669-02,Requested,C-2024-10669,2024,Facilities & Real Estate,V20277,E154,2026-04-07,199,Overdue,True,217,False,37.4,909,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,4,E900,2026-10-23
+EV-2022-11240-04,Not Started,C-2022-11240,2022,LIRR Engineering,V20008,E123,2026-07-28,87,Overdue,False,117,False,37.3,910,E123,contract PM,2,E118,2026-10-23
+EV-2024-11202-02,Requested,C-2024-11202,2024,MTA IT,V20139,E145,2026-05-23,153,Overdue,True,118,False,37.2,911,E145,contract PM,3,E141,2026-10-23
+EV-2024-10079-02,In Progress,C-2024-10079,2024,LIRR Engineering,V20097,E122,2026-05-07,169,Overdue,True,139,False,36.8,912,E119,PM inactive; all department PMs at cap -> routed to supervisor,3,E117,2026-10-23
+EV-2024-10886-02,Submitted,C-2024-10886,2024,NYCT Infrastructure,V20036,E114,2026-03-21,216,Overdue,True,148,False,36.7,913,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10420-02,Requested,C-2024-10420,2024,Metro-North Engineering,V20124,E132,2026-04-15,191,Overdue,True,183,False,36.7,914,E132,contract PM,4,E900,2026-10-23
+EV-2023-11176-03,Not Started,C-2023-11176,2023,Metro-North Engineering,V20067,E131,2026-06-02,143,Overdue,False,173,False,36.7,915,E131,contract PM,3,E125,2026-10-23
+EV-2024-11172-02,In Progress,C-2024-11172,2024,NYCT Infrastructure,V20017,E113,2026-06-14,131,Overdue,True,130,False,36.5,916,E113,contract PM,3,E109,2026-10-23
+EV-2023-10840-03,Submitted,C-2023-10840,2023,Facilities & Real Estate,V20197,E152,2026-05-03,173,Overdue,True,136,False,36.3,917,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-11185-02,Requested,C-2024-11185,2024,Construction & Development,V20028,E106,2026-03-13,224,Overdue,True,202,False,36.0,918,E106,contract PM,4,E900,2026-10-23
+EV-2024-10316-02,Requested,C-2024-10316,2024,LIRR Engineering,V20160,E120,2026-04-15,191,Overdue,True,156,False,35.7,919,E120,contract PM,4,E900,2026-10-23
+EV-2023-10901-03,Requested,C-2023-10901,2023,Metro-North Engineering,V20196,E132,2026-08-08,76,Overdue,True,56,False,35.5,920,E132,contract PM,2,E127,2026-10-23
+EV-2024-10356-02,In Progress,C-2024-10356,2024,NYCT Infrastructure,V20192,E112,2026-06-02,143,Overdue,True,133,False,35.2,921,E112,contract PM,3,E109,2026-10-23
+EV-2024-11269-02,In Progress,C-2024-11269,2024,Bridges & Tunnels,V20119,E136,2026-06-20,125,Overdue,True,37,False,35.2,922,E136,contract PM,3,E133,2026-10-23
+EV-2024-10430-02,Requested,C-2024-10430,2024,Metro-North Engineering,V20077,E128,2026-03-30,207,Overdue,True,213,False,35.0,923,E128,contract PM,4,E900,2026-10-23
+EV-2024-10895-02,Requested,C-2024-10895,2024,Metro-North Engineering,V20138,E129,2026-05-25,151,Overdue,True,115,False,34.9,924,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,3,E125,2026-10-23
+EV-2024-10071-02,In Progress,C-2024-10071,2024,Metro-North Engineering,V20028,E129,2026-07-07,108,Overdue,True,36,False,34.9,925,E128,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,3,E125,2026-10-23
+EV-2024-10680-02,Submitted,C-2024-10680,2024,Construction & Development,V20063,E105,2026-05-08,168,Overdue,True,164,False,34.5,926,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10163-02,Requested,C-2024-10163,2024,Facilities & Real Estate,V20192,E154,2026-05-11,165,Overdue,True,173,False,34.1,927,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,3,E149,2026-10-23
+EV-2023-10684-03,Requested,C-2023-10684,2023,Facilities & Real Estate,V20103,E154,2026-06-10,135,Overdue,True,128,False,34.1,928,E155,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,3,E149,2026-10-23
+EV-2024-10841-02,In Progress,C-2024-10841,2024,Construction & Development,V20026,E104,2026-05-22,154,Overdue,True,144,False,33.9,929,E104,contract PM,3,E101,2026-10-23
+EV-2023-10005-03,In Progress,C-2023-10005,2023,NYCT Infrastructure,V20277,E114,2026-07-16,99,Overdue,True,34,False,33.8,930,E114,contract PM,3,E109,2026-10-23
+EV-2023-10837-03,Requested,C-2023-10837,2023,Construction & Development,V20262,E108,2026-07-26,89,Overdue,True,52,False,33.7,931,E108,contract PM,2,E103,2026-10-23
+EV-2024-10527-02,Requested,C-2024-10527,2024,Bridges & Tunnels,V20140,E139,2026-06-03,142,Overdue,True,121,False,33.4,932,E139,contract PM,3,E133,2026-10-23
+EV-2024-10629-02,Requested,C-2024-10629,2024,Bridges & Tunnels,V20327,E137,2026-06-15,130,Overdue,True,103,False,32.5,933,E137,contract PM,3,E133,2026-10-23
+EV-2024-10069-02,Not Started,C-2024-10069,2024,NYCT Infrastructure,V20110,E116,2026-06-14,131,Overdue,False,161,False,32.3,934,E116,contract PM,3,E109,2026-10-23
+EV-2022-10120-04,Requested,C-2022-10120,2022,NYCT Infrastructure,V20055,E116,2027-01-01,-70,On track,False,13,False,32.1,935,E116,contract PM,0,,2026-10-23
+EV-2023-11050-03,Submitted,C-2023-11050,2023,Metro-North Engineering,V20337,E129,2026-07-29,86,Overdue,True,12,False,31.9,936,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10097-02,Requested,C-2024-10097,2024,Bridges & Tunnels,V20134,E139,2026-08-03,81,Overdue,True,64,False,31.9,937,E139,contract PM,2,E135,2026-10-23
+EV-2024-10204-02,Requested,C-2024-10204,2024,Bridges & Tunnels,V20007,E139,2026-07-22,93,Overdue,True,96,False,31.7,938,E139,contract PM,3,E133,2026-10-23
+EV-2023-10412-03,In Progress,C-2023-10412,2023,Bridges & Tunnels,V20315,E138,2026-05-28,148,Overdue,True,99,False,31.4,939,E138,contract PM,3,E133,2026-10-23
+EV-2023-10829-03,In Progress,C-2023-10829,2023,Metro-North Engineering,V20104,E132,2026-07-11,104,Overdue,True,44,False,31.4,940,E132,contract PM,3,E125,2026-10-23
+EV-2024-10556-02,Not Started,C-2024-10556,2024,LIRR Engineering,V20020,E122,2026-05-10,166,Overdue,False,196,False,31.2,941,E119,PM inactive; all department PMs at cap -> routed to supervisor,3,E117,2026-10-23
+EV-2022-10539-04,Requested,C-2022-10539,2022,Facilities & Real Estate,V20226,E154,2026-10-21,2,Overdue,False,4,False,30.7,942,E156,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,1,E156,2026-10-23
+EV-2023-10720-03,In Progress,C-2023-10720,2023,Bridges & Tunnels,V20182,E137,2026-09-30,23,Overdue,True,29,False,30.2,943,E137,contract PM,1,E137,2026-10-23
+EV-2024-10103-02,Requested,C-2024-10103,2024,Construction & Development,V20070,E104,2026-06-12,133,Overdue,True,105,False,30.1,944,E104,contract PM,3,E101,2026-10-23
+EV-2023-10058-03,Submitted,C-2023-10058,2023,LIRR Engineering,V20289,E124,2026-07-06,109,Overdue,True,48,False,30.1,945,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10910-04,Not Started,C-2023-10910,2023,LIRR Engineering,V20035,E120,2026-11-28,-36,On track,False,0,False,29.9,946,E120,contract PM,0,,2026-10-23
+EV-2022-10374-04,Not Started,C-2022-10374,2022,Metro-North Engineering,V20177,E129,2027-01-17,-86,On track,False,0,False,29.9,947,E130,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,0,,2026-10-23
+EV-2023-11098-03,Not Started,C-2023-11098,2023,LIRR Engineering,V20091,E123,2026-10-02,21,Overdue,False,51,False,29.8,948,E123,contract PM,1,E123,2026-10-23
+EV-2022-11029-04,Requested,C-2022-11029,2022,Facilities & Real Estate,V20278,E153,2026-10-13,10,Overdue,True,21,False,29.8,949,E153,contract PM,1,E153,2026-10-23
+EV-2024-11218-02,In Progress,C-2024-11218,2024,Construction & Development,V20058,E104,2026-06-15,130,Overdue,True,59,False,29.7,950,E104,contract PM,3,E101,2026-10-23
+EV-2024-10588-02,Not Started,C-2024-10588,2024,NYCT Infrastructure,V20230,E113,2026-06-22,123,Overdue,False,153,False,29.7,951,E113,contract PM,3,E109,2026-10-23
+EV-2024-10364-02,Not Started,C-2024-10364,2024,Bridges & Tunnels,V20005,E139,2026-07-26,89,Overdue,False,119,False,29.4,952,E139,contract PM,2,E135,2026-10-23
+EV-2024-10818-02,In Progress,C-2024-10818,2024,MTA IT,V20138,E147,2026-07-05,110,Overdue,True,60,False,29.2,953,E147,contract PM,3,E141,2026-10-23
+EV-2024-10711-02,Not Started,C-2024-10711,2024,Construction & Development,V20267,E106,2026-05-18,158,Overdue,False,188,False,29.1,954,E106,contract PM,3,E101,2026-10-23
+EV-2024-10744-02,Submitted,C-2024-10744,2024,MTA IT,V20062,E144,2026-05-23,153,Overdue,True,111,False,29.1,955,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10234-03,Requested,C-2023-10234,2023,LIRR Engineering,V20301,E121,2026-08-15,69,Overdue,True,83,False,28.9,956,E118,PM inactive; all department PMs at cap -> routed to supervisor,2,E117,2026-10-23
+EV-2023-10307-04,Not Started,C-2023-10307,2023,Construction & Development,V20252,E107,2027-01-30,-99,On track,False,0,False,28.3,957,E107,contract PM,0,,2026-10-23
+EV-2023-10501-03,Requested,C-2023-10501,2023,NYCT Infrastructure,V20317,E113,2026-10-02,21,Overdue,False,14,False,28.1,958,E113,contract PM,1,E113,2026-10-23
+EV-2024-10811-02,In Progress,C-2024-10811,2024,LIRR Engineering,V20169,E123,2026-07-28,87,Overdue,True,24,False,27.8,959,E123,contract PM,2,E118,2026-10-23
+EV-2022-10994-04,Requested,C-2022-10994,2022,Bridges & Tunnels,V20114,E136,2026-10-25,-2,Due soon,False,14,False,27.8,960,E136,contract PM,0,,2026-10-23
+EV-2022-11056-04,Not Started,C-2022-11056,2022,Metro-North Engineering,V20096,E128,2027-01-21,-90,On track,False,0,False,27.7,961,E128,contract PM,0,,2026-10-23
+EV-2024-10980-02,Requested,C-2024-10980,2024,Bridges & Tunnels,V20118,E138,2026-06-19,126,Overdue,True,109,False,27.6,962,E138,contract PM,3,E133,2026-10-23
+EV-2022-10689-04,Requested,C-2022-10689,2022,LIRR Engineering,V20306,E124,2026-10-21,2,Overdue,False,9,False,27.2,963,E124,contract PM,1,E124,2026-10-23
+EV-2023-10243-03,Not Started,C-2023-10243,2023,Facilities & Real Estate,V20154,E154,2026-07-16,99,Overdue,False,129,False,27.1,964,E152,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,3,E149,2026-10-23
+EV-2024-10620-02,Submitted,C-2024-10620,2024,MTA IT,V20163,E146,2026-07-15,100,Overdue,True,44,False,26.7,965,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2022-10849-04,Not Started,C-2022-10849,2022,MTA IT,V20193,E145,2027-01-11,-80,On track,False,0,False,26.5,966,E145,contract PM,0,,2026-10-23
+EV-2023-11155-03,In Progress,C-2023-11155,2023,MTA IT,V20019,E148,2026-08-27,57,Overdue,False,5,False,26.4,967,E148,contract PM,2,E142,2026-10-23
+EV-2024-10982-02,In Progress,C-2024-10982,2024,Bridges & Tunnels,V20100,E136,2026-07-23,92,Overdue,True,75,False,26.0,968,E136,contract PM,3,E133,2026-10-23
+EV-2023-10422-03,Requested,C-2023-10422,2023,Facilities & Real Estate,V20122,E155,2027-01-05,-74,On track,False,4,False,26.0,969,E155,contract PM,0,,2026-10-23
+EV-2023-10591-03,Requested,C-2023-10591,2023,NYCT Infrastructure,V20123,E115,2026-11-23,-31,On track,True,19,False,25.9,970,E115,contract PM,0,,2026-10-23
+EV-2023-10067-04,Not Started,C-2023-10067,2023,Construction & Development,V20024,E105,2027-03-12,-140,On track,False,0,False,25.8,971,E105,contract PM,0,,2026-10-23
+EV-2023-10152-03,Requested,C-2023-10152,2023,NYCT Infrastructure,V20148,E112,2026-11-03,-11,On track,False,9,False,25.7,972,E112,contract PM,0,,2026-10-23
+EV-2024-10974-02,In Progress,C-2024-10974,2024,LIRR Engineering,V20145,E120,2026-05-28,148,Overdue,True,83,False,25.6,973,E120,contract PM,3,E117,2026-10-23
+EV-2023-10940-03,Not Started,C-2023-10940,2023,LIRR Engineering,V20273,E123,2026-11-24,-32,On track,False,0,False,25.6,974,E123,contract PM,0,,2026-10-23
+EV-2024-11116-02,Not Started,C-2024-11116,2024,MTA IT,V20227,E145,2026-08-25,59,Overdue,False,89,False,25.4,975,E145,contract PM,2,E142,2026-10-23
+EV-2024-10796-02,In Progress,C-2024-10796,2024,NYCT Infrastructure,V20040,E113,2026-06-14,131,Overdue,True,93,False,25.2,976,E113,contract PM,3,E109,2026-10-23
+EV-2023-10833-03,In Progress,C-2023-10833,2023,NYCT Infrastructure,V20185,E114,2026-10-06,17,Overdue,False,7,False,25.2,977,E114,contract PM,1,E114,2026-10-23
+EV-2024-10409-02,In Progress,C-2024-10409,2024,Metro-North Engineering,V20287,E130,2026-07-28,87,Overdue,True,45,False,24.9,978,E130,contract PM,2,E127,2026-10-23
+EV-2023-10910-03,Requested,C-2023-10910,2023,LIRR Engineering,V20035,E120,2026-11-27,-35,On track,True,17,False,24.9,979,E120,contract PM,0,,2026-10-23
+EV-2023-10188-03,Not Started,C-2023-10188,2023,Construction & Development,V20019,,2026-12-02,-40,On track,False,0,False,24.9,980,E108,no PM on contract -> reassigned to least-loaded active PM in Construction & Development,0,,2026-10-23
+EV-2024-10486-02,In Progress,C-2024-10486,2024,Facilities & Real Estate,V20164,E153,2026-08-27,57,Overdue,True,41,False,24.8,981,E153,contract PM,2,E150,2026-10-23
+EV-2022-10162-04,Requested,C-2022-10162,2022,Bridges & Tunnels,V20217,E138,2026-11-05,-13,On track,True,18,False,24.5,982,E138,contract PM,0,,2026-10-23
+EV-2023-11188-04,Not Started,C-2023-11188,2023,MTA IT,V20076,E148,2027-03-04,-132,On track,False,0,False,24.5,983,E148,contract PM,0,,2026-10-23
+EV-2024-10371-02,In Progress,C-2024-10371,2024,LIRR Engineering,V20325,E123,2026-08-07,77,Overdue,True,54,False,24.3,984,E123,contract PM,2,E118,2026-10-23
+EV-2024-10327-02,Not Started,C-2024-10327,2024,LIRR Engineering,V20311,E122,2026-08-15,69,Overdue,False,99,False,24.3,985,E119,PM inactive; all department PMs at cap -> routed to supervisor,2,E117,2026-10-23
+EV-2023-10249-03,In Progress,C-2023-10249,2023,Bridges & Tunnels,V20129,E137,2026-11-23,-31,On track,False,2,False,24.1,986,E137,contract PM,0,,2026-10-23
+EV-2023-11104-04,Not Started,C-2023-11104,2023,Construction & Development,V20280,E104,2027-03-04,-132,On track,False,0,False,23.9,987,E104,contract PM,0,,2026-10-23
+EV-2024-10935-02,Requested,C-2024-10935,2024,Metro-North Engineering,V20089,E128,2026-09-23,30,Overdue,True,27,False,23.8,988,E128,contract PM,2,E126,2026-10-23
+EV-2024-10970-02,Not Started,C-2024-10970,2024,Bridges & Tunnels,V20071,E140,2026-08-19,65,Overdue,False,95,False,23.7,989,E140,contract PM,2,E135,2026-10-23
+EV-2023-11049-04,Not Started,C-2023-11049,2023,LIRR Engineering,V20151,E120,2027-03-08,-136,On track,False,0,False,23.7,990,E120,contract PM,0,,2026-10-23
+EV-2023-11110-04,Requested,C-2023-11110,2023,NYCT Infrastructure,V20160,E114,2027-02-07,-107,On track,True,25,False,23.6,991,E114,contract PM,0,,2026-10-23
+EV-2024-11157-02,Requested,C-2024-11157,2024,Construction & Development,V20296,E107,2026-11-15,-23,On track,False,4,False,23.4,992,E107,contract PM,0,,2026-10-23
+EV-2024-10686-03,Requested,C-2024-10686,2024,Facilities & Real Estate,V20335,E156,2026-09-29,24,Overdue,True,50,False,23.3,993,E156,contract PM,1,E156,2026-10-23
+EV-2024-10238-02,Requested,C-2024-10238,2024,Facilities & Real Estate,V20072,E155,2026-10-07,16,Overdue,True,25,False,23.0,994,E155,contract PM,1,E155,2026-10-23
+EV-2023-10042-03,In Progress,C-2023-10042,2023,NYCT Infrastructure,V20097,E114,2026-10-14,9,Overdue,False,16,False,23.0,995,E114,contract PM,1,E114,2026-10-23
+EV-2024-11047-02,Submitted,C-2024-11047,2024,Facilities & Real Estate,V20161,E156,2026-08-14,70,Overdue,True,14,False,22.9,996,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10205-03,Not Started,C-2023-10205,2023,Construction & Development,V20103,E108,2026-12-19,-57,On track,False,0,False,22.9,997,E108,contract PM,0,,2026-10-23
+EV-2024-11145-02,In Progress,C-2024-11145,2024,Metro-North Engineering,V20126,E130,2026-08-18,66,Overdue,True,25,False,22.8,998,E130,contract PM,2,E127,2026-10-23
+EV-2023-10774-03,Submitted,C-2023-10774,2023,LIRR Engineering,V20026,E121,2026-10-19,4,Overdue,True,14,False,22.8,999,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11278-03,Not Started,C-2023-11278,2023,LIRR Engineering,V20025,E123,2026-10-19,4,Overdue,False,34,False,22.6,1000,E123,contract PM,1,E123,2026-10-23
+EV-2023-10709-03,Not Started,C-2023-10709,2023,NYCT Infrastructure,V20337,E115,2027-01-26,-95,On track,False,0,False,22.6,1001,E115,contract PM,0,,2026-10-23
+EV-2024-11281-02,In Progress,C-2024-11281,2024,LIRR Engineering,V20050,E121,2026-10-06,17,Overdue,False,10,False,22.4,1002,E118,PM inactive; all department PMs at cap -> routed to supervisor,1,E118,2026-10-23
+EV-2023-11071-03,Requested,C-2023-11071,2023,NYCT Infrastructure,V20126,E114,2026-12-01,-39,On track,False,4,False,22.4,1003,E114,contract PM,0,,2026-10-23
+EV-2023-10245-04,Requested,C-2023-10245,2023,MTA IT,V20062,E146,2027-03-06,-134,On track,True,29,False,22.4,1004,E146,contract PM,0,,2026-10-23
+EV-2024-10775-02,Not Started,C-2024-10775,2024,NYCT Infrastructure,V20056,E113,2026-11-11,-19,On track,False,11,False,22.2,1005,E113,contract PM,0,,2026-10-23
+EV-2023-10809-03,Not Started,C-2023-10809,2023,Bridges & Tunnels,V20220,E136,2026-11-27,-35,On track,False,0,False,22.2,1006,E136,contract PM,0,,2026-10-23
+EV-2023-10295-03,Not Started,C-2023-10295,2023,Facilities & Real Estate,V20152,E154,2027-01-18,-87,On track,False,0,False,22.1,1007,E153,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,0,,2026-10-23
+EV-2023-11055-04,Requested,C-2023-11055,2023,LIRR Engineering,V20099,E120,2027-03-22,-150,On track,True,22,False,22.1,1008,E120,contract PM,0,,2026-10-23
+EV-2024-10355-02,Not Started,C-2024-10355,2024,LIRR Engineering,V20118,E124,2026-12-26,-64,On track,False,0,False,22.0,1009,E124,contract PM,0,,2026-10-23
+EV-2023-10041-03,Not Started,C-2023-10041,2023,NYCT Infrastructure,V20199,E115,2027-01-27,-96,On track,False,0,False,22.0,1010,E115,contract PM,0,,2026-10-23
+EV-2024-10921-02,Submitted,C-2024-10921,2024,Bridges & Tunnels,V20325,E137,2026-08-15,69,Overdue,True,28,False,21.9,1011,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10091-02,Not Started,C-2024-10091,2024,Construction & Development,V20246,E105,2026-12-18,-56,On track,False,0,False,21.7,1012,E105,contract PM,0,,2026-10-23
+EV-2024-11124-02,Requested,C-2024-11124,2024,MTA IT,V20119,E146,2026-12-09,-47,On track,True,23,False,21.6,1013,E146,contract PM,0,,2026-10-23
+EV-2024-11037-02,Submitted,C-2024-11037,2024,Bridges & Tunnels,V20279,E137,2026-08-08,76,Overdue,True,17,False,21.5,1014,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-11070-03,Not Started,C-2023-11070,2023,LIRR Engineering,V20148,E124,2026-11-24,-32,On track,False,0,False,21.5,1015,E124,contract PM,0,,2026-10-23
+EV-2023-10223-03,Not Started,C-2023-10223,2023,MTA IT,V20148,E146,2026-11-24,-32,On track,False,0,False,21.4,1016,E146,contract PM,0,,2026-10-23
+EV-2023-11209-03,Requested,C-2023-11209,2023,Facilities & Real Estate,V20079,E154,2026-10-04,19,Overdue,True,20,False,21.1,1017,E155,PM inactive -> reassigned to least-loaded active PM in Facilities & Real Estate,1,E155,2026-10-23
+EV-2024-10737-02,Requested,C-2024-10737,2024,Facilities & Real Estate,V20295,E155,2026-10-11,12,Overdue,False,7,False,21.1,1018,E155,contract PM,1,E155,2026-10-23
+EV-2024-10476-02,Requested,C-2024-10476,2024,Bridges & Tunnels,V20019,E139,2026-11-07,-15,On track,False,11,False,21.1,1019,E139,contract PM,0,,2026-10-23
+EV-2024-11268-02,Not Started,C-2024-11268,2024,Facilities & Real Estate,V20307,E156,2027-01-13,-82,On track,False,0,False,21.1,1020,E156,contract PM,0,,2026-10-23
+EV-2023-10900-04,Not Started,C-2023-10900,2023,Bridges & Tunnels,V20088,E137,2027-03-17,-145,On track,False,0,False,21.0,1021,E137,contract PM,0,,2026-10-23
+EV-2024-10366-02,Requested,C-2024-10366,2024,LIRR Engineering,V20022,E120,2026-09-18,35,Overdue,True,22,False,20.6,1022,E120,contract PM,2,E119,2026-10-23
+EV-2024-10967-02,Not Started,C-2024-10967,2024,NYCT Infrastructure,V20186,E112,2027-01-05,-74,On track,False,0,False,20.6,1023,E112,contract PM,0,,2026-10-23
+EV-2024-10115-02,Requested,C-2024-10115,2024,LIRR Engineering,V20263,E124,2026-11-15,-23,On track,False,5,False,20.2,1024,E124,contract PM,0,,2026-10-23
+EV-2023-10141-03,Requested,C-2023-10141,2023,Facilities & Real Estate,V20139,E156,2026-12-15,-53,On track,True,24,False,20.2,1025,E156,contract PM,0,,2026-10-23
+EV-2023-11246-03,Not Started,C-2023-11246,2023,LIRR Engineering,V20049,E124,2026-11-14,-22,On track,False,8,False,20.1,1026,E124,contract PM,0,,2026-10-23
+EV-2024-10687-02,Not Started,C-2024-10687,2024,LIRR Engineering,V20012,E124,2026-12-02,-40,On track,False,0,False,19.8,1027,E124,contract PM,0,,2026-10-23
+EV-2024-10027-02,Requested,C-2024-10027,2024,Construction & Development,V20255,E104,2026-11-03,-11,On track,True,17,False,19.7,1028,E104,contract PM,0,,2026-10-23
+EV-2024-10225-02,Not Started,C-2024-10225,2024,Metro-North Engineering,V20052,E130,2026-10-17,6,Overdue,False,36,False,19.6,1029,E130,contract PM,1,E130,2026-10-23
+EV-2024-10600-02,Not Started,C-2024-10600,2024,MTA IT,V20227,E144,2027-01-01,-70,On track,False,0,False,19.4,1030,E144,contract PM,0,,2026-10-23
+EV-2024-10461-03,Not Started,C-2024-10461,2024,Facilities & Real Estate,V20055,E155,2027-03-13,-141,On track,False,0,False,19.4,1031,E155,contract PM,0,,2026-10-23
+EV-2024-10207-02,In Progress,C-2024-10207,2024,NYCT Infrastructure,V20149,E116,2026-10-06,17,Overdue,False,15,False,19.3,1032,E116,contract PM,1,E116,2026-10-23
+EV-2024-10934-02,Not Started,C-2024-10934,2024,NYCT Infrastructure,V20017,E114,2026-11-23,-31,On track,False,0,False,19.2,1033,E114,contract PM,0,,2026-10-23
+EV-2024-10436-02,Requested,C-2024-10436,2024,MTA IT,V20298,E146,2027-01-19,-88,On track,False,13,False,19.2,1034,E146,contract PM,0,,2026-10-23
+EV-2023-10023-03,Requested,C-2023-10023,2023,NYCT Infrastructure,V20276,E113,2026-11-11,-19,On track,True,28,False,19.1,1035,E113,contract PM,0,,2026-10-23
+EV-2023-10871-03,Not Started,C-2023-10871,2023,Facilities & Real Estate,V20261,E156,2027-01-20,-89,On track,False,0,False,19.0,1036,E156,contract PM,0,,2026-10-23
+EV-2023-10124-03,Not Started,C-2023-10124,2023,MTA IT,V20008,E148,2027-01-22,-91,On track,False,0,False,19.0,1037,E148,contract PM,0,,2026-10-23
+EV-2024-10333-03,Requested,C-2024-10333,2024,Metro-North Engineering,V20037,E129,2027-02-14,-114,On track,True,27,False,18.9,1038,E131,PM inactive -> reassigned to least-loaded active PM in Metro-North Engineering,0,,2026-10-23
+EV-2024-11023-02,In Progress,C-2024-11023,2024,Facilities & Real Estate,V20022,,2026-10-12,11,Overdue,True,23,False,18.8,1039,E156,no PM on contract -> reassigned to least-loaded active PM in Facilities & Real Estate,1,E156,2026-10-23
+EV-2024-10686-02,Not Started,C-2024-10686,2024,Facilities & Real Estate,V20335,E156,2026-09-27,26,Overdue,False,56,False,18.5,1040,E156,contract PM,1,E156,2026-10-23
+EV-2023-10992-03,Not Started,C-2023-10992,2023,Facilities & Real Estate,V20212,E156,2026-12-28,-66,On track,False,0,False,18.5,1041,E156,contract PM,0,,2026-10-23
+EV-2023-10781-03,Not Started,C-2023-10781,2023,Bridges & Tunnels,V20319,,2027-01-01,-70,On track,False,0,False,18.4,1042,E138,no PM on contract -> reassigned to least-loaded active PM in Bridges & Tunnels,0,,2026-10-23
+EV-2024-10727-03,Not Started,C-2024-10727,2024,LIRR Engineering,V20266,E124,2027-02-27,-127,On track,False,0,False,18.4,1043,E124,contract PM,0,,2026-10-23
+EV-2023-10477-03,Not Started,C-2023-10477,2023,Metro-North Engineering,V20157,E131,2026-11-03,-11,On track,False,19,False,18.3,1044,E131,contract PM,0,,2026-10-23
+EV-2024-10503-03,Not Started,C-2024-10503,2024,Bridges & Tunnels,V20286,E136,2027-02-20,-120,On track,False,0,False,18.1,1045,E136,contract PM,0,,2026-10-23
+EV-2024-10663-02,Not Started,C-2024-10663,2024,MTA IT,V20322,E144,2026-10-13,10,Overdue,False,40,False,18.0,1046,E144,contract PM,1,E144,2026-10-23
+EV-2024-10773-02,Not Started,C-2024-10773,2024,NYCT Infrastructure,V20164,E115,2026-12-23,-61,On track,False,0,False,17.9,1047,E115,contract PM,0,,2026-10-23
+EV-2023-10315-03,Requested,C-2023-10315,2023,Construction & Development,V20118,E105,2026-12-25,-63,On track,False,12,False,17.8,1048,E105,contract PM,0,,2026-10-23
+EV-2024-10063-02,Not Started,C-2024-10063,2024,Construction & Development,V20177,E104,2026-12-26,-64,On track,False,0,False,17.8,1049,E104,contract PM,0,,2026-10-23
+EV-2024-10060-02,In Progress,C-2024-10060,2024,NYCT Infrastructure,V20068,,2026-11-24,-32,On track,False,5,False,17.7,1050,E116,no PM on contract -> reassigned to least-loaded active PM in NYCT Infrastructure,0,,2026-10-23
+EV-2024-10868-02,Not Started,C-2024-10868,2024,Facilities & Real Estate,V20034,E156,2027-01-23,-92,On track,False,0,False,17.6,1051,E156,contract PM,0,,2026-10-23
+EV-2024-10896-02,In Progress,C-2024-10896,2024,MTA IT,V20017,E147,2026-08-27,57,Overdue,True,32,False,17.3,1052,E147,contract PM,2,E143,2026-10-23
+EV-2024-10491-02,In Progress,C-2024-10491,2024,LIRR Engineering,V20128,,2026-08-31,53,Overdue,True,31,False,17.3,1053,E117,no PM on contract; all department PMs at cap -> routed to supervisor,2,E117,2026-10-23
+EV-2024-10565-02,Not Started,C-2024-10565,2024,Metro-North Engineering,V20018,E131,2026-12-18,-56,On track,False,0,False,17.2,1054,E131,contract PM,0,,2026-10-23
+EV-2023-11095-03,Requested,C-2023-11095,2023,MTA IT,V20024,E148,2026-10-20,3,Overdue,True,25,False,17.1,1055,E148,contract PM,1,E148,2026-10-23
+EV-2024-11245-02,Requested,C-2024-11245,2024,LIRR Engineering,V20196,E120,2026-11-27,-35,On track,False,6,False,17.1,1056,E120,contract PM,0,,2026-10-23
+EV-2024-10838-02,Requested,C-2024-10838,2024,Bridges & Tunnels,V20319,E136,2026-09-12,41,Overdue,True,23,False,17.0,1057,E136,contract PM,2,E135,2026-10-23
+EV-2024-10516-02,Submitted,C-2024-10516,2024,Facilities & Real Estate,V20276,E154,2026-09-23,30,Overdue,True,14,False,17.0,1058,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10542-02,Not Started,C-2024-10542,2024,Metro-North Engineering,V20330,E132,2026-12-18,-56,On track,False,0,False,16.9,1059,E132,contract PM,0,,2026-10-23
+EV-2024-10925-03,Not Started,C-2024-10925,2024,Metro-North Engineering,V20062,E128,2027-02-03,-103,On track,False,0,False,16.9,1060,E128,contract PM,0,,2026-10-23
+EV-2023-10088-03,Not Started,C-2023-10088,2023,Metro-North Engineering,V20038,E131,2026-12-25,-63,On track,False,0,False,16.7,1061,E131,contract PM,0,,2026-10-23
+EV-2024-10395-02,Requested,C-2024-10395,2024,LIRR Engineering,V20334,E121,2026-10-16,7,Overdue,True,21,False,16.4,1062,E118,PM inactive; all department PMs at cap -> routed to supervisor,1,E118,2026-10-23
+EV-2024-10197-03,Not Started,C-2024-10197,2024,Bridges & Tunnels,V20244,E136,2027-02-12,-112,On track,False,0,False,16.3,1063,E136,contract PM,0,,2026-10-23
+EV-2023-10301-03,Not Started,C-2023-10301,2023,Bridges & Tunnels,V20078,E140,2026-11-27,-35,On track,False,0,False,16.0,1064,E140,contract PM,0,,2026-10-23
+EV-2024-10037-02,Not Started,C-2024-10037,2024,Metro-North Engineering,V20229,E128,2026-12-04,-42,On track,False,0,False,16.0,1065,E128,contract PM,0,,2026-10-23
+EV-2024-10582-02,In Progress,C-2024-10582,2024,Construction & Development,V20321,E107,2026-09-27,26,Overdue,False,9,False,15.8,1066,E107,contract PM,1,E107,2026-10-23
+EV-2024-10839-02,Not Started,C-2024-10839,2024,Metro-North Engineering,V20120,E132,2026-12-03,-41,On track,False,0,False,15.7,1067,E132,contract PM,0,,2026-10-23
+EV-2024-10112-02,Not Started,C-2024-10112,2024,MTA IT,V20258,E148,2027-01-21,-90,On track,False,0,False,15.7,1068,E148,contract PM,0,,2026-10-23
+EV-2024-10425-02,Submitted,C-2024-10425,2024,Bridges & Tunnels,V20154,E139,2026-09-25,28,Overdue,True,22,False,15.6,1069,E902,Supplier Relations review queue,2,E900,2026-10-23
+EV-2023-10918-03,Not Started,C-2023-10918,2023,LIRR Engineering,V20239,E123,2027-01-08,-77,On track,False,0,False,15.6,1070,E123,contract PM,0,,2026-10-23
+EV-2024-10714-02,Not Started,C-2024-10714,2024,Bridges & Tunnels,V20225,E137,2026-12-14,-52,On track,False,0,False,15.5,1071,E137,contract PM,0,,2026-10-23
+EV-2024-10193-02,In Progress,C-2024-10193,2024,Facilities & Real Estate,V20019,E153,2026-11-15,-23,On track,False,10,False,15.3,1072,E153,contract PM,0,,2026-10-23
+EV-2024-10808-02,Requested,C-2024-10808,2024,MTA IT,V20235,E146,2026-11-16,-24,On track,False,3,False,15.2,1073,E146,contract PM,0,,2026-10-23
+EV-2024-11203-02,In Progress,C-2024-11203,2024,Metro-North Engineering,V20206,E132,2026-10-24,-1,Due soon,False,2,False,15.0,1074,E132,contract PM,0,,2026-10-23
+EV-2024-10299-02,Requested,C-2024-10299,2024,Metro-North Engineering,V20299,E132,2026-12-04,-42,On track,True,18,False,14.9,1075,E132,contract PM,0,,2026-10-23
+EV-2024-10239-02,Requested,C-2024-10239,2024,Construction & Development,V20140,E106,2026-10-25,-2,Due soon,False,4,False,14.5,1076,E106,contract PM,0,,2026-10-23
+EV-2024-10509-02,Not Started,C-2024-10509,2024,LIRR Engineering,V20021,E121,2026-11-09,-17,On track,False,13,False,14.4,1077,E118,PM inactive; all department PMs at cap -> routed to supervisor,0,,2026-10-23
+EV-2024-11002-02,Requested,C-2024-11002,2024,Bridges & Tunnels,V20315,E137,2026-10-20,3,Overdue,False,3,False,14.0,1078,E137,contract PM,1,E137,2026-10-23
+EV-2024-11066-02,Submitted,C-2024-11066,2024,Bridges & Tunnels,V20071,E136,2026-10-02,21,Overdue,True,26,False,13.9,1079,E901,Supplier Relations review queue,2,E900,2026-10-23
+EV-2024-10607-02,Not Started,C-2024-10607,2024,LIRR Engineering,V20278,E121,2026-12-13,-51,On track,False,0,False,13.7,1080,E118,PM inactive; all department PMs at cap -> routed to supervisor,0,,2026-10-23
+EV-2024-11244-02,Not Started,C-2024-11244,2024,MTA IT,V20090,E146,2026-11-27,-35,On track,False,0,False,13.3,1081,E146,contract PM,0,,2026-10-23
+EV-2024-10624-02,Not Started,C-2024-10624,2024,NYCT Infrastructure,V20123,E113,2026-12-21,-59,On track,False,0,False,13.1,1082,E113,contract PM,0,,2026-10-23
+EV-2024-10886-03,Requested,C-2024-10886,2024,NYCT Infrastructure,V20036,E114,2027-03-21,-149,On track,False,13,False,13.0,1083,E114,contract PM,0,,2026-10-23
+EV-2024-10397-02,In Progress,C-2024-10397,2024,Metro-North Engineering,V20145,E132,2026-11-24,-32,On track,True,23,False,12.4,1084,E132,contract PM,0,,2026-10-23
+EV-2024-10275-02,Not Started,C-2024-10275,2024,Construction & Development,V20284,E107,2027-01-27,-96,On track,False,0,False,12.3,1085,E107,contract PM,0,,2026-10-23
+EV-2024-10653-02,Not Started,C-2024-10653,2024,NYCT Infrastructure,V20156,E115,2026-12-23,-61,On track,False,0,False,12.2,1086,E115,contract PM,0,,2026-10-23
+EV-2024-11108-03,Not Started,C-2024-11108,2024,NYCT Infrastructure,V20093,E112,2027-03-06,-134,On track,False,0,False,12.0,1087,E112,contract PM,0,,2026-10-23
+EV-2024-10111-02,Not Started,C-2024-10111,2024,Metro-North Engineering,V20132,E132,2027-01-26,-95,On track,False,0,False,11.7,1088,E132,contract PM,0,,2026-10-23
+EV-2024-11185-03,Not Started,C-2024-11185,2024,Construction & Development,V20028,E106,2027-03-13,-141,On track,False,0,False,11.5,1089,E106,contract PM,0,,2026-10-23
+EV-2024-10092-03,Not Started,C-2024-10092,2024,Bridges & Tunnels,V20162,E136,2027-02-17,-117,On track,False,0,False,11.3,1090,E136,contract PM,0,,2026-10-23
+EV-2024-10998-02,Not Started,C-2024-10998,2024,Bridges & Tunnels,V20151,E139,2026-12-17,-55,On track,False,0,False,11.2,1091,E139,contract PM,0,,2026-10-23
+EV-2024-10487-02,Not Started,C-2024-10487,2024,Construction & Development,V20244,E106,2026-12-03,-41,On track,False,0,False,10.0,1092,E106,contract PM,0,,2026-10-23
+EV-2024-11062-02,Not Started,C-2024-11062,2024,NYCT Infrastructure,V20007,E115,2026-11-11,-19,On track,False,11,False,7.5,1093,E115,contract PM,0,,2026-10-23

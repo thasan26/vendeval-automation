@@ -1,0 +1,1575 @@
+source,record_ref,field,issue,action,original_value
+access,EV-2022-10293-02,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,0.0
+access,EV-2023-10295-03,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,0.0
+access,EV-2022-10406-03,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,9.0
+access,EV-2023-10418-02,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,6.0
+access,EV-2024-10430-02,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,0.0
+access,EV-2023-10500-02,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,9.0
+access,EV-2024-10517-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,0.0
+access,EV-2023-10564-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,6.0
+access,EV-2024-10590-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,6.0
+access,EV-2023-10707-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,6.0
+access,EV-2023-10754-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,0.0
+access,EV-2023-10830-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,6.0
+access,EV-2023-10857-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,9.0
+access,EV-2023-10952-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,9.0
+access,EV-2023-10983-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,6.0
+access,EV-2022-11004-02,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,0.0
+access,EV-2022-11112-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,6.0
+access,EV-2024-11134-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,9.0
+access,EV-2024-11201-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,9.0
+access,EV-2023-11238-01,rating_safety,rating outside 1-5 scale,set to null; flagged for PM,0.0
+excel,row 3,Vendor,vendor name contract_assisted (score 1.0),matched,Union Electric Group
+excel,row 4,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 5,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 8,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 9,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 10,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 12,Status,non-standard status text,mapped to 'Requested',PENDING PM
+excel,row 13,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 14,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 15,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 18,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 19,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 20,Status,non-standard status text,mapped to 'Requested',REQUESTED 
+excel,row 20,Vendor,vendor name contract_assisted (score 1.0),matched,Cornerstone Infrastructure 
+excel,row 22,Vendor,vendor name fuzzy (score 0.952),matched,Meridian Technoolgies Co.
+excel,row 23,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 24,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 26,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 27,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 27,Vendor,vendor name contract_assisted (score 1.0),matched,Allied Mechanical Group
+excel,row 28,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 29,Vendor,vendor name contract_assisted (score 1.0),matched,Vanguard Technologies Group
+excel,row 30,Vendor,vendor name fuzzy_contract_assisted (score 0.941),matched,The Sterling Electirc & Sons Inc.
+excel,row 31,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 32,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 33,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 36,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 37,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 38,Vendor,vendor name fuzzy_contract_assisted (score 0.938),matched,Liberty Elcetric LLC  
+excel,row 39,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 40,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 42,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 43,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 44,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 45,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 46,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 47,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 47,Vendor,vendor name fuzzy (score 0.944),matched,Gotham Cnotracting Ltd.
+excel,row 48,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 49,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 50,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 51,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 52,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 53,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 54,Vendor,vendor name fuzzy (score 0.95),matched,Cornerstone Elecrtic Group LLC
+excel,row 55,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 56,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 58,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 59,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 61,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 62,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 63,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 64,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 65,Vendor,vendor name contract_assisted (score 1.0),matched,Paragon Rail Services
+excel,row 66,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 67,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 68,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 69,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 70,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 71,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 72,Status,non-standard status text,mapped to 'In Progress',IN PROGRESS
+excel,row 73,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 74,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 75,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 76,Status,non-standard status text,mapped to 'Requested',PENDING PM
+excel,row 77,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 78,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 79,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 80,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 81,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 82,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 83,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 84,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 89,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 90,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 91,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 92,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 93,Status,non-standard status text,mapped to 'Approved',COMPLETE
+excel,row 96,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 97,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 97,Vendor,vendor name contract_assisted (score 1.0),matched,Sterling Supply
+excel,row 99,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 100,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 101,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 101,Vendor,vendor name fuzzy_contract_assisted (score 0.952),matched,Keystone Construciton & Sons Inc.
+excel,row 102,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 103,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 105,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 106,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 107,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 108,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 109,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 110,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 111,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 113,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 114,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 117,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 118,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 119,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 120,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 121,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 122,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 123,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 124,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 125,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 126,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 127,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 128,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 129,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 131,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 132,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 132,Vendor,vendor name fuzzy (score 0.941),matched,Ironline Buliders Ltd.
+excel,row 133,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 134,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 135,Status,non-standard status text,mapped to 'Approved',FINAL - APPROVED
+excel,row 136,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 139,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 143,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 144,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 144,Vendor,vendor name contract_assisted (score 1.0),matched,Union Infrastructure  
+excel,row 145,Status,non-standard status text,mapped to 'Approved',APPROVED
+excel,row 146,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 147,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 148,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 150,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 151,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 152,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 153,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 154,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 155,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 156,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 158,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 159,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 160,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 161,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 163,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 163,Vendor,vendor name contract_assisted (score 1.0),matched,Granite Construction & Sons 
+excel,row 165,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 167,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 168,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 168,Vendor,vendor name contract_assisted (score 1.0),matched,Statewide Engineering
+excel,row 169,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 170,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 171,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 172,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 173,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 174,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 176,Vendor,vendor name fuzzy (score 0.95),matched,The Atlas Infrastrcuture Group LLC
+excel,row 177,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 178,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 179,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 181,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 182,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 184,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 185,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 186,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 187,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 188,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 189,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 190,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 190,Vendor,vendor name fuzzy_contract_assisted (score 0.941),matched,Sterling Buidlers & Sons Inc.
+excel,row 193,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 194,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 195,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 196,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 198,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 199,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 201,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 202,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 203,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 205,Status,non-standard status text,mapped to 'Requested',PENDING PM
+excel,row 209,Status,non-standard status text,mapped to 'In Progress',IN PROGRESS
+excel,row 210,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 211,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 212,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 213,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 213,Vendor,vendor name fuzzy (score 0.95),matched,Cornerstone Buildres Associates
+excel,row 214,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 216,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 217,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 218,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 219,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 220,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 222,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 223,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 224,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 225,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 226,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 227,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 228,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 229,Vendor,vendor name fuzzy (score 0.95),matched,Crescent Trcak Works Co.  
+excel,row 230,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 232,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 233,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 234,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 236,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 237,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 238,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 239,Vendor,vendor name contract_assisted (score 1.0),matched,Beacon Technologies
+excel,row 240,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 241,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 242,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 243,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 244,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 245,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 246,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 247,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 247,Vendor,vendor name fuzzy_contract_assisted (score 0.95),matched,Harbor Enviromnental Ltd. 
+excel,row 248,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 249,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 250,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 251,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 252,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 253,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 255,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 256,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 257,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 258,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 260,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 263,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 264,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 265,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 266,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 267,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 268,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 270,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 271,Vendor,vendor name contract_assisted (score 1.0),matched,Empire Rail Services Group
+excel,row 272,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 273,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 274,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 275,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 276,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 276,Vendor,vendor name contract_assisted (score 1.0),matched,Patriot Contracting
+excel,row 277,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 278,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 279,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 280,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 282,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 283,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 284,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 285,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 286,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 287,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 288,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 288,Vendor,vendor name fuzzy (score 0.933),matched,Ironline Suplpy LLC
+excel,row 290,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 291,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 292,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 293,Vendor,vendor name fuzzy (score 0.947),matched,The Union Environmenatl Ltd.
+excel,row 294,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 295,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 296,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 297,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 298,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 299,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 299,Vendor,vendor name contract_assisted (score 1.0),matched,Cornerstone Infrastructure
+excel,row 300,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 301,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 302,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 303,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 303,Vendor,vendor name fuzzy_contract_assisted (score 0.952),matched,Statewide Engineeirng Group LLC
+excel,row 305,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 307,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 308,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 309,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 310,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 311,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 312,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 313,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 314,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 315,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 316,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 317,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 318,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 320,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 321,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 322,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 323,Status,non-standard status text,mapped to 'Requested',SENT TO PM
+excel,row 324,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 325,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 326,Vendor,vendor name contract_assisted (score 1.0),matched,Empire Rail Services & Sons
+excel,row 327,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 327,Vendor,vendor name fuzzy_contract_assisted (score 0.95),matched,Harbor Enviromnental Ltd.
+excel,row 328,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 329,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 329,Vendor,vendor name fuzzy (score 0.96),matched,The Queensboro Sginal Systems LLC
+excel,row 331,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 333,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 334,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 335,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 336,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 337,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 338,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 339,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 340,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 341,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 342,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 343,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 344,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 345,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 346,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 347,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 348,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 349,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 350,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 351,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 352,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 353,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 354,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 356,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 358,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 359,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 360,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 361,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 363,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 365,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 367,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 368,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 369,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 370,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 372,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 372,Vendor,vendor name fuzzy (score 0.95),matched,Cornerstone Biulders Associates
+excel,row 373,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 374,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 376,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 377,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 378,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 379,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 380,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 381,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 382,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 383,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 384,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 385,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 386,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 387,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 388,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 389,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 390,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 391,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 392,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 393,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 396,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 397,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 398,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 400,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 401,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 402,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 403,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 404,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 406,Vendor,vendor name contract_assisted (score 1.0),matched,Hudson Technologies
+excel,row 407,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 408,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 409,Status,non-standard status text,mapped to 'Requested',PENDING PM
+excel,row 411,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 412,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 413,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 414,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 415,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 416,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 417,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 418,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 419,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 420,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 421,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 423,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 424,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 426,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 428,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 428,Vendor,vendor name fuzzy_contract_assisted (score 0.938),matched,Paragon Buidlers Inc.
+excel,row 429,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 430,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 431,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 432,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 435,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 436,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 437,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 437,Vendor,vendor name fuzzy (score 0.952),matched,Allied Siganl Systems Group LLC
+excel,row 438,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 438,Vendor,vendor name contract_assisted (score 1.0),matched,Beacon Technologies
+excel,row 439,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 440,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 441,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 442,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 443,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 444,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 445,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 446,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 448,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 449,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 450,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 451,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 452,Vendor,vendor name contract_assisted (score 1.0),matched,Liberty Construction Group
+excel,row 453,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 454,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 455,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 456,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 457,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 458,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 459,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 460,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 461,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 462,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 463,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 466,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 469,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 469,Vendor,vendor name fuzzy_contract_assisted (score 0.938),matched,Horizon Builedrs Associates
+excel,row 470,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 471,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 472,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 473,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 474,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 475,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 476,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 477,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 478,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 479,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 480,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 481,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 482,Status,non-standard status text,mapped to 'Approved',COMPLETE
+excel,row 482,Vendor,vendor name contract_assisted (score 1.0),matched,Summit Consulting 
+excel,row 484,Vendor,vendor name fuzzy (score 0.952),matched,Meridian Tehcnologies Co.
+excel,row 485,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 487,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 487,Vendor,vendor name fuzzy_contract_assisted (score 0.947),matched,Hudson Tecnhologies Associates
+excel,row 488,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 490,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 491,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 493,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 494,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 495,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 496,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 497,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 498,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 498,Vendor,vendor name fuzzy (score 0.944),matched,Allied Trcak Works Group LLC
+excel,row 499,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 500,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 501,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 502,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 504,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 506,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 507,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 508,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 509,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 510,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 511,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 512,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 513,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 514,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 516,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 518,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 520,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 522,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 523,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 524,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 525,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 526,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 527,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 529,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 532,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 534,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 535,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 536,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 537,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 538,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 539,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 541,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 546,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 547,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 548,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 549,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 550,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 551,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 552,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 555,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 556,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 557,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 559,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 560,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 561,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 562,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 564,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 565,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 568,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 569,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 570,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 571,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 572,Status,non-standard status text,mapped to 'Requested',REQUESTED
+excel,row 574,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 575,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 576,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 577,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 578,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 579,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 581,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 582,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 583,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 584,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 586,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 587,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 588,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 590,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 590,Vendor,vendor name fuzzy_contract_assisted (score 0.941),matched,Summit Cnosulting LLC
+excel,row 591,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 592,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 593,Vendor,vendor name fuzzy (score 0.957),matched,Cornerstone Tarck Works Associates  
+excel,row 594,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 595,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 595,Vendor,vendor name fuzzy_contract_assisted (score 0.947),matched,Queensboro Elcetric Inc.  
+excel,row 597,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 598,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 598,Vendor,vendor name contract_assisted (score 1.0),matched,Summit Consulting
+excel,row 600,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 601,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 603,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 603,Vendor,vendor name contract_assisted (score 1.0),matched,Meridian Contracting
+excel,row 604,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 607,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 610,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 611,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 613,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 614,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 616,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 617,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 618,Vendor,vendor name fuzzy (score 0.952),matched,Tri-State Trcak Works Corp.
+excel,row 621,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 622,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 623,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 624,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 625,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 626,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 627,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 628,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 631,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 632,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 632,Vendor,vendor name fuzzy (score 0.947),matched,Granite Contrcating & Sons Inc.
+excel,row 634,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 635,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 636,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 637,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 638,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 639,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 640,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 641,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 642,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 644,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 645,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 646,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 648,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 650,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 651,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 653,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 655,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 656,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 657,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 659,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 660,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 661,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 662,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 662,Vendor,vendor name contract_assisted (score 1.0),matched,Keystone Consulting
+excel,row 663,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 664,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 665,Status,non-standard status text,mapped to 'Requested',REQUESTED
+excel,row 667,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 668,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 669,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 670,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 671,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 672,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 673,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 674,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 675,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 677,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 678,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 679,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 682,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 684,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 686,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 687,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 689,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 690,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 691,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 692,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 693,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 694,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 696,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 697,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 698,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 699,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 701,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 702,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 705,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 706,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 707,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 709,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 712,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 713,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 714,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 714,Vendor,vendor name fuzzy (score 0.944),matched,Bridgeway Buildres Corp.
+excel,row 715,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 716,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 717,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 718,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 720,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 723,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 724,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 725,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 726,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 727,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 728,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 729,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 731,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 732,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 733,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 733,Vendor,vendor name fuzzy_contract_assisted (score 0.952),matched,Vanguard Tcehnologies Group LLC
+excel,row 738,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 740,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 741,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 742,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 743,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 744,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 745,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 745,Vendor,vendor name contract_assisted (score 1.0),matched,Bridgeway Infrastructure
+excel,row 746,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 747,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 748,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 750,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 752,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 753,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 754,Vendor,vendor name fuzzy_contract_assisted (score 0.944),matched,Northeast Biulders Group LLC
+excel,row 755,Vendor,vendor name contract_assisted (score 1.0),matched,Bridgeway Infrastructure
+excel,row 757,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 758,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 760,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 761,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 762,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 763,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 767,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 768,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 769,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 770,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 771,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 772,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 773,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 774,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 776,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 778,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 780,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 783,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 787,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 788,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 789,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 790,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 791,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 792,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 793,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 794,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 795,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 796,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 797,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 798,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 799,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 801,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 803,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 803,Vendor,vendor name fuzzy_contract_assisted (score 0.947),matched,Hudson Construciton Associates
+excel,row 804,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 805,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 806,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 807,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 808,Vendor,vendor name fuzzy_contract_assisted (score 0.95),matched,Keystone Enigneering Group LLC  
+excel,row 810,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 811,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 812,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 812,Vendor,vendor name fuzzy (score 0.95),matched,Northeast Mechaniacl Co.
+excel,row 813,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 814,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 815,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 816,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 816,Vendor,vendor name fuzzy (score 0.941),matched,Harbor Mechaincal Associates  
+excel,row 817,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 818,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 819,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 820,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 821,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 822,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 823,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 824,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 825,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 827,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 828,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 829,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 830,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 831,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 833,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 834,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 835,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 836,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 837,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 838,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 839,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 840,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 841,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 842,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 843,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 844,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 846,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 847,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 849,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 850,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 851,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 852,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 853,Vendor,vendor name fuzzy_contract_assisted (score 0.938),matched,Liberty Builedrs Ltd.
+excel,row 854,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 855,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 856,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 857,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 859,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 861,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 862,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 863,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 864,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 864,Vendor,vendor name contract_assisted (score 1.0),matched,Pinnacle Infrastructure
+excel,row 865,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 866,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 866,Vendor,vendor name contract_assisted (score 1.0),matched,Granite Construction & Sons
+excel,row 868,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 869,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 869,Vendor,vendor name fuzzy_contract_assisted (score 0.947),matched,Pinnacle Consulitng Corp.
+excel,row 870,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 871,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 872,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 873,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 874,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 875,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 876,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 877,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 879,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 880,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 881,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 882,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 884,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 885,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 886,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 887,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 888,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 889,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 890,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 890,Vendor,vendor name fuzzy (score 0.929),matched,Horizon Spuply Associates
+excel,row 891,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 893,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 895,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 897,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 898,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 899,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 900,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 902,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 903,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 904,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 905,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 906,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 907,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 909,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 910,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 912,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 913,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 913,Vendor,vendor name fuzzy_contract_assisted (score 0.955),matched,The Continental Mechnaical Corp.
+excel,row 915,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 916,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 917,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 918,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 919,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 919,Vendor,vendor name fuzzy (score 0.96),matched,Queensboro Infratsructure Group LLC
+excel,row 921,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 924,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 925,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 927,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 928,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 930,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 931,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 932,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 933,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 933,Vendor,vendor name contract_assisted (score 1.0),matched,Sterling Supply
+excel,row 934,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 935,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 936,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 937,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 939,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 940,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 943,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 944,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 945,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 947,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 948,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 949,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 950,Status,non-standard status text,mapped to 'In Progress',PM WORKING
+excel,row 951,Vendor,vendor name fuzzy (score 0.947),matched,Ironline Mechnaical Corp.
+excel,row 952,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 954,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 956,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 957,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 958,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 959,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 960,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 960,Vendor,vendor name fuzzy_contract_assisted (score 0.947),matched,Pinnacle Consulitng Corp.
+excel,row 961,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 962,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 963,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 964,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 967,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 968,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 969,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 971,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 972,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 973,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 974,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 976,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 977,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 981,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 982,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 983,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 986,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 987,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 991,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 991,Vendor,vendor name contract_assisted (score 1.0),matched,Union Engineering
+excel,row 993,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 994,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 994,Vendor,vendor name fuzzy (score 0.941),matched,Atlas Contractnig Ltd.
+excel,row 996,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 998,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1000,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1001,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1002,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1002,Vendor,vendor name contract_assisted (score 1.0),matched,Patriot Contracting
+excel,row 1004,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 1006,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1007,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 1009,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1010,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1011,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1012,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1014,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1016,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1017,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1018,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1020,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1021,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1022,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1023,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1025,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1025,Vendor,vendor name contract_assisted (score 1.0),matched,Patriot Contracting & Sons  
+excel,row 1026,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1026,Vendor,vendor name fuzzy (score 0.95),matched,Paragon Cosntruction Co.
+excel,row 1027,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1029,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1030,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1031,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1032,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1035,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1036,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 1037,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1038,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1039,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 1040,Vendor,vendor name fuzzy (score 0.933),matched,Hudson Builedrs LLC
+excel,row 1042,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1043,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1044,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1045,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1047,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 1048,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1049,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1051,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 1053,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 1053,Vendor,vendor name contract_assisted (score 1.0),matched,Hudson Construction
+excel,row 1055,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1056,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1059,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1060,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1060,Vendor,vendor name contract_assisted (score 1.0),matched,Vanguard Technologies
+excel,row 1062,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1064,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1064,Vendor,vendor name contract_assisted (score 1.0),matched,Sterling Data Systems
+excel,row 1065,Status,non-standard status text,mapped to 'Not Started',NOT STARTED
+excel,row 1066,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1067,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1068,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1069,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1070,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1071,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1073,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1074,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 1075,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1076,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1076,Vendor,vendor name contract_assisted (score 1.0),matched,Beacon Environmental
+excel,row 1078,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1079,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1080,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1082,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1083,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1085,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 1086,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1087,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1088,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1089,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 1090,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1091,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1093,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1094,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1095,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1096,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1097,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1098,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1099,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 1100,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1101,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1103,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1104,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1105,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1105,Vendor,vendor name fuzzy (score 0.95),matched,Atlas Infrastrcuture Group LLC
+excel,row 1106,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1107,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1108,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1109,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1110,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1110,Vendor,vendor name contract_assisted (score 1.0),matched,Granite Construction
+excel,row 1112,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1113,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1115,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1116,Status,non-standard status text,mapped to 'Submitted',SUBMITTED
+excel,row 1117,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1117,Vendor,vendor name contract_assisted (score 1.0),matched,Riverside Environmental
+excel,row 1118,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1119,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1120,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1121,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1122,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1123,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1124,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1125,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1127,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1128,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1129,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1130,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1133,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1134,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 1137,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 1139,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1140,Vendor,vendor name fuzzy_contract_assisted (score 0.95),matched,Granite Consturction Inc.
+excel,row 1141,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1142,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1142,Vendor,vendor name contract_assisted (score 1.0),matched,Interboro Mechanical Group
+excel,row 1143,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1144,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1145,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1148,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1150,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1152,Contract # / Period End,missing or unparseable key,row quarantined,nan
+excel,row 1153,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1155,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1156,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1157,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1157,Vendor,vendor name contract_assisted (score 1.0),matched,Harbor Environmental
+excel,row 1158,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1158,Vendor,vendor name fuzzy (score 0.95),matched,Paragon Contsruction Co.
+excel,row 1159,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1160,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1161,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 1162,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1163,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1165,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1168,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1169,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1170,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1172,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1174,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1175,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1176,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1179,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1180,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1181,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1182,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1183,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1184,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1185,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 1186,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1188,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1188,Vendor,vendor name contract_assisted (score 1.0),matched,Beacon Environmental
+excel,row 1189,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1190,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1191,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1193,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1194,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 1195,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1196,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1197,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1198,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 1199,Status,non-standard status text,mapped to 'Approved',COMPLETE
+excel,row 1200,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1201,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1203,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1205,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1207,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1208,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1209,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1211,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1213,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 1214,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1216,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1217,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1218,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1219,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1221,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1222,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1223,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1224,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1225,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 1226,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1227,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1229,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1230,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1232,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1233,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1235,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 1236,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1237,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1240,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1242,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1243,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1244,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1245,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1246,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1247,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1248,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1249,Status,non-standard status text,mapped to 'Requested',requested 
+excel,row 1250,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1251,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 1252,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1253,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1254,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1255,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1256,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1259,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1260,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1261,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1262,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1265,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1268,Status,non-standard status text,mapped to 'Not Started',N/A - not sent
+excel,row 1269,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1270,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1270,Vendor,vendor name fuzzy_contract_assisted (score 0.938),matched,Horizon Builedrs Associates
+excel,row 1271,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 1272,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1273,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 1274,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 1275,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 1276,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1276,Vendor,vendor name fuzzy (score 0.933),matched,Allied Elecrtic Associates
+excel,row 1277,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1278,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1280,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1281,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1282,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1283,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1284,Status,non-standard status text,mapped to 'In Progress',In progress
+excel,row 1286,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1287,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1288,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1289,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1290,Vendor,vendor name fuzzy (score 0.929),matched,Horizon Suplpy Associates
+excel,row 1291,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1291,Vendor,vendor name contract_assisted (score 1.0),matched,Paragon Infrastructure
+excel,row 1292,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1293,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1294,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1295,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1296,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1298,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1300,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1301,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1302,Status,non-standard status text,mapped to 'Not Started',not started
+excel,row 1304,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1305,Status,non-standard status text,mapped to 'In Progress',WIP
+excel,row 1306,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1307,Status,non-standard status text,mapped to 'Submitted',submitted - pending review
+excel,row 1308,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1309,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1310,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1312,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1313,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1313,Vendor,vendor name contract_assisted (score 1.0),matched,Riverside Environmental
+excel,row 1314,Status,non-standard status text,mapped to 'In Progress',PM working
+excel,row 1315,Status,non-standard status text,mapped to 'Submitted',Recv'd
+excel,row 1316,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1317,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1318,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1319,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1321,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 1322,Status,non-standard status text,mapped to 'Not Started',Not started
+excel,row 1322,Vendor,vendor name contract_assisted (score 1.0),matched,Empire Rail Services Group
+excel,row 1323,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1325,Status,non-standard status text,mapped to 'Approved',Final - approved
+excel,row 1326,Status,non-standard status text,mapped to 'Requested',Pending PM
+excel,row 1327,Status,non-standard status text,mapped to 'Approved',DONE
+excel,row 1329,Status,non-standard status text,mapped to 'In Progress',in-progress
+excel,row 1331,Status,non-standard status text,mapped to 'Requested',sent to PM
+excel,row 1331,Vendor,vendor name contract_assisted (score 1.0),matched,Empire Rail Services Group
+excel,row 1332,Status,non-standard status text,mapped to 'Approved',complete
+excel,row 781,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 992,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1268,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1065,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 380,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1257,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 980,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 598,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1313,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 665,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 763,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1256,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1314,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1012,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1138,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 657,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1199,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 209,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 613,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1299,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1222,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 969,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 735,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 844,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1009,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 305,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1249,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 681,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 281,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 906,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1184,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1123,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 514,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1265,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 952,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 960,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1034,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 409,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 975,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 784,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1038,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 299,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 737,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 777,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 907,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 933,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 188,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 729,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1188,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1185,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 622,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1255,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 804,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 577,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1167,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1141,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 480,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1156,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1187,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 236,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1081,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1108,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1272,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1086,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 866,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1122,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1233,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 910,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1088,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 963,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1085,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 165,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 510,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1203,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1003,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 237,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1121,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 588,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 765,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 744,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 327,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1321,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 932,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1116,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 1305,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 880,*,duplicate of another row in same source,dropped (kept most recent),
+excel,row 949,*,duplicate of another row in same source,dropped (kept most recent),
+merge,C-2023-10249|2026-10-24,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2023-11155|2026-07-28,status,"sources disagree: excel=In Progress, access=Requested",kept 'In Progress' from excel (most recent update),
+merge,C-2022-10424|2026-07-31,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10441|2026-06-25,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10937|2026-07-11,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10425|2026-08-26,status,"sources disagree: archer=Submitted, excel=Submitted, access=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2023-10219|2026-06-21,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-11145|2026-07-19,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2023-10423|2026-05-01,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10887|2026-06-21,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10486|2026-07-28,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2024-10620|2026-06-15,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2024-10190|2026-02-08,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10294|2026-04-04,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10337|2026-01-19,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10748|2026-04-29,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2024-10417|2026-03-19,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10785|2026-03-18,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10356|2026-05-03,status,"sources disagree: archer=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2024-10461|2026-02-13,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10781|2025-12-02,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10841|2026-04-22,status,"sources disagree: archer=In Progress, access=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2024-10569|2025-12-04,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10680|2026-04-08,status,"sources disagree: access=Submitted, excel=In Progress",kept 'Submitted' from access (most recent update),
+merge,C-2024-10065|2025-12-31,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10120|2025-12-04,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10585|2026-02-24,status,"sources disagree: excel=Submitted, access=In Progress",kept 'Submitted' from excel (most recent update),
+merge,C-2022-10439|2026-01-27,status,"sources disagree: archer=In Progress, excel=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10891|2026-02-23,status,"sources disagree: archer=In Progress, access=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-10223|2025-10-27,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10591|2025-10-26,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10236|2025-12-21,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10925|2026-01-06,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-11172|2025-11-14,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-11192|2026-01-09,status,"sources disagree: archer=In Progress, access=Requested, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2024-10743|2025-09-14,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10149|2025-12-04,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10833|2025-09-08,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10869|2025-12-15,status,"sources disagree: archer=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2024-10606|2025-11-04,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10509|2025-10-10,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10288|2025-09-04,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10873|2025-09-14,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11082|2025-10-25,status,"sources disagree: archer=In Progress, access=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2024-10195|2025-09-04,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-11244|2025-10-28,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10913|2025-12-02,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10697|2025-10-02,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11070|2025-10-27,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2024-11248|2025-07-05,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10866|2025-09-14,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-11086|2025-11-06,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-11072|2025-08-22,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10516|2025-08-24,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10838|2025-08-13,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10813|2025-06-08,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-11074|2025-08-19,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10686|2025-08-28,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10864|2025-06-01,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10887|2025-06-23,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10668|2025-06-28,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11101|2025-09-27,status,"sources disagree: access=Submitted, excel=In Progress",kept 'Submitted' from access (most recent update),
+merge,C-2024-10442|2025-07-27,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-11097|2025-08-14,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11292|2025-05-09,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10978|2025-08-31,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10678|2025-07-11,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2024-10980|2025-05-21,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10588|2025-05-24,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10294|2025-04-06,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10874|2025-05-13,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11237|2025-07-09,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10084|2025-08-03,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2023-10853|2025-06-02,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10431|2025-04-29,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-10348|2025-08-28,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2024-10658|2025-04-23,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10382|2025-04-27,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10988|2025-04-30,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10829|2025-06-13,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2022-10695|2025-05-22,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-11060|2025-07-19,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10418|2025-06-08,status,"sources disagree: excel=Submitted, access=In Progress",kept 'Submitted' from excel (most recent update),
+merge,C-2024-10779|2025-03-24,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-11136|2025-05-09,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-11075|2025-07-06,status,"sources disagree: archer=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-10093|2025-03-21,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10431|2025-04-28,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10030|2025-06-02,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2022-10615|2025-04-19,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10253|2025-04-20,status,"sources disagree: excel=Submitted, access=In Progress",kept 'Submitted' from excel (most recent update),
+merge,C-2024-10907|2025-03-09,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10098|2025-06-27,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2023-11068|2025-05-30,status,"sources disagree: archer=Submitted, access=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2024-11198|2025-02-14,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10674|2025-02-02,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10746|2025-05-14,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10884|2025-03-26,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11217|2025-05-06,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10847|2025-04-15,status,"sources disagree: access=Submitted, excel=In Progress",kept 'Submitted' from access (most recent update),
+merge,C-2023-10614|2025-03-02,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10855|2025-03-22,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-10891|2025-02-25,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10656|2025-04-19,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10251|2025-05-03,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10043|2025-04-08,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10824|2025-04-29,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10324|2025-02-07,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10596|2025-03-18,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10430|2025-02-28,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10325|2025-02-02,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10667|2025-03-15,status,"sources disagree: access=Submitted, excel=In Progress",kept 'Submitted' from access (most recent update),
+merge,C-2024-10057|2025-01-26,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-11173|2025-02-07,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2024-10195|2025-03-06,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10034|2024-12-15,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10958|2025-01-15,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10931|2025-03-20,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10949|2024-12-28,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10489|2025-04-16,status,"sources disagree: archer=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2024-11235|2025-02-20,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10750|2025-02-21,status,"sources disagree: access=Submitted, excel=In Progress",kept 'Submitted' from access (most recent update),
+merge,C-2024-10413|2025-02-27,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10329|2025-02-07,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10139|2025-02-22,status,"sources disagree: access=Submitted, excel=In Progress",kept 'Submitted' from access (most recent update),
+merge,C-2022-11112|2025-03-06,status,"sources disagree: archer=In Progress, excel=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2024-11202|2025-04-24,status,"sources disagree: archer=In Progress, access=Requested, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-11205|2025-04-25,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10580|2025-02-11,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10360|2024-12-01,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10483|2025-01-25,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10458|2025-02-17,status,"sources disagree: archer=In Progress, access=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2024-10387|2025-02-22,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10468|2025-02-01,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10814|2024-11-25,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10295|2024-12-19,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11183|2024-11-30,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10039|2025-01-14,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10709|2024-12-28,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10308|2024-12-20,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-11122|2025-01-09,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-11131|2025-01-16,status,"sources disagree: archer=Submitted, access=In Progress, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2023-10323|2024-11-17,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10511|2024-11-17,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10141|2024-11-17,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10127|2024-11-06,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10205|2024-11-21,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11068|2024-11-28,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10406|2024-10-29,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10313|2024-11-11,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10534|2024-10-14,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10546|2025-01-05,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11042|2024-12-21,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10801|2024-12-02,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10844|2025-01-03,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2023-11276|2024-11-03,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10340|2024-11-18,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10650|2024-11-21,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2024-10876|2024-10-15,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10751|2024-10-14,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-11084|2024-09-23,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11067|2024-09-14,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-10694|2024-10-09,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2024-10359|2024-11-12,status,"sources disagree: archer=In Progress, access=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-10499|2024-08-05,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10096|2024-08-23,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11028|2024-07-31,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10770|2024-08-14,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11259|2024-07-02,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10477|2024-10-04,status,"sources disagree: archer=In Progress, excel=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-10995|2024-08-09,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10076|2024-06-20,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10707|2024-08-10,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11073|2024-08-08,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10766|2024-09-24,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2023-10877|2024-10-19,status,"sources disagree: archer=Submitted, excel=Submitted, access=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-11229|2024-07-24,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10902|2024-05-14,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10309|2024-09-06,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10689|2024-09-23,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2023-10813|2024-06-08,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10044|2024-05-20,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10291|2024-05-31,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11169|2024-08-04,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11225|2024-08-05,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2023-11053|2024-07-25,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10708|2024-07-29,status,"sources disagree: archer=Submitted, access=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-10523|2024-05-05,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10971|2024-05-16,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10412|2024-04-28,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11247|2024-05-15,status,"sources disagree: archer=Submitted, excel=Submitted, access=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-10693|2024-06-16,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2022-11193|2024-05-16,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-11277|2024-05-21,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10024|2024-06-10,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10489|2024-04-16,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10957|2024-06-04,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10778|2024-05-11,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10202|2024-03-28,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10254|2024-07-16,status,"sources disagree: archer=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-10429|2024-06-10,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10185|2024-04-24,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10684|2024-05-11,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10090|2024-05-03,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10492|2024-04-18,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10696|2024-05-02,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10540|2024-05-10,status,"sources disagree: archer=In Progress, excel=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-10824|2024-05-01,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10721|2024-03-01,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10553|2024-05-05,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10900|2024-02-17,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-11258|2024-04-25,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10367|2024-05-28,status,"sources disagree: archer=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-10067|2024-02-12,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-10599|2024-02-20,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10617|2024-03-12,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10758|2024-03-24,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10087|2024-04-13,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10245|2024-02-06,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10203|2024-02-14,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10209|2024-02-10,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10899|2024-03-06,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11275|2024-03-11,status,"sources disagree: archer=In Progress, excel=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2023-10840|2024-04-03,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2022-11147|2024-02-16,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10712|2023-12-01,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11091|2023-11-24,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10182|2023-10-31,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10180|2024-02-12,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2023-10825|2024-01-04,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11014|2024-01-17,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10300|2023-11-23,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10252|2024-01-17,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11221|2023-10-28,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10965|2024-02-15,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10702|2024-02-26,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-10923|2023-11-09,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10399|2023-12-01,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-10764|2024-01-01,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10964|2024-01-21,status,"sources disagree: archer=In Progress, access=Requested, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-11056|2023-12-24,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-11083|2023-11-30,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11216|2024-02-11,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10966|2023-09-01,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-10015|2023-08-17,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10752|2023-10-20,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10306|2023-12-28,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-10999|2023-09-05,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10302|2023-11-08,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-11032|2023-11-30,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10257|2023-12-25,status,"sources disagree: archer=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-11085|2023-08-31,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10033|2023-12-13,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11036|2023-11-04,status,"sources disagree: archer=In Progress, excel=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10827|2023-09-03,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10241|2023-10-23,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2023-10263|2023-08-19,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10770|2023-08-16,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10758|2023-09-24,status,"sources disagree: access=Submitted, excel=In Progress",kept 'Submitted' from access (most recent update),
+merge,C-2022-11082|2023-10-27,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10592|2023-07-26,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-11273|2023-09-25,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-11179|2023-09-28,status,"sources disagree: archer=Submitted, access=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-11151|2023-08-17,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10559|2023-08-19,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10145|2023-06-28,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-10074|2023-09-20,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10451|2023-07-16,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10373|2023-09-01,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10858|2023-10-07,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2022-10269|2023-08-02,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10050|2023-08-27,status,"sources disagree: archer=Submitted, excel=Submitted, access=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-10914|2023-07-26,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2023-10143|2023-09-03,status,"sources disagree: archer=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2023-10199|2023-08-12,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10883|2023-09-28,status,"sources disagree: archer=Submitted, access=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-10554|2023-08-16,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10130|2023-08-12,status,"sources disagree: access=In Progress, excel=Requested",kept 'In Progress' from access (most recent update),
+merge,C-2022-11295|2023-08-23,status,"sources disagree: archer=In Progress, excel=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-11254|2023-08-02,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10539|2023-09-23,status,"sources disagree: archer=In Progress, access=Requested, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10126|2023-06-26,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10059|2023-06-09,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10128|2023-07-27,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10513|2023-06-28,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10782|2023-05-12,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2023-10167|2023-07-27,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10780|2023-05-08,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10332|2023-06-12,status,"sources disagree: archer=In Progress, access=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10552|2023-06-23,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10075|2023-04-15,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10444|2023-04-03,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-11171|2023-03-15,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-11118|2023-04-30,status,"sources disagree: excel=Submitted, access=In Progress",kept 'Submitted' from excel (most recent update),
+merge,C-2022-11142|2023-05-21,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10655|2023-02-23,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10787|2023-05-09,status,"sources disagree: archer=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10891|2023-02-25,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11103|2023-04-28,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10277|2023-02-11,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10106|2023-03-07,status,"sources disagree: excel=Approved, access=Submitted",kept 'Approved' from excel (most recent update),
+merge,C-2022-10518|2023-03-07,status,"sources disagree: archer=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10445|2023-03-28,status,"sources disagree: excel=In Progress, access=Requested",kept 'In Progress' from excel (most recent update),
+merge,C-2022-11249|2023-01-04,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10523|2023-05-07,status,"sources disagree: excel=In Progress, access=Requested",kept 'In Progress' from excel (most recent update),
+merge,C-2022-10738|2023-04-05,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10378|2023-03-26,status,"sources disagree: archer=Approved, excel=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10125|2023-04-16,status,"sources disagree: archer=Submitted, excel=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-10463|2023-02-24,status,"sources disagree: archer=Approved, access=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-11271|2023-02-10,status,"sources disagree: access=Submitted, excel=In Progress",kept 'Submitted' from access (most recent update),
+merge,C-2022-10101|2023-03-26,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10843|2023-02-13,status,"sources disagree: archer=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10722|2023-01-28,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-11147|2023-02-16,status,"sources disagree: archer=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10682|2023-02-18,status,"sources disagree: archer=Approved, access=Submitted, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10628|2022-12-21,status,"sources disagree: archer=In Progress, access=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10924|2023-01-25,status,"sources disagree: archer=In Progress, access=Requested, excel=Requested",kept 'In Progress' from archer (most recent update),
+merge,C-2022-10089|2023-01-01,status,"sources disagree: archer=Submitted, access=In Progress",kept 'Submitted' from archer (most recent update),
+merge,C-2022-10183|2022-11-23,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10440|2022-08-11,status,"sources disagree: archer=Approved, access=Approved, excel=Submitted",kept 'Approved' from archer (most recent update),
+merge,C-2022-10508|2022-07-17,status,"sources disagree: access=Approved, excel=Submitted",kept 'Approved' from access (most recent update),
+merge,C-2022-10795|2022-07-16,status,"sources disagree: archer=In Progress, access=In Progress, excel=Requested",kept 'In Progress' from archer (most recent update),
+access,C-2022-10126,pm_id,contract has no PM,filled from Excel tracker,E148
+access,C-2022-10126,pm_id,contract has no PM,filled from Excel tracker,E148
+access,C-2022-10158,pm_id,contract has no PM,filled from Excel tracker,E112
+access,C-2022-10354,pm_id,contract has no PM,filled from Excel tracker,E140
+access,C-2022-10416,pm_id,contract has no PM,filled from Excel tracker,E146
+access,C-2022-10554,pm_id,contract has no PM,filled from Excel tracker,E145
+access,C-2022-10780,pm_id,contract has no PM,filled from Excel tracker,E138
+access,C-2022-10803,pm_id,contract has no PM,filled from Excel tracker,E123
+access,C-2022-10922,pm_id,contract has no PM,filled from Excel tracker,E147
+access,C-2022-11221,pm_id,contract has no PM,filled from Excel tracker,E136
+access,C-2022-11221,pm_id,contract has no PM,filled from Excel tracker,E136
+access,C-2023-10061,pm_id,contract has no PM,filled from Excel tracker,E136
+access,C-2023-10093,pm_id,contract has no PM,filled from Excel tracker,E147
+access,C-2023-10157,pm_id,contract has no PM,filled from Excel tracker,E156
+access,C-2023-10188,pm_id,contract has no PM,filled from Excel tracker,E107
+access,C-2023-10188,pm_id,contract has no PM,filled from Excel tracker,E107
+access,C-2023-10194,pm_id,contract has no PM,filled from Excel tracker,E114
+access,C-2023-10303,pm_id,contract has no PM,filled from Excel tracker,E155
+access,C-2023-10308,pm_id,contract has no PM,filled from Excel tracker,E152
+access,C-2023-10700,pm_id,contract has no PM,filled from Excel tracker,E145
+access,C-2023-10700,pm_id,contract has no PM,filled from Excel tracker,E145
+access,C-2023-10781,pm_id,contract has no PM,filled from Excel tracker,E139
+access,C-2023-10781,pm_id,contract has no PM,filled from Excel tracker,E139
+access,C-2023-10788,pm_id,contract has no PM,filled from Excel tracker,E132
+access,C-2023-10788,pm_id,contract has no PM,filled from Excel tracker,E132
+access,C-2023-11194,pm_id,contract has no PM,filled from Excel tracker,E138
+access,C-2023-11194,pm_id,contract has no PM,filled from Excel tracker,E138
+access,C-2024-10060,pm_id,contract has no PM,filled from Excel tracker,E115
+access,C-2024-10382,pm_id,contract has no PM,filled from Excel tracker,E113
+access,C-2024-10411,pm_id,contract has no PM,filled from Excel tracker,E140
+access,C-2024-10411,pm_id,contract has no PM,filled from Excel tracker,E140
+access,C-2024-10491,pm_id,contract has no PM,filled from Excel tracker,E123
+access,C-2024-10491,pm_id,contract has no PM,filled from Excel tracker,E123
+access,C-2024-10550,pm_id,contract has no PM,filled from Excel tracker,E128
+access,C-2024-10844,pm_id,contract has no PM,filled from Excel tracker,E148
+access,C-2024-10879,pm_id,contract has no PM,filled from Excel tracker,E146
+access,C-2024-11023,pm_id,contract has no PM,filled from Excel tracker,E154
+access,C-2024-11023,pm_id,contract has no PM,filled from Excel tracker,E154
+access,C-2024-11298,pm_id,contract has no PM,filled from Excel tracker,E132

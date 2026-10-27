@@ -1,0 +1,1395 @@
+notification_id,as_of,recipient_id,recipient_email,kind,eval_count,eval_ids,subject,body
+N20261023-0001,2026-10-23,E103,lgoldberg@mta-example.org,escalation_tier_2,1,EV-2023-10837-03,Escalation: 1 overdue evaluation(s) on your team,"Hi Luis,
+
+Escalation: 1 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10837-03 | Riverside Engineering Inc. | due 2026-07-26 | 89 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0002,2026-10-23,E117,acohen@mta-example.org,escalation_tier_2,6,EV-2023-10668-03;EV-2023-11225-03;EV-2024-11121-02;EV-2023-10234-03;EV-2024-10327-02;EV-2024-10491-02,Escalation: 6 overdue evaluation(s) on your team,"Hi Aisha,
+
+Escalation: 6 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10668-03 | Lexington Data Systems Inc. | due 2026-07-28 | 87 days overdue | VENDOR BIDDING NOW
+- EV-2023-11225-03 | Paragon Infrastructure Associates | due 2026-09-02 | 51 days overdue | VENDOR BIDDING NOW
+- EV-2024-11121-02 | Interboro Mechanical Group Llc | due 2026-08-30 | 54 days overdue | VENDOR BIDDING NOW
+- EV-2023-10234-03 | Summit Data Systems Corp. | due 2026-08-15 | 69 days overdue
+- EV-2024-10327-02 | Tri-State Signal Systems Inc. | due 2026-08-15 | 69 days overdue
+- EV-2024-10491-02 | Hudson Rail Services & Sons Inc. | due 2026-08-31 | 53 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0003,2026-10-23,E118,slopez@mta-example.org,escalation_tier_2,3,EV-2022-11240-04;EV-2024-10811-02;EV-2024-10371-02,Escalation: 3 overdue evaluation(s) on your team,"Hi Samuel,
+
+Escalation: 3 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2022-11240-04 | Allied Mechanical Group Llc | due 2026-07-28 | 87 days overdue
+- EV-2024-10811-02 | Lexington Electric Associates | due 2026-07-28 | 87 days overdue
+- EV-2024-10371-02 | Union Signal Systems Associates | due 2026-08-07 | 77 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0004,2026-10-23,E119,vokafor@mta-example.org,escalation_tier_2,1,EV-2024-10366-02,Escalation: 1 overdue evaluation(s) on your team,"Hi Victor,
+
+Escalation: 1 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10366-02 | Beacon Builders & Sons Inc. | due 2026-09-18 | 35 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0005,2026-10-23,E126,mjohnson@mta-example.org,escalation_tier_2,1,EV-2024-10935-02,Escalation: 1 overdue evaluation(s) on your team,"Hi Michael,
+
+Escalation: 1 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10935-02 | Granite Construction & Sons Inc. | due 2026-09-23 | 30 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0006,2026-10-23,E127,orahman@mta-example.org,escalation_tier_2,3,EV-2023-10901-03;EV-2024-10409-02;EV-2024-11145-02,Escalation: 3 overdue evaluation(s) on your team,"Hi Omar,
+
+Escalation: 3 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10901-03 | Meridian Data Systems Group Llc | due 2026-08-08 | 76 days overdue
+- EV-2024-10409-02 | Sterling Data Systems Corp. | due 2026-07-28 | 87 days overdue
+- EV-2024-11145-02 | Hudson Engineering Associates | due 2026-08-18 | 66 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0007,2026-10-23,E135,dthompson@mta-example.org,escalation_tier_2,4,EV-2024-10097-02;EV-2024-10364-02;EV-2024-10970-02;EV-2024-10838-02,Escalation: 4 overdue evaluation(s) on your team,"Hi Daniel,
+
+Escalation: 4 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10097-02 | Interboro Contracting LLC | due 2026-08-03 | 81 days overdue
+- EV-2024-10364-02 | Allied Engineering Llc | due 2026-07-26 | 89 days overdue
+- EV-2024-10970-02 | Eastern Technologies Group Llc | due 2026-08-19 | 65 days overdue
+- EV-2024-10838-02 | Union Engineering Corp. | due 2026-09-12 | 41 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0008,2026-10-23,E142,lali@mta-example.org,escalation_tier_2,2,EV-2023-11155-03;EV-2024-11116-02,Escalation: 2 overdue evaluation(s) on your team,"Hi Leila,
+
+Escalation: 2 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2023-11155-03 | Atlas Signal Systems Associates | due 2026-08-27 | 57 days overdue
+- EV-2024-11116-02 | Paragon Signal Systems & Sons Inc. | due 2026-08-25 | 59 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0009,2026-10-23,E143,msingh@mta-example.org,escalation_tier_2,1,EV-2024-10896-02,Escalation: 1 overdue evaluation(s) on your team,"Hi Maria,
+
+Escalation: 1 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10896-02 | Atlas Infrastructure Group LLC | due 2026-08-27 | 57 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0010,2026-10-23,E150,anguyen@mta-example.org,escalation_tier_2,2,EV-2022-10227-04;EV-2024-10486-02,Escalation: 2 overdue evaluation(s) on your team,"Hi Andre,
+
+Escalation: 2 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10227-04 | Vanguard Construction Group Llc | due 2026-07-30 | 85 days overdue
+- EV-2024-10486-02 | Keystone Rail Services Associates | due 2026-08-27 | 57 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0011,2026-10-23,E900,dcarter@mta-example.org,escalation_tier_2,223,EV-2022-10089-01;EV-2022-10241-01;EV-2023-10882-02;EV-2022-10053-01;EV-2023-10708-02;EV-2024-10750-01;EV-2023-11260-01;EV-2024-10867-01;EV-2024-10685-01;EV-2022-10742-01;EV-2022-10820-01;EV-2022-11277-03;EV-2022-11007-01;EV-2022-10391-01;EV-2022-11213-03;EV-2022-10481-02;EV-2022-10331-03;EV-2022-10010-01;EV-2022-11016-01;EV-2022-10892-03;EV-2022-10201-02;EV-2022-10113-01;EV-2022-10306-01;EV-2022-10306-02;EV-2022-10858-03;EV-2022-10739-01;EV-2022-10145-02;EV-2022-10473-01;EV-2022-10407-02;EV-2023-10904-01;EV-2022-11118-01;EV-2022-10256-01;EV-2022-10498-02;EV-2022-11147-03;EV-2022-10842-01;EV-2022-10490-02;EV-2022-10635-01;EV-2023-11227-01;EV-2022-10465-01;EV-2022-10996-01;EV-2022-11036-02;EV-2022-10125-01;EV-2022-11126-01;EV-2022-10196-02;EV-2022-11271-01;EV-2022-10129-01;EV-2022-11266-01;EV-2022-10050-01;EV-2022-10749-02;EV-2022-10232-02;EV-2023-10208-01;EV-2022-10695-04;EV-2023-10393-01;EV-2022-10279-02;EV-2022-10852-01;EV-2022-10321-02;EV-2022-10715-01;EV-2022-10949-01;EV-2022-10733-01;EV-2022-11089-03;EV-2023-10830-01;EV-2022-10553-01;EV-2022-10646-01;EV-2022-10274-01;EV-2023-10863-01;EV-2022-10930-02;EV-2023-10783-01;EV-2023-10528-01;EV-2023-10877-02;EV-2022-10227-02;EV-2023-10418-02;EV-2023-10776-02;EV-2022-11250-01;EV-2022-10583-01;EV-2023-10323-02;EV-2022-10286-03;EV-2022-10354-01;EV-2022-10019-02;EV-2023-10944-01;EV-2023-10919-01;EV-2022-11029-02;EV-2023-11048-01;EV-2022-10932-01;EV-2023-10080-01;EV-2022-10883-01;EV-2023-10082-01;EV-2023-11068-02;EV-2024-11090-01;EV-2023-11101-02;EV-2023-10175-01;EV-2022-11112-02;EV-2023-10859-02;EV-2022-10780-02;EV-2023-10791-01;EV-2023-10462-01;EV-2023-11153-01;EV-2023-11278-01;EV-2023-10505-01;EV-2022-10200-01;EV-2024-10667-01;EV-2024-10342-01;EV-2022-11179-01;EV-2023-10240-01;EV-2022-11175-02;EV-2023-10510-02;EV-2024-10171-01;EV-2023-10903-02;EV-2023-10143-01;EV-2022-10849-01;EV-2023-10134-01;EV-2023-10352-01;EV-2022-11273-01;EV-2022-10279-01;EV-2024-10537-01;EV-2024-10956-01;EV-2022-10403-01;EV-2023-10578-01;EV-2023-10853-01;EV-2024-10526-01;EV-2024-11150-01;EV-2022-10758-01;EV-2023-10453-02;EV-2024-10084-01;EV-2022-11117-01;EV-2023-10471-02;EV-2022-10949-03;EV-2024-10253-01;EV-2024-11113-01;EV-2023-10285-01;EV-2024-11214-01;EV-2023-11188-01;EV-2024-10630-01;EV-2023-11247-01;EV-2023-10947-01;EV-2023-10229-01;EV-2024-10431-02;EV-2022-10702-01;EV-2023-10585-01;EV-2024-11025-01;EV-2023-10871-01;EV-2024-10681-01;EV-2023-10500-02;EV-2022-10986-01;EV-2023-11020-01;EV-2024-10727-01;EV-2024-10811-01;EV-2023-10698-01;EV-2023-11114-01;EV-2024-10692-01;EV-2023-10315-01;EV-2023-10326-02;EV-2024-10132-02;EV-2023-10650-02;EV-2023-11050-01;EV-2024-10228-01;EV-2024-10207-01;EV-2024-10032-01;EV-2023-11055-02;EV-2024-10139-01;EV-2023-11095-02;EV-2023-10017-01;EV-2023-11144-01;EV-2024-10856-01;EV-2022-10415-03;EV-2024-10455-01;EV-2023-10243-01;EV-2023-10153-01;EV-2022-11189-01;EV-2023-10900-02;EV-2024-10447-01;EV-2024-11282-01;EV-2024-10420-01;EV-2023-11192-02;EV-2023-10376-01;EV-2023-11283-01;EV-2024-11033-01;EV-2023-10453-03;EV-2024-10847-01;EV-2024-10886-01;EV-2024-10678-01;EV-2023-11070-02;EV-2023-10968-02;EV-2024-10818-01;EV-2024-10844-01;EV-2024-11131-01;EV-2024-10092-01;EV-2024-10773-01;EV-2024-11256-01;EV-2024-10796-01;EV-2024-10045-01;EV-2024-10496-01;EV-2024-10433-01;EV-2024-10020-02;EV-2023-10471-03;EV-2024-10967-01;EV-2024-10398-02;EV-2024-10168-02;EV-2024-10581-01;EV-2024-10063-01;EV-2024-10727-02;EV-2024-10329-02;EV-2024-10987-02;EV-2024-10133-02;EV-2023-10245-03;EV-2023-10585-03;EV-2024-11198-02;EV-2024-11187-02;EV-2023-11247-03;EV-2024-11074-02;EV-2024-10886-02;EV-2023-10840-03;EV-2024-10680-02;EV-2023-11050-03;EV-2023-10058-03;EV-2024-10744-02;EV-2024-10620-02;EV-2024-11047-02;EV-2023-10774-03;EV-2024-10921-02;EV-2024-11037-02;EV-2024-10516-02;EV-2024-10425-02;EV-2024-11066-02,Escalation: 223 overdue evaluation(s) on your team,"Hi Denise,
+
+Escalation: 223 overdue evaluation(s) on your team as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10089-01 | Queensboro Rail Services Ltd. | due 2023-01-31 | 1361 days overdue | VENDOR BIDDING NOW
+- EV-2022-10241-01 | Harbor Mechanical Associates | due 2023-11-22 | 1066 days overdue | VENDOR BIDDING NOW
+- EV-2023-10882-02 | Paragon Data Systems & Sons Inc. | due 2025-08-30 | 419 days overdue | VENDOR BIDDING NOW
+- EV-2022-10053-01 | Gotham Contracting Ltd. | due 2023-08-30 | 1150 days overdue | VENDOR BIDDING NOW
+- EV-2023-10708-02 | Gotham Contracting Ltd. | due 2024-08-28 | 786 days overdue | VENDOR BIDDING NOW
+- EV-2024-10750-01 | Northeast Supply Group Llc | due 2025-03-23 | 579 days overdue | VENDOR BIDDING NOW
+- EV-2023-11260-01 | Interboro Mechanical Group Llc | due 2024-06-06 | 869 days overdue | VENDOR BIDDING NOW
+- EV-2024-10867-01 | Liberty Data Systems Inc. | due 2025-09-06 | 412 days overdue | VENDOR BIDDING NOW
+- EV-2024-10685-01 | Queensboro Rail Services Ltd. | due 2025-12-27 | 300 days overdue | VENDOR BIDDING NOW
+- EV-2022-10742-01 | Vanguard Rail Services Co. | due 2023-06-21 | 1220 days overdue
+- EV-2022-10820-01 | Northeast Environmental & Sons Inc. | due 2022-12-14 | 1409 days overdue
+- EV-2022-11277-03 | Liberty Construction Group LLC | due 2025-06-18 | 492 days overdue
+- EV-2022-11007-01 | Cornerstone Track Works Associates | due 2023-03-20 | 1313 days overdue
+- EV-2022-10391-01 | Tri-State Infrastructure & Sons Inc. | due 2023-02-26 | 1335 days overdue
+- EV-2022-11213-03 | Vanguard Technologies Group LLC | due 2025-07-30 | 450 days overdue
+...and 208 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0012,2026-10-23,E101,ebrown@mta-example.org,escalation_tier_3,6,EV-2024-11139-02;EV-2022-10603-04;EV-2024-10841-02;EV-2024-10103-02;EV-2024-11218-02;EV-2024-10711-02,Director escalation: 6 evaluation(s) 90+ days overdue,"Hi Elena,
+
+Director escalation: 6 evaluation(s) 90+ days overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2024-11139-02 | Queensboro Rail Services Ltd. | due 2026-04-27 | 179 days overdue | VENDOR BIDDING NOW
+- EV-2022-10603-04 | Harbor Consulting Associates | due 2026-07-03 | 112 days overdue
+- EV-2024-10841-02 | Beacon Data Systems LLC | due 2026-05-22 | 154 days overdue
+- EV-2024-10103-02 | Eastern Engineering Corp. | due 2026-06-12 | 133 days overdue
+- EV-2024-11218-02 | Cornerstone Mechanical Ltd. | due 2026-06-15 | 130 days overdue
+- EV-2024-10711-02 | Riverside Track Works Associates | due 2026-05-18 | 158 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0013,2026-10-23,E109,mmartinez@mta-example.org,escalation_tier_3,10,EV-2023-10543-03;EV-2023-10492-03;EV-2023-10525-03;EV-2023-10813-03;EV-2024-11172-02;EV-2024-10356-02;EV-2023-10005-03;EV-2024-10069-02;EV-2024-10588-02;EV-2024-10796-02,Director escalation: 10 evaluation(s) 90+ days overdue,"Hi Marcus,
+
+Director escalation: 10 evaluation(s) 90+ days overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10543-03 | Harbor Signal Systems Co. | due 2026-05-14 | 162 days overdue
+- EV-2023-10492-03 | Interboro Rail Services Llc | due 2026-05-18 | 158 days overdue
+- EV-2023-10525-03 | Harbor Electric Co. | due 2026-06-16 | 129 days overdue
+- EV-2023-10813-03 | Empire Consulting Group LLC | due 2026-07-06 | 109 days overdue
+- EV-2024-11172-02 | Atlas Infrastructure Group LLC | due 2026-06-14 | 131 days overdue
+- EV-2024-10356-02 | Liberty Supply & Sons Inc. | due 2026-06-02 | 143 days overdue
+- EV-2023-10005-03 | Statewide Rail Services Inc. | due 2026-07-16 | 99 days overdue
+- EV-2024-10069-02 | Harbor Signal Systems Co. | due 2026-06-14 | 131 days overdue
+- EV-2024-10588-02 | Patriot Contracting & Sons Inc. | due 2026-06-22 | 123 days overdue
+- EV-2024-10796-02 | Bridgeway Technologies Associates | due 2026-06-14 | 131 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0014,2026-10-23,E117,acohen@mta-example.org,escalation_tier_3,4,EV-2024-10977-02;EV-2024-10079-02;EV-2024-10556-02;EV-2024-10974-02,Director escalation: 4 evaluation(s) 90+ days overdue,"Hi Aisha,
+
+Director escalation: 4 evaluation(s) 90+ days overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10977-02 | Ironline Technologies Llc | due 2026-05-06 | 170 days overdue
+- EV-2024-10079-02 | Granite Rail Services & Sons Inc. | due 2026-05-07 | 169 days overdue
+- EV-2024-10556-02 | Atlas Signal Systems Ltd. | due 2026-05-10 | 166 days overdue
+- EV-2024-10974-02 | Ironline Environmental Llc | due 2026-05-28 | 148 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0015,2026-10-23,E125,mhaddad@mta-example.org,escalation_tier_3,5,EV-2023-10788-03;EV-2023-11176-03;EV-2024-10895-02;EV-2024-10071-02;EV-2023-10829-03,Director escalation: 5 evaluation(s) 90+ days overdue,"Hi Maria,
+
+Director escalation: 5 evaluation(s) 90+ days overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10788-03 | Horizon Engineering Associates | due 2026-06-23 | 122 days overdue
+- EV-2023-11176-03 | Eastern Consulting & Sons Inc. | due 2026-06-02 | 143 days overdue
+- EV-2024-10895-02 | Interboro Rail Services Llc | due 2026-05-25 | 151 days overdue
+- EV-2024-10071-02 | Beacon Environmental Co. | due 2026-07-07 | 108 days overdue
+- EV-2023-10829-03 | Harbor Data Systems Group LLC | due 2026-07-11 | 104 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0016,2026-10-23,E133,lnguyen@mta-example.org,escalation_tier_3,9,EV-2023-10043-03;EV-2023-11217-03;EV-2024-11269-02;EV-2024-10527-02;EV-2024-10629-02;EV-2024-10204-02;EV-2023-10412-03;EV-2024-10980-02;EV-2024-10982-02,Director escalation: 9 evaluation(s) 90+ days overdue,"Hi Luis,
+
+Director escalation: 9 evaluation(s) 90+ days overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10043-03 | Beacon Builders & Sons Inc. | due 2026-05-08 | 168 days overdue
+- EV-2023-11217-03 | Vanguard Data Systems Group Llc | due 2026-06-03 | 142 days overdue
+- EV-2024-11269-02 | Horizon Rail Services Ltd. | due 2026-06-20 | 125 days overdue
+- EV-2024-10527-02 | Ironline Builders Ltd. | due 2026-06-03 | 142 days overdue
+- EV-2024-10629-02 | Union Supply Corp. | due 2026-06-15 | 130 days overdue
+- EV-2024-10204-02 | Allied Mechanical Co. | due 2026-07-22 | 93 days overdue
+- EV-2023-10412-03 | Union Data Systems Co. | due 2026-05-28 | 148 days overdue
+- EV-2024-10980-02 | Horizon Engineering Llc | due 2026-06-19 | 126 days overdue
+- EV-2024-10982-02 | Harbor Construction Ltd. | due 2026-07-23 | 92 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0017,2026-10-23,E141,amartinez@mta-example.org,escalation_tier_3,2,EV-2024-11202-02;EV-2024-10818-02,Director escalation: 2 evaluation(s) 90+ days overdue,"Hi Aisha,
+
+Director escalation: 2 evaluation(s) 90+ days overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2024-11202-02 | Interboro Signal Systems Inc. | due 2026-05-23 | 153 days overdue
+- EV-2024-10818-02 | Interboro Rail Services Llc | due 2026-07-05 | 110 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0018,2026-10-23,E149,ogoldberg@mta-example.org,escalation_tier_3,5,EV-2024-10748-02;EV-2024-11038-02;EV-2024-10163-02;EV-2023-10684-03;EV-2023-10243-03,Director escalation: 5 evaluation(s) 90+ days overdue,"Hi Omar,
+
+Director escalation: 5 evaluation(s) 90+ days overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10748-02 | Riverside Environmental Co. | due 2026-05-29 | 147 days overdue | VENDOR BIDDING NOW
+- EV-2024-11038-02 | Summit Engineering Associates | due 2026-06-19 | 126 days overdue
+- EV-2024-10163-02 | Liberty Supply & Sons Inc. | due 2026-05-11 | 165 days overdue
+- EV-2023-10684-03 | Harbor Contracting Corp. | due 2026-06-10 | 135 days overdue
+- EV-2023-10243-03 | Keystone Construction & Sons Inc. | due 2026-07-16 | 99 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0019,2026-10-23,E900,dcarter@mta-example.org,escalation_tier_4,683,EV-2022-10997-01;EV-2022-10807-01;EV-2022-10284-01;EV-2022-10102-01;EV-2023-10061-01;EV-2023-10179-01;EV-2022-11195-01;EV-2022-10561-01;EV-2023-10768-02;EV-2023-10790-01;EV-2023-11260-02;EV-2022-11042-01;EV-2023-10540-02;EV-2023-11013-01;EV-2022-10322-01;EV-2023-10007-01;EV-2023-11138-01;EV-2024-10726-02;EV-2022-10158-01;EV-2024-11139-01;EV-2023-10251-01;EV-2023-10344-01;EV-2023-10379-01;EV-2024-11019-01;EV-2023-10540-01;EV-2023-11225-01;EV-2023-10943-01;EV-2023-10384-02;EV-2024-10671-01;EV-2024-10118-01;EV-2024-11121-01;EV-2024-11075-01;EV-2024-10748-01;EV-2022-10298-01;EV-2022-10955-01;EV-2022-11103-02;EV-2022-10626-01;EV-2022-10628-01;EV-2023-10943-02;EV-2022-10649-02;EV-2022-10834-02;EV-2022-10142-01;EV-2022-10805-02;EV-2022-10691-02;EV-2022-10664-01;EV-2022-10170-01;EV-2022-10004-01;EV-2022-10642-01;EV-2022-10964-02;EV-2022-10378-02;EV-2022-10494-01;EV-2022-10920-02;EV-2022-10571-01;EV-2022-10670-02;EV-2022-10273-02;EV-2024-10177-01;EV-2022-10402-01;EV-2022-10962-01;EV-2024-11075-02;EV-2022-10953-01;EV-2022-10733-02;EV-2022-10929-01;EV-2022-10797-01;EV-2022-10631-01;EV-2022-10385-02;EV-2022-10693-01;EV-2022-10198-01;EV-2022-10257-01;EV-2022-10693-02;EV-2022-10948-01;EV-2023-10031-01;EV-2022-10872-01;EV-2022-11257-01;EV-2022-11022-01;EV-2022-11200-02;EV-2022-10823-02;EV-2023-10108-02;EV-2022-10392-01;EV-2022-10924-02;EV-2022-10723-02;EV-2022-10793-01;EV-2022-10148-02;EV-2022-10718-01;EV-2022-11288-01;EV-2022-10767-01;EV-2022-10458-03;EV-2022-11295-01;EV-2022-11297-02;EV-2022-10843-02;EV-2022-11082-03;EV-2022-10803-01;EV-2022-11165-02;EV-2022-10421-02;EV-2022-11059-02;EV-2022-10248-02;EV-2022-10019-03;EV-2022-11106-01;EV-2022-11092-02;EV-2022-10159-02;EV-2023-10081-02;EV-2022-10109-01;EV-2022-11093-02;EV-2022-10048-02;EV-2022-11067-01;EV-2022-10270-02;EV-2022-10101-03;EV-2022-11147-01;EV-2022-11289-02;EV-2022-10883-02;EV-2022-10828-02;EV-2022-10608-01;EV-2022-10787-01;EV-2022-10676-01;EV-2023-10278-02;EV-2022-11151-02;EV-2023-11163-01;EV-2022-10584-01;EV-2022-10336-01;EV-2022-11112-03;EV-2022-10805-01;EV-2022-10292-02;EV-2022-10747-01;EV-2022-10731-02;EV-2022-10712-02;EV-2022-11166-01;EV-2022-10780-03;EV-2022-10568-01;EV-2022-10713-02;EV-2022-10265-02;EV-2022-10568-02;EV-2022-10851-02;EV-2022-10894-01;EV-2022-10655-02;EV-2022-10348-03;EV-2023-10981-01;EV-2022-11091-02;EV-2023-10754-02;EV-2022-10991-01;EV-2022-10562-02;EV-2023-10361-01;EV-2022-10988-01;EV-2023-11009-01;EV-2023-10939-02;EV-2022-11277-01;EV-2023-10025-01;EV-2022-10530-02;EV-2023-10573-01;EV-2022-11251-01;EV-2022-11152-01;EV-2022-10317-01;EV-2022-10975-01;EV-2022-11242-01;EV-2022-10595-02;EV-2022-10964-01;EV-2022-10470-01;EV-2022-10293-01;EV-2023-10845-01;EV-2022-11193-01;EV-2022-10858-01;EV-2022-11213-01;EV-2022-11063-01;EV-2022-10401-01;EV-2022-11102-02;EV-2023-11051-01;EV-2022-11030-01;EV-2022-10670-01;EV-2022-10538-01;EV-2022-10282-02;EV-2022-10512-01;EV-2023-10898-02;EV-2022-10481-01;EV-2022-10406-01;EV-2023-10810-01;EV-2022-10406-02;EV-2022-11040-01;EV-2023-11182-01;EV-2023-11291-02;EV-2022-10130-03;EV-2022-11076-01;EV-2022-10331-01;EV-2023-10480-01;EV-2023-10018-02;EV-2022-10283-01;EV-2022-10794-01;EV-2022-10539-01;EV-2022-10794-02;EV-2023-11143-02;EV-2022-10539-03;EV-2022-10435-01;EV-2022-10230-01;EV-2022-10463-02;EV-2022-11004-02;EV-2022-11132-02;EV-2023-10335-02;EV-2022-10311-01;EV-2022-11117-02;EV-2023-11034-01;EV-2023-10741-02;EV-2023-10242-01;EV-2022-10712-03;EV-2022-10363-01;EV-2022-10287-01;EV-2022-10533-01;EV-2022-10363-02;EV-2022-10603-02;EV-2022-10524-02;EV-2023-11231-02;EV-2023-10766-02;EV-2023-11140-02;EV-2022-10603-03;EV-2023-11212-01;EV-2022-10006-04;EV-2022-10566-01;EV-2023-10147-01;EV-2022-10374-01;EV-2022-10497-01;EV-2022-10036-01;EV-2022-10036-02;EV-2024-10339-01;EV-2022-10497-03;EV-2022-10795-01;EV-2022-10823-01;EV-2023-11105-01;EV-2022-10046-01;EV-2022-10924-01;EV-2023-11285-01;EV-2022-10227-03;EV-2022-10013-01;EV-2023-10522-01;EV-2022-10220-01;EV-2022-10148-01;EV-2023-10679-01;EV-2023-10479-02;EV-2022-10458-01;EV-2023-10897-01;EV-2023-10314-01;EV-2023-10822-01;EV-2022-10643-01;EV-2022-10557-01;EV-2022-11279-01;EV-2023-10860-01;EV-2023-10799-01;EV-2023-10229-02;EV-2022-10286-01;EV-2022-11216-01;EV-2022-10843-01;EV-2023-10560-01;EV-2023-10094-01;EV-2023-10249-01;EV-2023-10165-02;EV-2022-10721-03;EV-2022-10424-01;EV-2023-10703-01;EV-2023-10632-01;EV-2023-10482-01;EV-2023-10303-02;EV-2022-10637-03;EV-2022-10446-03;EV-2023-10138-01;EV-2022-11175-03;EV-2022-11092-01;EV-2022-10159-01;EV-2023-10081-01;EV-2023-10489-02;EV-2023-10736-02;EV-2022-10437-01;EV-2022-10048-01;EV-2023-11287-01;EV-2023-10495-01;EV-2022-11223-02;EV-2022-11029-03;EV-2022-11169-01;EV-2022-11237-02;EV-2023-10072-01;EV-2023-10942-01;EV-2024-10369-01;EV-2022-10351-01;EV-2022-10828-01;EV-2024-10328-01;EV-2024-11024-01;EV-2024-10396-01;EV-2023-10307-02;EV-2022-10439-01;EV-2023-11272-01;EV-2023-10555-01;EV-2023-10266-01;EV-2023-10952-02;EV-2023-10034-02;EV-2022-10445-01;EV-2023-10338-01;EV-2023-10304-01;EV-2023-10717-01;EV-2022-10262-02;EV-2022-10622-02;EV-2022-10644-01;EV-2023-10189-01;EV-2022-10292-01;EV-2022-11240-01;EV-2023-10064-01;EV-2022-11240-02;EV-2022-10994-02;EV-2023-10720-02;EV-2023-11296-02;EV-2022-11208-01;EV-2022-11036-01;EV-2022-10891-02;EV-2022-10713-01;EV-2023-10368-01;EV-2023-10104-01;EV-2023-10788-02;EV-2024-10917-01;EV-2023-10774-02;EV-2022-10994-03;EV-2022-10021-01;EV-2024-10798-01;EV-2023-10660-02;EV-2023-10178-02;EV-2022-10404-02;EV-2023-10901-02;EV-2023-11278-02;EV-2022-10562-01;EV-2022-10269-01;EV-2023-10865-01;EV-2022-10751-01;EV-2023-10192-01;EV-2023-10993-01;EV-2023-10268-02;EV-2022-10549-01;EV-2022-10332-01;EV-2022-10689-01;EV-2023-10042-01;EV-2022-10689-02;EV-2023-10041-01;EV-2024-11031-01;EV-2022-10689-03;EV-2023-10804-01;EV-2022-10637-02;EV-2022-10530-01;EV-2023-11253-01;EV-2022-10036-03;EV-2022-10247-01;EV-2022-11175-01;EV-2023-10973-01;EV-2023-10586-01;EV-2023-10802-01;EV-2023-10740-01;EV-2023-11094-02;EV-2022-11156-01;EV-2022-11156-02;EV-2022-10523-01;EV-2022-10613-01;EV-2022-10595-01;EV-2022-10849-02;EV-2023-10558-02;EV-2023-10619-01;EV-2023-10345-01;EV-2023-10452-01;EV-2022-10340-01;EV-2023-10699-01;EV-2023-10910-02;EV-2022-10282-01;EV-2022-11180-01;EV-2023-10438-01;EV-2023-10548-01;EV-2024-10359-01;EV-2023-10898-01;EV-2023-10464-01;EV-2023-10591-01;EV-2024-10724-01;EV-2022-11275-01;EV-2022-10778-01;EV-2022-10321-01;EV-2022-11275-02;EV-2023-10067-02;EV-2022-10130-01;EV-2022-10149-01;EV-2023-10760-01;EV-2023-10784-01;EV-2022-10149-02;EV-2023-10249-02;EV-2022-10511-01;EV-2022-10881-01;EV-2023-10018-01;EV-2023-10940-01;EV-2022-11229-01;EV-2023-10310-02;EV-2022-10449-03;EV-2023-10471-01;EV-2023-10741-01;EV-2023-11170-01;EV-2023-11231-01;EV-2023-10766-01;EV-2023-11155-01;EV-2024-10870-01;EV-2023-11144-02;EV-2023-11069-01;EV-2023-10188-01;EV-2023-10224-02;EV-2023-10093-01;EV-2023-10008-01;EV-2023-10423-02;EV-2023-10217-01;EV-2023-10877-01;EV-2024-11270-01;EV-2023-10418-01;EV-2024-11210-01;EV-2023-11236-01;EV-2022-10162-02;EV-2024-11168-01;EV-2023-10254-01;EV-2023-10959-02;EV-2022-11115-01;EV-2023-11079-01;EV-2022-11115-02;EV-2023-11290-01;EV-2023-10684-02;EV-2023-11247-02;EV-2023-10152-02;EV-2022-11167-01;EV-2023-10212-01;EV-2023-10212-02;EV-2024-10879-02;EV-2022-10534-01;EV-2023-10267-01;EV-2024-10271-01;EV-2023-10500-01;EV-2023-11217-01;EV-2023-10525-01;EV-2024-10176-01;EV-2023-10244-01;EV-2023-10837-01;EV-2023-11104-02;EV-2024-11158-01;EV-2022-10252-01;EV-2023-11101-01;EV-2022-11223-01;EV-2024-11010-01;EV-2023-10515-01;EV-2023-11110-01;EV-2023-11110-02;EV-2022-10035-01;EV-2022-10456-01;EV-2022-10035-02;EV-2022-10035-03;EV-2024-10383-01;EV-2024-10590-01;EV-2023-11020-02;EV-2024-10117-01;EV-2023-10833-01;EV-2023-10477-01;EV-2024-10895-01;EV-2024-10146-01;EV-2023-10983-01;EV-2023-10756-01;EV-2023-10058-02;EV-2022-10087-01;EV-2023-11122-01;EV-2023-10375-01;EV-2023-10181-01;EV-2024-10097-01;EV-2024-10056-01;EV-2023-10596-01;EV-2023-10005-01;EV-2023-10005-02;EV-2022-10002-01;EV-2024-10527-01;EV-2022-10162-03;EV-2023-10698-02;EV-2023-10051-01;EV-2024-10137-02;EV-2023-10326-01;EV-2022-10567-01;EV-2024-10100-01;EV-2024-11023-01;EV-2023-10730-01;EV-2023-10950-02;EV-2023-11050-02;EV-2023-10360-02;EV-2024-10450-01;EV-2024-10580-02;EV-2023-10151-01;EV-2023-10840-01;EV-2024-10068-01;EV-2022-10531-01;EV-2023-11015-01;EV-2023-10809-01;EV-2022-11271-04;EV-2023-11055-01;EV-2024-10908-01;EV-2024-10411-02;EV-2023-10477-02;EV-2023-10367-01;EV-2024-10575-01;EV-2024-10187-02;EV-2023-10940-02;EV-2024-10875-02;EV-2024-10366-01;EV-2023-10088-01;EV-2024-10618-01;EV-2024-10070-01;EV-2024-11204-01;EV-2024-11269-01;EV-2024-10261-01;EV-2023-10234-01;EV-2023-10223-01;EV-2024-10816-01;EV-2024-10854-01;EV-2023-10243-02;EV-2023-10219-02;EV-2024-11239-01;EV-2023-11176-01;EV-2023-11176-02;EV-2024-10884-02;EV-2024-10055-01;EV-2024-10123-01;EV-2023-10457-02;EV-2024-11157-01;EV-2024-10987-01;EV-2024-10045-02;EV-2023-10609-02;EV-2024-10280-01;EV-2024-11202-01;EV-2024-10103-01;EV-2024-10935-01;EV-2024-10909-01;EV-2024-10409-01;EV-2024-10587-01;EV-2023-10276-02;EV-2023-11246-01;EV-2024-10716-01;EV-2023-10829-02;EV-2023-10814-02;EV-2023-10869-02;EV-2024-10775-01;EV-2023-10614-01;EV-2024-11261-01;EV-2023-10169-01;EV-2023-10073-01;EV-2024-11178-01;EV-2024-11005-01;EV-2024-10544-01;EV-2024-11262-01;EV-2024-10356-01;EV-2024-10772-01;EV-2024-10984-01;EV-2024-10541-01;EV-2024-10461-01;EV-2022-10439-04;EV-2024-10921-01;EV-2023-10675-02;EV-2024-10879-01;EV-2024-10146-02;EV-2023-11209-01;EV-2023-10124-01;EV-2024-10168-01;EV-2024-10640-01;EV-2024-10098-01;EV-2024-10133-01;EV-2024-11116-01;EV-2023-10153-02;EV-2024-10732-01;EV-2023-11243-02;EV-2024-10977-01;EV-2023-10809-02;EV-2024-11245-01;EV-2023-10831-01;EV-2024-10443-02;EV-2024-10503-01;EV-2024-11026-01;EV-2024-10556-01;EV-2024-10069-01;EV-2024-10937-01;EV-2024-10221-01;EV-2024-10659-02;EV-2024-10765-02;EV-2023-11071-02;EV-2024-10137-01;EV-2023-10913-01;EV-2024-10132-01;EV-2024-10425-01;EV-2024-10115-01;EV-2023-10422-02;EV-2022-11056-03;EV-2024-10683-01;EV-2023-11246-02;EV-2024-10848-02;EV-2024-10065-01;EV-2024-10744-01;EV-2023-10301-02;EV-2023-10307-03;EV-2024-10411-01;EV-2024-10663-01;EV-2024-10030-01;EV-2024-10601-01;EV-2023-10558-03;EV-2024-10491-01;EV-2023-10205-02;EV-2023-10041-02;EV-2023-11122-03;EV-2024-10037-01;EV-2024-10839-01;EV-2024-10448-01;EV-2024-10896-01;EV-2023-10762-02;EV-2024-10173-01;EV-2024-10848-01;EV-2022-10891-04;EV-2024-10110-01;EV-2024-10620-01;EV-2024-10934-01;EV-2024-10395-01;EV-2024-10963-01;EV-2024-10091-01;EV-2024-10493-01;EV-2024-10299-01;EV-2024-10443-01;EV-2024-10547-01;EV-2024-10355-01;EV-2024-10071-01;EV-2024-10316-01;EV-2024-11203-01;EV-2024-10714-01;EV-2023-10088-02;EV-2024-10640-02;EV-2023-10500-03;EV-2024-10972-01;EV-2024-10239-01;EV-2024-10030-02;EV-2023-10141-02;EV-2024-10060-01;EV-2024-10841-01;EV-2023-10308-02;EV-2023-10212-03;EV-2023-11192-03;EV-2024-10607-01;EV-2024-10319-01;EV-2024-10659-01;EV-2023-10825-03;EV-2024-10193-01;EV-2024-10808-01;EV-2024-10890-01;EV-2024-10812-01;EV-2024-11268-01;EV-2024-10600-01;EV-2024-10204-01;EV-2024-10112-01;EV-2024-10653-01;EV-2024-10487-01;EV-2024-11062-01;EV-2024-10998-01;EV-2023-10067-03;EV-2022-10648-04;EV-2024-10488-02;EV-2024-10228-02;EV-2024-11131-02;EV-2024-10908-02;EV-2023-11226-03;EV-2024-10032-02;EV-2024-10690-02;EV-2023-11104-03;EV-2023-10124-02;EV-2024-10214-02;EV-2024-10928-02;EV-2024-10485-02;EV-2024-10868-01;EV-2024-10413-02;EV-2024-10398-01;EV-2024-10275-01;EV-2024-11134-02;EV-2024-10816-02;EV-2024-10333-02;EV-2024-10011-02;EV-2023-11055-03;EV-2023-10900-03;EV-2024-10503-02;EV-2024-10197-02;EV-2024-10092-02;EV-2024-11108-02;EV-2024-10669-02;EV-2024-10420-02;EV-2024-11185-02;EV-2024-10316-02;EV-2024-10430-02,Leadership summary: 683 evaluation(s) 180+ days overdue,"Hi Denise,
+
+Leadership summary: 683 evaluation(s) 180+ days overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10997-01 | Lexington Data Systems Inc. | due 2023-07-02 | 1209 days overdue | VENDOR BIDDING NOW
+- EV-2022-10807-01 | Atlas Environmental LLC | due 2023-08-17 | 1163 days overdue | VENDOR BIDDING NOW
+- EV-2022-10284-01 | Granite Electric Inc. | due 2023-09-27 | 1122 days overdue | VENDOR BIDDING NOW
+- EV-2022-10102-01 | Interboro Builders Group Llc | due 2023-03-10 | 1323 days overdue | VENDOR BIDDING NOW
+- EV-2023-10061-01 | Crescent Rail Services Associates | due 2024-05-21 | 885 days overdue | VENDOR BIDDING NOW
+- EV-2023-10179-01 | Vanguard Track Works Inc. | due 2024-11-14 | 708 days overdue | VENDOR BIDDING NOW
+- EV-2022-11195-01 | Atlas Environmental LLC | due 2023-01-17 | 1375 days overdue | VENDOR BIDDING NOW
+- EV-2022-10561-01 | Harbor Mechanical Associates | due 2023-05-18 | 1254 days overdue | VENDOR BIDDING NOW
+- EV-2023-10768-02 | Paragon Infrastructure Associates | due 2025-03-30 | 572 days overdue | VENDOR BIDDING NOW
+- EV-2023-10790-01 | Harbor Mechanical Associates | due 2023-12-25 | 1033 days overdue | VENDOR BIDDING NOW
+- EV-2023-11260-02 | Interboro Mechanical Group Llc | due 2025-06-04 | 506 days overdue | VENDOR BIDDING NOW
+- EV-2022-11042-01 | Interboro Mechanical Group Llc | due 2024-01-22 | 1005 days overdue | VENDOR BIDDING NOW
+- EV-2023-10540-02 | Pinnacle Infrastructure Ltd. | due 2024-12-07 | 685 days overdue | VENDOR BIDDING NOW
+- EV-2023-11013-01 | Interboro Builders Group Llc | due 2024-10-15 | 738 days overdue | VENDOR BIDDING NOW
+- EV-2022-10322-01 | Atlas Environmental LLC | due 2023-09-17 | 1132 days overdue | VENDOR BIDDING NOW
+...and 668 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0020,2026-10-23,E104,kgreene@mta-example.org,evaluation_request,5,EV-2022-10298-01;EV-2022-11004-02;EV-2023-11231-02;EV-2023-10314-01;EV-2023-10558-02,Action needed: 5 vendor evaluation(s) to complete,"Hi Kevin,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10298-01 | Harbor Signal Systems Co. | due 2022-12-16 | 1407 days overdue
+- EV-2022-11004-02 | Union Rail Services Ltd. | due 2024-02-27 | 969 days overdue
+- EV-2023-11231-02 | Sterling Data Systems Corp. | due 2024-10-16 | 737 days overdue
+- EV-2023-10314-01 | Patriot Technologies Ltd. | due 2024-05-11 | 895 days overdue
+- EV-2023-10558-02 | Pinnacle Rail Services & Sons Inc. | due 2025-03-10 | 592 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0021,2026-10-23,E105,owalker@mta-example.org,evaluation_request,7,EV-2023-11138-01;EV-2024-10726-02;EV-2024-11139-01;EV-2022-10603-02;EV-2024-11139-02;EV-2023-10165-02;EV-2023-10500-01,Action needed: 7 vendor evaluation(s) to complete,"Hi Omar,
+
+Action needed: 7 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2023-11138-01 | Northeast Supply Group Llc | due 2024-02-27 | 969 days overdue | VENDOR BIDDING NOW
+- EV-2024-10726-02 | Lexington Data Systems Inc. | due 2025-06-28 | 482 days overdue | VENDOR BIDDING NOW
+- EV-2024-11139-01 | Queensboro Rail Services Ltd. | due 2025-04-27 | 544 days overdue | VENDOR BIDDING NOW
+- EV-2022-10603-02 | Harbor Consulting Associates | due 2024-07-05 | 840 days overdue
+- EV-2024-11139-02 | Queensboro Rail Services Ltd. | due 2026-04-27 | 179 days overdue | VENDOR BIDDING NOW
+- EV-2023-10165-02 | Patriot Track Works Group Llc | due 2025-01-10 | 651 days overdue
+- EV-2023-10500-01 | Patriot Mechanical Group LLC | due 2024-03-02 | 965 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0022,2026-10-23,E106,mmurphy@mta-example.org,evaluation_request,4,EV-2022-10920-02;EV-2022-10317-01;EV-2024-10239-01;EV-2024-10711-02,Action needed: 4 vendor evaluation(s) to complete,"Hi Maria,
+
+Action needed: 4 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10920-02 | Riverside Mechanical Corp. | due 2024-04-21 | 915 days overdue
+- EV-2022-10317-01 | Patriot Track Works Group Llc | due 2023-11-20 | 1068 days overdue
+- EV-2024-10239-01 | Ironline Builders Ltd. | due 2025-10-26 | 362 days overdue
+- EV-2024-10711-02 | Riverside Track Works Associates | due 2026-05-18 | 158 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0023,2026-10-23,E107,tbrown@mta-example.org,evaluation_request,4,EV-2022-10713-02;EV-2022-10283-01;EV-2022-11216-01;EV-2023-10307-02,Action needed: 4 vendor evaluation(s) to complete,"Hi Thomas,
+
+Action needed: 4 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10713-02 | Pinnacle Engineering Inc. | due 2024-04-03 | 933 days overdue
+- EV-2022-10283-01 | Eastern Engineering Corp. | due 2023-06-28 | 1213 days overdue
+- EV-2022-11216-01 | Vanguard Technologies Corp. | due 2023-03-14 | 1319 days overdue
+- EV-2023-10307-02 | Queensboro Engineering Group LLC | due 2025-02-01 | 629 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0024,2026-10-23,E108,epark@mta-example.org,evaluation_request,4,EV-2022-10533-01;EV-2023-10188-01;EV-2023-10730-01;EV-2023-10205-02,Action needed: 4 vendor evaluation(s) to complete,"Hi Elena,
+
+Action needed: 4 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10533-01 | Summit Consulting Associates | due 2023-09-16 | 1133 days overdue
+- EV-2023-10188-01 | Atlas Signal Systems Associates | due 2024-12-04 | 688 days overdue
+- EV-2023-10730-01 | Queensboro Consulting Ltd. | due 2024-08-10 | 804 days overdue
+- EV-2023-10205-02 | Harbor Contracting Corp. | due 2025-12-21 | 306 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0025,2026-10-23,E112,ppark@mta-example.org,evaluation_request,6,EV-2022-11042-01;EV-2022-10363-01;EV-2023-10452-01;EV-2023-10741-01;EV-2024-10580-02;EV-2024-10356-01,Action needed: 6 vendor evaluation(s) to complete,"Hi Priya,
+
+Action needed: 6 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-11042-01 | Interboro Mechanical Group Llc | due 2024-01-22 | 1005 days overdue | VENDOR BIDDING NOW
+- EV-2022-10363-01 | Paragon Signal Systems & Sons Inc. | due 2023-04-27 | 1275 days overdue
+- EV-2023-10452-01 | Lexington Infrastructure Group LLC | due 2023-11-21 | 1067 days overdue
+- EV-2023-10741-01 | Keystone Consulting Ltd. | due 2024-04-20 | 916 days overdue
+- EV-2024-10580-02 | Patriot Mechanical Co. | due 2025-09-10 | 408 days overdue
+- EV-2024-10356-01 | Liberty Supply & Sons Inc. | due 2025-06-03 | 507 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0026,2026-10-23,E113,phussain@mta-example.org,evaluation_request,4,EV-2022-10322-01;EV-2022-10292-02;EV-2022-10265-02;EV-2024-10588-02,Action needed: 4 vendor evaluation(s) to complete,"Hi Priya,
+
+Action needed: 4 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10322-01 | Atlas Environmental LLC | due 2023-09-17 | 1132 days overdue | VENDOR BIDDING NOW
+- EV-2022-10292-02 | Meridian Contracting Co. | due 2023-09-06 | 1143 days overdue
+- EV-2022-10265-02 | Riverside Track Works Associates | due 2024-04-07 | 929 days overdue
+- EV-2024-10588-02 | Patriot Contracting & Sons Inc. | due 2026-06-22 | 123 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0027,2026-10-23,E114,awalker@mta-example.org,evaluation_request,11,EV-2023-10479-02;EV-2023-10482-01;EV-2022-10048-01;EV-2024-11024-01;EV-2022-10891-02;EV-2023-10042-01;EV-2022-10247-01;EV-2024-10443-02;EV-2024-11026-01;EV-2024-10934-01;EV-2024-10443-01,Action needed: 11 vendor evaluation(s) to complete,"Hi Andre,
+
+Action needed: 11 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10479-02 | Continental Contracting Inc. | due 2025-04-22 | 549 days overdue
+- EV-2023-10482-01 | Keystone Consulting Ltd. | due 2024-06-02 | 873 days overdue
+- EV-2022-10048-01 | Ironline Supply LLC | due 2023-12-27 | 1031 days overdue
+- EV-2024-11024-01 | Paragon Builders Co. | due 2025-06-15 | 495 days overdue
+- EV-2022-10891-02 | Union Construction Group Llc | due 2024-03-26 | 941 days overdue
+- EV-2023-10042-01 | Granite Rail Services & Sons Inc. | due 2024-10-14 | 739 days overdue
+- EV-2022-10247-01 | Riverside Environmental & Sons Inc. | due 2023-09-09 | 1140 days overdue
+- EV-2024-10443-02 | Harbor Contracting Corp. | due 2025-11-09 | 348 days overdue
+- EV-2024-11026-01 | Lexington Engineering Corp. | due 2025-03-05 | 597 days overdue
+- EV-2024-10934-01 | Atlas Infrastructure Group LLC | due 2025-11-24 | 333 days overdue
+- EV-2024-10443-01 | Harbor Contracting Corp. | due 2025-05-11 | 530 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0028,2026-10-23,E115,ojohnson@mta-example.org,evaluation_request,3,EV-2022-10437-01;EV-2023-10591-01;EV-2023-10041-02,Action needed: 3 vendor evaluation(s) to complete,"Hi Omar,
+
+Action needed: 3 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10437-01 | Liberty Electric Group LLC | due 2023-10-16 | 1103 days overdue
+- EV-2023-10591-01 | Hudson Builders Llc | due 2024-11-25 | 697 days overdue
+- EV-2023-10041-02 | Meridian Supply Corp. | due 2026-01-27 | 269 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0029,2026-10-23,E116,hpatel@mta-example.org,evaluation_request,1,EV-2024-10069-02,Action needed: 1 vendor evaluation(s) to complete,"Hi Hannah,
+
+Action needed: 1 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10069-02 | Harbor Signal Systems Co. | due 2026-06-14 | 131 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0030,2026-10-23,E118,slopez@mta-example.org,evaluation_request,3,EV-2022-10035-02;EV-2024-11178-01;EV-2024-10395-01,Action needed: 3 vendor evaluation(s) to complete,"Hi Samuel,
+
+Action needed: 3 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10035-02 | Liberty Builders Ltd. | due 2024-05-05 | 901 days overdue
+- EV-2024-11178-01 | Statewide Track Works Group Llc | due 2025-03-20 | 582 days overdue
+- EV-2024-10395-01 | Vanguard Infrastructure Ltd. | due 2025-10-17 | 371 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0031,2026-10-23,E119,vokafor@mta-example.org,evaluation_request,3,EV-2024-10963-01;EV-2024-10556-02;EV-2024-10327-02,Action needed: 3 vendor evaluation(s) to complete,"Hi Victor,
+
+Action needed: 3 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10963-01 | Vanguard Environmental Co. | due 2025-12-11 | 316 days overdue
+- EV-2024-10556-02 | Atlas Signal Systems Ltd. | due 2026-05-10 | 166 days overdue
+- EV-2024-10327-02 | Tri-State Signal Systems Inc. | due 2026-08-15 | 69 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0032,2026-10-23,E120,mpark@mta-example.org,evaluation_request,8,EV-2022-10883-02;EV-2022-10794-02;EV-2022-10497-03;EV-2023-10217-01;EV-2023-11055-01;EV-2024-11262-01;EV-2023-10212-03;EV-2023-11055-03,Action needed: 8 vendor evaluation(s) to complete,"Hi Marcus,
+
+Action needed: 8 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10883-02 | Beacon Technologies Ltd. | due 2024-10-28 | 725 days overdue
+- EV-2022-10794-02 | Allied Engineering Corp. | due 2024-09-05 | 778 days overdue
+- EV-2022-10497-03 | Northeast Infrastructure Corp. | due 2025-05-28 | 513 days overdue
+- EV-2023-10217-01 | Empire Rail Services Group LLC | due 2024-04-27 | 909 days overdue
+- EV-2023-11055-01 | Granite Supply Ltd. | due 2024-03-23 | 944 days overdue
+- EV-2024-11262-01 | Summit Contracting Corp. | due 2025-05-23 | 518 days overdue
+- EV-2023-10212-03 | Ironline Track Works & Sons Inc. | due 2026-03-12 | 225 days overdue
+- EV-2023-11055-03 | Granite Supply Ltd. | due 2026-03-24 | 213 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0033,2026-10-23,E123,ymartinez@mta-example.org,evaluation_request,11,EV-2023-10108-02;EV-2022-10718-01;EV-2022-10101-03;EV-2022-10712-03;EV-2022-10006-04;EV-2022-11240-02;EV-2023-10192-01;EV-2024-10683-01;EV-2022-11240-04;EV-2023-11098-03;EV-2023-11278-03,Action needed: 11 vendor evaluation(s) to complete,"Hi Yuki,
+
+Action needed: 11 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10108-02 | Paragon Construction Co. | due 2025-08-24 | 425 days overdue
+- EV-2022-10718-01 | Atlas Signal Systems Associates | due 2023-05-23 | 1249 days overdue
+- EV-2022-10101-03 | Keystone Construction & Sons Inc. | due 2025-04-23 | 548 days overdue
+- EV-2022-10712-03 | Riverside Mechanical Corp. | due 2025-12-29 | 298 days overdue
+- EV-2022-10006-04 | Granite Construction Inc. | due 2025-04-28 | 543 days overdue
+- EV-2022-11240-02 | Allied Mechanical Group Llc | due 2024-07-28 | 817 days overdue
+- EV-2023-10192-01 | Northeast Builders Group LLC | due 2024-02-11 | 985 days overdue
+- EV-2024-10683-01 | Empire Infrastructure Group Llc | due 2025-10-22 | 366 days overdue
+- EV-2022-11240-04 | Allied Mechanical Group Llc | due 2026-07-28 | 87 days overdue
+- EV-2023-11098-03 | Granite Construction Inc. | due 2026-10-02 | 21 days overdue
+- EV-2023-11278-03 | Beacon Consulting Ltd. | due 2026-10-19 | 4 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0034,2026-10-23,E124,swilliams@mta-example.org,evaluation_request,6,EV-2023-10703-01;EV-2023-10464-01;EV-2023-10423-02;EV-2023-11020-02;EV-2023-10058-02;EV-2024-10173-01,Action needed: 6 vendor evaluation(s) to complete,"Hi Samuel,
+
+Action needed: 6 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10703-01 | Statewide Environmental Ltd. | due 2024-01-28 | 999 days overdue
+- EV-2023-10464-01 | Horizon Builders Associates | due 2024-09-13 | 770 days overdue
+- EV-2023-10423-02 | Riverside Engineering Inc. | due 2025-06-02 | 508 days overdue
+- EV-2023-11020-02 | Union Infrastructure Co. | due 2025-04-18 | 553 days overdue
+- EV-2023-10058-02 | Sterling Electric & Sons Inc. | due 2025-07-06 | 474 days overdue
+- EV-2024-10173-01 | Lexington Technologies Inc. | due 2025-02-17 | 613 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0035,2026-10-23,E128,mcohen@mta-example.org,evaluation_request,5,EV-2023-10788-02;EV-2023-10983-01;EV-2023-10326-01;EV-2024-10854-01;EV-2024-10333-02,Action needed: 5 vendor evaluation(s) to complete,"Hi Michael,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10788-02 | Horizon Engineering Associates | due 2025-06-25 | 485 days overdue
+- EV-2023-10983-01 | Harbor Construction Ltd. | due 2024-02-05 | 991 days overdue
+- EV-2023-10326-01 | Cornerstone Builders Associates | due 2024-05-28 | 878 days overdue
+- EV-2024-10854-01 | Vanguard Rail Services Co. | due 2025-05-31 | 510 days overdue
+- EV-2024-10333-02 | Bridgeway Infrastructure Corp. | due 2026-02-16 | 249 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0036,2026-10-23,E130,frahman@mta-example.org,evaluation_request,5,EV-2022-10834-02;EV-2024-10177-01;EV-2022-10568-01;EV-2023-10993-01;EV-2024-10225-02,Action needed: 5 vendor evaluation(s) to complete,"Hi Fatima,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10834-02 | Patriot Contracting Corp. | due 2024-05-26 | 880 days overdue
+- EV-2024-10177-01 | Harbor Mechanical Associates | due 2025-12-01 | 326 days overdue | VENDOR BIDDING NOW
+- EV-2022-10568-01 | Atlas Infrastructure Group LLC | due 2023-05-04 | 1268 days overdue
+- EV-2023-10993-01 | Atlas Data Systems Corp. | due 2024-09-19 | 764 days overdue
+- EV-2024-10225-02 | Cornerstone Data Systems Associates | due 2026-10-17 | 6 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0037,2026-10-23,E131,cdiaz@mta-example.org,evaluation_request,6,EV-2022-10691-02;EV-2023-10740-01;EV-2023-10477-02;EV-2023-11176-01;EV-2023-11176-02;EV-2023-11176-03,Action needed: 6 vendor evaluation(s) to complete,"Hi Carmen,
+
+Action needed: 6 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10691-02 | Ironline Environmental Co. | due 2024-04-12 | 924 days overdue
+- EV-2023-10740-01 | Granite Builders LLC | due 2024-12-02 | 690 days overdue
+- EV-2023-10477-02 | Keystone Consulting Ltd. | due 2025-11-03 | 354 days overdue
+- EV-2023-11176-01 | Eastern Consulting & Sons Inc. | due 2024-06-04 | 871 days overdue
+- EV-2023-11176-02 | Eastern Consulting & Sons Inc. | due 2025-06-04 | 506 days overdue
+- EV-2023-11176-03 | Eastern Consulting & Sons Inc. | due 2026-06-02 | 143 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0038,2026-10-23,E132,psantos@mta-example.org,evaluation_request,8,EV-2022-10626-01;EV-2022-10693-01;EV-2022-11067-01;EV-2022-11242-01;EV-2023-10901-02;EV-2023-10471-01;EV-2024-10839-01;EV-2024-10299-01,Action needed: 8 vendor evaluation(s) to complete,"Hi Priya,
+
+Action needed: 8 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10626-01 | Tri-State Infrastructure & Sons Inc. | due 2023-09-19 | 1130 days overdue
+- EV-2022-10693-01 | Northeast Data Systems Corp. | due 2023-07-16 | 1195 days overdue
+- EV-2022-11067-01 | Beacon Technologies Co. | due 2023-10-14 | 1105 days overdue
+- EV-2022-11242-01 | Vanguard Technologies Group LLC | due 2023-12-31 | 1027 days overdue
+- EV-2023-10901-02 | Meridian Data Systems Group Llc | due 2025-08-10 | 439 days overdue
+- EV-2023-10471-01 | Liberty Contracting Llc | due 2024-03-22 | 945 days overdue
+- EV-2024-10839-01 | Horizon Supply Associates | due 2025-12-03 | 324 days overdue
+- EV-2024-10299-01 | Summit Consulting LLC | due 2025-12-04 | 323 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0039,2026-10-23,E137,mchen@mta-example.org,evaluation_request,5,EV-2023-10768-02;EV-2022-11022-01;EV-2023-10335-02;EV-2022-10148-01;EV-2022-11223-01,Action needed: 5 vendor evaluation(s) to complete,"Hi Maria,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10768-02 | Paragon Infrastructure Associates | due 2025-03-30 | 572 days overdue | VENDOR BIDDING NOW
+- EV-2022-11022-01 | Ironline Environmental Co. | due 2023-09-27 | 1122 days overdue
+- EV-2023-10335-02 | Riverside Environmental & Sons Inc. | due 2025-02-26 | 604 days overdue
+- EV-2022-10148-01 | Ironline Rail Services LLC | due 2023-11-12 | 1076 days overdue
+- EV-2022-11223-01 | Interboro Rail Services Llc | due 2023-11-12 | 1076 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0040,2026-10-23,E138,lrodriguez@mta-example.org,evaluation_request,1,EV-2022-11229-01,Action needed: 1 vendor evaluation(s) to complete,"Hi Luis,
+
+Action needed: 1 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-11229-01 | Bridgeway Infrastructure Co. | due 2023-08-23 | 1157 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0041,2026-10-23,E139,fali@mta-example.org,evaluation_request,5,EV-2022-10458-01;EV-2022-10613-01;EV-2024-10716-01;EV-2023-10762-02;EV-2024-10364-02,Action needed: 5 vendor evaluation(s) to complete,"Hi Fatima,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10458-01 | Continental Track Works Ltd. | due 2023-03-21 | 1312 days overdue
+- EV-2022-10613-01 | Cornerstone Infrastructure Group LLC | due 2023-06-27 | 1214 days overdue
+- EV-2024-10716-01 | Granite Builders LLC | due 2025-05-11 | 530 days overdue
+- EV-2023-10762-02 | Granite Mechanical LLC | due 2026-01-08 | 288 days overdue
+- EV-2024-10364-02 | Allied Engineering Llc | due 2026-07-26 | 89 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0042,2026-10-23,E140,trahman@mta-example.org,evaluation_request,5,EV-2022-10385-02;EV-2023-10679-01;EV-2023-10802-01;EV-2023-10609-02;EV-2024-10970-02,Action needed: 5 vendor evaluation(s) to complete,"Hi Thomas,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10385-02 | Granite Construction & Sons Inc. | due 2024-08-26 | 788 days overdue
+- EV-2023-10679-01 | Lexington Infrastructure Group LLC | due 2024-04-27 | 909 days overdue
+- EV-2023-10802-01 | Queensboro Electric Co. | due 2024-09-06 | 777 days overdue
+- EV-2023-10609-02 | Horizon Contracting Corp. | due 2026-01-10 | 286 days overdue
+- EV-2024-10970-02 | Eastern Technologies Group Llc | due 2026-08-19 | 65 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0043,2026-10-23,E144,rcohen@mta-example.org,evaluation_request,7,EV-2022-10159-01;EV-2023-11287-01;EV-2023-11290-01;EV-2024-11010-01;EV-2024-10987-01;EV-2024-10600-01;EV-2024-10663-02,Action needed: 7 vendor evaluation(s) to complete,"Hi Rachel,
+
+Action needed: 7 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10159-01 | Hudson Track Works Ltd. | due 2023-11-25 | 1063 days overdue
+- EV-2023-11287-01 | Harbor Consulting Associates | due 2024-03-01 | 966 days overdue
+- EV-2023-11290-01 | Granite Mechanical LLC | due 2024-12-11 | 681 days overdue
+- EV-2024-11010-01 | Continental Mechanical Corp. | due 2024-08-23 | 791 days overdue
+- EV-2024-10987-01 | Summit Data Systems Corp. | due 2025-03-24 | 578 days overdue
+- EV-2024-10600-01 | Paragon Signal Systems & Sons Inc. | due 2026-01-02 | 294 days overdue
+- EV-2024-10663-02 | Union Infrastructure Llc | due 2026-10-13 | 10 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0044,2026-10-23,E145,gali@mta-example.org,evaluation_request,5,EV-2022-10595-01;EV-2022-10849-02;EV-2022-10002-01;EV-2024-10055-01;EV-2024-11116-02,Action needed: 5 vendor evaluation(s) to complete,"Hi Grace,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10595-01 | Keystone Consulting Ltd. | due 2023-11-25 | 1063 days overdue
+- EV-2022-10849-02 | Liberty Track Works Associates | due 2025-01-13 | 648 days overdue
+- EV-2022-10002-01 | Cornerstone Data Systems Inc. | due 2023-09-01 | 1148 days overdue
+- EV-2024-10055-01 | Allied Infrastructure Inc. | due 2025-11-11 | 346 days overdue
+- EV-2024-11116-02 | Paragon Signal Systems & Sons Inc. | due 2026-08-25 | 59 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0045,2026-10-23,E146,rhaddad@mta-example.org,evaluation_request,4,EV-2022-10293-01;EV-2023-11182-01;EV-2023-11272-01;EV-2024-10620-01,Action needed: 4 vendor evaluation(s) to complete,"Hi Rachel,
+
+Action needed: 4 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10293-01 | Atlas Data Systems Corp. | due 2023-10-24 | 1095 days overdue
+- EV-2023-11182-01 | Queensboro Consulting Ltd. | due 2024-01-19 | 1008 days overdue
+- EV-2023-11272-01 | Patriot Contracting Ltd. | due 2023-10-23 | 1096 days overdue
+- EV-2024-10620-01 | Keystone Mechanical Inc. | due 2025-07-16 | 464 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0046,2026-10-23,E147,fokafor@mta-example.org,evaluation_request,5,EV-2023-11260-02;EV-2024-10671-01;EV-2022-10378-02;EV-2024-10879-02;EV-2023-10169-01,Action needed: 5 vendor evaluation(s) to complete,"Hi Fatima,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2023-11260-02 | Interboro Mechanical Group Llc | due 2025-06-04 | 506 days overdue | VENDOR BIDDING NOW
+- EV-2024-10671-01 | Atlas Contracting Ltd. | due 2025-10-20 | 368 days overdue | VENDOR BIDDING NOW
+- EV-2022-10378-02 | Tri-State Infrastructure & Sons Inc. | due 2024-04-23 | 913 days overdue
+- EV-2024-10879-02 | Statewide Data Systems Associates | due 2025-09-25 | 393 days overdue
+- EV-2023-10169-01 | Harbor Environmental Ltd. | due 2024-11-23 | 699 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0047,2026-10-23,E148,schen@mta-example.org,evaluation_request,4,EV-2022-10392-01;EV-2023-10981-01;EV-2022-10566-01;EV-2024-10848-02,Action needed: 4 vendor evaluation(s) to complete,"Hi Sofia,
+
+Action needed: 4 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10392-01 | Liberty Rail Services Corp. | due 2023-06-25 | 1216 days overdue
+- EV-2023-10981-01 | Empire Contracting & Sons Inc. | due 2024-05-17 | 889 days overdue
+- EV-2022-10566-01 | Lexington Infrastructure Group LLC | due 2023-06-26 | 1215 days overdue
+- EV-2024-10848-02 | Empire Data Systems & Sons Inc. | due 2025-11-24 | 333 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0048,2026-10-23,E152,apatel@mta-example.org,evaluation_request,5,EV-2022-10642-01;EV-2022-10470-01;EV-2024-10146-01;EV-2024-10659-02;EV-2023-10243-03,Action needed: 5 vendor evaluation(s) to complete,"Hi Anthony,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10642-01 | Granite Contracting & Sons Inc. | due 2023-02-20 | 1341 days overdue
+- EV-2022-10470-01 | Liberty Electric Llc | due 2023-10-09 | 1110 days overdue
+- EV-2024-10146-01 | Allied Supply Inc. | due 2025-07-17 | 463 days overdue
+- EV-2024-10659-02 | Northeast Data Systems & Sons Inc. | due 2025-02-28 | 602 days overdue
+- EV-2023-10243-03 | Keystone Construction & Sons Inc. | due 2026-07-16 | 99 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0049,2026-10-23,E153,rsantos@mta-example.org,evaluation_request,5,EV-2022-11092-02;EV-2022-10401-01;EV-2023-10586-01;EV-2022-10534-01;EV-2023-10243-02,Action needed: 5 vendor evaluation(s) to complete,"Hi Robert,
+
+Action needed: 5 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-11092-02 | Paragon Signal Systems & Sons Inc. | due 2024-07-13 | 832 days overdue
+- EV-2022-10401-01 | Liberty Contracting Llc | due 2023-09-02 | 1147 days overdue
+- EV-2023-10586-01 | Liberty Contracting Llc | due 2024-06-20 | 855 days overdue
+- EV-2022-10534-01 | Harbor Contracting Corp. | due 2023-11-15 | 1073 days overdue
+- EV-2023-10243-02 | Keystone Construction & Sons Inc. | due 2025-07-16 | 464 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0050,2026-10-23,E155,hmurphy@mta-example.org,evaluation_request,4,EV-2022-11063-01;EV-2023-11101-01;EV-2023-10308-02;EV-2024-10890-01,Action needed: 4 vendor evaluation(s) to complete,"Hi Hannah,
+
+Action needed: 4 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-11063-01 | Harbor Environmental Ltd. | due 2023-05-24 | 1248 days overdue
+- EV-2023-11101-01 | Queensboro Engineering Group LLC | due 2024-10-28 | 725 days overdue
+- EV-2023-10308-02 | Paragon Technologies Inc. | due 2026-01-17 | 279 days overdue
+- EV-2024-10890-01 | Keystone Technologies Associates | due 2025-12-18 | 309 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0051,2026-10-23,E156,fthompson@mta-example.org,evaluation_request,4,EV-2022-10340-01;EV-2022-10456-01;EV-2023-10596-01;EV-2024-10686-02,Action needed: 4 vendor evaluation(s) to complete,"Hi Fatima,
+
+Action needed: 4 vendor evaluation(s) to complete as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10340-01 | Vanguard Infrastructure Ltd. | due 2023-12-20 | 1038 days overdue
+- EV-2022-10456-01 | Keystone Mechanical Inc. | due 2023-07-21 | 1190 days overdue
+- EV-2023-10596-01 | Patriot Mechanical Group LLC | due 2024-04-19 | 917 days overdue
+- EV-2024-10686-02 | Vanguard Mechanical Associates | due 2026-09-27 | 26 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0052,2026-10-23,E104,kgreene@mta-example.org,pm_reminder,17,EV-2022-10793-01;EV-2022-10109-01;EV-2023-11051-01;EV-2023-10810-01;EV-2022-10321-01;EV-2023-11231-01;EV-2023-11247-02;EV-2023-11104-02;EV-2024-10103-01;EV-2023-10869-02;EV-2023-10558-03;EV-2024-10841-01;EV-2023-10825-03;EV-2023-11104-03;EV-2024-10841-02;EV-2024-10103-02;EV-2024-11218-02,Reminder: 17 vendor evaluation(s) due or overdue,"Hi Kevin,
+
+Reminder: 17 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10793-01 | Paragon Builders Inc. | due 2023-11-20 | 1068 days overdue
+- EV-2022-10109-01 | Allied Signal Systems Group LLC | due 2023-12-10 | 1048 days overdue
+- EV-2023-11051-01 | Paragon Rail Services Co. | due 2024-05-09 | 897 days overdue
+- EV-2023-10810-01 | Vanguard Infrastructure Ltd. | due 2024-07-09 | 836 days overdue
+- EV-2022-10321-01 | Beacon Environmental Llc | due 2023-10-07 | 1112 days overdue
+- EV-2023-11231-01 | Sterling Data Systems Corp. | due 2024-04-18 | 918 days overdue
+- EV-2023-11247-02 | Vanguard Technologies Corp. | due 2025-06-14 | 496 days overdue
+- EV-2023-11104-02 | Statewide Technologies & Sons Inc. | due 2025-03-06 | 596 days overdue
+- EV-2024-10103-01 | Eastern Engineering Corp. | due 2025-06-12 | 498 days overdue
+- EV-2023-10869-02 | Northeast Builders Group LLC | due 2026-01-14 | 282 days overdue
+- EV-2023-10558-03 | Pinnacle Rail Services & Sons Inc. | due 2026-03-08 | 229 days overdue
+- EV-2024-10841-01 | Beacon Data Systems LLC | due 2025-11-21 | 336 days overdue
+- EV-2023-10825-03 | Pinnacle Infrastructure Llc | due 2026-02-01 | 264 days overdue
+- EV-2023-11104-03 | Statewide Technologies & Sons Inc. | due 2026-03-06 | 231 days overdue
+- EV-2024-10841-02 | Beacon Data Systems LLC | due 2026-05-22 | 154 days overdue
+...and 2 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0053,2026-10-23,E105,owalker@mta-example.org,pm_reminder,15,EV-2023-10384-02;EV-2022-11132-02;EV-2023-11140-02;EV-2022-10603-03;EV-2023-11105-01;EV-2023-10822-01;EV-2023-10067-02;EV-2024-10816-01;EV-2023-10219-02;EV-2024-10601-01;EV-2024-10091-01;EV-2023-10500-03;EV-2023-10067-03;EV-2022-10603-04;EV-2024-10816-02,Reminder: 15 vendor evaluation(s) due or overdue,"Hi Omar,
+
+Reminder: 15 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10384-02 | Gotham Contracting Ltd. | due 2025-11-21 | 336 days overdue | VENDOR BIDDING NOW
+- EV-2022-11132-02 | Granite Rail Services Associates | due 2024-07-03 | 842 days overdue
+- EV-2023-11140-02 | Paragon Infrastructure Group Llc | due 2025-06-20 | 490 days overdue
+- EV-2022-10603-03 | Harbor Consulting Associates | due 2025-07-05 | 475 days overdue
+- EV-2023-11105-01 | Horizon Builders Associates | due 2023-10-23 | 1096 days overdue
+- EV-2023-10822-01 | Statewide Contracting Ltd. | due 2024-06-16 | 859 days overdue
+- EV-2023-10067-02 | Beacon Consulting Group LLC | due 2025-03-14 | 588 days overdue
+- EV-2024-10816-01 | Sterling Builders Co. | due 2025-04-21 | 550 days overdue
+- EV-2023-10219-02 | Empire Rail Services Group LLC | due 2025-07-21 | 459 days overdue
+- EV-2024-10601-01 | Ironline Rail Services LLC | due 2025-06-04 | 506 days overdue
+- EV-2024-10091-01 | Pinnacle Rail Services & Sons Inc. | due 2025-12-19 | 308 days overdue
+- EV-2023-10500-03 | Patriot Mechanical Group LLC | due 2026-03-01 | 236 days overdue
+- EV-2023-10067-03 | Beacon Consulting Group LLC | due 2026-03-14 | 223 days overdue
+- EV-2022-10603-04 | Harbor Consulting Associates | due 2026-07-03 | 112 days overdue
+- EV-2024-10816-02 | Sterling Builders Co. | due 2026-04-20 | 186 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0054,2026-10-23,E106,mmurphy@mta-example.org,pm_reminder,17,EV-2022-10723-02;EV-2022-11059-02;EV-2023-10278-02;EV-2023-10025-01;EV-2022-10643-01;EV-2024-10369-01;EV-2024-10908-01;EV-2024-10575-01;EV-2024-10070-01;EV-2024-10884-02;EV-2024-10493-01;EV-2024-10487-01;EV-2024-10908-02;EV-2024-10214-02;EV-2024-10011-02;EV-2024-11185-02;EV-2024-10239-02,Reminder: 17 vendor evaluation(s) due or overdue,"Hi Maria,
+
+Reminder: 17 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10723-02 | Allied Signal Systems Group LLC | due 2024-07-18 | 827 days overdue
+- EV-2022-11059-02 | Keystone Mechanical Inc. | due 2024-04-09 | 927 days overdue
+- EV-2023-10278-02 | Interboro Engineering LLC | due 2025-05-03 | 538 days overdue
+- EV-2023-10025-01 | Liberty Builders Corp. | due 2023-09-28 | 1121 days overdue
+- EV-2022-10643-01 | Allied Builders & Sons Inc. | due 2022-09-17 | 1497 days overdue
+- EV-2024-10369-01 | Northeast Contracting Associates | due 2025-04-11 | 560 days overdue
+- EV-2024-10908-01 | Continental Data Systems Group LLC | due 2025-04-01 | 570 days overdue
+- EV-2024-10575-01 | Statewide Rail Services Co. | due 2024-11-22 | 700 days overdue
+- EV-2024-10070-01 | Northeast Environmental & Sons Inc. | due 2025-03-25 | 577 days overdue
+- EV-2024-10884-02 | Keystone Engineering Group LLC | due 2025-10-24 | 364 days overdue
+- EV-2024-10493-01 | Ironline Supply LLC | due 2025-11-18 | 339 days overdue
+- EV-2024-10487-01 | Pinnacle Infrastructure Llc | due 2025-12-03 | 324 days overdue
+- EV-2024-10908-02 | Continental Data Systems Group LLC | due 2026-03-31 | 206 days overdue
+- EV-2024-10214-02 | Paragon Technologies Inc. | due 2026-03-18 | 219 days overdue
+- EV-2024-10011-02 | Sterling Consulting Inc. | due 2026-03-13 | 224 days overdue
+...and 2 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0055,2026-10-23,E107,tbrown@mta-example.org,pm_reminder,11,EV-2023-10179-01;EV-2023-10266-01;EV-2023-10952-02;EV-2022-10713-01;EV-2022-11156-01;EV-2022-11156-02;EV-2024-11157-01;EV-2023-10614-01;EV-2023-10307-03;EV-2024-10275-01;EV-2024-10582-02,Reminder: 11 vendor evaluation(s) due or overdue,"Hi Thomas,
+
+Reminder: 11 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10179-01 | Vanguard Track Works Inc. | due 2024-11-14 | 708 days overdue | VENDOR BIDDING NOW
+- EV-2023-10266-01 | Crescent Track Works Co. | due 2024-09-20 | 763 days overdue
+- EV-2023-10952-02 | Sterling Data Systems Llc | due 2025-05-19 | 522 days overdue
+- EV-2022-10713-01 | Pinnacle Engineering Inc. | due 2023-04-05 | 1297 days overdue
+- EV-2022-11156-01 | Beacon Technologies Co. | due 2023-07-10 | 1201 days overdue
+- EV-2022-11156-02 | Beacon Technologies Co. | due 2024-07-10 | 835 days overdue
+- EV-2024-11157-01 | Sterling Technologies Corp. | due 2025-11-16 | 341 days overdue
+- EV-2023-10614-01 | Vanguard Construction Ltd. | due 2024-04-03 | 933 days overdue
+- EV-2023-10307-03 | Queensboro Engineering Group LLC | due 2026-02-01 | 264 days overdue
+- EV-2024-10275-01 | Sterling Builders Group Llc | due 2026-01-27 | 269 days overdue
+- EV-2024-10582-02 | Union Infrastructure Co. | due 2026-09-27 | 26 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0056,2026-10-23,E108,epark@mta-example.org,pm_reminder,12,EV-2023-10344-01;EV-2022-10649-02;EV-2022-10929-01;EV-2022-10991-01;EV-2022-11277-01;EV-2023-10495-01;EV-2022-10549-01;EV-2023-10837-01;EV-2023-10151-01;EV-2024-10319-01;EV-2023-11226-03;EV-2023-10837-03,Reminder: 12 vendor evaluation(s) due or overdue,"Hi Elena,
+
+Reminder: 12 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10344-01 | Northeast Supply Group Llc | due 2024-03-27 | 940 days overdue | VENDOR BIDDING NOW
+- EV-2022-10649-02 | Beacon Technologies Ltd. | due 2024-03-14 | 953 days overdue
+- EV-2022-10929-01 | Riverside Supply Corp. | due 2023-09-07 | 1142 days overdue
+- EV-2022-10991-01 | Atlas Signal Systems Associates | due 2023-02-25 | 1336 days overdue
+- EV-2022-11277-01 | Liberty Construction Group LLC | due 2023-06-20 | 1221 days overdue
+- EV-2023-10495-01 | Keystone Consulting Ltd. | due 2024-04-09 | 927 days overdue
+- EV-2022-10549-01 | Vanguard Infrastructure Llc | due 2023-06-27 | 1214 days overdue
+- EV-2023-10837-01 | Riverside Engineering Inc. | due 2024-07-28 | 817 days overdue
+- EV-2023-10151-01 | Liberty Electric Group LLC | due 2024-04-10 | 926 days overdue
+- EV-2024-10319-01 | Allied Supply Llc | due 2026-01-19 | 277 days overdue
+- EV-2023-11226-03 | Paragon Technologies Inc. | due 2026-04-14 | 192 days overdue
+- EV-2023-10837-03 | Riverside Engineering Inc. | due 2026-07-26 | 89 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0057,2026-10-23,E112,ppark@mta-example.org,pm_reminder,14,EV-2022-10997-01;EV-2022-10924-02;EV-2023-11163-01;EV-2022-11112-03;EV-2023-10741-02;EV-2022-10363-02;EV-2023-11212-01;EV-2022-10924-01;EV-2022-10351-01;EV-2023-10152-02;EV-2024-11158-01;EV-2023-10813-03;EV-2024-11108-02;EV-2024-10356-02,Reminder: 14 vendor evaluation(s) due or overdue,"Hi Priya,
+
+Reminder: 14 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10997-01 | Lexington Data Systems Inc. | due 2023-07-02 | 1209 days overdue | VENDOR BIDDING NOW
+- EV-2022-10924-02 | Continental Mechanical Corp. | due 2023-08-25 | 1155 days overdue
+- EV-2023-11163-01 | Beacon Builders Corp. | due 2024-04-11 | 925 days overdue
+- EV-2022-11112-03 | Liberty Contracting Associates | due 2025-04-05 | 566 days overdue
+- EV-2023-10741-02 | Keystone Consulting Ltd. | due 2024-10-18 | 735 days overdue
+- EV-2022-10363-02 | Paragon Signal Systems & Sons Inc. | due 2024-04-27 | 909 days overdue
+- EV-2023-11212-01 | Queensboro Engineering Group LLC | due 2025-01-18 | 643 days overdue
+- EV-2022-10924-01 | Continental Mechanical Corp. | due 2023-02-24 | 1337 days overdue
+- EV-2022-10351-01 | Union Construction Group Llc | due 2023-09-01 | 1148 days overdue
+- EV-2023-10152-02 | Ironline Mechanical Corp. | due 2025-11-05 | 352 days overdue
+- EV-2024-11158-01 | Ironline Environmental Co. | due 2025-04-01 | 570 days overdue
+- EV-2023-10813-03 | Empire Consulting Group LLC | due 2026-07-06 | 109 days overdue
+- EV-2024-11108-02 | Granite Contracting & Sons Inc. | due 2026-03-06 | 231 days overdue
+- EV-2024-10356-02 | Liberty Supply & Sons Inc. | due 2026-06-02 | 143 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0058,2026-10-23,E113,phussain@mta-example.org,pm_reminder,16,EV-2022-10584-01;EV-2022-10406-01;EV-2022-10406-02;EV-2023-10942-01;EV-2022-10292-01;EV-2023-10877-01;EV-2023-11122-01;EV-2024-10775-01;EV-2024-10984-01;EV-2024-10030-01;EV-2023-11122-03;EV-2024-10030-02;EV-2024-10413-02;EV-2024-11172-02;EV-2023-10501-03;EV-2024-10796-02,Reminder: 16 vendor evaluation(s) due or overdue,"Hi Priya,
+
+Reminder: 16 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10584-01 | Statewide Signal Systems Corp. | due 2022-08-27 | 1518 days overdue
+- EV-2022-10406-01 | Summit Consulting LLC | due 2023-11-27 | 1061 days overdue
+- EV-2022-10406-02 | Summit Consulting LLC | due 2024-11-27 | 695 days overdue
+- EV-2023-10942-01 | Summit Contracting Corp. | due 2024-02-12 | 984 days overdue
+- EV-2022-10292-01 | Meridian Contracting Co. | due 2023-03-08 | 1325 days overdue
+- EV-2023-10877-01 | Horizon Technologies Inc. | due 2024-05-21 | 885 days overdue
+- EV-2023-11122-01 | Sterling Infrastructure Corp. | due 2024-02-08 | 988 days overdue
+- EV-2024-10775-01 | Cornerstone Infrastructure Group LLC | due 2025-11-12 | 345 days overdue
+- EV-2024-10984-01 | Liberty Engineering Group LLC | due 2025-11-13 | 344 days overdue
+- EV-2024-10030-01 | Horizon Contracting Corp. | due 2025-07-02 | 478 days overdue
+- EV-2023-11122-03 | Sterling Infrastructure Corp. | due 2026-02-06 | 259 days overdue
+- EV-2024-10030-02 | Horizon Contracting Corp. | due 2025-12-31 | 296 days overdue
+- EV-2024-10413-02 | Hudson Track Works Ltd. | due 2026-03-27 | 210 days overdue
+- EV-2024-11172-02 | Atlas Infrastructure Group LLC | due 2026-06-14 | 131 days overdue
+- EV-2023-10501-03 | Union Electric Group LLC | due 2026-10-02 | 21 days overdue
+...and 1 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0059,2026-10-23,E114,awalker@mta-example.org,pm_reminder,23,EV-2022-10284-01;EV-2022-10048-02;EV-2022-10851-02;EV-2023-10845-01;EV-2022-10220-01;EV-2023-10094-01;EV-2022-11275-01;EV-2022-10778-01;EV-2022-11275-02;EV-2023-10525-01;EV-2023-11110-01;EV-2023-11110-02;EV-2023-10833-01;EV-2023-10005-01;EV-2023-10005-02;EV-2024-10587-01;EV-2023-11071-02;EV-2022-10891-04;EV-2022-10648-04;EV-2023-10525-03;EV-2023-10005-03;EV-2023-10833-03;EV-2023-10042-03,Reminder: 23 vendor evaluation(s) due or overdue,"Hi Andre,
+
+Reminder: 23 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10284-01 | Granite Electric Inc. | due 2023-09-27 | 1122 days overdue | VENDOR BIDDING NOW
+- EV-2022-10048-02 | Ironline Supply LLC | due 2024-06-26 | 849 days overdue
+- EV-2022-10851-02 | Keystone Engineering Group LLC | due 2024-07-03 | 842 days overdue
+- EV-2023-10845-01 | Eastern Technologies Group Llc | due 2024-10-08 | 745 days overdue
+- EV-2022-10220-01 | Liberty Rail Services Corp. | due 2023-04-11 | 1291 days overdue
+- EV-2023-10094-01 | Empire Infrastructure Inc. | due 2024-02-22 | 974 days overdue
+- EV-2022-11275-01 | Empire Builders Group Llc | due 2023-04-10 | 1292 days overdue
+- EV-2022-10778-01 | Hudson Technologies Llc | due 2023-06-12 | 1229 days overdue
+- EV-2022-11275-02 | Empire Builders Group Llc | due 2024-04-10 | 926 days overdue
+- EV-2023-10525-01 | Harbor Electric Co. | due 2024-06-18 | 857 days overdue
+- EV-2023-11110-01 | Keystone Engineering Co. | due 2024-02-09 | 987 days overdue
+- EV-2023-11110-02 | Keystone Engineering Co. | due 2025-02-09 | 621 days overdue
+- EV-2023-10833-01 | Liberty Electric Llc | due 2024-10-08 | 745 days overdue
+- EV-2023-10005-01 | Statewide Rail Services Inc. | due 2024-07-18 | 827 days overdue
+- EV-2023-10005-02 | Statewide Rail Services Inc. | due 2025-07-18 | 462 days overdue
+...and 8 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0060,2026-10-23,E115,ojohnson@mta-example.org,pm_reminder,18,EV-2022-10402-01;EV-2022-10733-02;EV-2022-10198-01;EV-2022-10019-03;EV-2022-10538-01;EV-2022-10557-01;EV-2023-10799-01;EV-2023-10368-01;EV-2023-10041-01;EV-2022-10881-01;EV-2024-11168-01;EV-2022-10252-01;EV-2023-10756-01;EV-2024-10056-01;EV-2023-11243-02;EV-2024-10972-01;EV-2024-10653-01;EV-2024-11062-01,Reminder: 18 vendor evaluation(s) due or overdue,"Hi Omar,
+
+Reminder: 18 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10402-01 | Interboro Rail Services Llc | due 2022-11-10 | 1443 days overdue
+- EV-2022-10733-02 | Union Mechanical Co. | due 2024-08-13 | 801 days overdue
+- EV-2022-10198-01 | Paragon Signal Systems & Sons Inc. | due 2023-09-19 | 1130 days overdue
+- EV-2022-10019-03 | Ironline Rail Services LLC | due 2025-08-16 | 433 days overdue
+- EV-2022-10538-01 | Northeast Environmental & Sons Inc. | due 2023-06-18 | 1223 days overdue
+- EV-2022-10557-01 | Union Supply Corp. | due 2023-09-27 | 1122 days overdue
+- EV-2023-10799-01 | Statewide Contracting Ltd. | due 2024-09-25 | 758 days overdue
+- EV-2023-10368-01 | Horizon Engineering Group Llc | due 2023-10-05 | 1114 days overdue
+- EV-2023-10041-01 | Meridian Supply Corp. | due 2025-01-27 | 634 days overdue
+- EV-2022-10881-01 | Pinnacle Consulting Corp. | due 2024-01-13 | 1014 days overdue
+- EV-2024-11168-01 | Summit Engineering Associates | due 2025-09-03 | 415 days overdue
+- EV-2022-10252-01 | Liberty Builders Ltd. | due 2023-08-18 | 1162 days overdue
+- EV-2023-10756-01 | Northeast Data Systems & Sons Inc. | due 2024-10-16 | 737 days overdue
+- EV-2024-10056-01 | Riverside Environmental & Sons Inc. | due 2025-11-07 | 350 days overdue
+- EV-2023-11243-02 | Summit Consulting LLC | due 2026-01-10 | 286 days overdue
+...and 3 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0061,2026-10-23,E116,hpatel@mta-example.org,pm_reminder,19,EV-2022-10158-01;EV-2022-11257-01;EV-2022-10843-02;EV-2022-11152-01;EV-2023-10766-02;EV-2022-10843-01;EV-2023-10560-01;EV-2023-10660-02;EV-2023-10766-01;EV-2024-11210-01;EV-2023-10515-01;EV-2024-10137-02;EV-2024-10187-02;EV-2024-10069-01;EV-2024-10137-01;EV-2024-10060-01;EV-2023-10543-03;EV-2023-10492-03;EV-2024-10207-02,Reminder: 19 vendor evaluation(s) due or overdue,"Hi Hannah,
+
+Reminder: 19 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10158-01 | Atlas Contracting Ltd. | due 2023-11-06 | 1082 days overdue | VENDOR BIDDING NOW
+- EV-2022-11257-01 | Eastern Technologies Group Llc | due 2023-02-27 | 1334 days overdue
+- EV-2022-10843-02 | Keystone Consulting & Sons Inc. | due 2023-09-13 | 1136 days overdue
+- EV-2022-11152-01 | Meridian Contracting Co. | due 2023-02-03 | 1358 days overdue
+- EV-2023-10766-02 | Lexington Infrastructure Group LLC | due 2025-04-23 | 548 days overdue
+- EV-2022-10843-01 | Keystone Consulting & Sons Inc. | due 2023-03-15 | 1318 days overdue
+- EV-2023-10560-01 | Harbor Contracting Co. | due 2024-02-15 | 981 days overdue
+- EV-2023-10660-02 | Horizon Technologies & Sons Inc. | due 2025-02-26 | 604 days overdue
+- EV-2023-10766-01 | Lexington Infrastructure Group LLC | due 2024-10-24 | 729 days overdue
+- EV-2024-11210-01 | Summit Signal Systems Inc. | due 2025-07-21 | 459 days overdue
+- EV-2023-10515-01 | Allied Track Works Group Llc | due 2025-01-23 | 638 days overdue
+- EV-2024-10137-02 | Allied Track Works Group Llc | due 2025-08-21 | 428 days overdue
+- EV-2024-10187-02 | Union Infrastructure Co. | due 2025-10-29 | 359 days overdue
+- EV-2024-10069-01 | Harbor Signal Systems Co. | due 2025-06-15 | 495 days overdue
+- EV-2024-10137-01 | Allied Track Works Group Llc | due 2025-02-21 | 609 days overdue
+...and 4 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0062,2026-10-23,E117,acohen@mta-example.org,pm_reminder,2,EV-2024-10491-01;EV-2024-10491-02,Reminder: 2 vendor evaluation(s) due or overdue,"Hi Aisha,
+
+Reminder: 2 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10491-01 | Hudson Rail Services & Sons Inc. | due 2025-08-31 | 418 days overdue
+- EV-2024-10491-02 | Hudson Rail Services & Sons Inc. | due 2026-08-31 | 53 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0063,2026-10-23,E118,slopez@mta-example.org,pm_reminder,9,EV-2023-11236-01;EV-2022-10035-01;EV-2022-10035-03;EV-2023-10234-01;EV-2023-10814-02;EV-2024-10607-01;EV-2023-10234-03;EV-2024-11281-02;EV-2024-10395-02,Reminder: 9 vendor evaluation(s) due or overdue,"Hi Samuel,
+
+Reminder: 9 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-11236-01 | Riverside Consulting Corp. | due 2024-05-03 | 903 days overdue
+- EV-2022-10035-01 | Liberty Builders Ltd. | due 2023-05-05 | 1267 days overdue
+- EV-2022-10035-03 | Liberty Builders Ltd. | due 2025-05-05 | 536 days overdue
+- EV-2023-10234-01 | Summit Data Systems Corp. | due 2024-08-17 | 797 days overdue
+- EV-2023-10814-02 | Riverside Mechanical Corp. | due 2025-12-23 | 304 days overdue
+- EV-2024-10607-01 | Statewide Signal Systems Corp. | due 2025-12-13 | 314 days overdue
+- EV-2023-10234-03 | Summit Data Systems Corp. | due 2026-08-15 | 69 days overdue
+- EV-2024-11281-02 | Cornerstone Builders Associates | due 2026-10-06 | 17 days overdue
+- EV-2024-10395-02 | Vanguard Infrastructure Ltd. | due 2026-10-16 | 7 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0064,2026-10-23,E119,vokafor@mta-example.org,pm_reminder,7,EV-2023-10051-01;EV-2023-10668-03;EV-2023-11225-03;EV-2024-10556-01;EV-2024-10937-01;EV-2024-11121-02;EV-2024-10079-02,Reminder: 7 vendor evaluation(s) due or overdue,"Hi Victor,
+
+Reminder: 7 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10051-01 | Bridgeway Mechanical Associates | due 2024-04-22 | 914 days overdue
+- EV-2023-10668-03 | Lexington Data Systems Inc. | due 2026-07-28 | 87 days overdue | VENDOR BIDDING NOW
+- EV-2023-11225-03 | Paragon Infrastructure Associates | due 2026-09-02 | 51 days overdue | VENDOR BIDDING NOW
+- EV-2024-10556-01 | Atlas Signal Systems Ltd. | due 2025-05-10 | 531 days overdue
+- EV-2024-10937-01 | Horizon Builders Associates | due 2025-08-10 | 439 days overdue
+- EV-2024-11121-02 | Interboro Mechanical Group Llc | due 2026-08-30 | 54 days overdue | VENDOR BIDDING NOW
+- EV-2024-10079-02 | Granite Rail Services & Sons Inc. | due 2026-05-07 | 169 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0065,2026-10-23,E120,mpark@mta-example.org,pm_reminder,27,EV-2022-10102-01;EV-2022-10712-02;EV-2022-11213-01;EV-2022-10512-01;EV-2022-10721-03;EV-2024-10396-01;EV-2023-10304-01;EV-2024-10798-01;EV-2023-10910-02;EV-2024-10359-01;EV-2022-10511-01;EV-2023-10212-01;EV-2023-10212-02;EV-2023-10267-01;EV-2024-10383-01;EV-2023-10181-01;EV-2024-10366-01;EV-2024-10261-01;EV-2023-10153-02;EV-2024-10977-01;EV-2024-11245-01;EV-2023-10913-01;EV-2024-10316-01;EV-2024-10977-02;EV-2024-10316-02;EV-2024-10974-02;EV-2024-10366-02,Reminder: 27 vendor evaluation(s) due or overdue,"Hi Marcus,
+
+Reminder: 27 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10102-01 | Interboro Builders Group Llc | due 2023-03-10 | 1323 days overdue | VENDOR BIDDING NOW
+- EV-2022-10712-02 | Riverside Mechanical Corp. | due 2024-12-31 | 661 days overdue
+- EV-2022-11213-01 | Vanguard Technologies Group LLC | due 2023-08-01 | 1179 days overdue
+- EV-2022-10512-01 | Harbor Data Systems Group LLC | due 2023-08-24 | 1156 days overdue
+- EV-2022-10721-03 | Meridian Contracting Co. | due 2025-03-31 | 571 days overdue
+- EV-2024-10396-01 | Horizon Engineering Associates | due 2025-07-04 | 476 days overdue
+- EV-2023-10304-01 | Granite Construction Group LLC | due 2024-04-23 | 913 days overdue
+- EV-2024-10798-01 | Northeast Data Systems & Sons Inc. | due 2025-01-17 | 644 days overdue
+- EV-2023-10910-02 | Bridgeway Contracting Inc. | due 2025-11-27 | 330 days overdue
+- EV-2024-10359-01 | Queensboro Contracting Group LLC | due 2024-12-12 | 680 days overdue
+- EV-2022-10511-01 | Liberty Electric Llc | due 2023-12-19 | 1039 days overdue
+- EV-2023-10212-01 | Ironline Track Works & Sons Inc. | due 2024-03-13 | 954 days overdue
+- EV-2023-10212-02 | Ironline Track Works & Sons Inc. | due 2025-03-14 | 588 days overdue
+- EV-2023-10267-01 | Patriot Construction Co. | due 2024-02-17 | 979 days overdue
+- EV-2024-10383-01 | Ironline Environmental Llc | due 2025-06-19 | 491 days overdue
+...and 12 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0066,2026-10-23,E123,ymartinez@mta-example.org,pm_reminder,27,EV-2023-11225-01;EV-2024-11121-01;EV-2022-10805-02;EV-2022-10964-02;EV-2022-10670-02;EV-2022-10803-01;EV-2022-10805-01;EV-2022-10964-01;EV-2022-10670-01;EV-2022-10481-01;EV-2022-10046-01;EV-2023-10522-01;EV-2023-10897-01;EV-2022-10286-01;EV-2022-11240-01;EV-2023-11296-02;EV-2023-11278-02;EV-2023-10940-01;EV-2024-10870-01;EV-2023-10254-01;EV-2023-10959-02;EV-2024-10176-01;EV-2024-10100-01;EV-2023-10360-02;EV-2023-10940-02;EV-2024-10811-02;EV-2024-10371-02,Reminder: 27 vendor evaluation(s) due or overdue,"Hi Yuki,
+
+Reminder: 27 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-11225-01 | Paragon Infrastructure Associates | due 2024-09-04 | 779 days overdue | VENDOR BIDDING NOW
+- EV-2024-11121-01 | Interboro Mechanical Group Llc | due 2025-08-31 | 418 days overdue | VENDOR BIDDING NOW
+- EV-2022-10805-02 | Allied Electric Associates | due 2023-09-20 | 1129 days overdue
+- EV-2022-10964-02 | Paragon Environmental Co. | due 2024-02-20 | 976 days overdue
+- EV-2022-10670-02 | Northeast Technologies & Sons Inc. | due 2023-12-01 | 1057 days overdue
+- EV-2022-10803-01 | Summit Technologies Inc. | due 2023-07-26 | 1185 days overdue
+- EV-2022-10805-01 | Allied Electric Associates | due 2023-03-22 | 1311 days overdue
+- EV-2022-10964-01 | Paragon Environmental Co. | due 2023-02-21 | 1340 days overdue
+- EV-2022-10670-01 | Northeast Technologies & Sons Inc. | due 2023-06-02 | 1239 days overdue
+- EV-2022-10481-01 | Keystone Consulting & Sons Inc. | due 2023-10-20 | 1099 days overdue
+- EV-2022-10046-01 | Union Electric Group LLC | due 2022-11-27 | 1426 days overdue
+- EV-2023-10522-01 | Empire Infrastructure Group Llc | due 2023-10-16 | 1103 days overdue
+- EV-2023-10897-01 | Ironline Builders Ltd. | due 2024-02-21 | 975 days overdue
+- EV-2022-10286-01 | Gotham Environmental Corp. | due 2023-03-09 | 1324 days overdue
+- EV-2022-11240-01 | Allied Mechanical Group Llc | due 2023-07-28 | 1183 days overdue
+...and 12 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0067,2026-10-23,E124,swilliams@mta-example.org,pm_reminder,28,EV-2022-10561-01;EV-2022-10953-01;EV-2022-11093-02;EV-2022-10270-02;EV-2022-10747-01;EV-2023-11009-01;EV-2022-10530-02;EV-2022-11193-01;EV-2022-11030-01;EV-2022-10794-01;EV-2022-10287-01;EV-2022-10497-01;EV-2022-11237-02;EV-2023-10034-02;EV-2023-10774-02;EV-2022-10689-01;EV-2022-10689-02;EV-2022-10689-03;EV-2022-10530-01;EV-2023-11069-01;EV-2024-10590-01;EV-2023-11246-01;EV-2024-10098-01;EV-2024-10115-01;EV-2023-11246-02;EV-2024-10355-01;EV-2024-10032-02;EV-2022-10689-04,Reminder: 28 vendor evaluation(s) due or overdue,"Hi Samuel,
+
+Reminder: 28 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10561-01 | Harbor Mechanical Associates | due 2023-05-18 | 1254 days overdue | VENDOR BIDDING NOW
+- EV-2022-10953-01 | Hudson Rail Services & Sons Inc. | due 2024-01-20 | 1007 days overdue
+- EV-2022-11093-02 | Allied Supply Inc. | due 2024-03-11 | 956 days overdue
+- EV-2022-10270-02 | Sterling Data Systems Corp. | due 2024-04-08 | 928 days overdue
+- EV-2022-10747-01 | Horizon Builders & Sons Inc. | due 2023-10-07 | 1112 days overdue
+- EV-2023-11009-01 | Hudson Rail Services & Sons Inc. | due 2024-05-11 | 895 days overdue
+- EV-2022-10530-02 | Horizon Construction Corp. | due 2024-02-10 | 986 days overdue
+- EV-2022-11193-01 | Harbor Environmental & Sons Inc. | due 2023-06-17 | 1224 days overdue
+- EV-2022-11030-01 | Bridgeway Infrastructure Corp. | due 2022-11-03 | 1450 days overdue
+- EV-2022-10794-01 | Allied Engineering Corp. | due 2023-09-05 | 1144 days overdue
+- EV-2022-10287-01 | Statewide Environmental Ltd. | due 2023-08-04 | 1176 days overdue
+- EV-2022-10497-01 | Northeast Infrastructure Corp. | due 2023-05-28 | 1244 days overdue
+- EV-2022-11237-02 | Paragon Construction Co. | due 2024-08-10 | 804 days overdue
+- EV-2023-10034-02 | Northeast Environmental & Sons Inc. | due 2025-07-14 | 466 days overdue
+- EV-2023-10774-02 | Beacon Data Systems LLC | due 2025-10-19 | 369 days overdue
+...and 13 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0068,2026-10-23,E128,mcohen@mta-example.org,pm_reminder,20,EV-2022-10273-02;EV-2022-10823-02;EV-2022-11151-02;EV-2022-10858-01;EV-2022-11076-01;EV-2022-10823-01;EV-2022-10013-01;EV-2023-10229-02;EV-2022-10424-01;EV-2023-10760-01;EV-2023-10310-02;EV-2024-10618-01;EV-2024-10935-01;EV-2024-10909-01;EV-2024-10772-01;EV-2022-11056-03;EV-2024-10037-01;EV-2024-10430-02;EV-2024-10071-02;EV-2024-10935-02,Reminder: 20 vendor evaluation(s) due or overdue,"Hi Michael,
+
+Reminder: 20 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10273-02 | Hudson Technologies Corp. | due 2024-04-06 | 930 days overdue
+- EV-2022-10823-02 | Summit Engineering Associates | due 2023-12-28 | 1030 days overdue
+- EV-2022-11151-02 | Union Signal Systems Associates | due 2024-03-16 | 951 days overdue
+- EV-2022-10858-01 | Summit Data Systems Corp. | due 2023-11-06 | 1082 days overdue
+- EV-2022-11076-01 | Statewide Engineering Group LLC | due 2023-02-07 | 1354 days overdue
+- EV-2022-10823-01 | Summit Engineering Associates | due 2023-06-27 | 1214 days overdue
+- EV-2022-10013-01 | Granite Supply Ltd. | due 2022-10-22 | 1462 days overdue
+- EV-2023-10229-02 | Queensboro Consulting Ltd. | due 2024-11-18 | 704 days overdue
+- EV-2022-10424-01 | Continental Electric Co. | due 2023-09-01 | 1148 days overdue
+- EV-2023-10760-01 | Horizon Construction Corp. | due 2024-10-31 | 722 days overdue
+- EV-2023-10310-02 | Empire Signal Systems Ltd. | due 2025-07-23 | 457 days overdue
+- EV-2024-10618-01 | Union Data Systems Co. | due 2025-11-06 | 351 days overdue
+- EV-2024-10935-01 | Granite Construction & Sons Inc. | due 2025-09-24 | 394 days overdue
+- EV-2024-10909-01 | Liberty Builders Ltd. | due 2025-04-02 | 569 days overdue
+- EV-2024-10772-01 | Paragon Environmental Co. | due 2025-04-05 | 566 days overdue
+...and 5 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0069,2026-10-23,E130,frahman@mta-example.org,pm_reminder,22,EV-2022-11195-01;EV-2023-10007-01;EV-2022-10004-01;EV-2022-10257-01;EV-2022-11289-02;EV-2022-10348-03;EV-2023-11143-02;EV-2023-10147-01;EV-2022-11169-01;EV-2023-10338-01;EV-2024-10917-01;EV-2022-10021-01;EV-2023-10345-01;EV-2023-10375-01;EV-2024-11239-01;EV-2024-10409-01;EV-2024-10640-01;EV-2024-10640-02;EV-2024-10398-01;EV-2023-10788-03;EV-2024-10409-02;EV-2024-11145-02,Reminder: 22 vendor evaluation(s) due or overdue,"Hi Fatima,
+
+Reminder: 22 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-11195-01 | Atlas Environmental LLC | due 2023-01-17 | 1375 days overdue | VENDOR BIDDING NOW
+- EV-2023-10007-01 | Paragon Infrastructure Associates | due 2024-06-04 | 871 days overdue | VENDOR BIDDING NOW
+- EV-2022-10004-01 | Meridian Data Systems Group Llc | due 2023-10-11 | 1108 days overdue
+- EV-2022-10257-01 | Paragon Electric Co. | due 2024-01-24 | 1003 days overdue
+- EV-2022-11289-02 | Horizon Contracting Corp. | due 2024-03-30 | 937 days overdue
+- EV-2022-10348-03 | Empire Rail Services & Sons Inc. | due 2025-09-27 | 391 days overdue
+- EV-2023-11143-02 | Bridgeway Infrastructure Corp. | due 2024-09-13 | 770 days overdue
+- EV-2023-10147-01 | Horizon Builders & Sons Inc. | due 2023-08-23 | 1157 days overdue
+- EV-2022-11169-01 | Allied Infrastructure Inc. | due 2023-09-05 | 1144 days overdue
+- EV-2023-10338-01 | Cornerstone Electric Group Llc | due 2024-04-15 | 921 days overdue
+- EV-2024-10917-01 | Cornerstone Track Works Associates | due 2025-08-22 | 427 days overdue
+- EV-2022-10021-01 | Union Engineering Associates | due 2023-12-26 | 1032 days overdue
+- EV-2023-10345-01 | Horizon Construction Corp. | due 2024-06-07 | 868 days overdue
+- EV-2023-10375-01 | Tri-State Contracting Associates | due 2024-07-19 | 826 days overdue
+- EV-2024-11239-01 | Paragon Electric Co. | due 2025-09-01 | 417 days overdue
+...and 7 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0070,2026-10-23,E131,cdiaz@mta-example.org,pm_reminder,18,EV-2024-11019-01;EV-2022-11103-02;EV-2022-10248-02;EV-2022-11147-01;EV-2022-10568-02;EV-2022-10374-01;EV-2022-10446-03;EV-2023-10064-01;EV-2022-10404-02;EV-2023-10619-01;EV-2023-10224-02;EV-2023-10477-01;EV-2024-10895-01;EV-2023-11050-02;EV-2023-10088-01;EV-2024-10071-01;EV-2023-10088-02;EV-2024-10895-02,Reminder: 18 vendor evaluation(s) due or overdue,"Hi Carmen,
+
+Reminder: 18 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2024-11019-01 | Pinnacle Infrastructure Ltd. | due 2025-04-23 | 548 days overdue | VENDOR BIDDING NOW
+- EV-2022-11103-02 | Hudson Technologies Associates | due 2024-05-28 | 878 days overdue
+- EV-2022-10248-02 | Queensboro Electric Co. | due 2024-10-18 | 735 days overdue
+- EV-2022-11147-01 | Sterling Rail Services Co. | due 2023-03-18 | 1315 days overdue
+- EV-2022-10568-02 | Atlas Infrastructure Group LLC | due 2024-05-04 | 902 days overdue
+- EV-2022-10374-01 | Liberty Builders Ltd. | due 2024-01-19 | 1008 days overdue
+- EV-2022-10446-03 | Queensboro Engineering Group LLC | due 2025-12-31 | 296 days overdue
+- EV-2023-10064-01 | Vanguard Mechanical Associates | due 2024-02-03 | 993 days overdue
+- EV-2022-10404-02 | Continental Track Works Ltd. | due 2024-01-06 | 1021 days overdue
+- EV-2023-10619-01 | Beacon Builders Corp. | due 2024-05-19 | 887 days overdue
+- EV-2023-10224-02 | Patriot Mechanical Co. | due 2025-11-05 | 352 days overdue
+- EV-2023-10477-01 | Keystone Consulting Ltd. | due 2024-11-03 | 719 days overdue
+- EV-2024-10895-01 | Interboro Rail Services Llc | due 2025-05-25 | 516 days overdue
+- EV-2023-11050-02 | Vanguard Technologies Corp. | due 2025-07-31 | 449 days overdue
+- EV-2023-10088-01 | Bridgeway Mechanical Associates | due 2024-12-25 | 667 days overdue
+...and 3 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0071,2026-10-23,E132,psantos@mta-example.org,pm_reminder,18,EV-2022-10693-02;EV-2022-10435-01;EV-2022-10795-01;EV-2022-10637-03;EV-2023-10189-01;EV-2022-10637-02;EV-2024-10117-01;EV-2023-10367-01;EV-2023-10829-02;EV-2023-10831-01;EV-2024-10221-01;EV-2024-10547-01;EV-2024-11203-01;EV-2024-10485-02;EV-2024-10420-02;EV-2023-10901-03;EV-2023-10829-03;EV-2024-11203-02,Reminder: 18 vendor evaluation(s) due or overdue,"Hi Priya,
+
+Reminder: 18 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10693-02 | Northeast Data Systems Corp. | due 2024-07-16 | 829 days overdue
+- EV-2022-10435-01 | Keystone Engineering Group LLC | due 2023-03-06 | 1327 days overdue
+- EV-2022-10795-01 | Empire Builders Group Llc | due 2022-08-15 | 1530 days overdue
+- EV-2022-10637-03 | Statewide Rail Services Co. | due 2025-11-18 | 339 days overdue
+- EV-2023-10189-01 | Beacon Technologies Group LLC | due 2024-03-12 | 955 days overdue
+- EV-2022-10637-02 | Statewide Rail Services Co. | due 2024-11-20 | 702 days overdue
+- EV-2024-10117-01 | Empire Contracting LLC | due 2025-06-21 | 489 days overdue
+- EV-2023-10367-01 | Empire Infrastructure Group Llc | due 2024-06-27 | 848 days overdue
+- EV-2023-10829-02 | Harbor Data Systems Group LLC | due 2025-07-13 | 467 days overdue
+- EV-2023-10831-01 | Atlas Infrastructure Group LLC | due 2024-02-27 | 969 days overdue
+- EV-2024-10221-01 | Union Electric Group LLC | due 2024-09-05 | 778 days overdue
+- EV-2024-10547-01 | Interboro Rail Services Llc | due 2025-07-25 | 455 days overdue
+- EV-2024-11203-01 | Northeast Contracting Associates | due 2025-10-25 | 363 days overdue
+- EV-2024-10485-02 | Keystone Technologies Associates | due 2026-04-02 | 204 days overdue
+- EV-2024-10420-02 | Hudson Construction Associates | due 2026-04-15 | 191 days overdue
+...and 3 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0072,2026-10-23,E136,rpark@mta-example.org,pm_reminder,19,EV-2022-10767-01;EV-2023-10573-01;EV-2023-10632-01;EV-2023-10138-01;EV-2022-10994-02;EV-2022-10994-03;EV-2023-10809-01;EV-2024-11269-01;EV-2024-11005-01;EV-2023-10809-02;EV-2024-10503-01;EV-2024-10488-02;EV-2024-10503-02;EV-2024-10197-02;EV-2024-10092-02;EV-2024-11269-02;EV-2022-10994-04;EV-2024-10982-02;EV-2024-10838-02,Reminder: 19 vendor evaluation(s) due or overdue,"Hi Rachel,
+
+Reminder: 19 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10767-01 | Sterling Infrastructure Corp. | due 2023-09-11 | 1138 days overdue
+- EV-2023-10573-01 | Atlas Infrastructure Group LLC | due 2024-07-08 | 837 days overdue
+- EV-2023-10632-01 | Bridgeway Builders Corp. | due 2024-05-07 | 899 days overdue
+- EV-2023-10138-01 | Cornerstone Infrastructure Corp. | due 2024-03-30 | 937 days overdue
+- EV-2022-10994-02 | Horizon Construction Corp. | due 2024-10-27 | 726 days overdue
+- EV-2022-10994-03 | Horizon Construction Corp. | due 2025-10-27 | 361 days overdue
+- EV-2023-10809-01 | Paragon Electric Co. | due 2024-11-27 | 695 days overdue
+- EV-2024-11269-01 | Horizon Rail Services Ltd. | due 2025-06-21 | 489 days overdue
+- EV-2024-11005-01 | Pinnacle Infrastructure Llc | due 2025-05-19 | 522 days overdue
+- EV-2023-10809-02 | Paragon Electric Co. | due 2025-11-27 | 330 days overdue
+- EV-2024-10503-01 | Sterling Consulting Inc. | due 2025-02-22 | 608 days overdue
+- EV-2024-10488-02 | Harbor Infrastructure & Sons Inc. | due 2026-03-09 | 228 days overdue
+- EV-2024-10503-02 | Sterling Consulting Inc. | due 2026-02-22 | 243 days overdue
+- EV-2024-10197-02 | Pinnacle Infrastructure Llc | due 2026-02-14 | 251 days overdue
+- EV-2024-10092-02 | Keystone Infrastructure Inc. | due 2026-02-17 | 248 days overdue
+...and 4 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0073,2026-10-23,E137,mchen@mta-example.org,pm_reminder,26,EV-2023-10790-01;EV-2024-11075-01;EV-2024-11075-02;EV-2022-10148-02;EV-2022-10828-02;EV-2023-10249-01;EV-2022-11223-02;EV-2022-10828-01;EV-2023-10555-01;EV-2023-10720-02;EV-2023-11253-01;EV-2023-10438-01;EV-2023-10249-02;EV-2023-11079-01;EV-2023-11217-01;EV-2024-10921-01;EV-2024-10765-02;EV-2024-10714-01;EV-2024-10690-02;EV-2024-10928-02;EV-2023-10043-03;EV-2023-10900-03;EV-2023-11217-03;EV-2024-10629-02;EV-2023-10720-03;EV-2024-11002-02,Reminder: 26 vendor evaluation(s) due or overdue,"Hi Maria,
+
+Reminder: 26 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10790-01 | Harbor Mechanical Associates | due 2023-12-25 | 1033 days overdue | VENDOR BIDDING NOW
+- EV-2024-11075-01 | Interboro Mechanical Group Llc | due 2025-08-05 | 444 days overdue | VENDOR BIDDING NOW
+- EV-2024-11075-02 | Interboro Mechanical Group Llc | due 2026-02-03 | 262 days overdue | VENDOR BIDDING NOW
+- EV-2022-10148-02 | Ironline Rail Services LLC | due 2024-11-10 | 712 days overdue
+- EV-2022-10828-02 | Liberty Builders Corp. | due 2024-11-22 | 700 days overdue
+- EV-2023-10249-01 | Hudson Technologies Associates | due 2024-11-23 | 699 days overdue
+- EV-2022-11223-02 | Interboro Rail Services Llc | due 2024-05-12 | 894 days overdue
+- EV-2022-10828-01 | Liberty Builders Corp. | due 2023-11-24 | 1064 days overdue
+- EV-2023-10555-01 | Empire Consulting Group LLC | due 2023-12-08 | 1050 days overdue
+- EV-2023-10720-02 | Liberty Data Systems Group Llc | due 2025-10-02 | 386 days overdue
+- EV-2023-11253-01 | Allied Mechanical Group Llc | due 2024-02-19 | 977 days overdue
+- EV-2023-10438-01 | Empire Rail Services & Sons Inc. | due 2024-06-02 | 873 days overdue
+- EV-2023-10249-02 | Hudson Technologies Associates | due 2025-11-23 | 334 days overdue
+- EV-2023-11079-01 | Union Infrastructure Llc | due 2024-06-12 | 863 days overdue
+- EV-2023-11217-01 | Vanguard Data Systems Group Llc | due 2024-06-05 | 870 days overdue
+...and 11 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0074,2026-10-23,E138,lrodriguez@mta-example.org,pm_reminder,17,EV-2023-10061-01;EV-2022-10872-01;EV-2022-10780-03;EV-2022-11091-02;EV-2023-10361-01;EV-2023-10860-01;EV-2022-10445-01;EV-2023-10008-01;EV-2022-10162-02;EV-2023-10244-01;EV-2022-10162-03;EV-2023-11015-01;EV-2024-10411-02;EV-2024-10411-01;EV-2024-10448-01;EV-2023-10412-03;EV-2024-10980-02,Reminder: 17 vendor evaluation(s) due or overdue,"Hi Luis,
+
+Reminder: 17 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10061-01 | Crescent Rail Services Associates | due 2024-05-21 | 885 days overdue | VENDOR BIDDING NOW
+- EV-2022-10872-01 | Tri-State Signal Systems Inc. | due 2022-09-17 | 1497 days overdue
+- EV-2022-10780-03 | Continental Electric Co. | due 2025-06-05 | 505 days overdue
+- EV-2022-11091-02 | Allied Infrastructure Inc. | due 2024-06-23 | 852 days overdue
+- EV-2023-10361-01 | Hudson Technologies Associates | due 2024-04-17 | 919 days overdue
+- EV-2023-10860-01 | Gotham Environmental Corp. | due 2024-02-25 | 971 days overdue
+- EV-2022-10445-01 | Horizon Technologies Inc. | due 2023-04-27 | 1275 days overdue
+- EV-2023-10008-01 | Empire Contracting & Sons Inc. | due 2024-11-25 | 697 days overdue
+- EV-2022-10162-02 | Paragon Construction Co. | due 2024-11-07 | 715 days overdue
+- EV-2023-10244-01 | Northeast Data Systems Corp. | due 2024-07-05 | 840 days overdue
+- EV-2022-10162-03 | Paragon Construction Co. | due 2025-11-07 | 350 days overdue
+- EV-2023-11015-01 | Cornerstone Data Systems Inc. | due 2024-02-13 | 983 days overdue
+- EV-2024-10411-02 | Meridian Technologies Co. | due 2025-07-29 | 451 days overdue
+- EV-2024-10411-01 | Meridian Technologies Co. | due 2025-07-28 | 452 days overdue
+- EV-2024-10448-01 | Lexington Infrastructure Group LLC | due 2025-05-27 | 514 days overdue
+...and 2 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0075,2026-10-23,E139,fali@mta-example.org,pm_reminder,14,EV-2022-10458-03;EV-2022-11297-02;EV-2023-10480-01;EV-2022-10622-02;EV-2023-10804-01;EV-2022-11167-01;EV-2024-10097-01;EV-2024-10527-01;EV-2024-10425-01;EV-2024-10204-01;EV-2024-10998-01;EV-2024-10527-02;EV-2024-10097-02;EV-2024-10204-02,Reminder: 14 vendor evaluation(s) due or overdue,"Hi Fatima,
+
+Reminder: 14 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10458-03 | Continental Track Works Ltd. | due 2025-03-19 | 583 days overdue
+- EV-2022-11297-02 | Liberty Rail Services Group LLC | due 2024-04-19 | 917 days overdue
+- EV-2023-10480-01 | Riverside Track Works Associates | due 2024-02-27 | 969 days overdue
+- EV-2022-10622-02 | Patriot Data Systems Group Llc | due 2023-11-20 | 1068 days overdue
+- EV-2023-10804-01 | Ironline Technologies Llc | due 2023-09-19 | 1130 days overdue
+- EV-2022-11167-01 | Allied Consulting Ltd. | due 2023-03-17 | 1316 days overdue
+- EV-2024-10097-01 | Interboro Contracting LLC | due 2025-08-04 | 445 days overdue
+- EV-2024-10527-01 | Ironline Builders Ltd. | due 2025-06-03 | 507 days overdue
+- EV-2024-10425-01 | Keystone Construction & Sons Inc. | due 2025-09-25 | 393 days overdue
+- EV-2024-10204-01 | Allied Mechanical Co. | due 2026-01-21 | 275 days overdue
+- EV-2024-10998-01 | Ironline Technologies Llc | due 2025-12-17 | 310 days overdue
+- EV-2024-10527-02 | Ironline Builders Ltd. | due 2026-06-03 | 142 days overdue
+- EV-2024-10097-02 | Interboro Contracting LLC | due 2026-08-03 | 81 days overdue
+- EV-2024-10204-02 | Allied Mechanical Co. | due 2026-07-22 | 93 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0076,2026-10-23,E140,trahman@mta-example.org,pm_reminder,14,EV-2023-10379-01;EV-2022-10955-01;EV-2022-10797-01;EV-2022-11251-01;EV-2022-10230-01;EV-2022-10262-02;EV-2022-11208-01;EV-2022-11036-01;EV-2023-10784-01;EV-2024-11270-01;EV-2024-10045-02;EV-2024-10541-01;EV-2024-10168-01;EV-2023-10301-02,Reminder: 14 vendor evaluation(s) due or overdue,"Hi Thomas,
+
+Reminder: 14 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10379-01 | Paragon Engineering Co. | due 2024-10-21 | 732 days overdue | VENDOR BIDDING NOW
+- EV-2022-10955-01 | Allied Electric Associates | due 2023-07-08 | 1203 days overdue
+- EV-2022-10797-01 | Union Signal Systems Inc. | due 2023-10-20 | 1099 days overdue
+- EV-2022-11251-01 | Allied Supply Inc. | due 2023-01-26 | 1366 days overdue
+- EV-2022-10230-01 | Paragon Rail Services Co. | due 2023-09-19 | 1130 days overdue
+- EV-2022-10262-02 | Horizon Construction Corp. | due 2024-03-13 | 954 days overdue
+- EV-2022-11208-01 | Sterling Data Systems Llc | due 2023-09-27 | 1122 days overdue
+- EV-2022-11036-01 | Harbor Contracting Corp. | due 2023-12-04 | 1054 days overdue
+- EV-2023-10784-01 | Granite Construction Ltd. | due 2024-11-27 | 695 days overdue
+- EV-2024-11270-01 | Meridian Data Systems Group Llc | due 2025-10-17 | 371 days overdue
+- EV-2024-10045-02 | Lexington Track Works Ltd. | due 2025-09-27 | 391 days overdue
+- EV-2024-10541-01 | Keystone Engineering Group LLC | due 2025-12-12 | 315 days overdue
+- EV-2024-10168-01 | Atlas Signal Systems Ltd. | due 2025-02-14 | 616 days overdue
+- EV-2023-10301-02 | Empire Infrastructure Group Llc | due 2025-11-27 | 330 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0077,2026-10-23,E144,rcohen@mta-example.org,pm_reminder,19,EV-2023-10540-02;EV-2023-10540-01;EV-2022-10631-01;EV-2022-11106-01;EV-2022-10159-02;EV-2023-10081-02;EV-2022-10787-01;EV-2022-10894-01;EV-2022-11102-02;EV-2023-11034-01;EV-2022-10524-02;EV-2023-10081-01;EV-2024-11031-01;EV-2023-11094-02;EV-2022-11180-01;EV-2024-10450-01;EV-2024-10744-01;EV-2024-10663-01;EV-2024-10812-01,Reminder: 19 vendor evaluation(s) due or overdue,"Hi Rachel,
+
+Reminder: 19 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10540-02 | Pinnacle Infrastructure Ltd. | due 2024-12-07 | 685 days overdue | VENDOR BIDDING NOW
+- EV-2023-10540-01 | Pinnacle Infrastructure Ltd. | due 2024-06-09 | 866 days overdue | VENDOR BIDDING NOW
+- EV-2022-10631-01 | Bridgeway Contracting Inc. | due 2023-05-08 | 1264 days overdue
+- EV-2022-11106-01 | Crescent Builders LLC | due 2023-11-11 | 1077 days overdue
+- EV-2022-10159-02 | Hudson Track Works Ltd. | due 2024-11-23 | 699 days overdue
+- EV-2023-10081-02 | Queensboro Electric Inc. | due 2025-04-20 | 551 days overdue
+- EV-2022-10787-01 | Riverside Supply Corp. | due 2023-06-08 | 1233 days overdue
+- EV-2022-10894-01 | Empire Rail Services & Sons Inc. | due 2023-10-18 | 1101 days overdue
+- EV-2022-11102-02 | Ironline Track Works & Sons Inc. | due 2024-03-26 | 941 days overdue
+- EV-2023-11034-01 | Sterling Data Systems Llc | due 2024-05-22 | 884 days overdue
+- EV-2022-10524-02 | Paragon Rail Services Corp. | due 2024-07-26 | 819 days overdue
+- EV-2023-10081-01 | Queensboro Electric Inc. | due 2024-10-21 | 732 days overdue
+- EV-2024-11031-01 | Statewide Track Works Group Llc | due 2025-02-04 | 626 days overdue
+- EV-2023-11094-02 | Eastern Technologies Group Llc | due 2025-06-19 | 491 days overdue
+- EV-2022-11180-01 | Granite Infrastructure Ltd. | due 2023-10-23 | 1096 days overdue
+...and 4 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0078,2026-10-23,E145,gali@mta-example.org,pm_reminder,23,EV-2023-10943-01;EV-2022-10628-01;EV-2023-10943-02;EV-2022-11288-01;EV-2022-10421-02;EV-2022-10595-02;EV-2022-10331-01;EV-2022-10311-01;EV-2023-10865-01;EV-2022-10332-01;EV-2023-10699-01;EV-2023-10548-01;EV-2022-10149-01;EV-2022-10149-02;EV-2024-10271-01;EV-2022-10087-01;EV-2022-10531-01;EV-2023-10457-02;EV-2024-11202-01;EV-2024-11116-01;EV-2024-10110-01;EV-2024-11131-02;EV-2024-11202-02,Reminder: 23 vendor evaluation(s) due or overdue,"Hi Grace,
+
+Reminder: 23 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10943-01 | Granite Electric Inc. | due 2025-01-06 | 655 days overdue | VENDOR BIDDING NOW
+- EV-2022-10628-01 | Sterling Electric & Sons Inc. | due 2023-01-20 | 1372 days overdue
+- EV-2023-10943-02 | Granite Electric Inc. | due 2026-01-06 | 290 days overdue | VENDOR BIDDING NOW
+- EV-2022-11288-01 | Empire Builders Group Llc | due 2023-08-01 | 1179 days overdue
+- EV-2022-10421-02 | Statewide Rail Services Co. | due 2023-08-22 | 1158 days overdue
+- EV-2022-10595-02 | Keystone Consulting Ltd. | due 2024-05-25 | 881 days overdue
+- EV-2022-10331-01 | Queensboro Signal Systems Llc | due 2023-08-27 | 1153 days overdue
+- EV-2022-10311-01 | Queensboro Electric Inc. | due 2023-05-07 | 1265 days overdue
+- EV-2023-10865-01 | Meridian Technologies Co. | due 2023-09-10 | 1139 days overdue
+- EV-2022-10332-01 | Queensboro Electric Inc. | due 2023-07-12 | 1199 days overdue
+- EV-2023-10699-01 | Eastern Data Systems Associates | due 2025-01-01 | 660 days overdue
+- EV-2023-10548-01 | Liberty Data Systems Group Llc | due 2024-12-09 | 683 days overdue
+- EV-2022-10149-01 | Paragon Contracting Co. | due 2024-01-05 | 1022 days overdue
+- EV-2022-10149-02 | Paragon Contracting Co. | due 2025-01-05 | 656 days overdue
+- EV-2024-10271-01 | Patriot Mechanical Co. | due 2025-03-19 | 583 days overdue
+...and 8 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0079,2026-10-23,E146,rhaddad@mta-example.org,pm_reminder,14,EV-2022-10807-01;EV-2023-10898-02;EV-2022-10130-03;EV-2022-10463-02;EV-2022-10439-01;EV-2022-10523-01;EV-2023-10898-01;EV-2022-10130-01;EV-2023-11144-02;EV-2024-10875-02;EV-2023-10223-01;EV-2022-10439-04;EV-2024-10065-01;EV-2024-10808-01,Reminder: 14 vendor evaluation(s) due or overdue,"Hi Rachel,
+
+Reminder: 14 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10807-01 | Atlas Environmental LLC | due 2023-08-17 | 1163 days overdue | VENDOR BIDDING NOW
+- EV-2023-10898-02 | Keystone Engineering Group LLC | due 2024-08-23 | 791 days overdue
+- EV-2022-10130-03 | Sterling Builders & Sons Inc. | due 2025-09-09 | 409 days overdue
+- EV-2022-10463-02 | Allied Mechanical Co. | due 2023-09-24 | 1125 days overdue
+- EV-2022-10439-01 | Summit Consulting Associates | due 2023-02-27 | 1334 days overdue
+- EV-2022-10523-01 | Interboro Engineering LLC | due 2023-06-06 | 1235 days overdue
+- EV-2023-10898-01 | Keystone Engineering Group LLC | due 2024-02-23 | 973 days overdue
+- EV-2022-10130-01 | Sterling Builders & Sons Inc. | due 2023-09-11 | 1138 days overdue
+- EV-2023-11144-02 | Union Environmental Ltd. | due 2025-11-06 | 351 days overdue
+- EV-2024-10875-02 | Meridian Supply Corp. | due 2025-11-27 | 330 days overdue
+- EV-2023-10223-01 | Ironline Mechanical Corp. | due 2024-11-26 | 696 days overdue
+- EV-2022-10439-04 | Summit Consulting Associates | due 2026-02-26 | 239 days overdue
+- EV-2024-10065-01 | Keystone Consulting Ltd. | due 2025-02-01 | 629 days overdue
+- EV-2024-10808-01 | Patriot Mechanical Co. | due 2025-11-17 | 340 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0080,2026-10-23,E147,fokafor@mta-example.org,pm_reminder,13,EV-2023-10251-01;EV-2022-11082-03;EV-2022-10336-01;EV-2023-10754-02;EV-2022-11279-01;EV-2023-10093-01;EV-2023-10418-01;EV-2022-11115-01;EV-2022-11115-02;EV-2024-10879-01;EV-2024-10896-01;EV-2024-10818-02;EV-2024-10896-02,Reminder: 13 vendor evaluation(s) due or overdue,"Hi Fatima,
+
+Reminder: 13 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-10251-01 | Riverside Consulting Group Llc | due 2024-06-02 | 873 days overdue | VENDOR BIDDING NOW
+- EV-2022-11082-03 | Horizon Engineering Group Llc | due 2025-11-24 | 333 days overdue
+- EV-2022-10336-01 | Paragon Environmental Co. | due 2023-06-16 | 1225 days overdue
+- EV-2023-10754-02 | Northeast Data Systems & Sons Inc. | due 2024-09-28 | 755 days overdue
+- EV-2022-11279-01 | Beacon Consulting Group LLC | due 2023-11-01 | 1087 days overdue
+- EV-2023-10093-01 | Union Engineering Associates | due 2024-10-21 | 732 days overdue
+- EV-2023-10418-01 | Granite Supply Ltd. | due 2025-01-08 | 653 days overdue
+- EV-2022-11115-01 | Paragon Builders Inc. | due 2023-08-27 | 1153 days overdue
+- EV-2022-11115-02 | Paragon Builders Inc. | due 2024-08-27 | 787 days overdue
+- EV-2024-10879-01 | Statewide Data Systems Associates | due 2025-03-28 | 574 days overdue
+- EV-2024-10896-01 | Atlas Infrastructure Group LLC | due 2025-08-27 | 422 days overdue
+- EV-2024-10818-02 | Interboro Rail Services Llc | due 2026-07-05 | 110 days overdue
+- EV-2024-10896-02 | Atlas Infrastructure Group LLC | due 2026-08-27 | 57 days overdue
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0081,2026-10-23,E148,schen@mta-example.org,pm_reminder,16,EV-2022-10142-01;EV-2022-10494-01;EV-2022-11295-01;EV-2022-10676-01;EV-2023-11291-02;EV-2024-10339-01;EV-2024-10328-01;EV-2023-11155-01;EV-2022-11271-04;EV-2024-11261-01;EV-2023-10124-01;EV-2024-10848-01;EV-2024-10112-01;EV-2023-10124-02;EV-2023-11155-03;EV-2023-11095-03,Reminder: 16 vendor evaluation(s) due or overdue,"Hi Sofia,
+
+Reminder: 16 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10142-01 | Ironline Rail Services LLC | due 2023-08-15 | 1165 days overdue
+- EV-2022-10494-01 | Pinnacle Infrastructure Llc | due 2023-12-24 | 1034 days overdue
+- EV-2022-11295-01 | Riverside Data Systems Associates | due 2023-09-22 | 1127 days overdue
+- EV-2022-10676-01 | Hudson Construction Associates | due 2023-12-06 | 1052 days overdue
+- EV-2023-11291-02 | Vanguard Construction Ltd. | due 2025-02-08 | 622 days overdue
+- EV-2024-10339-01 | Lexington Technologies LLC | due 2025-05-07 | 534 days overdue
+- EV-2024-10328-01 | Pinnacle Consulting Corp. | due 2025-06-07 | 503 days overdue
+- EV-2023-11155-01 | Atlas Signal Systems Associates | due 2024-08-27 | 787 days overdue
+- EV-2022-11271-04 | Harbor Infrastructure & Sons Inc. | due 2026-03-10 | 227 days overdue
+- EV-2024-11261-01 | Queensboro Electric Co. | due 2025-03-16 | 586 days overdue
+- EV-2023-10124-01 | Allied Mechanical Group Llc | due 2025-01-24 | 637 days overdue
+- EV-2024-10848-01 | Empire Data Systems & Sons Inc. | due 2025-05-26 | 515 days overdue
+- EV-2024-10112-01 | Riverside Consulting Corp. | due 2026-01-21 | 275 days overdue
+- EV-2023-10124-02 | Allied Mechanical Group Llc | due 2026-01-24 | 272 days overdue
+- EV-2023-11155-03 | Atlas Signal Systems Associates | due 2026-08-27 | 57 days overdue
+...and 1 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0082,2026-10-23,E152,apatel@mta-example.org,pm_reminder,26,EV-2024-10118-01;EV-2022-10170-01;EV-2022-10948-01;EV-2023-10031-01;EV-2022-11200-02;EV-2022-10608-01;EV-2022-11166-01;EV-2022-10562-02;EV-2022-10975-01;EV-2022-11040-01;EV-2022-11117-02;EV-2023-11285-01;EV-2023-10489-02;EV-2023-10072-01;EV-2023-10717-01;EV-2022-10562-01;EV-2022-10269-01;EV-2023-10268-02;EV-2023-10684-02;EV-2023-10840-01;EV-2024-10068-01;EV-2024-10280-01;EV-2023-11209-01;EV-2024-10732-01;EV-2024-10659-01;EV-2024-10669-02,Reminder: 26 vendor evaluation(s) due or overdue,"Hi Anthony,
+
+Reminder: 26 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10118-01 | Riverside Environmental Co. | due 2025-11-14 | 343 days overdue | VENDOR BIDDING NOW
+- EV-2022-10170-01 | Tri-State Contracting Associates | due 2022-08-08 | 1537 days overdue
+- EV-2022-10948-01 | Tri-State Track Works Corp. | due 2023-03-03 | 1330 days overdue
+- EV-2023-10031-01 | Paragon Construction Co. | due 2024-06-10 | 865 days overdue
+- EV-2022-11200-02 | Tri-State Infrastructure & Sons Inc. | due 2023-11-01 | 1087 days overdue
+- EV-2022-10608-01 | Summit Consulting Associates | due 2022-10-22 | 1462 days overdue
+- EV-2022-11166-01 | Continental Mechanical Corp. | due 2023-12-03 | 1055 days overdue
+- EV-2022-10562-02 | Paragon Rail Services Corp. | due 2023-08-23 | 1157 days overdue
+- EV-2022-10975-01 | Patriot Mechanical Group LLC | due 2023-04-16 | 1286 days overdue
+- EV-2022-11040-01 | Ironline Electric Group LLC | due 2023-04-09 | 1293 days overdue
+- EV-2022-11117-02 | Crescent Track Works Co. | due 2024-03-16 | 951 days overdue
+- EV-2023-11285-01 | Empire Contracting LLC | due 2024-06-13 | 862 days overdue
+- EV-2023-10489-02 | Allied Construction Llc | due 2025-05-16 | 525 days overdue
+- EV-2023-10072-01 | Horizon Engineering Group Llc | due 2024-10-28 | 725 days overdue
+- EV-2023-10717-01 | Granite Contracting & Sons Inc. | due 2025-01-20 | 641 days overdue
+...and 11 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0083,2026-10-23,E153,rsantos@mta-example.org,pm_reminder,24,EV-2023-11013-01;EV-2022-11165-02;EV-2022-10655-02;EV-2023-10939-02;EV-2022-10539-01;EV-2022-10227-03;EV-2023-10303-02;EV-2022-11092-01;EV-2023-10736-02;EV-2022-11029-03;EV-2022-10644-01;EV-2023-10104-01;EV-2022-10282-01;EV-2022-10567-01;EV-2024-10544-01;EV-2024-10133-01;EV-2024-10132-01;EV-2023-11192-03;EV-2024-10193-01;EV-2024-11134-02;EV-2022-10227-04;EV-2024-10163-02;EV-2022-11029-04;EV-2024-10486-02,Reminder: 24 vendor evaluation(s) due or overdue,"Hi Robert,
+
+Reminder: 24 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2023-11013-01 | Interboro Builders Group Llc | due 2024-10-15 | 738 days overdue | VENDOR BIDDING NOW
+- EV-2022-11165-02 | Atlas Infrastructure Group LLC | due 2023-12-29 | 1029 days overdue
+- EV-2022-10655-02 | Keystone Consulting Ltd. | due 2024-03-23 | 944 days overdue
+- EV-2023-10939-02 | Keystone Construction & Sons Inc. | due 2025-06-14 | 496 days overdue
+- EV-2022-10539-01 | Paragon Rail Services Corp. | due 2023-10-23 | 1096 days overdue
+- EV-2022-10227-03 | Vanguard Construction Group Llc | due 2025-08-01 | 448 days overdue
+- EV-2023-10303-02 | Sterling Rail Services Co. | due 2025-09-21 | 397 days overdue
+- EV-2022-11092-01 | Paragon Signal Systems & Sons Inc. | due 2023-07-15 | 1196 days overdue
+- EV-2023-10736-02 | Allied Supply Inc. | due 2025-07-08 | 472 days overdue
+- EV-2022-11029-03 | Statewide Signal Systems Corp. | due 2025-10-15 | 373 days overdue
+- EV-2022-10644-01 | Meridian Track Works Co. | due 2023-12-28 | 1030 days overdue
+- EV-2023-10104-01 | Union Rail Services Ltd. | due 2024-01-02 | 1025 days overdue
+- EV-2022-10282-01 | Meridian Data Systems Group Llc | due 2023-04-13 | 1289 days overdue
+- EV-2022-10567-01 | Lexington Track Works Ltd. | due 2023-12-22 | 1036 days overdue
+- EV-2024-10544-01 | Atlas Data Systems Corp. | due 2025-08-11 | 438 days overdue
+...and 9 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0084,2026-10-23,E155,hmurphy@mta-example.org,pm_reminder,25,EV-2022-10571-01;EV-2022-10962-01;EV-2022-10731-02;EV-2023-10018-02;EV-2023-10242-01;EV-2022-10036-01;EV-2022-10036-02;EV-2022-11175-03;EV-2022-10036-03;EV-2022-11175-01;EV-2024-10724-01;EV-2023-10018-01;EV-2023-10698-02;EV-2024-11023-01;EV-2024-11204-01;EV-2023-10276-02;EV-2023-10073-01;EV-2024-10461-01;EV-2023-10675-02;EV-2023-10422-02;EV-2024-11038-02;EV-2023-10684-03;EV-2024-10238-02;EV-2023-11209-03;EV-2024-10737-02,Reminder: 25 vendor evaluation(s) due or overdue,"Hi Hannah,
+
+Reminder: 25 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10571-01 | Union Construction Group Llc | due 2022-12-05 | 1418 days overdue
+- EV-2022-10962-01 | Hudson Technologies Corp. | due 2022-11-19 | 1434 days overdue
+- EV-2022-10731-02 | Continental Contracting Inc. | due 2024-11-17 | 705 days overdue
+- EV-2023-10018-02 | Paragon Rail Services Corp. | due 2024-10-16 | 737 days overdue
+- EV-2023-10242-01 | Sterling Rail Services Co. | due 2024-10-21 | 732 days overdue
+- EV-2022-10036-01 | Hudson Technologies Llc | due 2024-01-06 | 1021 days overdue
+- EV-2022-10036-02 | Hudson Technologies Llc | due 2025-01-06 | 655 days overdue
+- EV-2022-11175-03 | Meridian Technologies Co. | due 2025-11-17 | 340 days overdue
+- EV-2022-10036-03 | Hudson Technologies Llc | due 2026-01-04 | 292 days overdue
+- EV-2022-11175-01 | Meridian Technologies Co. | due 2023-11-19 | 1069 days overdue
+- EV-2024-10724-01 | Riverside Mechanical Corp. | due 2025-10-27 | 361 days overdue
+- EV-2023-10018-01 | Paragon Rail Services Corp. | due 2024-04-18 | 918 days overdue
+- EV-2023-10698-02 | Paragon Rail Services Co. | due 2025-12-10 | 317 days overdue
+- EV-2024-11023-01 | Beacon Builders & Sons Inc. | due 2025-10-12 | 376 days overdue
+- EV-2024-11204-01 | Allied Infrastructure Inc. | due 2025-03-30 | 572 days overdue
+...and 10 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0085,2026-10-23,E156,fthompson@mta-example.org,pm_reminder,21,EV-2024-10748-01;EV-2022-10664-01;EV-2022-10988-01;EV-2022-10282-02;EV-2022-10539-03;EV-2023-10178-02;EV-2022-10751-01;EV-2024-10748-02;EV-2023-10973-01;EV-2022-10449-03;EV-2023-11170-01;EV-2023-10950-02;EV-2024-10123-01;EV-2024-10146-02;EV-2023-10141-02;EV-2024-11268-01;EV-2024-10228-02;EV-2024-10868-01;EV-2022-10539-04;EV-2024-10686-03;EV-2024-11023-02,Reminder: 21 vendor evaluation(s) due or overdue,"Hi Fatima,
+
+Reminder: 21 vendor evaluation(s) due or overdue as of Oct 23, 2026, highest priority first:
+
+- EV-2024-10748-01 | Riverside Environmental Co. | due 2025-11-27 | 330 days overdue | VENDOR BIDDING NOW
+- EV-2022-10664-01 | Hudson Technologies Associates | due 2023-09-16 | 1133 days overdue
+- EV-2022-10988-01 | Union Supply Corp. | due 2023-06-01 | 1240 days overdue
+- EV-2022-10282-02 | Meridian Data Systems Group Llc | due 2024-04-11 | 925 days overdue
+- EV-2022-10539-03 | Paragon Rail Services Corp. | due 2025-10-23 | 365 days overdue
+- EV-2023-10178-02 | Granite Contracting & Sons Inc. | due 2025-10-22 | 366 days overdue
+- EV-2022-10751-01 | Lexington Electric Associates | due 2023-11-15 | 1073 days overdue
+- EV-2024-10748-02 | Riverside Environmental Co. | due 2026-05-29 | 147 days overdue | VENDOR BIDDING NOW
+- EV-2023-10973-01 | Sterling Construction Ltd. | due 2023-12-01 | 1057 days overdue
+- EV-2022-10449-03 | Northeast Consulting Inc. | due 2025-12-21 | 306 days overdue
+- EV-2023-11170-01 | Liberty Rail Services Group LLC | due 2023-08-09 | 1171 days overdue
+- EV-2023-10950-02 | Bridgeway Infrastructure Co. | due 2025-06-01 | 509 days overdue
+- EV-2024-10123-01 | Liberty Contracting Llc | due 2025-04-25 | 546 days overdue
+- EV-2024-10146-02 | Allied Supply Inc. | due 2026-01-15 | 281 days overdue
+- EV-2023-10141-02 | Interboro Signal Systems Inc. | due 2025-12-17 | 310 days overdue
+...and 6 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0086,2026-10-23,E901,rortiz@mta-example.org,review_reminder,112,EV-2022-10089-01;EV-2023-10882-02;EV-2023-10708-02;EV-2023-11260-01;EV-2024-10685-01;EV-2022-10820-01;EV-2022-11007-01;EV-2022-11213-03;EV-2022-10331-03;EV-2022-11016-01;EV-2022-10201-02;EV-2022-10306-01;EV-2022-10858-03;EV-2022-10145-02;EV-2022-10407-02;EV-2022-11118-01;EV-2022-10498-02;EV-2022-10842-01;EV-2022-10635-01;EV-2022-10465-01;EV-2022-11036-02;EV-2022-11126-01;EV-2022-11271-01;EV-2022-11266-01;EV-2022-10749-02;EV-2023-10208-01;EV-2023-10393-01;EV-2022-10852-01;EV-2022-10715-01;EV-2022-10733-01;EV-2023-10830-01;EV-2022-10646-01;EV-2023-10863-01;EV-2023-10783-01;EV-2023-10877-02;EV-2023-10418-02;EV-2022-11250-01;EV-2023-10323-02;EV-2022-10354-01;EV-2023-10944-01;EV-2022-11029-02;EV-2022-10932-01;EV-2022-10883-01;EV-2023-11068-02;EV-2023-11101-02;EV-2022-11112-02;EV-2022-10780-02;EV-2023-10462-01;EV-2023-11278-01;EV-2022-10200-01;EV-2024-10342-01;EV-2023-10240-01;EV-2023-10510-02;EV-2023-10903-02;EV-2022-10849-01;EV-2023-10352-01;EV-2022-10279-01;EV-2024-10956-01;EV-2023-10578-01;EV-2024-10526-01;EV-2022-10758-01;EV-2024-10084-01;EV-2023-10471-02;EV-2024-10253-01;EV-2023-10285-01;EV-2023-11188-01;EV-2023-11247-01;EV-2023-10229-01;EV-2022-10702-01;EV-2024-11025-01;EV-2024-10681-01;EV-2022-10986-01;EV-2024-10727-01;EV-2023-10698-01;EV-2024-10692-01;EV-2023-10326-02;EV-2023-10650-02;EV-2024-10228-01;EV-2024-10032-01;EV-2024-10139-01;EV-2023-10017-01;EV-2024-10856-01;EV-2024-10455-01;EV-2023-10153-01;EV-2023-10900-02;EV-2024-11282-01;EV-2023-11192-02;EV-2023-11283-01;EV-2023-10453-03;EV-2024-10886-01;EV-2023-11070-02;EV-2024-10818-01;EV-2024-11131-01;EV-2024-10773-01;EV-2024-10796-01;EV-2024-10496-01;EV-2024-10020-02;EV-2024-10967-01;EV-2024-10168-02;EV-2024-10063-01;EV-2024-10329-02;EV-2024-10133-02;EV-2023-10585-03;EV-2024-11187-02;EV-2024-11074-02;EV-2023-10840-03;EV-2023-11050-03;EV-2024-10744-02;EV-2024-11047-02;EV-2024-10921-02;EV-2024-10516-02;EV-2024-11066-02,112 submitted evaluation(s) waiting on your approval,"Hi Rafael,
+
+112 submitted evaluation(s) waiting on your approval as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10089-01 | Queensboro Rail Services Ltd. | due 2023-01-31 | 1361 days overdue | VENDOR BIDDING NOW
+- EV-2023-10882-02 | Paragon Data Systems & Sons Inc. | due 2025-08-30 | 419 days overdue | VENDOR BIDDING NOW
+- EV-2023-10708-02 | Gotham Contracting Ltd. | due 2024-08-28 | 786 days overdue | VENDOR BIDDING NOW
+- EV-2023-11260-01 | Interboro Mechanical Group Llc | due 2024-06-06 | 869 days overdue | VENDOR BIDDING NOW
+- EV-2024-10685-01 | Queensboro Rail Services Ltd. | due 2025-12-27 | 300 days overdue | VENDOR BIDDING NOW
+- EV-2022-10820-01 | Northeast Environmental & Sons Inc. | due 2022-12-14 | 1409 days overdue
+- EV-2022-11007-01 | Cornerstone Track Works Associates | due 2023-03-20 | 1313 days overdue
+- EV-2022-11213-03 | Vanguard Technologies Group LLC | due 2025-07-30 | 450 days overdue
+- EV-2022-10331-03 | Queensboro Signal Systems Llc | due 2025-08-26 | 423 days overdue
+- EV-2022-11016-01 | Summit Signal Systems Inc. | due 2023-10-19 | 1100 days overdue
+- EV-2022-10201-02 | Queensboro Electric Inc. | due 2024-09-27 | 756 days overdue
+- EV-2022-10306-01 | Liberty Signal Systems Ltd. | due 2024-01-27 | 1000 days overdue
+- EV-2022-10858-03 | Summit Data Systems Corp. | due 2025-11-04 | 353 days overdue
+- EV-2022-10145-02 | Meridian Contracting Co. | due 2024-07-27 | 818 days overdue
+- EV-2022-10407-02 | Northeast Contracting Associates | due 2024-12-21 | 671 days overdue
+...and 97 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
+N20261023-0087,2026-10-23,E902,mlin@mta-example.org,review_reminder,111,EV-2022-10241-01;EV-2022-10053-01;EV-2024-10750-01;EV-2024-10867-01;EV-2022-10742-01;EV-2022-11277-03;EV-2022-10391-01;EV-2022-10481-02;EV-2022-10010-01;EV-2022-10892-03;EV-2022-10113-01;EV-2022-10306-02;EV-2022-10739-01;EV-2022-10473-01;EV-2023-10904-01;EV-2022-10256-01;EV-2022-11147-03;EV-2022-10490-02;EV-2023-11227-01;EV-2022-10996-01;EV-2022-10125-01;EV-2022-10196-02;EV-2022-10129-01;EV-2022-10050-01;EV-2022-10232-02;EV-2022-10695-04;EV-2022-10279-02;EV-2022-10321-02;EV-2022-10949-01;EV-2022-11089-03;EV-2022-10553-01;EV-2022-10274-01;EV-2022-10930-02;EV-2023-10528-01;EV-2022-10227-02;EV-2023-10776-02;EV-2022-10583-01;EV-2022-10286-03;EV-2022-10019-02;EV-2023-10919-01;EV-2023-11048-01;EV-2023-10080-01;EV-2023-10082-01;EV-2024-11090-01;EV-2023-10175-01;EV-2023-10859-02;EV-2023-10791-01;EV-2023-11153-01;EV-2023-10505-01;EV-2024-10667-01;EV-2022-11179-01;EV-2022-11175-02;EV-2024-10171-01;EV-2023-10143-01;EV-2023-10134-01;EV-2022-11273-01;EV-2024-10537-01;EV-2022-10403-01;EV-2023-10853-01;EV-2024-11150-01;EV-2023-10453-02;EV-2022-11117-01;EV-2022-10949-03;EV-2024-11113-01;EV-2024-11214-01;EV-2024-10630-01;EV-2023-10947-01;EV-2024-10431-02;EV-2023-10585-01;EV-2023-10871-01;EV-2023-10500-02;EV-2023-11020-01;EV-2024-10811-01;EV-2023-11114-01;EV-2023-10315-01;EV-2024-10132-02;EV-2023-11050-01;EV-2024-10207-01;EV-2023-11055-02;EV-2023-11095-02;EV-2023-11144-01;EV-2022-10415-03;EV-2023-10243-01;EV-2022-11189-01;EV-2024-10447-01;EV-2024-10420-01;EV-2023-10376-01;EV-2024-11033-01;EV-2024-10847-01;EV-2024-10678-01;EV-2023-10968-02;EV-2024-10844-01;EV-2024-10092-01;EV-2024-11256-01;EV-2024-10045-01;EV-2024-10433-01;EV-2023-10471-03;EV-2024-10398-02;EV-2024-10581-01;EV-2024-10727-02;EV-2024-10987-02;EV-2023-10245-03;EV-2024-11198-02;EV-2023-11247-03;EV-2024-10886-02;EV-2024-10680-02;EV-2023-10058-03;EV-2024-10620-02;EV-2023-10774-03;EV-2024-11037-02;EV-2024-10425-02,111 submitted evaluation(s) waiting on your approval,"Hi Mei,
+
+111 submitted evaluation(s) waiting on your approval as of Oct 23, 2026, highest priority first:
+
+- EV-2022-10241-01 | Harbor Mechanical Associates | due 2023-11-22 | 1066 days overdue | VENDOR BIDDING NOW
+- EV-2022-10053-01 | Gotham Contracting Ltd. | due 2023-08-30 | 1150 days overdue | VENDOR BIDDING NOW
+- EV-2024-10750-01 | Northeast Supply Group Llc | due 2025-03-23 | 579 days overdue | VENDOR BIDDING NOW
+- EV-2024-10867-01 | Liberty Data Systems Inc. | due 2025-09-06 | 412 days overdue | VENDOR BIDDING NOW
+- EV-2022-10742-01 | Vanguard Rail Services Co. | due 2023-06-21 | 1220 days overdue
+- EV-2022-11277-03 | Liberty Construction Group LLC | due 2025-06-18 | 492 days overdue
+- EV-2022-10391-01 | Tri-State Infrastructure & Sons Inc. | due 2023-02-26 | 1335 days overdue
+- EV-2022-10481-02 | Keystone Consulting & Sons Inc. | due 2024-04-19 | 917 days overdue
+- EV-2022-10010-01 | Allied Engineering Corp. | due 2023-02-19 | 1342 days overdue
+- EV-2022-10892-03 | Ironline Contracting Corp. | due 2025-02-16 | 614 days overdue
+- EV-2022-10113-01 | Riverside Contracting Co. | due 2023-06-27 | 1214 days overdue
+- EV-2022-10306-02 | Liberty Signal Systems Ltd. | due 2025-01-27 | 634 days overdue
+- EV-2022-10739-01 | Ironline Infrastructure Associates | due 2023-09-19 | 1130 days overdue
+- EV-2022-10473-01 | Keystone Rail Services Associates | due 2023-08-20 | 1160 days overdue
+- EV-2023-10904-01 | Northeast Data Systems & Sons Inc. | due 2025-01-27 | 634 days overdue
+...and 96 more (see the dashboard)
+
+Please complete them in the VENDEVAL form, or reply if one should be reassigned.
+- Supplier Relations, Vendor Performance"
