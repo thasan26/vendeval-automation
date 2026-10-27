@@ -1,0 +1,66 @@
+// VENDEVAL measures. In Power BI: Home > New measure, paste ONE block at a time
+// (everything from the measure name to the end of its formula), press Enter.
+// All "this week" logic uses the report date, so numbers match the weekly report
+// instead of drifting with today's date.
+
+Report Date = MAX ( ReportInfo[as_of] )
+
+Total Evaluations = COUNTROWS ( Evaluations )
+
+Approved = CALCULATE ( [Total Evaluations], Evaluations[status] = "Approved" )
+
+% Complete = DIVIDE ( [Approved], [Total Evaluations] )
+
+Open with PMs =
+CALCULATE ( [Total Evaluations], Evaluations[status] IN { "Not Started", "Requested", "In Progress" } )
+
+Awaiting Approval = CALCULATE ( [Total Evaluations], Evaluations[status] = "Submitted" )
+
+Overdue with PMs =
+CALCULATE ( COUNTROWS ( WorkQueue ), WorkQueue[lane] = "PM outreach", WorkQueue[days_overdue] > 0 )
+
+180+ Days Overdue = CALCULATE ( COUNTROWS ( WorkQueue ), WorkQueue[escalation_tier] = 4 )
+
+Avg Days Overdue =
+CALCULATE ( AVERAGE ( WorkQueue[days_overdue] ), WorkQueue[days_overdue] > 0 )
+
+Open Items = COUNTROWS ( WorkQueue )
+
+Stalled Items = CALCULATE ( COUNTROWS ( WorkQueue ), WorkQueue[stalled] = "Yes" )
+
+Reassigned Items = CALCULATE ( COUNTROWS ( WorkQueue ), WorkQueue[reassigned] = "Yes" )
+
+Vendors Bidding with Open Evals =
+CALCULATE ( DISTINCTCOUNT ( WorkQueue[vendor_id] ), WorkQueue[vendor_bidding] = "Yes" )
+
+Approvals = CALCULATE ( COUNTROWS ( StatusHistory ), StatusHistory[status] = "Approved" )
+
+Approved This Week =
+VAR d = [Report Date]
+RETURN CALCULATE ( [Approvals], StatusHistory[changed_date] > d - 7, StatusHistory[changed_date] <= d )
+
+Approved Last Week =
+VAR d = [Report Date]
+RETURN CALCULATE ( [Approvals], StatusHistory[changed_date] > d - 14, StatusHistory[changed_date] <= d - 7 )
+
+WoW Change = [Approved This Week] - [Approved Last Week]
+
+WoW Label =
+VAR c = [WoW Change]
+RETURN IF ( c > 0, "▲ ", IF ( c < 0, "▼ ", "■ " ) ) & ABS ( c ) & " vs last week"
+
+Weekly Pace (4-wk avg) =
+VAR d = [Report Date]
+RETURN DIVIDE ( CALCULATE ( [Approvals], StatusHistory[changed_date] > d - 28, StatusHistory[changed_date] <= d ), 4 )
+
+Weeks to Clear Backlog = DIVIDE ( [Open Items], [Weekly Pace (4-wk avg)] )
+
+QA Pass Rate =
+DIVIDE ( CALCULATE ( COUNTROWS ( QAChecks ), QAChecks[result] = "Pass" ), COUNTROWS ( QAChecks ) )
+
+QA Status Text =
+IF ( [QA Pass Rate] = 1,
+     "✓ All " & COUNTROWS ( QAChecks ) & " data-quality checks passed — cleared to publish",
+     "✕ Data-quality checks failed — do not publish" )
+
+Report Subtitle = "Week ending " & FORMAT ( [Report Date], "dddd, mmmm d, yyyy" ) & " · Access + Excel + Archer · synthetic data"

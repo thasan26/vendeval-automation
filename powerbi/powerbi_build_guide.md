@@ -1,76 +1,146 @@
-# Power BI build guide - VENDEVAL Weekly Status
+# Build the VENDEVAL Power BI report (about 60 minutes)
 
-`reports/weekly_dashboard.html` is the reference layout. This is how to build the
-same report in Power BI Desktop.
+Everything is prepared in this folder:
 
-## 1. Get data
-**Option A (simplest):** *Get Data → Excel* → `reports/VENDEVAL_Weekly_Report.xlsx`
-(sheets: Work Queue, Evaluator Workload, Vendor Performance, QA Checks) plus
-`data/processed/evaluations.csv`.
-**Option B (production):** *Get Data → SharePoint Online List* → `VENDEVAL Evaluations`
-and `VENDEVAL Audit Log`, scheduled refresh Fridays 8:00 AM (after Flow 3 runs).
+| File | What it is |
+|---|---|
+| `VENDEVAL_PowerBI_Data.xlsx` | The data model: 10 clean tables, one per sheet (regenerate with `python powerbi/build_powerbi_model.py`) |
+| `vendeval_theme.json` | Colors: status ramp light → dark blue, so the lifecycle reads in order |
+| `measures.dax` | All 23 DAX measures, ready to paste |
+| `../reports/weekly_dashboard.html` | What the finished page should look like |
 
-## 2. Power Query steps (Evaluations)
-1. Change types: `period_end` Date, `last_updated` Date/Time, ratings Whole Number.
-2. Add column `DueDate = Date.AddDays([period_end], 30)`.
-3. Add column `StatusOrder` (Conditional Column: Not Started=1 ... Approved=5) - sort `status` by it so visuals show the lifecycle in order.
-4. Merge with Work Queue on `eval_id` (Left Outer) to bring in `assigned_name`, `escalation_tier`, `priority_rank`.
+You need **Power BI Desktop** (free, Windows only: Microsoft Store → "Power BI Desktop").
+On a Mac, use a CUNY lab PC or a Windows virtual machine.
 
-## 3. Model
-- `Evaluations` (fact) ← `Contracts` (contract_no) ← `Vendors` (vendor_id); `Evaluators` → Work Queue (assigned_to).
-- A `Date` table (`CALENDAR(DATE(2022,1,1), DATE(2027,12,31))`) related to `Evaluations[DueDate]`; mark as date table.
-- One-to-many, single direction everywhere.
+---
 
-## 4. DAX measures
-```DAX
-Total Evaluations = COUNTROWS ( Evaluations )
+## Step 1 - Load the data (5 min)
+1. Open Power BI Desktop → **Blank report**.
+2. **Home → Get data → Excel workbook** → pick `VENDEVAL_PowerBI_Data.xlsx`.
+3. Tick **all 10 sheets** → **Load** (not Transform; the data is already clean).
+4. **View → Themes → Browse for themes** → `vendeval_theme.json`.
 
-Approved = CALCULATE ( [Total Evaluations], Evaluations[status] = "Approved" )
+## Step 2 - Check data types (5 min)
+Go to **Table view** (grid icon on the left). For each column below, select it and set
+**Column tools → Data type**:
 
-% Complete = DIVIDE ( [Approved], [Total Evaluations] )
+| Table | Column | Type |
+|---|---|---|
+| Evaluations | period_end, due_date, last_updated | Date |
+| StatusHistory | changed_date | Date |
+| Calendar | date, week_ending | Date |
+| ReportInfo | as_of | Date |
+| Contracts | award_value | Fixed decimal (Format: Currency) |
 
-Open with PMs =
-CALCULATE ( [Total Evaluations],
-    Evaluations[status] IN { "Not Started", "Requested", "In Progress" } )
+**Sort the status in lifecycle order (important):** select `Evaluations[status]` →
+**Column tools → Sort by column → status_order**. Without this, charts sort alphabetically
+and "Approved" comes first.
 
-Awaiting Approval = CALCULATE ( [Total Evaluations], Evaluations[status] = "Submitted" )
+## Step 3 - Relationships (10 min)
+Go to **Model view** (third icon on the left). Delete any relationships Power BI guessed
+(right-click → Delete), then drag to create exactly these. All are **Many-to-one (*:1),
+Single** cross-filter direction:
 
-Days Overdue =                                   -- calculated column
-VAR d = DATEDIFF ( Evaluations[DueDate], TODAY (), DAY )
-RETURN IF ( Evaluations[status] <> "Approved" && d > 0, d, 0 )
+| From (many side) | To (one side) |
+|---|---|
+| Evaluations[contract_no] | Contracts[contract_no] |
+| Contracts[vendor_id] | Vendors[vendor_id] |
+| WorkQueue[eval_id] | Evaluations[eval_id] |
+| WorkQueue[assigned_to] | Evaluators[evaluator_id] |
+| StatusHistory[eval_id] | Evaluations[eval_id] |
+| StatusHistory[changed_date] | Calendar[date] |
 
-Overdue = CALCULATE ( [Open with PMs], Evaluations[Days Overdue] > 0 )
+Leave QAChecks, DataIssues and ReportInfo unconnected. They are standalone.
+Then select the `Calendar` table → **Table tools → Mark as date table** → column `date`.
 
-180+ Days Overdue = CALCULATE ( [Open with PMs], Evaluations[Days Overdue] >= 180 )
+> Interview point: there is deliberately **no** relationship from Contracts to Evaluators.
+> WorkQueue already links Evaluators to Evaluations, so a second path would make the model
+> ambiguous. That's why `pm_name` is stored as a text column on Contracts.
 
-Avg Days Overdue = AVERAGEX ( FILTER ( Evaluations, Evaluations[Days Overdue] > 0 ), Evaluations[Days Overdue] )
+## Step 4 - Measures (10 min)
+1. Make a home for the measures: **Home → Enter data** → name the table `_Measures` → **Load**.
+2. Select `_Measures`, then **Home → New measure**. Paste one measure from `measures.dax`,
+   press Enter, and repeat for all of them.
+3. Format: `% Complete` and `QA Pass Rate` → **Measure tools → Percentage, 0 decimals**.
+   `Weeks to Clear Backlog` → Decimal, 0 places.
 
-Approved This Week =
-CALCULATE ( [Total Evaluations],
-    StatusHistory[status] = "Approved",
-    DATESINPERIOD ( 'Date'[Date], TODAY (), -7, DAY ) )
+**Check your numbers.** Make a quick Card for each and compare:
 
-Approved Last Week =
-CALCULATE ( [Total Evaluations],
-    StatusHistory[status] = "Approved",
-    DATESINPERIOD ( 'Date'[Date], TODAY () - 7, -7, DAY ) )
+| Measure | Should show |
+|---|---|
+| Total Evaluations | 2,252 |
+| Approved / % Complete | 1,159 / 51% |
+| Open with PMs | 870 |
+| Awaiting Approval | 223 |
+| Overdue with PMs | 771 |
+| 180+ Days Overdue | 683 |
+| Avg Days Overdue | ~673 |
+| Open Items / Stalled / Reassigned | 1,093 / 834 / 134 |
+| Approved This Week / Last Week | 4 / 7 |
+| Vendors Bidding with Open Evals | 20 |
+| Weeks to Clear Backlog | ~182 |
+| QA Pass Rate | 100% |
 
-WoW Change = [Approved This Week] - [Approved Last Week]
+If one is off, the usual cause is a missing relationship or a wrong data type in Step 2/3.
 
-Weeks to Clear Backlog =                         -- at the last 4 weeks' pace
-VAR pace = DIVIDE ( CALCULATE ( [Total Evaluations], StatusHistory[status] = "Approved",
-                     DATESINPERIOD ( 'Date'[Date], TODAY (), -28, DAY ) ), 4 )
-RETURN DIVIDE ( [Open with PMs] + [Awaiting Approval], pace )
+## Step 5 - Page 1 "Weekly Status" (20 min)
+Canvas: **Format page → Canvas settings → 16:9**. Build top to bottom:
 
-QA Checks Passing = DIVIDE ( COUNTROWS ( FILTER ( QAChecks, QAChecks[passed] = TRUE () ) ), COUNTROWS ( QAChecks ) )
-```
+1. **Title.** Text box: "VENDEVAL Weekly Status — Supplier Relations", 20pt bold.
+   Below it, a **Card (new)** with `Report Subtitle`, no category label, 11pt grey.
+2. **QA banner.** Card with `QA Status Text`. **Format → Callout value → Color → fx →
+   Rules**: based on `QA Pass Rate`; if = 1 then green `#006300`, else red `#d03b3b`.
+3. **KPI row.** Six cards side by side, same size (select all → Format → Align → Distribute horizontally):
+   `Total Evaluations` · `% Complete` · `Open with PMs` · `180+ Days Overdue` ·
+   `Approved This Week` · `Vendors Bidding with Open Evals`.
+   For `Approved This Week`, add `WoW Label` as the reference label (Card new → Reference labels).
+4. **Status by contract year.** Visual: **100% stacked bar chart**.
+   Y-axis `Contracts[contract_year]` · Legend `Evaluations[status]` · X-axis `Total Evaluations`.
+   Data labels on. Title "Evaluation status by contract year".
+   Check the legend runs Not Started → Approved, light to dark. If not, redo the sort in Step 2.
+5. **Approvals per week.** Visual: **Clustered column chart**.
+   X-axis `Calendar[week_ending]` (right-click the field in the well → choose **week_ending**,
+   not Date Hierarchy) · Y-axis `Approvals`.
+   **Filters pane → this visual → Calendar[weeks_ago] → Advanced → is greater than or equal to 0
+   AND is less than or equal to 11** (last 12 weeks).
+6. **Days overdue.** Clustered column chart: X-axis `WorkQueue[tier_label]`, Y-axis `Open Items`,
+   visual filter `WorkQueue[lane] = PM outreach`. Title "Outstanding evaluations by days overdue".
+7. **Slicers.** One row across the top: `Contracts[department]`, `Contracts[contract_year]`,
+   `Contracts[contract_type]` (Slicer → Format → Style: Dropdown).
 
-## 5. Pages
-1. **Weekly Status** - KPI cards (Total, % Complete, Open with PMs, 180+ Days Overdue, Approved This Week with WoW, Weeks to Clear Backlog); 100% stacked bar of status by contract year; column chart of approvals per week; column chart of open items by escalation tier. Slicers in one row on top: Department, Contract Year, Contract Type.
-2. **Outreach Queue** - table sorted by priority rank with conditional formatting on Days Overdue (30-179 amber, 180+ red), filtered to Open; drill-through to evaluation detail.
-3. **Evaluator Workload** - bar chart of open items per evaluator, with a constant line at the workload cap (40).
-4. **Vendor Performance** - avg score by vendor, unsatisfactory evaluations, safety rating; used for responsibility reviews.
-5. **Data Quality** - QA checks table + issues by source (shows leadership the numbers can be trusted).
+## Step 6 - Page 2 "Outreach Queue" (10 min)
+1. **Table** visual: `WorkQueue[priority_rank]`, `WorkQueue[eval_id]`, `Vendors[vendor_name]`,
+   `WorkQueue[status]`, `WorkQueue[days_overdue]`, `Evaluators[evaluator_name]`,
+   `WorkQueue[escalation_tier]`, `WorkQueue[vendor_bidding]`, `WorkQueue[stalled]`, `WorkQueue[reassigned]`.
+   Set every numeric column to **Don't summarize** (click the field's dropdown in the well).
+   Sort by priority_rank ascending.
+2. **Conditional formatting** on days_overdue: field dropdown → **Conditional formatting →
+   Background color → Rules**: ≥ 180 → `#F4C7C7`; ≥ 30 and < 180 → `#FDE7B0`.
+3. Add a **Bar chart** of `Evaluators[evaluator_name]` by `Open Items` (top 15: Filters → Top N),
+   and put a constant line at 40 (Analytics pane → Constant line). That line is the workload cap.
 
-Colors: lifecycle stages use one blue ramp light → dark (Not Started lightest, Approved darkest)
-because status is ordered; red/amber are kept only for overdue warnings.
+## Step 7 - Page 3 "Data Quality" (5 min)
+- **Table** of `QAChecks` (result, check, detail), with conditional font color on result.
+- **Bar chart**: `DataIssues[issue]` by Sum of `count`, legend `DataIssues[source]`.
+- Card: `QA Pass Rate`.
+
+## Step 8 - Save and screenshot
+1. **File → Save as** → `powerbi/VENDEVAL_Weekly_Status.pbix`.
+2. Screenshot each page (Windows: `Win + Shift + S`) into `docs/`, named
+   `powerbi_page1.png`, `powerbi_page2.png`, `powerbi_page3.png`.
+3. Push:
+   ```
+   git add .
+   git commit -m "Add Power BI report: weekly status, outreach queue, data quality"
+   git push
+   ```
+
+## What to say about it in the interview
+- **Model:** a star schema. Evaluations is the fact table, and Contracts, Vendors and Evaluators
+  are dimensions. Relationships are single-direction, and the Calendar uses Friday-ending weeks
+  to match the weekly report.
+- **Report date:** "this week" is based on a report date, not `TODAY()`, so last Friday's
+  report shows the same numbers if leadership reopens it on Monday.
+- **The headline insight:** at the current pace of about 6 approvals a week, the open backlog
+  takes about **182 weeks** to clear. That's the case for automating outreach and escalation
+  rather than chasing evaluations by hand.

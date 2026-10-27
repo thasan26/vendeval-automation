@@ -86,7 +86,7 @@ The Python engine is the tested specification; production runs in Microsoft 365:
 |---|---|
 | Access database (tables, validation rules, relationships, saved queries) | [`docs/access_build_guide.md`](docs/access_build_guide.md) |
 | 4 Power Automate flows (intake/standardize, routing, weekly reminders & escalation, approval) | [`powerautomate/flow_specs.md`](powerautomate/flow_specs.md) |
-| Power BI report (model, Power Query steps, DAX measures, pages) | [`powerbi/powerbi_build_guide.md`](powerbi/powerbi_build_guide.md) |
+| Power BI report: ready-made data model workbook, theme, 23 DAX measures, page-by-page build guide | [`powerbi/powerbi_build_guide.md`](powerbi/powerbi_build_guide.md) |
 
 ## Repository layout
 ```
