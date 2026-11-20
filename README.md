@@ -10,7 +10,22 @@ a weekly status dashboard - with an audit trail for every automated decision.
 > a public agency's vendor-evaluation process typically works; it is not real data and is
 > not affiliated with or endorsed by any agency.
 
-![Weekly dashboard](docs/dashboard_preview.png)
+## Power BI report
+
+Built in Power BI Desktop from a star-schema model (10 tables, 6 relationships, 25 DAX measures).
+Source: [`powerbi/VENDEVAL_Weekly_Status.pbip`](powerbi/VENDEVAL_Weekly_Status.pbip). Open it in Power BI Desktop and click Refresh.
+
+**Weekly Status:** KPIs, data-quality gate, status by contract year, approval pace, overdue tiers
+![Power BI - Weekly Status](docs/powerbi_weekly_status.png)
+
+**Outreach Queue:** every open evaluation ranked by who to chase first, plus workload per assignee
+![Power BI - Outreach Queue](docs/powerbi_outreach_queue.png)
+
+**Data Quality:** the automated checks that must pass before the report is published
+![Power BI - Data Quality](docs/powerbi_data_quality.png)
+
+The pipeline also exports the same weekly status as a standalone HTML page
+([`reports/weekly_dashboard.html`](reports/weekly_dashboard.html)).
 
 ## The problem
 
