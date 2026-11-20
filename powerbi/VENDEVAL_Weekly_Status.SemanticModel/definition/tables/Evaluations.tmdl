@@ -1,0 +1,140 @@
+table Evaluations
+	lineageTag: 37ff500b-b042-5ff9-b712-d11b719b9de9
+
+	column eval_id
+		dataType: string
+		lineageTag: d7017fee-c647-5da7-87a2-8d794b07fd00
+		summarizeBy: none
+		sourceColumn: eval_id
+
+		annotation SummarizationSetBy = User
+
+	column contract_no
+		dataType: string
+		lineageTag: e3a0d335-0451-56fb-b342-2176cc6f31bc
+		summarizeBy: none
+		sourceColumn: contract_no
+
+		annotation SummarizationSetBy = User
+
+	column eval_type
+		dataType: string
+		lineageTag: 3588662e-5dfd-5613-9e21-0d44c5cf9c69
+		summarizeBy: none
+		sourceColumn: eval_type
+
+		annotation SummarizationSetBy = User
+
+	column period_end
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 5e0fe7aa-813b-5bcc-8ca5-b309baa4440a
+		summarizeBy: none
+		sourceColumn: period_end
+
+		annotation SummarizationSetBy = User
+
+	column due_date
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: f8f94eb8-8518-5196-bd99-f9f5e6a63cbb
+		summarizeBy: none
+		sourceColumn: due_date
+
+		annotation SummarizationSetBy = User
+
+	column status
+		dataType: string
+		lineageTag: 0de8ead1-ee37-5eb3-bc43-b05ae0a5b1e3
+		summarizeBy: none
+		sourceColumn: status
+		sortByColumn: status_order
+
+		annotation SummarizationSetBy = User
+
+	column status_order
+		dataType: int64
+		formatString: 0
+		lineageTag: f14c5314-af21-5d0c-8964-077d7407f51c
+		summarizeBy: none
+		sourceColumn: status_order
+
+		annotation SummarizationSetBy = User
+
+	column last_updated
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: e5f7cd08-f3c0-57fd-a193-206f248b209e
+		summarizeBy: none
+		sourceColumn: last_updated
+
+		annotation SummarizationSetBy = User
+
+	column overall_score
+		dataType: double
+		lineageTag: 04d8d231-f4a2-5861-b974-6ec2df6577ed
+		summarizeBy: average
+		sourceColumn: overall_score
+
+		annotation SummarizationSetBy = User
+
+	column rating_quality
+		dataType: double
+		lineageTag: d8f4f432-4023-5a2d-8e68-97ab7eb7988d
+		summarizeBy: average
+		sourceColumn: rating_quality
+
+		annotation SummarizationSetBy = User
+
+	column rating_timeliness
+		dataType: double
+		lineageTag: 6c411208-05a0-5704-b53f-a036a19e0f5b
+		summarizeBy: average
+		sourceColumn: rating_timeliness
+
+		annotation SummarizationSetBy = User
+
+	column rating_safety
+		dataType: double
+		lineageTag: 3ce6519f-b499-5be0-b49c-8b4026810126
+		summarizeBy: average
+		sourceColumn: rating_safety
+
+		annotation SummarizationSetBy = User
+
+	column rating_compliance
+		dataType: double
+		lineageTag: 4263f05f-5bfa-5af4-b238-a2592bf7b444
+		summarizeBy: average
+		sourceColumn: rating_compliance
+
+		annotation SummarizationSetBy = User
+
+	column rating_management
+		dataType: double
+		lineageTag: c6710b9c-3092-5a86-8bab-bac9beb4f8f6
+		summarizeBy: average
+		sourceColumn: rating_management
+
+		annotation SummarizationSetBy = User
+
+	column source_systems
+		dataType: string
+		lineageTag: 32162517-32b5-522a-8953-af89f77f9f00
+		summarizeBy: none
+		sourceColumn: source_systems
+
+		annotation SummarizationSetBy = User
+
+	partition Evaluations = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="Evaluations",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"eval_id", type text}, {"contract_no", type text}, {"eval_type", type text}, {"period_end", type date}, {"due_date", type date}, {"status", type text}, {"status_order", Int64.Type}, {"last_updated", type date}, {"overall_score", type number}, {"rating_quality", type number}, {"rating_timeliness", type number}, {"rating_safety", type number}, {"rating_compliance", type number}, {"rating_management", type number}, {"source_systems", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

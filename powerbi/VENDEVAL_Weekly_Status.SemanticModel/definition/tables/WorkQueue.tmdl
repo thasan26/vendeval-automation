@@ -1,0 +1,147 @@
+table WorkQueue
+	lineageTag: 3f441557-3938-54df-9643-f874f7cbc21c
+
+	column eval_id
+		dataType: string
+		lineageTag: 8d572551-add1-54d7-badc-5f847537c81c
+		summarizeBy: none
+		sourceColumn: eval_id
+
+		annotation SummarizationSetBy = User
+
+	column status
+		dataType: string
+		lineageTag: 32645b8e-6249-54fb-be82-716cf13dfacc
+		summarizeBy: none
+		sourceColumn: status
+
+		annotation SummarizationSetBy = User
+
+	column lane
+		dataType: string
+		lineageTag: a2cc8ca5-241c-5448-9d22-3f5d2853e7df
+		summarizeBy: none
+		sourceColumn: lane
+
+		annotation SummarizationSetBy = User
+
+	column vendor_id
+		dataType: string
+		lineageTag: df169057-2e11-5ce6-a74a-46782a06b80f
+		summarizeBy: none
+		sourceColumn: vendor_id
+
+		annotation SummarizationSetBy = User
+
+	column assigned_to
+		dataType: string
+		lineageTag: e7c6c8cd-7642-51b5-ae3c-c353414a7f8b
+		summarizeBy: none
+		sourceColumn: assigned_to
+
+		annotation SummarizationSetBy = User
+
+	column assignment_reason
+		dataType: string
+		lineageTag: da4067c5-52dc-5b14-bf9e-584b93873064
+		summarizeBy: none
+		sourceColumn: assignment_reason
+
+		annotation SummarizationSetBy = User
+
+	column reassigned
+		dataType: string
+		lineageTag: 64eca02d-ee25-5f0c-85d0-7046a56e495f
+		summarizeBy: none
+		sourceColumn: reassigned
+
+		annotation SummarizationSetBy = User
+
+	column days_overdue
+		dataType: int64
+		formatString: 0
+		lineageTag: d98f15ed-f7cb-53b6-9933-6f5f8f52d44e
+		summarizeBy: none
+		sourceColumn: days_overdue
+
+		annotation SummarizationSetBy = User
+
+	column sla_state
+		dataType: string
+		lineageTag: d84a9cf3-3674-5814-a308-4d407ee6f545
+		summarizeBy: none
+		sourceColumn: sla_state
+
+		annotation SummarizationSetBy = User
+
+	column escalation_tier
+		dataType: int64
+		formatString: 0
+		lineageTag: c76260f4-03ea-5da0-b934-6a93b7cae470
+		summarizeBy: none
+		sourceColumn: escalation_tier
+
+		annotation SummarizationSetBy = User
+
+	column tier_label
+		dataType: string
+		lineageTag: 472c1412-dcd1-5dde-8314-50c906f51bd5
+		summarizeBy: none
+		sourceColumn: tier_label
+
+		annotation SummarizationSetBy = User
+
+	column stalled
+		dataType: string
+		lineageTag: 6a3f5eec-ca5f-5101-8b09-ba45ab95d949
+		summarizeBy: none
+		sourceColumn: stalled
+
+		annotation SummarizationSetBy = User
+
+	column days_since_update
+		dataType: int64
+		formatString: 0
+		lineageTag: 43a85697-9e98-5ee8-af0f-654ac2f27b64
+		summarizeBy: none
+		sourceColumn: days_since_update
+
+		annotation SummarizationSetBy = User
+
+	column vendor_bidding
+		dataType: string
+		lineageTag: f407cc19-49c5-570a-8974-52a7ce1722d7
+		summarizeBy: none
+		sourceColumn: vendor_bidding
+
+		annotation SummarizationSetBy = User
+
+	column priority_score
+		dataType: double
+		lineageTag: 05d0250b-ac47-5d57-9210-024ce94ffc8d
+		summarizeBy: none
+		sourceColumn: priority_score
+
+		annotation SummarizationSetBy = User
+
+	column priority_rank
+		dataType: int64
+		formatString: 0
+		lineageTag: 06ee001d-1d27-5a77-a542-5da389d87571
+		summarizeBy: none
+		sourceColumn: priority_rank
+
+		annotation SummarizationSetBy = User
+
+	partition WorkQueue = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="WorkQueue",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"eval_id", type text}, {"status", type text}, {"lane", type text}, {"vendor_id", type text}, {"assigned_to", type text}, {"assignment_reason", type text}, {"reassigned", type text}, {"days_overdue", Int64.Type}, {"sla_state", type text}, {"escalation_tier", Int64.Type}, {"tier_label", type text}, {"stalled", type text}, {"days_since_update", Int64.Type}, {"vendor_bidding", type text}, {"priority_score", type number}, {"priority_rank", Int64.Type}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

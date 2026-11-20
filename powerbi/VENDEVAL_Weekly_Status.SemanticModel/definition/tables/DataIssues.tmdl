@@ -1,0 +1,40 @@
+table DataIssues
+	lineageTag: 215fbe52-7b4f-5844-b9e2-426ab72dc1ca
+
+	column source
+		dataType: string
+		lineageTag: c15b369f-5903-552f-95f0-726fe8ad35e4
+		summarizeBy: none
+		sourceColumn: source
+
+		annotation SummarizationSetBy = User
+
+	column issue
+		dataType: string
+		lineageTag: 06bb3de3-ddf7-5a69-b64e-2556c5f940a3
+		summarizeBy: none
+		sourceColumn: issue
+
+		annotation SummarizationSetBy = User
+
+	column count
+		dataType: int64
+		formatString: 0
+		lineageTag: 39a3845d-0424-5900-af49-3899e528fa73
+		summarizeBy: sum
+		sourceColumn: count
+
+		annotation SummarizationSetBy = User
+
+	partition DataIssues = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="DataIssues",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"source", type text}, {"issue", type text}, {"count", Int64.Type}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

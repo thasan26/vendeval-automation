@@ -1,0 +1,22 @@
+{
+  "name": "VENDEVAL",
+  "dataColors": [
+    "#86b6ef",
+    "#5598e7",
+    "#2a78d6",
+    "#1c5cab",
+    "#0d366b",
+    "#eb6834",
+    "#1baf7a",
+    "#eda100"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#0b0b0b",
+  "tableAccent": "#1c5cab",
+  "good": "#0ca30c",
+  "neutral": "#fab219",
+  "bad": "#d03b3b",
+  "maximum": "#0d366b",
+  "center": "#5598e7",
+  "minimum": "#cde2fb"
+}

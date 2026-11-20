@@ -1,0 +1,27 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_ProTooling = ["DevMode"]
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation PBI_QueryOrder = ["DataFileUrl", "Evaluations", "Contracts", "Vendors", "Evaluators", "WorkQueue", "StatusHistory", "Calendar", "QAChecks", "DataIssues", "ReportInfo", "_Measures"]
+
+ref table _Measures
+ref table Evaluations
+ref table Contracts
+ref table Vendors
+ref table Evaluators
+ref table WorkQueue
+ref table StatusHistory
+ref table Calendar
+ref table QAChecks
+ref table DataIssues
+ref table ReportInfo
+
+ref cultureInfo en-US

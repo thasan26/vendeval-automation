@@ -1,0 +1,91 @@
+table Contracts
+	lineageTag: 9270eadd-693e-517f-b33d-43bbabd63ce0
+
+	column contract_no
+		dataType: string
+		lineageTag: 792df733-5acb-5f5e-a1ef-a22c2cc55234
+		summarizeBy: none
+		sourceColumn: contract_no
+
+		annotation SummarizationSetBy = User
+
+	column vendor_id
+		dataType: string
+		lineageTag: c2d9e843-6812-57af-a369-9957ca653df4
+		summarizeBy: none
+		sourceColumn: vendor_id
+
+		annotation SummarizationSetBy = User
+
+	column department
+		dataType: string
+		lineageTag: dc59f2ac-d8db-5ee4-a657-b5fdd0183a0e
+		summarizeBy: none
+		sourceColumn: department
+
+		annotation SummarizationSetBy = User
+
+	column contract_type
+		dataType: string
+		lineageTag: b55732b6-3170-5dae-a4de-b6ab336a8fa3
+		summarizeBy: none
+		sourceColumn: contract_type
+
+		annotation SummarizationSetBy = User
+
+	column contract_year
+		dataType: int64
+		formatString: 0
+		lineageTag: 9d9e0283-3e9c-58fb-9324-16c2445996f5
+		summarizeBy: none
+		sourceColumn: contract_year
+
+		annotation SummarizationSetBy = User
+
+	column award_value
+		dataType: double
+		formatString: \$#,0
+		lineageTag: 4b0c4695-f0c7-5e2b-b6fb-8fd17db58ed6
+		summarizeBy: sum
+		sourceColumn: award_value
+
+		annotation SummarizationSetBy = User
+
+	column start_date
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: d4fadc1b-0337-505d-bf08-e79f540d4958
+		summarizeBy: none
+		sourceColumn: start_date
+
+		annotation SummarizationSetBy = User
+
+	column end_date
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 40262430-9ebb-5386-83f5-90147f43d4eb
+		summarizeBy: none
+		sourceColumn: end_date
+
+		annotation SummarizationSetBy = User
+
+	column pm_name
+		dataType: string
+		lineageTag: fe6090bf-9e0d-57b4-b08c-ab2ceb2b3219
+		summarizeBy: none
+		sourceColumn: pm_name
+
+		annotation SummarizationSetBy = User
+
+	partition Contracts = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="Contracts",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"contract_no", type text}, {"vendor_id", type text}, {"department", type text}, {"contract_type", type text}, {"contract_year", Int64.Type}, {"award_value", type number}, {"start_date", type date}, {"end_date", type date}, {"pm_name", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

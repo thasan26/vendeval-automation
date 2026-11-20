@@ -1,0 +1,40 @@
+table StatusHistory
+	lineageTag: d44460ac-551d-5aab-ba8f-c597caf45348
+
+	column eval_id
+		dataType: string
+		lineageTag: 584fe130-8500-5a67-a61b-e246b5147432
+		summarizeBy: none
+		sourceColumn: eval_id
+
+		annotation SummarizationSetBy = User
+
+	column status
+		dataType: string
+		lineageTag: b63751f9-12bc-5003-bcaf-82da8426e973
+		summarizeBy: none
+		sourceColumn: status
+
+		annotation SummarizationSetBy = User
+
+	column changed_date
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 34860d8c-0f3c-57e9-b3f7-215667f980fd
+		summarizeBy: none
+		sourceColumn: changed_date
+
+		annotation SummarizationSetBy = User
+
+	partition StatusHistory = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="StatusHistory",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"eval_id", type text}, {"status", type text}, {"changed_date", type date}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

@@ -1,0 +1,129 @@
+table _Measures
+	lineageTag: bd54181d-c2e4-5de1-9f14-2d1085d35f7a
+
+	measure 'Report Date' = MAX ( ReportInfo[as_of] )
+		formatString: dddd, mmmm d, yyyy
+		lineageTag: 77d3e404-d0d4-5cc3-bad1-53e1dd6cadee
+
+	measure 'Total Evaluations' = COUNTROWS ( Evaluations )
+		formatString: #,0
+		lineageTag: 05a7365b-e427-5baa-b4ac-fb52ba1451c0
+
+	measure Approved = CALCULATE ( [Total Evaluations], Evaluations[status] = "Approved" )
+		formatString: #,0
+		lineageTag: f7c7c6d7-10ae-5cf7-a433-9c49abb2787e
+
+	measure '% Complete' = DIVIDE ( [Approved], [Total Evaluations] )
+		formatString: 0%
+		lineageTag: fcac439d-4634-5ba0-b397-ce8a48923d1b
+
+	measure 'Open with PMs' = CALCULATE ( [Total Evaluations], Evaluations[status] IN { "Not Started", "Requested", "In Progress" } )
+		formatString: #,0
+		lineageTag: 9d42c740-45ec-5a25-92d5-a406761298bd
+
+	measure 'Awaiting Approval' = CALCULATE ( [Total Evaluations], Evaluations[status] = "Submitted" )
+		formatString: #,0
+		lineageTag: 9976c83b-6b8e-5ad2-b268-ae1df8986c19
+
+	measure 'Overdue with PMs' = CALCULATE ( COUNTROWS ( WorkQueue ), WorkQueue[lane] = "PM outreach", WorkQueue[days_overdue] > 0 )
+		formatString: #,0
+		lineageTag: 2e67a5fd-eb29-57ad-afa9-a8bc9f15bee2
+
+	measure '180+ Days Overdue' = CALCULATE ( COUNTROWS ( WorkQueue ), WorkQueue[escalation_tier] = 4 )
+		formatString: #,0
+		lineageTag: 78e62084-7090-5812-b8ea-29185ed93433
+
+	measure 'Avg Days Overdue' = CALCULATE ( AVERAGE ( WorkQueue[days_overdue] ), WorkQueue[days_overdue] > 0 )
+		formatString: #,0
+		lineageTag: 6ce6f17c-9776-5ce3-90d3-22bb11aae1f7
+
+	measure 'Open Items' = COUNTROWS ( WorkQueue )
+		formatString: #,0
+		lineageTag: bcb00d57-f7e4-53d6-ba8c-7523574a73d7
+
+	measure 'Stalled Items' = CALCULATE ( COUNTROWS ( WorkQueue ), WorkQueue[stalled] = "Yes" )
+		formatString: #,0
+		lineageTag: e1c239ee-1965-5e9a-a96a-5c4213e0cb11
+
+	measure 'Reassigned Items' = CALCULATE ( COUNTROWS ( WorkQueue ), WorkQueue[reassigned] = "Yes" )
+		formatString: #,0
+		lineageTag: fcc1ec5e-b840-5744-91c8-8217b39f406d
+
+	measure 'Vendors Bidding with Open Evals' = CALCULATE ( DISTINCTCOUNT ( WorkQueue[vendor_id] ), WorkQueue[vendor_bidding] = "Yes" )
+		formatString: #,0
+		lineageTag: a217512a-47bc-5bb8-ac25-266ba29ce0ef
+
+	measure Approvals = CALCULATE ( COUNTROWS ( StatusHistory ), StatusHistory[status] = "Approved" )
+		formatString: #,0
+		lineageTag: 63afca8b-808a-51b9-afbc-df03679f1da4
+
+	measure 'Approved This Week' =
+			VAR d = [Report Date]
+			RETURN CALCULATE ( [Approvals], StatusHistory[changed_date] > d - 7, StatusHistory[changed_date] <= d )
+		formatString: #,0
+		lineageTag: bd8b6506-81ee-5b38-9884-0056b70cccec
+
+	measure 'Approved Last Week' =
+			VAR d = [Report Date]
+			RETURN CALCULATE ( [Approvals], StatusHistory[changed_date] > d - 14, StatusHistory[changed_date] <= d - 7 )
+		formatString: #,0
+		lineageTag: 6c8c3d6f-3b19-5df0-ab4c-84eed471c3d0
+
+	measure 'WoW Change' = [Approved This Week] - [Approved Last Week]
+		formatString: #,0
+		lineageTag: 53ba47cf-51d2-56a7-95a9-387c1d2948e0
+
+	measure 'WoW Label' =
+			VAR c = [WoW Change]
+			RETURN IF ( c > 0, "▲ ", IF ( c < 0, "▼ ", "■ " ) ) & ABS ( c ) & " vs last week"
+		lineageTag: 7564a6d0-d705-542b-af3c-79f51d432ac8
+
+	measure 'Weekly Pace (4-wk avg)' =
+			VAR d = [Report Date]
+			RETURN DIVIDE ( CALCULATE ( [Approvals], StatusHistory[changed_date] > d - 28, StatusHistory[changed_date] <= d ), 4 )
+		formatString: #,0.0
+		lineageTag: 3ae1f9fa-2f8a-5487-97b7-e0f86b90a9b3
+
+	measure 'Weeks to Clear Backlog' = DIVIDE ( [Open Items], [Weekly Pace (4-wk avg)] )
+		formatString: #,0
+		lineageTag: a3f08f99-b5a6-5559-8e89-6f3209018886
+
+	measure 'QA Pass Rate' = DIVIDE ( CALCULATE ( COUNTROWS ( QAChecks ), QAChecks[result] = "Pass" ), COUNTROWS ( QAChecks ) )
+		formatString: 0%
+		lineageTag: 241adcfd-dab4-59c0-9eab-54d29356c86b
+
+	measure 'QA Status Text' =
+			IF ( [QA Pass Rate] = 1,
+			"✓ All " & COUNTROWS ( QAChecks ) & " data-quality checks passed — cleared to publish",
+			"✕ Data-quality checks failed — do not publish" )
+		lineageTag: 78db7f6a-c85a-520d-89ff-380a5cf7714a
+
+	measure 'Report Subtitle' = "Week ending " & FORMAT ( [Report Date], "dddd, mmmm d, yyyy" ) & " · Access + Excel + Archer · synthetic data"
+		lineageTag: 646bc2b2-9325-5153-8303-b9287dacbc8e
+
+	measure 'Approvals (Last 12 Weeks)' = CALCULATE ( [Approvals], KEEPFILTERS ( 'Calendar'[weeks_ago] >= 0 && 'Calendar'[weeks_ago] <= 11 ) )
+		formatString: #,0
+		lineageTag: 423394d1-8657-5acb-8e01-ba97e75d25f7
+
+	measure 'PM Outreach Items' = CALCULATE ( [Open Items], WorkQueue[lane] = "PM outreach" )
+		formatString: #,0
+		lineageTag: a5822a8a-1832-5c07-9218-af46567abc08
+
+	column Placeholder
+		dataType: string
+		isHidden
+		lineageTag: c26d4c33-c493-5cbc-a93a-ccde719f9f4d
+		summarizeBy: none
+		sourceColumn: Placeholder
+
+		annotation SummarizationSetBy = Automatic
+
+	partition _Measures = m
+		mode: import
+		source =
+				let
+				    Source = #table(type table [Placeholder = text], {})
+				in
+				    Source
+
+	annotation PBI_ResultType = Table

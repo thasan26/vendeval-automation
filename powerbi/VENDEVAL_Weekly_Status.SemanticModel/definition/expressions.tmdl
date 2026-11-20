@@ -1,0 +1,4 @@
+expression DataFileUrl = "https://raw.githubusercontent.com/thasan26/vendeval-automation/main/powerbi/VENDEVAL_PowerBI_Data.xlsx" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+	lineageTag: a5055c0f-3973-5009-9159-8925a069801b
+
+	annotation PBI_ResultType = Text

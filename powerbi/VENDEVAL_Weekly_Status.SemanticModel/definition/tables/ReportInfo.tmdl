@@ -1,0 +1,32 @@
+table ReportInfo
+	lineageTag: e0b38274-324f-59ce-894d-5e261226a74f
+
+	column as_of
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: 0c86f9d1-5dc1-5dd6-b2dd-fb5e781cc644
+		summarizeBy: none
+		sourceColumn: as_of
+
+		annotation SummarizationSetBy = User
+
+	column report_title
+		dataType: string
+		lineageTag: 695a6bc0-a346-5bbe-bb78-2bbcb2402954
+		summarizeBy: none
+		sourceColumn: report_title
+
+		annotation SummarizationSetBy = User
+
+	partition ReportInfo = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="ReportInfo",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"as_of", type date}, {"report_title", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

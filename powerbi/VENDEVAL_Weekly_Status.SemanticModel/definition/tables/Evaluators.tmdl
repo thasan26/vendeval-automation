@@ -1,0 +1,55 @@
+table Evaluators
+	lineageTag: 1976f52b-32b5-58a6-a359-a1c07c147e5b
+
+	column evaluator_id
+		dataType: string
+		lineageTag: 150df116-88c5-5a68-88f0-2a089366979c
+		summarizeBy: none
+		sourceColumn: evaluator_id
+
+		annotation SummarizationSetBy = User
+
+	column evaluator_name
+		dataType: string
+		lineageTag: 78cdd131-68f4-536e-b2e7-ece2dbbda3d5
+		summarizeBy: none
+		sourceColumn: evaluator_name
+
+		annotation SummarizationSetBy = User
+
+	column department
+		dataType: string
+		lineageTag: d65bfe1f-3ec4-54f5-9d90-83edb9864678
+		summarizeBy: none
+		sourceColumn: department
+
+		annotation SummarizationSetBy = User
+
+	column role
+		dataType: string
+		lineageTag: 8d28ed34-746b-5013-b238-b3e1aee23904
+		summarizeBy: none
+		sourceColumn: role
+
+		annotation SummarizationSetBy = User
+
+	column status
+		dataType: string
+		lineageTag: 86dc8d95-5d03-5c68-a815-93f6d880a670
+		summarizeBy: none
+		sourceColumn: status
+
+		annotation SummarizationSetBy = User
+
+	partition Evaluators = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="Evaluators",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"evaluator_id", type text}, {"evaluator_name", type text}, {"department", type text}, {"role", type text}, {"status", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

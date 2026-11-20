@@ -1,0 +1,23 @@
+relationship 81300b0a-ef4c-510a-b62d-1117ac7578aa
+	fromColumn: Evaluations.contract_no
+	toColumn: Contracts.contract_no
+
+relationship bc9bb464-adc3-5ed2-a7f5-03a42021bfd5
+	fromColumn: Contracts.vendor_id
+	toColumn: Vendors.vendor_id
+
+relationship 76655934-232a-57d7-b3db-0465f602ecd3
+	fromColumn: WorkQueue.eval_id
+	toColumn: Evaluations.eval_id
+
+relationship 1a143a73-e99f-5822-8923-66f1e7feed63
+	fromColumn: WorkQueue.assigned_to
+	toColumn: Evaluators.evaluator_id
+
+relationship 71f6e005-8265-54f3-a033-1f3214c16c32
+	fromColumn: StatusHistory.eval_id
+	toColumn: Evaluations.eval_id
+
+relationship 5b174b1b-544b-5516-a298-ddf292a3d13d
+	fromColumn: StatusHistory.changed_date
+	toColumn: Calendar.date

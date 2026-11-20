@@ -1,0 +1,39 @@
+table QAChecks
+	lineageTag: e9c63ed0-5630-5b6b-a4d8-c5efed14c588
+
+	column result
+		dataType: string
+		lineageTag: e63bff2b-4c9d-5a59-9a3e-ea840a8bbfdb
+		summarizeBy: none
+		sourceColumn: result
+
+		annotation SummarizationSetBy = User
+
+	column check
+		dataType: string
+		lineageTag: e03290a5-cad4-503f-90dd-d4d9a5b6b9ed
+		summarizeBy: none
+		sourceColumn: check
+
+		annotation SummarizationSetBy = User
+
+	column detail
+		dataType: string
+		lineageTag: 867f6ae9-fc1f-5c23-9c1e-0181fa0c347a
+		summarizeBy: none
+		sourceColumn: detail
+
+		annotation SummarizationSetBy = User
+
+	partition QAChecks = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="QAChecks",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"result", type text}, {"check", type text}, {"detail", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

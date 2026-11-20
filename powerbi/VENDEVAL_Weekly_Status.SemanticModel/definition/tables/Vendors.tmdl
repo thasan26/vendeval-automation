@@ -1,0 +1,39 @@
+table Vendors
+	lineageTag: e144d1ac-5f17-5a5a-b0b1-a3b4a8948d01
+
+	column vendor_id
+		dataType: string
+		lineageTag: 68a05cd5-74ca-5d5e-bea6-df0e75e8bce3
+		summarizeBy: none
+		sourceColumn: vendor_id
+
+		annotation SummarizationSetBy = User
+
+	column vendor_name
+		dataType: string
+		lineageTag: 18f0af8e-a66f-50d0-a696-c368b132b73a
+		summarizeBy: none
+		sourceColumn: vendor_name
+
+		annotation SummarizationSetBy = User
+
+	column vendor_category
+		dataType: string
+		lineageTag: 8db394dd-39b1-58eb-9b80-d80536647e3c
+		summarizeBy: none
+		sourceColumn: vendor_category
+
+		annotation SummarizationSetBy = User
+
+	partition Vendors = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="Vendors",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"vendor_id", type text}, {"vendor_name", type text}, {"vendor_category", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "VENDEVAL_Weekly_Status"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c0d05160-4162-5404-9c88-d9a5ac39b528"
+  }
+}

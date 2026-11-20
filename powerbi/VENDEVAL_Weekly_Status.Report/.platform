@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "VENDEVAL_Weekly_Status"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5973b676-43cd-509c-bf21-7d0a37312643"
+  }
+}

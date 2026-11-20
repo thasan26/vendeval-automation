@@ -1,0 +1,69 @@
+table Calendar
+	lineageTag: f893bc50-58a6-5365-b621-e1130fbd4692
+	dataCategory: Time
+
+	column date
+		dataType: dateTime
+		isKey
+		formatString: mm/dd/yyyy
+		lineageTag: 337428c2-4f58-53de-ad8a-4ef2f63197f6
+		summarizeBy: none
+		sourceColumn: date
+
+		annotation SummarizationSetBy = User
+
+	column week_ending
+		dataType: dateTime
+		formatString: mm/dd/yyyy
+		lineageTag: daff9654-323a-541d-8ec2-f10c6705f7a0
+		summarizeBy: none
+		sourceColumn: week_ending
+
+		annotation SummarizationSetBy = User
+
+	column week_label
+		dataType: string
+		lineageTag: 58753314-4c72-5d8f-ab5d-def598644cfb
+		summarizeBy: none
+		sourceColumn: week_label
+
+		annotation SummarizationSetBy = User
+
+	column weeks_ago
+		dataType: int64
+		formatString: 0
+		lineageTag: e4d22eac-4e50-59d7-bc56-db22721649d4
+		summarizeBy: none
+		sourceColumn: weeks_ago
+
+		annotation SummarizationSetBy = User
+
+	column year
+		dataType: int64
+		formatString: 0
+		lineageTag: ccb2f446-dd07-5709-9613-0a8db1738acf
+		summarizeBy: none
+		sourceColumn: year
+
+		annotation SummarizationSetBy = User
+
+	column month
+		dataType: string
+		lineageTag: b1e602e0-287a-5e94-84dd-a82c7a0f6782
+		summarizeBy: none
+		sourceColumn: month
+
+		annotation SummarizationSetBy = User
+
+	partition Calendar = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(Web.Contents(DataFileUrl), null, true),
+				    Sheet = Source{[Item="Calendar",Kind="Sheet"]}[Data],
+				    Promoted = Table.PromoteHeaders(Sheet, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Promoted, {{"date", type date}, {"week_ending", type date}, {"week_label", type text}, {"weeks_ago", Int64.Type}, {"year", Int64.Type}, {"month", type text}})
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table
